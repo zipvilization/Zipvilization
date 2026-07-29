@@ -4,151 +4,182 @@ title: Documentation
 nav_order: 2
 has_children: true
 permalink: /docs/
-description: Canonical documentation for Zipvilization, including its vision, project foundations, Solum contract, interpretation tools, world model, visual layer, chapters and technical translations.
+description: Canonical documentation of Zipvilization. Explore the technical layers, translation layer, project canon, chapters, vision and team through the project's auditable source of truth.
 ---
 
-# Documentation
+# 📚 Docs — Canonical Documentation (Zipvilization)
 
-This is the canonical documentation of Zipvilization.
+GitHub is the **technical, canonical truth layer** of Zipvilization.
 
-The repository is the project's public truth layer. It defines the rules, constraints, interpretations and technical relationships that make Zipvilization auditable by both humans and AI systems.
+- Everything here is written to be **auditable** (by humans and by AI).
+- Nothing here is “marketing”.
+- If something is not described in the repo (or not deployed on-chain), it **does not exist operationally**.
 
-The documentation is organized by responsibility. Each section describes a distinct layer of the system and links directly to the files that define it.
-
----
-
-## Vision
-
-The conceptual foundation of Zipvilization: an experiment in whether immutable rules, real economic activity and time can produce a readable world and an emergent civilization.
-
-- [Vision](vision.md)
+Other channels (web / Medium / X) may explain the same ideas with a more accessible tone,
+but **this folder is the source of truth**.
 
 ---
 
-## Project
+## 🧭 How to Read These Docs
 
-The foundational posture of the project: its origin, launch conditions, assumptions, communication principles, security model and long-term guarantees.
+Zipvilization has two simultaneous needs:
 
-- [Project overview](project/)
-- [Assumptions](project/ASSUMPTIONS.md)
-- [Communication](project/COMMUNICATION.md)
-- [Early Access](project/EARLY_ACCESS.md)
-- [Lore: Genesis](project/LORE_GENESIS.md)
-- [Post-launch guarantees](project/POST_LAUNCH_GUARANTEES.md)
-- [Security](project/SECURITY.md)
-- [Token launch](project/TOKEN_LAUNCH.md)
-- [Treasury](project/TREASURY.md)
+1. **Technical correctness** (immutable rules, derivations, constraints)
+2. **Readable meaning** (what users will actually see in the interface)
+
+For that reason, docs are split into:
+
+- **technical layers** (how the system works)
+- **translation layers** (how the system becomes a world in the frontend)
 
 ---
 
-## Solum
+## 🧱 The Technical Layers (Truth Layer)
 
-The immutable on-chain substrate of Zipvilization.
+These folders describe *what exists* and *how it is derived*.
 
-Solum defines fixed supply, contract constraints, transaction rules and the mechanical reality from which the rest of the system is derived.
+### 🔒 [`solum/`](solum/)
 
-- [Solum overview](solum/)
-- [Canonical contract specification](solum/CONTRACT_SPEC.md)
+The on-chain substrate.
+The immutable token contract layer, constraints, and mechanical reality.
 
----
+→ Read if you want the rules.
 
-## Solumtools
+**Documents**
 
-The interpretation layer between raw blockchain data and readable system signals.
-
-Solumtools defines how public on-chain inputs are collected, normalized and transformed into deterministic outputs for SolumWorld and SolumView.
-
-- [Solumtools overview](solumtools/)
-- [Canonical rules](solumtools/CANON.md)
-- [Input contracts](solumtools/INPUT_CONTRACTS.md)
-- [Output schemas](solumtools/OUTPUT_SCHEMAS.md)
-- [Processing pipeline](solumtools/PROCESSING_PIPELINE.md)
-- [Tools specification](solumtools/TOOLS_SPEC.md)
-- [AI onboarding](solumtools/AI_ONBOARDING.md)
+- [Overview](solum/)
+- [Canonical Contract Specification](solum/CONTRACT_SPEC.md)
 
 ---
 
-## SolumWorld
+### 🛠️ [`solumtools/`](solumtools/)
 
-The canonical world-coherence layer.
+The interpretation tool layer.
 
-SolumWorld defines how on-chain signals become territory, state, history, evolution and a consistent world model without modifying the underlying blockchain reality.
+Defines **how to read on-chain data**, compute signals, and produce consistent outputs.
 
-- [SolumWorld overview](solumworld/)
-- [World specification](solumworld/WORLD_SPEC.md)
-- [Data model](solumworld/DATA_MODEL.md)
-- [State model](solumworld/STATE_MODEL.md)
-- [Evolution mode](solumworld/EVOLUTION_MODE.md)
-- [Implementation pipeline](solumworld/IMPLEMENTATION_PIPELINE.md)
-- [Zoom rules](solumworld/ZOOM_RULES.md)
-- [AI onboarding](solumworld/AI_ONBOARDING.md)
+→ Read if you want verifiable metrics and schemas.
 
-### State
+**Documents**
 
-The state documents define what SolumWorld is allowed to be, how valid states are reached and how consistency is preserved over time.
-
-- [State overview](solumworld/state/)
-- [State history](solumworld/state/STATE_HISTORY.md)
-- [State invariants](solumworld/state/STATE_INVARIANTS.md)
-- [State transitions](solumworld/state/STATE_TRANSITIONS.md)
-- [State validation](solumworld/state/STATE_VALIDATION.md)
-- [State rollback](solumworld/state/STATE_ROLLBACK.md)
+- [Overview](solumtools/)
+- [Canon](solumtools/CANON.md)
+- [Input Contracts](solumtools/INPUT_CONTRACTS.md)
+- [Output Schemas](solumtools/OUTPUT_SCHEMAS.md)
+- [Processing Pipeline](solumtools/PROCESSING_PIPELINE.md)
+- [Tools Specification](solumtools/TOOLS_SPEC.md)
+- [AI Onboarding](solumtools/AI_ONBOARDING.md)
 
 ---
 
-## SolumView
+### 🌍 [`solumworld/`](solumworld/)
 
-The deterministic visual layer of Zipvilization.
+The world coherence layer.
 
-SolumView converts canonical SolumWorld state into an auditable interface. It defines rendering, zoom behavior, visual semantics, wallet perspectives and UI requirements.
+Defines zoom structure, evolution rules, state model, invariants, and transitions.
 
-- [SolumView overview](solumview/)
-- [Canonical rendering pipeline](solumview/PIPELINE_CANON.md)
-- [Zoom mapping](solumview/ZOOM_MAPPING.md)
-- [UI contract](solumview/UI_CONTRACT.md)
-- [Icons contract](solumview/ICONS_CONTRACT.md)
-- [Visual determinism](solumview/VISUAL_DETERMINISM.md)
-- [Wallet mode](solumview/WALLET_MODE.md)
-- [AI onboarding](solumview/AI_ONBOARDING.md)
+→ Read if you want the “world logic” that sits above raw metrics.
 
----
+**Documents**
 
-## Zipvilization
+- [Overview](solumworld/)
+- [World Specification](solumworld/WORLD_SPEC.md)
+- [Data Model](solumworld/DATA_MODEL.md)
+- [State Model](solumworld/STATE_MODEL.md)
+- [Evolution Mode](solumworld/EVOLUTION_MODE.md)
+- [Implementation Pipeline](solumworld/IMPLEMENTATION_PIPELINE.md)
+- [Zoom Rules](solumworld/ZOOM_RULES.md)
+- [AI Onboarding](solumworld/AI_ONBOARDING.md)
 
-The user-facing translation layer.
+**State**
 
-These documents explain how Solum, Solumtools, SolumWorld and SolumView appear in the frontend as territory, colonists, history, population and readable civilization.
-
-- [Zipvilization overview](zipvilization/)
-- [Solum translation](zipvilization/SOLUM_TRANSLATION.md)
-- [Solumtools translation](zipvilization/SOLUMTOOLS_TRANSLATION.md)
-- [SolumWorld translation](zipvilization/SOLUMWORLD_TRANSLATION.md)
-- [SolumView translation](zipvilization/SOLUMVIEW_TRANSLATION.md)
-
-### Territories
-
-Rules describing how territory is formed, consolidated and interpreted.
-
-- [Territory consolidation rules](zipvilization/territories/TERRITORY_CONSOLIDATION_RULES.md)
-- [ZIP territories and colonist roles](zipvilization/territories/ZIP_TERRITORIES_AND_COLONIST_ROLES.md)
-
-### ZIPs
-
-The biological and population interpretation of ZIP entities inside the readable world.
-
-- [ZIP biology](zipvilization/zips/ZIP_BIOLOGY.md)
-- [ZIP biology timing](zipvilization/zips/ZIP_BIOLOGY_TIMING.md)
-- [ZIP territory and population](zipvilization/zips/ZIP_TERRITORY_AND_POPULATION.md)
+- [Overview](solumworld/state/)
+- [State History](solumworld/state/STATE_HISTORY.md)
+- [State Invariants](solumworld/state/STATE_INVARIANTS.md)
+- [State Transitions](solumworld/state/STATE_TRANSITIONS.md)
+- [State Validation](solumworld/state/STATE_VALIDATION.md)
+- [State Rollback](solumworld/state/STATE_ROLLBACK.md)
 
 ---
 
-## Chapters
+### 👁️ [`solumview/`](solumview/)
 
-Zipvilization evolves through sequential chapters.
+The visual/UX expression layer.
 
-Each chapter represents a coherent system state and a publicly readable stage of technical, conceptual and social maturity.
+Defines how the world becomes a deterministic, consistent interface: zoom behavior, wallet mode, UI determinism.
 
-- [Chapters overview](chapters/)
+→ Read if you want what the user will actually experience.
+
+**Documents**
+
+- [Overview](solumview/)
+- [Pipeline Canon](solumview/PIPELINE_CANON.md)
+- [Zoom Mapping](solumview/ZOOM_MAPPING.md)
+- [UI Contract](solumview/UI_CONTRACT.md)
+- [Icons Contract](solumview/ICONS_CONTRACT.md)
+- [Visual Determinism](solumview/VISUAL_DETERMINISM.md)
+- [Wallet Mode](solumview/WALLET_MODE.md)
+- [AI Onboarding](solumview/AI_ONBOARDING.md)
+
+---
+
+## 🪞 The Translation Layer (User-Facing Meaning)
+
+### 🎛️ [`zipvilization/`](zipvilization/)
+
+This folder is the “mirror”.
+
+It translates the technical layers into **what the user sees and understands** in the frontend.
+
+It answers:
+
+- What does a user see?
+- What options exist?
+- What does each code / metric represent in the interface?
+- How do Solum/Solumtools/Solumworld/Solumview map into UX?
+
+This is not lore or narrative.
+
+It is **technical translation**.
+
+**Documents**
+
+- [Overview](zipvilization/)
+- [Solum Translation](zipvilization/SOLUM_TRANSLATION.md)
+- [SolumTools Translation](zipvilization/SOLUMTOOLS_TRANSLATION.md)
+- [SolumWorld Translation](zipvilization/SOLUMWORLD_TRANSLATION.md)
+- [SolumView Translation](zipvilization/SOLUMVIEW_TRANSLATION.md)
+
+**Territories**
+
+- [Territory Consolidation Rules](zipvilization/territories/TERRITORY_CONSOLIDATION_RULES.md)
+- [ZIP Territories and Colonist Roles](zipvilization/territories/ZIP_TERRITORIES_AND_COLONIST_ROLES.md)
+
+**ZIPs**
+
+- [ZIP Biology](zipvilization/zips/ZIP_BIOLOGY.md)
+- [ZIP Biology Timing](zipvilization/zips/ZIP_BIOLOGY_TIMING.md)
+- [ZIP Territory and Population](zipvilization/zips/ZIP_TERRITORY_AND_POPULATION.md)
+
+---
+
+## 🧩 Roadmap as Chapters
+
+### 📖 [`chapters/`](chapters/)
+
+Zipvilization is built in chapters, not as a single launch of everything at once.
+
+This folder defines:
+
+- what is included in each chapter
+- what is intentionally see-through / incomplete early
+- what becomes possible only once previous chapters are stable
+
+Chapter 5 is the horizon expansion: once Zipvilization is real, the system becomes open-ended without losing essence.
+
+**Documents**
+
+- [Overview](chapters/)
 - [Chapter 0 — Genesis](chapters/CHAPTER_0_GENESIS.md)
 - [Chapter 1 — Observability](chapters/CHAPTER_1_OBSERVABILITY.md)
 - [Chapter 2 — Territory](chapters/CHAPTER_2_TERRITORY.md)
@@ -158,33 +189,93 @@ Each chapter represents a coherent system state and a publicly readable stage of
 
 ---
 
-## Team
+## 🧑‍🚀 Project Canon (Non-technical but still canonical)
 
-Zipvilization is sustained by a structural trinomio: the human factor, the cognitive engine and the Horizon.
+### 🗂️ [`project/`](project/)
 
-These documents define the role and limits of each element.
+Project-level canonical docs that must stay stable and auditable.
 
-- [Team overview](team/)
-- [Human factor](team/HUMAN.md)
-- [Cognitive engine](team/COGNITIVE.md)
+**Documents**
+
+- [Overview](project/)
+- [Assumptions](project/ASSUMPTIONS.md)
+- [Communication](project/COMMUNICATION.md)
+- [Early Access](project/EARLY_ACCESS.md)
+- [Lore / Genesis](project/LORE_GENESIS.md)
+- [Post-launch Guarantees](project/POST_LAUNCH_GUARANTEES.md)
+- [Security](project/SECURITY.md)
+- [Token Launch](project/TOKEN_LAUNCH.md)
+- [Treasury](project/TREASURY.md)
+
+These documents are still the **truth layer**:
+they define constraints and intent, not hype.
+
+---
+
+## 🧬 The Team (Trinomio)
+
+### 🧠 [`team/`](team/)
+
+Zipvilization is not built like a conventional crypto project.
+
+The team is the trinomio:
+
+- **Human Factor** (anonymous, non-protagonist)
+- **Cognitive Engine (AI)** (aligned execution + development capacity)
+- **Horizon** (immutable direction, open-ended after Chapter 5)
+
+No ego. No face. No personality cult.
+
+The protagonist is Zipvilization.
+
+**Documents**
+
+- [Overview](team/)
+- [Human Factor](team/HUMAN.md)
+- [Cognitive Engine](team/COGNITIVE.md)
 - [Horizon](team/HORIZON.md)
 
 ---
 
-## Canonical reading order
+## 🌱 Vision (High-level Framing)
 
-A first reading of the project can follow this sequence:
+### [`vision.md`](vision.md)
 
-1. [Vision](vision.md)
-2. [Project](project/)
-3. [Solum](solum/)
-4. [Solumtools](solumtools/)
-5. [SolumWorld](solumworld/)
-6. [SolumView](solumview/)
-7. [Zipvilization](zipvilization/)
-8. [Chapters](chapters/)
-9. [Team](team/)
+One-page orientation: what Zipvilization is, why it exists, what it tries to observe.
 
-The documentation should be read as one connected system:
+---
 
-**Solum defines reality. Solumtools reads it. SolumWorld structures it. SolumView renders it. Zipvilization makes it understandable.**
+# ✅ Recommended Reading Paths
+
+## Path A — Technical Audit (most strict)
+
+1. [`solum/`](solum/)
+2. [`solumtools/`](solumtools/)
+3. [`solumworld/`](solumworld/)
+4. [`solumview/`](solumview/)
+
+---
+
+## Path B — What Will Users See?
+
+1. [`zipvilization/`](zipvilization/)
+2. [`solumview/`](solumview/)
+3. [`solumworld/`](solumworld/)
+
+---
+
+## Path C — Project Understanding (Canonical Intent)
+
+1. [`project/`](project/)
+2. [`chapters/`](chapters/)
+3. [`team/`](team/)
+
+---
+
+## ⚠️ Canon Rule
+
+If a rule is not written in the repository,
+and not enforceable by the deployed contract(s),
+it does not exist.
+
+This folder is where Zipvilization stays coherent.
