@@ -13,51 +13,104 @@
     {% endif %}
   </title>
 
-  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta
+    name="description"
+    content="{{ page.description | default: site.description }}"
+  >
 
   {% seo %}
 
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link
+    rel="stylesheet"
+    href="{{ '/assets/css/style.css' | relative_url }}"
+  >
 </head>
 
 <body>
 
-<header class="site-header">
-  <div class="container">
+  <header class="site-header">
+    <div class="site-header__inner">
 
-    <a class="site-title" href="{{ '/' | relative_url }}">
-      {{ site.title }}
-    </a>
+      <a class="site-brand" href="{{ '/' | relative_url }}">
+        <span class="site-brand__mark" aria-hidden="true">Z</span>
 
-    <nav class="site-nav">
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="/docs/">Docs</a>
-      <a href="/code/">Code</a>
-      <a href="https://github.com/zipvilization/Zipvilization">GitHub</a>
-    </nav>
+        <span class="site-brand__text">
+          <span class="site-brand__name">Zipvilization</span>
+          <span class="site-brand__tagline">On-chain civilization</span>
+        </span>
+      </a>
 
-  </div>
-</header>
+      <button
+        class="menu-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="site-navigation"
+        aria-label="Open navigation"
+      >
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
 
-<main class="container">
+      <nav
+        id="site-navigation"
+        class="site-nav"
+        aria-label="Main navigation"
+      >
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/docs/' | relative_url }}">Docs</a>
+        <a href="{{ '/code/' | relative_url }}">Code</a>
+        <a
+          href="https://github.com/zipvilization/Zipvilization"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GitHub
+        </a>
+      </nav>
 
-{{ content }}
+    </div>
+  </header>
 
-</main>
+  <main class="site-main">
+    {{ content }}
+  </main>
 
-<footer class="site-footer">
+  <footer class="site-footer">
+    <div class="site-footer__inner">
 
-  <div class="container">
+      <div>
+        <p class="site-footer__title">Zipvilization</p>
+        <p class="site-footer__text">
+          An open experiment in territory, identity and civilization.
+        </p>
+      </div>
 
-    <p>
-      © {{ "now" | date: "%Y" }}
-      Zipvilization.
-      Built with GitHub Pages and Jekyll.
-    </p>
+      <div class="site-footer__meta">
+        <a href="{{ '/docs/' | relative_url }}">Documentation</a>
+        <a href="https://github.com/zipvilization/Zipvilization">
+          Repository
+        </a>
+        <span>© {{ "now" | date: "%Y" }}</span>
+      </div>
 
-  </div>
+    </div>
+  </footer>
 
-</footer>
+  <script>
+    const menuToggle = document.querySelector(".menu-toggle");
+    const siteNavigation = document.querySelector(".site-nav");
+
+    if (menuToggle && siteNavigation) {
+      menuToggle.addEventListener("click", function () {
+        const isOpen =
+          menuToggle.getAttribute("aria-expanded") === "true";
+
+        menuToggle.setAttribute("aria-expanded", String(!isOpen));
+        siteNavigation.classList.toggle("site-nav--open");
+      });
+    }
+  </script>
 
 </body>
 </html>
