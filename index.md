@@ -2,7 +2,7 @@
 layout: home
 title: Home
 nav_order: 1
-description: An on-chain civilization experiment built from immutable rules, territory and shared history.
+description: Zipvilization is an on-chain civilization experiment built from immutable rules, observable activity, territory, time and shared interpretation.
 ---
 
 # 🌍 Zipvilization
@@ -10,325 +10,146 @@ description: An on-chain civilization experiment built from immutable rules, ter
 **Is it possible that a token, an immutable contract, and a set of fixed rules  
 can give rise to a readable world and a shared civilization?**
 
-Zipvilization is an experiment built on top of blockchain reality.
+Zipvilization is an experiment built entirely on blockchain reality.
 
-It does not deny speculation, trading, or investment.  
-It assumes them as the natural environment in which it exists.
+It does not replace markets, simulate economies or invent behavior.
 
-What Zipvilization does is **translate on-chain activity into a readable world**.
+Instead, it asks a simple question:
+
+> **Can a civilization emerge from immutable rules, observable activity and time alone?**
 
 ---
 
 ## 🧪 The Experiment
 
-Zipvilization explores a simple but open question:
+Zipvilization explores whether on-chain activity can be interpreted as something greater than financial data.
 
-Can real economic activity, governed only by immutable rules,
-be interpreted as territory, history, and collective evolution?
+There is no simulation layer.
 
-There is no simulation layer.  
-There is no artificial balance.  
+There is no artificial balance.
+
 There is no narrative imposed on behavior.
 
-Only contracts, transactions, and time.
+Only contracts, transactions and time.
+
+From that foundation, a readable **[world]({% link docs/solumworld/index.md %})** may emerge.
 
 ---
 
 ## 🌐 The Environment
 
-Zipvilization lives inside the blockchain.
+Zipvilization exists entirely inside the blockchain.
 
-That environment includes:
-- speculation
-- market cycles
-- short-term and long-term holders
-- capital entering and leaving the system
+Speculation, investment, volatility, liquidity and market cycles are not external influences.
 
-This is not judged or corrected.
+They are part of the environment itself.
 
-Without market activity, there is no data.  
-Without data, there is no Zipvilization.
+Without real **[activity]({% link docs/solumtools/index.md %})**, there is no observable data.
+
+Without observable data, there is no **[world]({% link docs/solumworld/index.md %})** to interpret.
 
 ---
 
 ## 🧱 From Data to World
 
-### Technical Layer
-- users
-- holders
-- tokens
-- transfers, burns, balances
+Every observable event can be understood through two complementary layers.
 
-### Zipvilization Layer
-- **users → colonists**
-- **tokens → territory**
-- **transfers → movement**
-- **time → history**
+| Blockchain Reality | Zipvilization Interpretation |
+|--------------------|------------------------------|
+| Users | Colonists |
+| Tokens | Territory |
+| Transfers | Movement |
+| Time | History |
 
-Nothing is changed.  
-Meaning is added through interpretation.
+Nothing on-chain is modified.
 
----
+Zipvilization only provides a coherent interpretation of immutable facts.
 
-## 🔒 The Solum Contract
+The transformation from observable data into a structured world is defined by **[SolumWorld]({% link docs/solumworld/index.md %})**.
 
-Zipvilization is built on top of an immutable on-chain substrate: **the Solum contract**.
-
-Solum is intentionally limited.
-
-It is not designed to adapt, optimize, or react to market conditions.  
-It does not try to protect price, guarantee outcomes, or guide behavior.
-
-Its purpose is different.
+Its interpretation as colonists, collective presence and civilization is defined by **[Zipvilization]({% link docs/zipvilization/index.md %})**.
 
 ---
 
-### ⚙️ What Solum Is
+## 📚 Documentation
 
-At the technical level, Solum is:
-- a fixed-supply token
-- governed by immutable rules
-- executed identically for every participant
+Zipvilization is divided into independent canonical domains.
 
-There is no governance layer.  
-There are no discretionary controls.
+Each section has a single responsibility and a defined place within the architecture of the project.
 
-If a rule is not present in the contract, it does not exist.
+| Section | Canonical responsibility |
+|---------|--------------------------|
+| **[🚀 Project]({% link docs/project/index.md %})** | Purpose, vision, assumptions, deployment and strategic direction. |
+| **[🌍 Solum]({% link docs/solum/index.md %})** | Immutable contract, foundational rules and economic substrate. |
+| **[🛠️ SolumTools]({% link docs/solumtools/index.md %})** | Observation, indexing and collection of on-chain data. |
+| **[🌎 SolumWorld]({% link docs/solumworld/index.md %})** | Territory, geography and interpretation of blockchain reality. |
+| **[🎨 SolumView]({% link docs/solumview/index.md %})** | Visualization of the observable world. |
+| **[🏛️ Zipvilization]({% link docs/zipvilization/index.md %})** | Colonists, civilization and collective evolution. |
+| **[📖 Chapters]({% link docs/chapters/index.md %})** | Chronological evolution of the experiment. |
+| **[👥 Team]({% link docs/team/index.md %})** | Responsibilities, stewardship and long-term continuity. |
 
-This rigidity is deliberate.
+Each concept has a single canonical location.
 
----
+The Home introduces the project.
 
-### 🛡️ What Solum Protects
+The **[Documentation]({% link docs/index.md %})** defines its structure.
 
-Solum protects the experiment by enforcing:
-
-- **Rule equality** — every participant operates under the same constraints
-- **Temporal coherence** — rules do not change as conditions evolve
-- **Data integrity** — what happens on-chain is final and observable
-- **Resistance to intervention** — no actor can rewrite the system once deployed
-
-This protection is not about value.  
-It is about trust in the substrate.
+The individual domains define their own concepts, rules and limits.
 
 ---
 
-### 🔄 The Role of Taxes
+## 📖 Repository Principles
 
-The Solum contract includes transfer taxes by design.
+This repository is the canonical definition of Zipvilization.
 
-These taxes are structural mechanisms,
-but they are also **explicit incentives**.
+It is designed to be:
 
-They shape behavior, reward participation,
-and provide resources for the system to evolve.
-
----
-
-### 🎯 Why Taxes Exist
-
-Zipvilization needs three things to exist over time:
-
-- continuity
-- participation
-- resources
-
-Taxes introduce friction, but also **direction**.
-
-They ensure that activity is not neutral,
-and that long-term presence is treated differently from short-term movement.
-
----
-
-### 🧮 What Taxes Do
-
-Depending on the type of action, taxes:
-- 🔥 reduce total supply (burn)
-- ♻️ redistribute value to holders (reflection)
-- 🌊 reinforce liquidity
-- 🏛️ fund the treasury
-
-These effects are automatic and rule-based.
-
-They reward those who remain,
-and they sustain the system that interprets the activity.
-
----
-
-### 🤝 Incentives & Alignment
-
-In Zipvilization:
-- holders are also **colonists**
-- holding territory is participation
-- time spent in the system matters
-
-Taxes explicitly reward long-term holders.
-Treasury growth funds development.
-
-As the treasury grows, Zipvilization can grow.
-
----
-
-### 🧠 Interpretation Layer
-
-Zipvilization does not optimize taxes.
-
-It interprets their consequences.
-
-Burn can be read as scarcity.  
-Redistribution as consolidation.  
-Treasury growth as potential.
-
-Meaning is not imposed.  
-It emerges from execution.
-
----
-
-## 🌄 Horizon
-
-Zipvilization exists because something meaningful *might* emerge.
-
-If activity grows, Zipvilization can evolve:
-- from raw data
-- to structured observation
-- to visible territory
-- to an interpretable world
-
-This is not a promise.  
-It is a possibility.
-
----
-
-## 🧬 Chapter 0 — Genesis
-
-Zipvilization is currently in **Chapter 0**.
-
-This means:
-- no canonical on-chain deployment
-- no final interface
-- code as experimentation
-- coherence over speed
-
-The experiment comes before execution.
-
----
-
-## 🚪 Early Access
-
-Early access exists to:
-- guarantee sufficient initial participation
-- avoid distortion during low-density phases
-- allow meaningful observation
-
-It does not guarantee profit.
-
----
-
-## 💻 Code
-
-This repository contains documentation and code.
-
-If something is not deployed, it does not exist operationally.
-
----
-
-## 📘 Canon & Source of Truth
-
-This repository is the **canonical definition** of Zipvilization.
-
-GitHub is not a presentation layer.  
-It is not an onboarding surface.  
-It is not narrative-driven.
-
-Everything contained here exists to **define**, not to persuade.
-
-### What GitHub Is
-
-- The **single source of truth** for Zipvilization
-- The place where rules, structures, and limits are defined
-- Fully auditable by humans and machines
-- Written to be read literally, not interpreted
-
-If something is not defined here, it does not exist.
-
-### What GitHub Is Not
-
-- It is not marketing
-- It is not storytelling
-- It is not optimized for engagement
-- It is not adapted to any specific audience profile
-
-Other channels may **translate** Zipvilization.  
-This repository **defines** it.
-
-### Interpretation Layers
-
-Any future communication layer (frontend, articles, social channels) must follow this order:
-
-1. **GitHub defines**
-2. Other layers interpret
-
-Never the reverse.
-
-If an interpretation contradicts this repository,  
-the repository is correct and the interpretation is wrong.
-
----
-
-## 🔍 Auditability
-
-All core concepts of Zipvilization are:
-
-- explicitly written
-- technically grounded
+- explicit
+- auditable
 - internally consistent
-- independently verifiable
+- machine-readable
+- human-readable
 
-This repository is designed to remain valid even if:
-- interfaces change
-- narratives evolve
-- external platforms disappear
+Every document exists to define a specific part of the project.
 
-Zipvilization does not depend on explanation.  
-It depends on definition.
+Every interpretation must originate from its canonical source.
 
----
-
-## 🧠 Why This Matters
-
-Zipvilization does not ask for belief.
-
-It allows inspection.
-
-Anyone can read the rules.  
-Anyone can verify the execution.  
-Anyone can disagree — but only after understanding what is actually defined.
-
-This is not a promise of outcome.  
-It is a commitment to coherence.
+If a concept is not defined inside this repository, it does not exist within Zipvilization.
 
 ---
 
-## 🔒 Final Rule
+## 🔍 Why This Matters
 
-> GitHub is the canonical layer.  
-> Everything else is a mirror.
+Zipvilization does not ask for trust.
 
----
+It allows verification.
 
-## ➡️ Moving Forward
+Every rule can be inspected.
 
-Zipvilization does not promise outcomes.
+Every definition can be traced.
 
-It builds the conditions to observe an answer.
+Every interpretation can be compared against its canonical source.
 
-If a civilization can emerge from contracts alone,
-Zipvilization will make it visible.
-
-If not, the experiment still stands.
+The structure is designed so that humans, search engines and artificial intelligence can navigate the project through clearly separated and explicitly connected domains of knowledge.
 
 ---
 
-Zipvilization is not built against the blockchain.
+## ➡️ Start Reading
 
-It is built **inside it**.
+The recommended reading order follows the architecture of the project:
+
+1. **[🚀 Project]({% link docs/project/index.md %})** — understand why Zipvilization exists.
+2. **[🌍 Solum]({% link docs/solum/index.md %})** — understand the immutable substrate.
+3. **[🛠️ SolumTools]({% link docs/solumtools/index.md %})** — understand how reality is observed.
+4. **[🌎 SolumWorld]({% link docs/solumworld/index.md %})** — understand how observation becomes territory and world.
+5. **[🎨 SolumView]({% link docs/solumview/index.md %})** — understand how the world becomes visible.
+6. **[🏛️ Zipvilization]({% link docs/zipvilization/index.md %})** — understand how colonists and civilization emerge.
+7. **[📖 Chapters]({% link docs/chapters/index.md %})** — understand how the experiment evolves through time.
+8. **[👥 Team]({% link docs/team/index.md %})** — understand how coherence is preserved.
+
+Together, these documents define the complete architecture of Zipvilization.
+
+---
+
+> **GitHub defines.  
+> Everything else interprets.**
