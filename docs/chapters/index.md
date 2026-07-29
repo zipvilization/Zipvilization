@@ -2,6 +2,7 @@
 layout: default
 title: Chapters
 parent: Documentation
+has_children: true
 nav_order: 8
 description: Canonical description of the chapter system of Zipvilization. Defines the public progression of the civilization through structural stages, without promises, deadlines or marketing milestones.
 ---
