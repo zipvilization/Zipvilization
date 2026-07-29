@@ -1,3 +1,12 @@
+---
+layout: default
+title: Shared
+parent: Code
+grand_parent: Documentation
+nav_order: 7
+permalink: /code/shared/
+---
+
 # Shared
 
 Purpose:
