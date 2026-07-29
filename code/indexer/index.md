@@ -1,3 +1,12 @@
+---
+layout: default
+title: Indexer
+parent: Code
+grand_parent: Documentation
+nav_order: 3
+permalink: /code/indexer/
+---
+
 # Indexer
 
 Purpose:
