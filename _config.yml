@@ -1,7 +1,7 @@
 title: Zipvilization
 tagline: "An on-chain civilization experiment"
 
-description: "Zipvilization is an open on-chain civilization experiment exploring territory, identity, rules, evolution and shared knowledge."
+description: "Zipvilization is an on-chain civilization experiment built from immutable rules, territory, identity and shared history."
 
 url: "https://zipvilization.com"
 baseurl: ""
@@ -29,38 +29,19 @@ social:
 
 color_scheme: light
 
-search_enabled: true
+search_enabled: false
 search_button_text: "Search"
 
 nav_enabled: true
 nav_sort: case_insensitive
 
 heading_anchors: true
+gh_edit_link: false
 
-gh_edit_link: true
-gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/zipvilization/Zipvilization"
-gh_edit_branch: "main"
-gh_edit_view_mode: "tree"
-
-aux_links:
-  "GitHub":
-    - "https://github.com/zipvilization/Zipvilization"
-
-aux_links_new_tab: true
+aux_links_new_tab: false
 
 toc:
   h2: "Contents"
 
 back_to_top: true
 back_to_top_text: "Back to top"
-
-footer_content: >
-  Zipvilization is an open documentation project.
-  Built with GitHub Pages and Jekyll.
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
