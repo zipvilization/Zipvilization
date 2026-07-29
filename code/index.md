@@ -4,7 +4,7 @@ title: Code
 parent: Documentation
 nav_order: 9
 has_children: true
-permalink: /docs/code/
+permalink: /code/
 description: Technical implementation of Zipvilization, including AI onboarding, architecture, deployment, indexing and shared components.
 ---
 
