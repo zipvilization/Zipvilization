@@ -2,6 +2,7 @@
 layout: default
 title: Project
 parent: Documentation
+has_children: true
 nav_order: 2
 description: Canonical project documentation defining the origin, launch conditions, governance, communication, assumptions and long-term intent of Zipvilization.
 ---
