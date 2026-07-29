@@ -1,3 +1,10 @@
+---
+layout: home
+title: Home
+nav_order: 1
+description: An on-chain civilization experiment built from immutable rules, territory and shared history.
+---
+
 # 🌍 Zipvilization
 
 **Is it possible that a token, an immutable contract, and a set of fixed rules  
