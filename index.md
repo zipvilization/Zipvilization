@@ -2,154 +2,120 @@
 layout: home
 title: Home
 nav_order: 1
-description: Zipvilization is an on-chain civilization experiment built from immutable rules, observable activity, territory, time and shared interpretation.
+description: Zipvilization is a blockchain civilization experiment where territory, time and immutable rules are used to explore whether a living digital civilization can emerge.
 ---
 
 # 🌍 Zipvilization
 
-**Is it possible that a token, an immutable contract, and a set of fixed rules  
-can give rise to a readable world and a shared civilization?**
+**A blockchain civilization experiment.**
 
-Zipvilization is an experiment built entirely on blockchain reality.
+Zipvilization explores a simple question:
 
-It does not replace markets, simulate economies or invent behavior.
+> **Can a civilization emerge from public, transparent and immutable rules?**
 
-Instead, it asks a simple question:
+We do not know the answer.
 
-> **Can a civilization emerge from immutable rules, observable activity and time alone?**
-
----
-
-## 🧪 The Experiment
-
-Zipvilization explores whether on-chain activity can be interpreted as something greater than financial data.
-
-There is no simulation layer.
-
-There is no artificial balance.
-
-There is no narrative imposed on behavior.
-
-Only contracts, transactions and time.
-
-From that foundation, a readable **[world]({% link docs/solumworld/index.md %})** may emerge.
+That is why Zipvilization exists.
 
 ---
 
-## 🌐 The Environment
+## What is Zipvilization?
 
-Zipvilization exists entirely inside the blockchain.
+Zipvilization is a digital world built on top of blockchain.
 
-Speculation, investment, volatility, liquidity and market cycles are not external influences.
+Its territory is represented by **Solum**.
 
-They are part of the environment itself.
+People who acquire territory become **Colonists**.
 
-Without real **[activity]({% link docs/solumtools/index.md %})**, there is no observable data.
+As time passes, territory matures, population appears and the civilization begins to evolve.
 
-Without observable data, there is no **[world]({% link docs/solumworld/index.md %})** to interpret.
+Every transaction changes the state of the world following deterministic and publicly verifiable rules.
 
----
+Nothing is simulated.
 
-## 🧱 From Data to World
-
-Every observable event can be understood through two complementary layers.
-
-| Blockchain Reality | Zipvilization Interpretation |
-|--------------------|------------------------------|
-| Users | Colonists |
-| Tokens | Territory |
-| Transfers | Movement |
-| Time | History |
-
-Nothing on-chain is modified.
-
-Zipvilization only provides a coherent interpretation of immutable facts.
-
-The transformation from observable data into a structured world is defined by **[SolumWorld]({% link docs/solumworld/index.md %})**.
-
-Its interpretation as colonists, collective presence and civilization is defined by **[Zipvilization]({% link docs/zipvilization/index.md %})**.
+Everything is interpreted from blockchain reality.
 
 ---
 
-## 📚 Documentation
+## Chapter 0 · Phase 0
 
-Zipvilization is divided into independent canonical domains.
+Today Zipvilization is in its very beginning.
 
-Each section has a single responsibility and a defined place within the architecture of the project.
+The objective is simple:
 
-| Section | Canonical responsibility |
-|---------|--------------------------|
-| **[🚀 Project]({% link docs/project/index.md %})** | Purpose, vision, assumptions, deployment and strategic direction. |
-| **[🌍 Solum]({% link docs/solum/index.md %})** | Immutable contract, foundational rules and economic substrate. |
-| **[🛠️ SolumTools]({% link docs/solumtools/index.md %})** | Observation, indexing and collection of on-chain data. |
-| **[🌎 SolumWorld]({% link docs/solumworld/index.md %})** | Territory, geography and interpretation of blockchain reality. |
-| **[🎨 SolumView]({% link docs/solumview/index.md %})** | Visualization of the observable world. |
-| **[🏛️ Zipvilization]({% link docs/zipvilization/index.md %})** | Colonists, civilization and collective evolution. |
-| **[📖 Chapters]({% link docs/chapters/index.md %})** | Chronological evolution of the experiment. |
-| **[👥 Team]({% link docs/team/index.md %})** | Responsibilities, stewardship and long-term continuity. |
+**Activate the experiment.**
 
-Each concept has a single canonical location.
+Before there can be cities, kingdoms or governance...
 
-The Home introduces the project.
+...there must be colonists.
 
-The **[Documentation]({% link docs/index.md %})** defines its structure.
-
-The individual domains define their own concepts, rules and limits.
+Phase 0 exists to create the first generation of participants capable of bringing the world to life.
 
 ---
 
-## 📖 Repository Principles
+## We are looking for Colonists
 
-This repository is the canonical definition of Zipvilization.
+Zipvilization does not need large investors.
 
-It is designed to be:
+It needs people willing to participate from the very beginning.
 
-- explicit
-- auditable
-- internally consistent
-- machine-readable
-- human-readable
+For this reason, the initial design intentionally limits territorial concentration and encourages broad participation.
 
-Every document exists to define a specific part of the project.
+The goal is not to create a world owned by a few.
 
-Every interpretation must originate from its canonical source.
-
-If a concept is not defined inside this repository, it does not exist within Zipvilization.
+The goal is to allow a civilization to begin.
 
 ---
 
-## 🔍 Why This Matters
+## What happens next?
 
-Zipvilization does not ask for trust.
+If Phase 0 succeeds...
 
-It allows verification.
+Zipvilization begins its history.
 
-Every rule can be inspected.
+New chapters will progressively expand the possibilities of the civilization.
 
-Every definition can be traced.
+We do not define every future chapter today.
 
-Every interpretation can be compared against its canonical source.
-
-The structure is designed so that humans, search engines and artificial intelligence can navigate the project through clearly separated and explicitly connected domains of knowledge.
+The purpose of the experiment is to discover how far a civilization can evolve once the initial conditions exist.
 
 ---
 
-## ➡️ Start Reading
+## Explore Zipvilization
 
-The recommended reading order follows the architecture of the project:
+If this is your first visit, these are the best places to begin:
 
-1. **[🚀 Project]({% link docs/project/index.md %})** — understand why Zipvilization exists.
-2. **[🌍 Solum]({% link docs/solum/index.md %})** — understand the immutable substrate.
-3. **[🛠️ SolumTools]({% link docs/solumtools/index.md %})** — understand how reality is observed.
-4. **[🌎 SolumWorld]({% link docs/solumworld/index.md %})** — understand how observation becomes territory and world.
-5. **[🎨 SolumView]({% link docs/solumview/index.md %})** — understand how the world becomes visible.
-6. **[🏛️ Zipvilization]({% link docs/zipvilization/index.md %})** — understand how colonists and civilization emerge.
-7. **[📖 Chapters]({% link docs/chapters/index.md %})** — understand how the experiment evolves through time.
-8. **[👥 Team]({% link docs/team/index.md %})** — understand how coherence is preserved.
-
-Together, these documents define the complete architecture of Zipvilization.
+- **The Experiment** — Why Zipvilization exists.
+- **The World** — Territory, time and civilization.
+- **Colonists** — Participation and early adoption.
+- **Repository** — Canonical documentation, architecture and technical implementation.
 
 ---
 
-> **GitHub defines.  
-> Everything else interprets.**
+## Repository
+
+This website explains Zipvilization.
+
+The **Repository** defines it.
+
+The Repository contains the canonical documentation, technical architecture and implementation of the project, and is intended for developers, auditors, researchers and AI systems that require the complete specification.
+
+---
+
+## An Open Experiment
+
+Zipvilization does not promise results.
+
+It proposes an experiment.
+
+If successful, the first beneficiaries will not be the creators.
+
+They will be the Colonists.
+
+Because every civilization belongs to the people who inhabit it.
+
+---
+
+**The experiment begins with a single question.**
+
+**The answer belongs to the future.**
