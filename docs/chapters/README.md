@@ -1,5 +1,4 @@
-# 📖 Zipvilization — Chapters
-
+# 📖 Zipvilization — Chapters  
 **Public progression, not a promise**
 
 ---
@@ -8,34 +7,30 @@
 
 This folder defines the **chapter system** of Zipvilization.
 
-Chapters are not marketing milestones.
-
+Chapters are not marketing milestones.  
 They are **structural stages** of the civilization.
 
 Each chapter represents a level of system maturity:
-
 - technically
 - conceptually
 - socially
 
 Nothing here is speculative.
-
 Nothing here is hidden.
 
 ---
 
-## What a "Chapter" Means in Zipvilization
+## What a “Chapter” Means in Zipvilization
 
 A chapter is:
 
 - a **coherent system state**
 - a **publicly readable progression point**
-- a **shared reference** for users, builders and observers
+- a **shared reference** for users, builders, and observers
 
 A chapter is **entered**, not launched.
 
 If a chapter is active, it means:
-
 - the required systems are live
 - the guarantees described are true
 - the previous chapters are already fulfilled
@@ -45,100 +40,95 @@ If a chapter is active, it means:
 ## What Chapters Are NOT
 
 Chapters are not:
-
 - deadlines
 - promises
 - feature drops
 - marketing phases
 
-Zipvilization does not "ship" chapters.
-
+Zipvilization does not “ship” chapters.
 It **reaches** them.
+
+---
+
+## Sequential and Non-Skippable
+
+Chapters are **strictly ordered**.
+
+You cannot jump to a later chapter without completing the previous ones.
+
+This is intentional:
+- complexity is cumulative
+- trust is cumulative
+- meaning is cumulative
+
+Each chapter depends on the guarantees of the ones before it.
 
 ---
 
 ## Overview of Chapters
 
-### ⚪ [Chapter 0 — Genesis](CHAPTER_0_GENESIS.md)
+### 🟢 Chapter 1 — Genesis
+The system exists.
 
-The system proves its existence.
+- Solum is deployed
+- the on-chain substrate is immutable
+- the world’s total potential is defined
 
-- Solum is deployed.
-- The on-chain substrate becomes immutable.
-- The civilization gains the right to exist.
-
-Nothing else can happen before Genesis.
-
----
-
-### 🟢 [Chapter 1 — Observability](CHAPTER_1_OBSERVABILITY.md)
-
-The system becomes publicly readable.
-
-- On-chain reality becomes observable.
-- Nothing is hidden.
-- Everything can be independently verified.
-
-Existence becomes transparent.
+Without Chapter 1, nothing else is possible.
 
 ---
 
-### 🟢 [Chapter 2 — Territory & World Formation](CHAPTER_2_TERRITORY_WORLD.md)
+### 🟢 Chapter 2 — World Formation
+The world becomes observable.
 
-The world gains structure.
+- territory has structure
+- the map exists
+- SolumWorld becomes coherent
 
-- Territory becomes meaningful.
-- Maps become coherent.
-- **[SolumWorld](../solumworld/)** represents the civilization.
-
-Reality gains space.
+This is where “land” stops being abstract.
 
 ---
 
-### 🟢 [Chapter 3 — Colonists & Roles](CHAPTER_3_COLONISTS_ROLES.md)
-
+### 🟢 Chapter 3 — Colonists
 Actors appear.
 
-- Wallets become colonists.
-- Behaviour becomes observable.
-- Roles emerge from actions.
+- wallets become colonists
+- behavior becomes classifiable
+- roles emerge from actions
 
-The world gains inhabitants.
-
----
-
-### 🟢 [Chapter 4 — Time, History & Evolution](CHAPTER_4_HISTORY_EVOLUTION.md)
-
-The world gains memory.
-
-- Historical states are preserved.
-- Evolution becomes visible.
-- Time becomes part of the civilization.
-
-Nothing meaningful can evolve without memory.
+The system gains population.
 
 ---
 
-### 🌌 [Chapter 5 — Emergence, Community & Open Horizon](CHAPTER_5_EMERGENCE.md)
+### 🟢 Chapter 4 — History
+Time becomes irreversible.
 
-The civilization becomes larger than its initial design.
+- past states are preserved
+- evolution is visible
+- memory is part of the system
 
-- Emergent behaviour appears.
-- Community becomes structurally relevant.
-- The future remains intentionally open.
+Zipvilization gains continuity.
 
-The civilization begins writing its own history.
+---
+
+### 🌌 Chapter 5 — Emergence & Open Horizon
+The system stops being fully designed.
+
+- cognition is mature
+- the human factor dilutes
+- the community becomes structurally relevant
+
+The future is no longer prescribed.
 
 ---
 
 ## Why Chapters Exist
 
-Chapters exist to solve one problem.
+Chapters exist to solve one problem:
 
 > How do you explain a living system without freezing it?
 
 The chapter system provides:
-
 - clarity without rigidity
 - progression without hype
 - openness without chaos
@@ -149,12 +139,11 @@ It allows Zipvilization to grow **in public**, without pretending to know its fi
 
 ## Relationship to the Rest of the Repository
 
-- **[Solum](../solum/)** defines **what cannot change**.
-- **[SolumTools](../solumtools/)** defines **what can be observed**.
-- **[SolumWorld](../solumworld/)** defines **what exists**.
-- **[SolumView](../solumview/)** defines **what is seen**.
-- **[Zipvilization](../zipvilization/)** explains **how those layers become a readable civilization**.
-- **Chapters** define **when each layer becomes observable, coherent and mature**.
+- `Solum` defines **what cannot change**
+- `Solumtools` defines **what can be observed**
+- `SolumWorld` defines **what exists**
+- `SolumView` defines **what is seen**
+- `chapters` define **when each layer becomes meaningful**
 
 This folder is the **temporal spine** of the project.
 
@@ -163,18 +152,16 @@ This folder is the **temporal spine** of the project.
 ## Reading Guidance
 
 If you are new:
-
-1. Read the chapters in order.
+1. Read chapters in order.
 2. Do not skip ahead.
-3. Read them as **states of maturity**, not promises of future development.
+3. Treat each chapter as a *state*, not a goal.
 
 If you are technical:
-
-- Chapters tell you **what must already be true**, never what *might* be built later.
+- chapters tell you **what must already be true**
+- never what *might* be built later
 
 If you are an observer:
-
-- Chapters tell you **where the civilization is now**.
+- chapters tell you **where the civilization is now**
 
 ---
 
@@ -183,9 +170,8 @@ If you are an observer:
 Zipvilization does not promise a destination.
 
 It promises:
-
 - consistency
 - continuity
-- the freedom to evolve without lying about it
+- and the freedom to evolve without lying about it
 
 Chapters are how that promise stays honest.

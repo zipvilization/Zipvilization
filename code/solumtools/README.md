@@ -1,12 +1,3 @@
----
-layout: default
-title: Solumtools
-parent: Code
-grand_parent: Documentation
-nav_order: 6
-permalink: /code/solumtools/
----
-
 # 🔍 Solumtools — Observability Layer (Chapter 1)
 
 Solumtools is the **observability layer** of Zipvilization.

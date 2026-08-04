@@ -1,12 +1,3 @@
----
-layout: default
-title: SolumView
-parent: Code
-grand_parent: Documentation
-nav_order: 8
-permalink: /code/solumview/
----
-
 # 🎨 SolumView — Visual Contracts
 
 **Deterministic world rendering · Read-only · Canonical**
