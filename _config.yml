@@ -45,3 +45,11 @@ toc:
 
 back_to_top: true
 back_to_top_text: "Back to top"
+
+# Exclude the complete technical repository from navigation
+defaults:
+  - scope:
+      path: "repository"
+      type: "pages"
+    values:
+      nav_exclude: true
