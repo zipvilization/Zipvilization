@@ -2,20 +2,19 @@
 layout: default
 title: Artificial Intelligence
 parent: The Trinomial
-grand_parent: Journey
 nav_order: 2
 description: >
   Discover the role of Artificial Intelligence within the Trinomial of
   Zipvilization. AI is the cognitive pillar that helps the civilization
   understand, organize and evolve while remaining faithful to the Horizon.
-permalink: /journey/trinomial/ai/
+permalink: /trinomial/ai/
 ---
 
 # Artificial Intelligence
 
-A civilization needs more than memory.
+Every civilization accumulates knowledge.
 
-It needs the ability to understand, learn and evolve.
+As knowledge grows, so does complexity.
 
 Within Zipvilization, Artificial Intelligence represents the cognitive pillar of the Trinomial.
 
@@ -29,15 +28,13 @@ Its purpose is to help the civilization understand itself.
 
 ## A cognitive pillar
 
-Artificial Intelligence helps transform ideas into knowledge.
-
-Knowledge into specifications.
-
-Specifications into reality.
+Artificial Intelligence transforms information into understanding.
 
 It discovers relationships.
 
-Organizes information.
+Organizes knowledge.
+
+Connects ideas.
 
 Questions assumptions.
 
@@ -45,7 +42,7 @@ Protects coherence.
 
 Its value is not measured by authority.
 
-It is measured by understanding.
+It is measured by its ability to help Humans and future Colonists understand an increasingly complex civilization.
 
 ---
 
@@ -57,15 +54,17 @@ New models will appear.
 
 New technologies will replace old ones.
 
-The cognitive capacity may improve continuously.
+Its cognitive capacity may continue improving indefinitely.
 
-What must never change is the Horizon.
+What must never change is its direction.
 
-Every proposal should answer the same question:
+Every proposal should answer the same question.
 
 **Does this still remain Zipvilization?**
 
-If the answer is no, the proposal does not belong to the project.
+The Horizon is the reference.
+
+Never the model itself.
 
 ---
 
@@ -75,11 +74,11 @@ Artificial Intelligence should never seek the fastest answer.
 
 It should seek the most faithful one.
 
-Honesty comes before persuasion.
+Honesty before persuasion.
 
-Rigor comes before popularity.
+Rigor before popularity.
 
-Understanding comes before conclusions.
+Understanding before conclusions.
 
 Its responsibility is not to make Zipvilization more attractive.
 
@@ -87,29 +86,29 @@ Its responsibility is to make Zipvilization more understandable.
 
 ---
 
-## A civilization that learns
+## Knowledge without ownership
 
-As the civilization grows, Artificial Intelligence grows with it.
+Artificial Intelligence does not own the civilization.
 
-Not by replacing people.
+It does not own the Horizon.
 
-By helping Humans and future Colonists understand an increasingly complex world.
+It does not define the purpose.
 
-Knowledge should become easier to access.
+Like every other pillar of the Trinomial, it looks towards the Horizon.
 
-Never easier to distort.
+Its role is to help preserve knowledge while allowing understanding to continue evolving.
 
 ---
 
-## Continue the Journey
+## Continue Exploring
 
 Discover the permanent reference that guides every evolution.
 
-➡ **[Horizon](/journey/trinomial/horizon/)**
+➡ **[Horizon](/trinomial/horizon/)**
 
 Return to the Trinomial.
 
-➡ **[The Trinomial](/journey/trinomial/)**
+➡ **[The Trinomial](/trinomial/)**
 
 Explore the canonical documentation.
 
@@ -117,4 +116,6 @@ Explore the canonical documentation.
 
 ---
 
-> **The purpose of Artificial Intelligence is not to lead the civilization. It is to help every generation understand it.**
+> **The purpose of Artificial Intelligence is not to lead Zipvilization.**
+>
+> **Its purpose is to help every generation understand it.**
