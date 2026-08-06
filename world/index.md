@@ -3,96 +3,84 @@ layout: default
 title: The World
 nav_order: 7
 description: >
-  Discover the world of Zipvilization. Learn how territory, Colonists, time and
-  public rules transform an empty world into a living digital civilization.
+  Discover how the world of Zipvilization works. Learn how territory, Colonists,
+  public rules and time transform an empty world into a living digital civilization.
 permalink: /world/
 ---
 
 # The World
 
-Every civilization needs a place to exist.
+A civilization cannot exist without a world.
 
-Zipvilization begins with a world.
+The World is the shared environment where Zipvilization emerges.
 
-Not a game.
+At the beginning there are no Colonists.
 
-Not a map.
+No territories.
 
-Not a collection of assets.
+No cities.
 
-A world where territory, time and participation allow a civilization to emerge.
+No kingdoms.
 
-At the beginning, the world is empty.
+Only a world waiting to be discovered.
 
-Its future depends entirely on the decisions of its Colonists.
+Everything that follows is the consequence of interaction, time and public rules.
 
 ---
 
-## Solum
+## The Foundation: Solum
 
 Everything begins with Solum.
 
 Solum is the territorial foundation of Zipvilization.
 
-It represents the land upon which the civilization can emerge.
+It represents the entire world before civilization exists.
 
-It is not created over time.
+Nothing can be built without territory.
 
-It already exists.
+Nothing can emerge without a foundation.
 
-What changes is how that territory is transformed.
-
-Discover the territorial foundation of the world.
+Discover the territorial layer.
 
 ➡ **[Solum](/solum/)**
 
 ---
 
-## Territories
+## Three possible futures
 
-Territory alone is not enough.
+Every part of Solum belongs to one of three possible states.
 
-It must be organized.
+### Civilization
 
-As Colonists participate, Solum becomes territories.
+Colonists transform Solum into living territory.
 
-Farms.
+Farms become Cities.
 
-Cities.
+Cities become States.
 
-States.
+States become Kingdoms.
 
-Kingdoms.
-
-Each new level represents a greater degree of organization and maturity.
-
-The civilization is not built all at once.
+Civilization is not created instantly.
 
 It emerges progressively.
 
 ---
 
-## The Pool
+### Pool
 
-Not every part of the world belongs to someone.
+Part of the world remains unclaimed.
 
-A large part of the territory remains available for future Colonists.
-
-This is the Pool.
+This territory is reserved for future Colonists.
 
 The Pool represents possibility.
 
-It allows new participants to continue expanding the civilization over time.
-
-The world always keeps space for the future.
+It guarantees that the world always has room to grow.
 
 ---
 
-## Permanent Burn
+### Permanent Burn
 
-Not every part of the world can become civilization.
-
-Some territory is permanently preserved.
+Another part of the world will never belong to anyone.
 
 Forests.
 
@@ -100,67 +88,123 @@ Mountains.
 
 Rivers.
 
-Cliffs.
-
 Natural landscapes.
 
-This permanent Burn protects the identity of the world.
+Permanent Burn preserves the identity of the world.
 
-Nothing disappears.
+Not everything should become civilization.
 
-Everything transforms.
-
-Part of the territory becomes civilization.
-
-Another part remains nature forever.
+Nature is also part of the world.
 
 ---
 
 ## Colonists
 
-Colonists do not simply acquire territory.
+Colonists do more than acquire territory.
 
-They transform the world.
+They transform the state of the world.
 
-Every new participant changes the state of the civilization.
+Every decision changes the civilization.
 
-The world grows because people choose to become part of it.
+Every new participant contributes to its history.
 
-Participation is the force that turns territory into history.
+The world evolves because people choose to participate.
 
 ---
 
-## A living world
+## Time
 
-The World is never finished.
+Nothing meaningful appears instantly.
 
-Every Farm.
+Territories mature.
 
-Every City.
+Populations grow.
 
-Every new Colonist.
+Knowledge accumulates.
 
-Every cycle of time.
+History is created.
 
-Changes its state.
+Time is not simply a measurement.
 
-The world is not designed once.
+It is one of the fundamental forces that shapes the civilization.
 
-It continuously emerges.
+---
+
+## Understanding the World
+
+The World can be understood through different layers.
+
+Each one describes the same civilization from a different perspective.
+
+### Solum
+
+Defines the territory.
+
+➡ **[Solum](/solum/)**
+
+---
+
+### SolumTools
+
+Observes and interprets the civilization.
+
+➡ **[SolumTools](/solumtools/)**
+
+---
+
+### SolumWorld
+
+Defines the canonical structure of the world.
+
+➡ **[SolumWorld](/solumworld/)**
+
+---
+
+### SolumView
+
+Makes the civilization visible.
+
+➡ **[SolumView](/solumview/)**
+
+---
+
+Together these layers do not create different worlds.
+
+They help us understand the same one.
+
+---
+
+## A connected system
+
+Every concept in Zipvilization exists because it is connected to another.
+
+The World gives meaning to Solum.
+
+Solum allows Colonists to participate.
+
+Colonists create Territories.
+
+Territories allow Zips to emerge.
+
+Time allows civilizations to mature.
+
+Everything is connected.
+
+Nothing exists in isolation.
 
 ---
 
 ## Continue Exploring
 
-Discover the territorial foundation.
+Begin with the territorial foundation.
 
 ➡ **[Solum](/solum/)**
 
-Learn how public rules protect the civilization.
+Discover the public rules that govern the civilization.
 
 ➡ **[The Contract](/contract/)**
 
-Discover how to become a Colonist.
+Learn how Colonists participate.
 
 ➡ **[Colonists](/colonists/)**
 
@@ -170,6 +214,6 @@ Explore the canonical documentation.
 
 ---
 
-> **A world does not become a civilization by existing.**
+> **The World is not a map.**
 
-> **It becomes a civilization when time, territory and participation begin to transform it.**
+> **It is the system through which a civilization becomes possible.**
