@@ -1,7 +1,0 @@
-# Foundry
-out/
-cache/
-broadcast/
-
-# Environment / local
-.env
