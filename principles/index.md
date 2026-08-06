@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Principles
-parent: Journey
-nav_order: 2
+nav_order: 3
 description: >
   Discover the principles that guide every decision in Zipvilization.
   Technology may evolve. Principles should endure.
-permalink: /journey/principles/
+permalink: /principles/
 ---
 
 # Principles
@@ -37,8 +36,6 @@ Participation is the foundation.
 
 Investment is always a personal decision.
 
-Learn more →
-
 ➡ **[Colonists](/colonists/)**
 
 ---
@@ -65,8 +62,6 @@ Its rules should be public, understandable and verifiable.
 
 Technology exists to preserve those rules.
 
-Discover how those rules are implemented.
-
 ➡ **[The Contract](/contract/)**
 
 ---
@@ -80,6 +75,35 @@ This Atlas exists to help Humans and Artificial Intelligence understand the proj
 Knowledge comes first.
 
 Everything else comes afterwards.
+
+---
+
+## The civilization before its creators
+
+Zipvilization is not designed to preserve the importance of its founders.
+
+The Human begins the project.
+
+The community gives it continuity.
+
+The civilization must eventually become more important than the people who created it.
+
+➡ **[Human](/trinomial/human/)**
+
+---
+
+## Value belongs to the civilization
+
+Zipvilization does not exist to extract value from its participants.
+
+If the project generates economic resources, they should serve two legitimate purposes:
+
+1. Strengthen and develop Zipvilization.
+2. Benefit the Colonists who made that success possible.
+
+No profit is promised.
+
+But if Zipvilization succeeds, that success should belong primarily to the civilization and its Colonists.
 
 ---
 
@@ -101,23 +125,21 @@ Every important decision should answer the same question:
 
 **Does this still remain Zipvilization?**
 
-Discover how the Horizon protects the project.
-
-➡ **[The Trinomial](/journey/trinomial/)**
+➡ **[The Trinomial](/trinomial/)**
 
 ---
 
-## Continue the Journey
+## Continue Exploring
 
-The Trinomial explains how Zipvilization protects its identity over time.
+Discover the framework that protects the identity of Zipvilization over time.
 
-➡ **[The Trinomial](/journey/trinomial/)**
+➡ **[The Trinomial](/trinomial/)**
 
-Or return to the beginning of the journey.
+Return to the origin of the project.
 
-➡ **[Why](/journey/why/)**
+➡ **[Why](/why/)**
 
-Explore the complete technical documentation.
+Explore the canonical technical documentation.
 
 ➡ **[Repository](/repository/)**
 
