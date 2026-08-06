@@ -71,17 +71,6 @@ Documentation defines the conceptual model of Zipvilization.
 
 Every concept has exactly one canonical definition.
 
-| Domain | Purpose | Canonical Entry |
-|---------|---------|-----------------|
-| Project | Vision, principles and assumptions | **[Project]({% link repository/docs/project/index.md %})** |
-| Solum | Immutable contract and territorial asset | **[Solum]({% link repository/docs/solum/index.md %})** |
-| SolumTools | Observation and indexing | **[SolumTools]({% link repository/docs/solumtools/index.md %})** |
-| SolumWorld | Territorial interpretation | **[SolumWorld]({% link repository/docs/solumworld/index.md %})** |
-| SolumView | Visualization | **[SolumView]({% link repository/docs/solumview/index.md %})** |
-| Zipvilization | Civilization model | **[Zipvilization]({% link repository/docs/zipvilization/index.md %})** |
-| Chapters | Evolution of the experiment | **[Chapters]({% link repository/docs/chapters/index.md %})** |
-| Team | Stewardship | **[Team]({% link repository/docs/team/index.md %})** |
-
 Documentation defines concepts.
 
 Documentation never defines implementation.
