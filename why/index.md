@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Why
-parent: Journey
-nav_order: 1
+nav_order: 2
 description: >
   Discover why Zipvilization exists and the question that inspired the project.
   Every civilization begins with a reason before it begins with technology.
-permalink: /journey/why/
+permalink: /why/
 ---
 
 # Why?
@@ -85,19 +84,19 @@ That is precisely why it is an experiment.
 
 ---
 
-## Continue the Journey
+## Continue Exploring
 
 Every experiment is guided by principles.
 
 Discover the values that define every decision in Zipvilization.
 
-➡ **[Principles](/journey/principles/)**
+➡ **[Principles](/principles/)**
 
-Or return to the beginning of the journey.
+Return to the entrance of the Atlas.
 
-➡ **[Journey](/journey/)**
+➡ **[Home](/)**
 
-Explore the complete technical documentation.
+Explore the canonical technical documentation.
 
 ➡ **[Repository](/repository/)**
 
