@@ -2,13 +2,12 @@
 layout: default
 title: Horizon
 parent: The Trinomial
-grand_parent: Journey
 nav_order: 3
 description: >
   Discover the Horizon, the permanent point of reference that preserves the
   identity of Zipvilization through every generation, every technology and
   every future evolution.
-permalink: /journey/trinomial/horizon/
+permalink: /trinomial/horizon/
 ---
 
 # Horizon
@@ -57,7 +56,7 @@ That is precisely why it can always guide you.
 
 ---
 
-## When the path becomes uncertain
+## Recovering the course
 
 Every civilization will eventually face uncertainty.
 
@@ -81,7 +80,11 @@ The only question that matters is:
 
 **"Which direction remains faithful to Zipvilization?"**
 
-The Horizon exists to answer that question.
+The Horizon exists so that, whenever the civilization loses its course, it can always find it again.
+
+It does not tell us which road to take.
+
+It reminds us where we should always be looking.
 
 ---
 
@@ -133,7 +136,7 @@ The only condition is that every evolution remains faithful to the Horizon.
 
 ## The permanent question
 
-Every important decision should begin with the same question.
+Every important decision begins with the same question.
 
 **Does this still remain Zipvilization?**
 
@@ -143,19 +146,25 @@ The civilization may continue evolving.
 
 If the answer is no...
 
-No technological improvement, no economic opportunity and no external pressure can justify abandoning its identity.
+No technological improvement.
+
+No economic opportunity.
+
+No external pressure.
+
+Nothing can justify abandoning its identity.
 
 ---
 
-## Continue the Journey
+## Continue Exploring
 
 Return to the Trinomial.
 
-➡ **[The Trinomial](/journey/trinomial/)**
+➡ **[The Trinomial](/trinomial/)**
 
 Discover the experiment that this Horizon protects.
 
-➡ **[The Experiment](/journey/experiment/)**
+➡ **[The Experiment](/experiment/)**
 
 Explore the canonical documentation.
 
@@ -163,6 +172,6 @@ Explore the canonical documentation.
 
 ---
 
-> **The Horizon is not where we are going.**
+> **You can never reach the Horizon.**
 >
-> **It is the direction we refuse to lose.**
+> **That is why it can guide every generation.**
