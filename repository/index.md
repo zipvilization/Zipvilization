@@ -3,32 +3,31 @@ layout: default
 title: Repository
 nav_order: 8
 description: >
-  Explore the official Zipvilization Repository. Access the canonical documentation,
-  technical specifications, source code and development history on GitHub.
+  Access the official Zipvilization GitHub Repository. Explore the canonical
+  documentation, technical specifications, source code and development history
+  of the project.
 permalink: /repository/
 ---
 
-# Repository
+# Official Repository
 
-The Atlas has one purpose.
+The Atlas helps Humans and Artificial Intelligence understand Zipvilization.
 
-**To help Humans and Artificial Intelligence understand Zipvilization.**
+The **GitHub Repository** preserves its canonical knowledge.
 
-The Repository has another.
+It contains the official documentation, technical specifications, source code and development history of the project.
 
-**To document, verify and preserve Zipvilization.**
+If you want to verify how Zipvilization works, the Repository is the authoritative source.
 
-Every specification.
+---
 
-Every architectural decision.
+## Open the Official Repository
 
-Every implementation.
+### 🚀 GitHub Repository
 
-Every important evolution of the project is recorded in the official GitHub Repository.
+**https://github.com/zipvilization/zipvilization**
 
-The website explains.
-
-The Repository proves.
+The Repository is public and can be explored by anyone.
 
 ---
 
@@ -78,27 +77,27 @@ repository/
 
 ## 📘 Project
 
-General project documentation, architecture, methodology, governance and communication.
+General project documentation, architecture, methodology and communication.
 
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/docs/project
 
 ---
 
 ## 🌍 Solum
 
-The mathematical and territorial foundation of Zipvilization.
+The territorial and mathematical foundation of Zipvilization.
 
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/docs/solum
 
 ---
 
 ## 🛠 SolumTools
 
-The observation layer of the civilization.
+Public observation of the civilization.
 
-Tools, metrics and deterministic interpretation.
+Metrics, interpretation and deterministic tools.
 
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/docs/solumtools
 
 ---
 
@@ -108,7 +107,7 @@ The canonical digital world.
 
 Territories, administration and world rules.
 
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/docs/solumworld
 
 ---
 
@@ -116,35 +115,31 @@ Territories, administration and world rules.
 
 The visual representation of the civilization.
 
-How the world becomes observable.
-
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/docs/solumview
 
 ---
 
 ## 🏛 Zipvilization
 
-The conceptual foundations.
+The conceptual foundations of the civilization.
 
 Population.
 
-Biology.
-
 Territories.
+
+Biology.
 
 Civilization.
 
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/docs/zipvilization
 
 ---
 
 ## 🚀 Chapters
 
-The progressive public implementation of Zipvilization.
+The progressive implementation of the public experience.
 
-Each Chapter represents a new stage in the public experience.
-
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/docs/chapters
 
 ---
 
@@ -158,7 +153,7 @@ Artificial Intelligence.
 
 Horizon.
 
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/docs/team
 
 ---
 
@@ -170,41 +165,31 @@ The implementation layer of Zipvilization.
 
 ## ⚙ Token
 
-Smart contracts and token implementation.
-
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/code/token
 
 ---
 
 ## 🛠 SolumTools
 
-Technical implementation of the observation layer.
-
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/code/solumtools
 
 ---
 
 ## 🌍 World
 
-World generation and deterministic rules.
-
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/code/world
 
 ---
 
 ## 🔗 Shared
 
-Shared libraries and common resources.
-
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/code/shared
 
 ---
 
 ## 📡 Indexer
 
-Indexing and synchronization services.
-
-➡ **Open on GitHub**
+➡ https://github.com/zipvilization/zipvilization/tree/main/repository/code/indexer
 
 ---
 
@@ -214,12 +199,12 @@ Indexing and synchronization services.
 
 ➡ **[Home](/)**
 
-📊 **Live project status**
+📊 **View the current state of the project**
 
 ➡ **[Metrics](/metrics/)**
 
 ---
 
-> **The Atlas helps you understand.**
+> **The Atlas introduces Zipvilization.**
 >
-> **The Repository allows you to verify.**
+> **The GitHub Repository preserves its canonical knowledge.**
