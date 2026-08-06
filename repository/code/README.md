@@ -1,3 +1,12 @@
+---
+layout: default
+title: Code
+parent: Repository
+nav_order: 2
+has_children: true
+permalink: /repository/code/
+---
+
 # Code Layer
 
 This directory contains the **technical components** of Zipvilization.
