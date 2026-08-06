@@ -50,11 +50,9 @@ back_to_top_text: "Back to top"
 optional_front_matter:
   enabled: false
 
-
-# Exclude the complete technical repository from navigation
+# Hide repository pages that have explicit front matter
 defaults:
   - scope:
       path: "repository"
-      type: "pages"
     values:
       nav_exclude: true
