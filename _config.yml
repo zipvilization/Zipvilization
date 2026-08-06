@@ -46,6 +46,11 @@ toc:
 back_to_top: true
 back_to_top_text: "Back to top"
 
+# Keep plain Markdown files as repository documents
+optional_front_matter:
+  enabled: false
+
+
 # Exclude the complete technical repository from navigation
 defaults:
   - scope:
