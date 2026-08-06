@@ -46,9 +46,3 @@ toc:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# Hide repository pages that have explicit front matter
-defaults:
-  - scope:
-      path: "repository"
-    values:
-      nav_exclude: true
