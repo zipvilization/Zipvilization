@@ -1,3 +1,12 @@
+---
+layout: default
+title: Docs
+parent: Repository
+nav_order: 1
+has_children: true
+permalink: /repository/docs/
+---
+
 # 📚 Docs — Canonical Documentation (Zipvilization)
 
 GitHub is the **technical, canonical truth layer** of Zipvilization.
