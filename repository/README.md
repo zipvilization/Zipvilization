@@ -83,13 +83,6 @@ Code implements the canonical concepts.
 
 Every implementation should trace back to a definition in Documentation.
 
-| Domain | Purpose | Entry |
-|---------|---------|------|
-| AI Onboarding | AI development context | **[AI Onboarding]({% link repository/code/ai-onboarding/index.md %})** |
-| Code Layer | Architecture and implementation | **[Code Layer]({% link repository/code/index.md %})** |
-| Deployment Notes | Deployment procedures | **[Deployment Notes]({% link repository/code/deployment-notes/index.md %})** |
-| Indexer | Blockchain indexing | **[Indexer]({% link repository/code/indexer/index.md %})** |
-| Shared | Shared schemas and types | **[Shared]({% link repository/code/shared/index.md %})** |
 
 Implementation never replaces canonical definitions.
 
