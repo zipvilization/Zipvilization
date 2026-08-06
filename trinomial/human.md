@@ -2,12 +2,11 @@
 layout: default
 title: Human
 parent: The Trinomial
-grand_parent: Journey
 nav_order: 1
 description: >
   Discover the role of the Human within the Trinomial of Zipvilization.
   The Human begins the civilization but should never become its permanent center.
-permalink: /journey/trinomial/human/
+permalink: /trinomial/human/
 ---
 
 # Human
@@ -42,11 +41,11 @@ A civilization should not depend forever on its creators.
 
 ---
 
-## From creator to community
+## From founder to community
 
-The Human begins the journey.
+The Human begins the project.
 
-Over time, the community becomes part of the project.
+Over time, the community becomes part of the civilization.
 
 Knowledge grows.
 
@@ -56,7 +55,7 @@ New contributors appear.
 
 The civilization gradually becomes greater than any individual.
 
-This transition is not a loss.
+This is not a loss of control.
 
 It is the natural evolution of a living civilization.
 
@@ -82,7 +81,11 @@ The Human has one permanent responsibility.
 
 To remain faithful to the Horizon.
 
-Whenever a difficult decision appears, the question remains the same:
+Whenever uncertainty appears...
+
+Whenever difficult decisions must be made...
+
+The same question should always be asked.
 
 **Does this still remain Zipvilization?**
 
@@ -90,19 +93,19 @@ If the answer is yes, the civilization may continue evolving.
 
 ---
 
-## Continue the Journey
+## Continue Exploring
 
 Discover the cognitive pillar of the Trinomial.
 
-➡ **[Artificial Intelligence](/journey/trinomial/ai/)**
+➡ **[Artificial Intelligence](/trinomial/ai/)**
 
-Discover the permanent reference that guides every evolution.
+Discover the permanent point of reference that guides every evolution.
 
-➡ **[Horizon](/journey/trinomial/horizon/)**
+➡ **[Horizon](/trinomial/horizon/)**
 
 Return to the Trinomial.
 
-➡ **[The Trinomial](/journey/trinomial/)**
+➡ **[The Trinomial](/trinomial/)**
 
 Explore the canonical documentation.
 
