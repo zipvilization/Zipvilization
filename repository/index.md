@@ -2,6 +2,7 @@
 layout: default
 title: Repository
 nav_order: 99
+has_children: true
 description: Canonical repository of Zipvilization. Complete documentation, technical architecture, implementation and source of truth for humans, developers, auditors and artificial intelligence.
 ---
 
