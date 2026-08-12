@@ -2,7 +2,7 @@
 layout: default
 title: Taxes
 parent: Smart Contract
-nav_order: 3
+nav_order: 6
 description: >
   Taxes documents the contract-level mechanism through which a defined portion
   of qualifying Solum transfers is redirected according to canonical rules.
