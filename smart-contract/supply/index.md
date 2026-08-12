@@ -2,7 +2,7 @@
 layout: default
 title: Supply
 parent: Smart Contract
-nav_order: 1
+nav_order: 2
 description: >
   Supply defines the finite quantity of Solum: 100 trillion units, with
   1 Solum representing 1 square meter of territorial substrate. This page
