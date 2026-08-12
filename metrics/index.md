@@ -527,9 +527,371 @@ For example:
 
 SolumTools may expose:
 
-```text
 dormant_land_units
 permanent_nature_units
 mature_city_count
 zip_population
 completed_cycles
+
+Metrics may present:
+
+> **Dormant Land — 71.2%**
+>
+> **Permanent Nature — 4.8%**
+>
+> **Mature Cities — 183**
+>
+> **Zip Population — 92,416**
+
+The numbers above are only illustrative examples.
+
+Real Metrics must always come from current canonical state.
+
+> **Never use example data as live data.**
+
+This distinction is especially important for Artificial Intelligence.
+
+---
+
+# Metrics and Artificial Intelligence
+
+AI should be able to distinguish three categories clearly:
+
+**Canonical state**
+
+what exists.
+
+**Metric**
+
+a selected measurement of that state.
+
+**Interpretation**
+
+what someone believes the measurement may imply.
+
+For example:
+
+> Territorial concentration increased.
+
+may be a measurable fact.
+
+> The civilization is becoming politically unstable.
+
+would be an interpretation unless a canonical system defines such a state.
+
+AI must not turn interpretation into measurement.
+
+The correct path is:
+
+**State**
+
+↓
+
+**Metric**
+
+↓
+
+**Evidence**
+
+↓
+
+**Interpretation, clearly identified**
+
+→ **[Explore Artificial Intelligence](/trinomial/artificial-intelligence/)**
+
+---
+
+# Metrics must be traceable
+
+An important public metric should ideally provide a path back toward its source.
+
+A user should be able to move from:
+
+> **Mature Cities: X**
+
+toward:
+
+- the relevant SolumTools signal,
+- the canonical definition of maturity,
+- the territorial threshold,
+- the relevant biological rules,
+- and ultimately the technical source.
+
+This is the same architecture used across the Atlas.
+
+**Summary**
+
+↓
+
+**Explanation**
+
+↓
+
+**Canonical rule**
+
+↓
+
+**State**
+
+↓
+
+**Technical source**
+
+A human can stop when the answer is sufficient.
+
+An AI can continue until the evidence is explicit.
+
+---
+
+# Metrics should admit uncertainty
+
+Not everything will always be measurable.
+
+Some states may depend on systems that do not yet exist.
+
+Some historical data may not yet be indexed.
+
+Some metrics may require further technical infrastructure.
+
+Some interpretations may remain unresolved.
+
+When that happens, Metrics should say so.
+
+**Unavailable**
+
+is better than invented.
+
+**Not yet measurable**
+
+is better than estimated without basis.
+
+**Unknown**
+
+is better than false precision.
+
+This principle protects the credibility of the experiment.
+
+---
+
+# What should be measurable first?
+
+At the beginning, the most useful Metrics are likely to be foundational.
+
+## World
+
+- total Solum,
+- Dormant Land,
+- active Solum,
+- Permanent Nature.
+
+## Participation
+
+- Holders,
+- Colonists,
+- distribution,
+- concentration.
+
+## Territory
+
+- Farms,
+- Cities,
+- States,
+- Kingdoms,
+- developing vs. mature structures.
+
+## Biology
+
+- total Zips,
+- mature biological cores,
+- cycles completed.
+
+## Time
+
+- current canonical progression,
+- historical maturation.
+
+## Contract
+
+- relevant public flows,
+- Taxes,
+- Burn,
+- and other implemented canonical mechanics.
+
+The exact public dashboard can evolve.
+
+The categories provide the initial structure.
+
+---
+
+# Chapters will create new metrics
+
+As new mechanics become active, new measurements become possible.
+
+A production Chapter may create:
+
+- production volume,
+- resource distribution,
+- specialization.
+
+An economic Chapter may create:
+
+- exchange,
+- flows,
+- prices,
+- trade relationships.
+
+A political Chapter may create:
+
+- participation,
+- proposals,
+- collective decisions.
+
+An alliance system may create:
+
+- relationships between Territories,
+- coalition structures,
+- strategic networks.
+
+Metrics grows with the world.
+
+But only after the corresponding canonical state exists.
+
+→ **[Explore the Chapters](/chapters/)**
+
+---
+
+# Metrics at a glance
+
+Metrics should help answer:
+
+## How much of the world is still dormant?
+
+→ Dormant Land
+
+## How much has entered civilization?
+
+→ Active territorial state
+
+## How much has become Permanent Nature?
+
+→ Burn / Permanent Nature
+
+## How many people are participating?
+
+→ Holders / Colonists
+
+## How is land distributed?
+
+→ Territorial distribution and concentration
+
+## How developed is the world?
+
+→ Territories, Zips, cycles, maturity
+
+## What is changing?
+
+→ Historical progression
+
+## What economic state exists?
+
+→ Active contract and Chapter metrics
+
+The purpose is not maximum data.
+
+The purpose is meaningful evidence.
+
+---
+
+# Follow Metrics through the Atlas
+
+### What exposes the underlying signals?
+
+→ **[SolumTools](/world/solumtools/)**
+
+### What determines the canonical state?
+
+→ **[SolumWorld](/world/solumworld/)**
+
+### What does the world mean?
+
+→ **[The World](/world/)**
+
+### What is the territorial substrate?
+
+→ **[Solum](/world/solum/)**
+
+### Who participates?
+
+→ **[Colonists](/world/colonists/)**
+
+### What territorial structures exist?
+
+→ **[Territories](/world/territories/)**
+
+### What population exists?
+
+→ **[Zips](/world/zips/)**
+
+### How does development progress?
+
+→ **[Time](/world/time/)**
+
+### What new measurements may appear later?
+
+→ **[Chapters](/chapters/)**
+
+### Where are the technical mechanics?
+
+→ **[Smart Contract](/smart-contract/)**
+
+### Where is the deeper source?
+
+→ **[Repository](/repository/)**
+
+---
+
+# Measure the experiment
+
+Zipvilization begins with a question.
+
+Can a digital civilization emerge from finite territory, public rules, time, and participation?
+
+That question should not be answered by marketing.
+
+It should be answered by what happens.
+
+How many people arrive.
+
+How they distribute themselves.
+
+How much of the world awakens.
+
+How much becomes Nature forever.
+
+How Territories develop.
+
+How Zips emerge.
+
+How long structures take to mature.
+
+How economic and political systems evolve when they eventually exist.
+
+Perhaps the experiment succeeds.
+
+Perhaps it fails.
+
+Perhaps it produces something we did not expect.
+
+Metrics should not protect us from that answer.
+
+It should help us see it.
+
+> **The Atlas explains the experiment.**
+>
+> **Metrics shows us what the experiment is actually doing.**
+
+---
+
+→ **[Return Home](/)**  
+→ **[Explore the Chapters](/chapters/)**  
+→ **[Continue to Founding Colonists](/founding-colonists/)**
