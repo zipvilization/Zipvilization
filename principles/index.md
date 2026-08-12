@@ -383,9 +383,9 @@ It is the point we look toward when we need to determine whether a new path stil
 
 **The path can change.**
 
-**The Horizon cannot.**
+**The Horizonte cannot.**
 
-→ **[Discover Horizon](/trinomial/horizon/)**  
+→ **[Discover Horizon](/trinomial/horizonte/)**  
 → **[Understand The Trinomial](/trinomial/)**
 
 ---
