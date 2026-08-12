@@ -760,7 +760,7 @@ SolumTools can provide explicit signals.
 
 For example, conceptually:
 
-```text
+
 territory_type
 territorial_scale
 zip_population
