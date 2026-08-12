@@ -3,705 +3,1359 @@ layout: default
 title: Home
 nav_order: 1
 description: >
-  Zipvilization is an open experiment in digital civilization built around
-  public rules, finite territory, time, participation, and blockchain.
-  Explore the world, its Colonists, its Smart Contract, and the architecture
-  designed to let a civilization emerge.
+  Zipvilization is a deterministic civilization experiment built on a finite
+  territorial substrate. Solum defines the land, blockchain records its state,
+  Zips introduce population, time creates development, and Humans, Artificial
+  Intelligence, and Horizonte observe what civilization becomes.
 permalink: /
 ---
 
-# Can a digital civilization emerge?
+# Zipvilization
 
-Not a game pretending to be a civilization.
+**A finite world.**
 
-Not a token looking for a story.
+**A deterministic beginning.**
 
-A civilization.
+**An open-ended civilization.**
 
-**Zipvilization is an open experiment built to explore whether one can emerge from public rules, finite territory, time, and human participation.**
+Zipvilization is an experiment in building a world from explicit rules rather than from a predetermined story.
 
-We do not know the answer.
+The substrate is finite.
 
-That is why the project exists.
-
-We are building the conditions.
-
-The civilization must do the rest.
-
----
-
-## A world before a civilization
-
-Imagine a world before its first settlement.
-
-The land already exists.
-
-The rules already exist.
-
-Time has already begun.
-
-But there are no Colonists.
-
-No Farms.
-
-No Cities.
-
-No States.
-
-No Kingdoms.
-
-No history.
-
-Only potential.
-
-That is where Zipvilization begins.
-
-Not with a finished civilization.
-
-With the conditions from which one may emerge.
-
-➡ **[Discover The World](/world/)**
-
----
-
-# Participation, not investment
-
-Zipvilization exists in crypto.
-
-It uses blockchain.
-
-It has a token.
-
-It has a market.
-
-Money is therefore part of the system, and pretending otherwise would be dishonest.
-
-But money is not the purpose of the system.
-
-**Zipvilization is designed for participants, not investors.**
-
-We call those participants **Colonists**.
-
-A Colonist does not need to make a large financial commitment to understand the experiment or become part of its beginning.
-
-Our philosophy is deliberately simple:
-
-> **Start small.**
->
-> **For most people, the price of a coffee is enough to begin exploring the world.**
-
-If someone chooses to risk more, that is their decision and their responsibility.
-
-We do not promise returns.
-
-We do not promise that Solum will increase in value.
-
-We do not promise that the experiment will succeed.
-
-What we want is much simpler:
-
-**Participants.**
-
-People willing to enter the same world, live under the same public rules, and become part of the same history.
-
-➡ **[Meet the Colonists](/world/colonists/)**
-
----
-
-# The world begins with Solum
-
-Every civilization needs territory.
-
-In Zipvilization, that foundation is **Solum**.
-
-**1 Solum represents 1 square meter of the world.**
-
-Solum is implemented on-chain as a token, but its purpose inside Zipvilization is territorial.
-
-It is the soil from which everything else can emerge.
-
-The total world is finite.
-
-Territory is not continuously created.
-
-The world changes because existing Solum changes state.
-
-➡ **[Discover Solum](/world/solum/)**  
-➡ **[Explore Supply](/smart-contract/supply/)**  
-➡ **[Understand the Solum Token](/smart-contract/solum-token/)**
-
----
-
-## Dormant Land
-
-At the beginning, much of the world is still waiting.
-
-No Colonist administers it.
-
-No civilization has emerged there.
-
-In Zipvilization, we understand this as **Dormant Land**: territory with potential, waiting to be awakened through participation.
-
-On-chain, the mechanism has a technical name:
-
-**Pool.**
-
-The meaning and the implementation are different perspectives on the same state.
-
-**Dormant Land** explains what it means inside the world.
-
-**Pool** explains how it works on the blockchain.
-
-➡ **[Explore Solum](/world/solum/)**  
-➡ **[Understand the Pool](/smart-contract/pool/)**
-
----
-
-## Permanent Nature
-
-Not all territory should become civilization.
-
-A world made entirely of settlements would not be a world.
-
-Some territory can become permanent Nature.
-
-Forests.
-
-Rivers.
-
-Mountains.
-
-Natural spaces that no Colonist can reclaim.
-
-In blockchain terminology, the underlying mechanism is **Burn**.
-
-In many crypto projects, burn means destruction.
-
-Zipvilization gives that irreversible mechanism a different meaning:
-
-**what leaves circulation becomes part of the world forever.**
-
-Nothing disappears.
-
-Its role changes.
-
-➡ **[Explore the World](/world/)**  
-➡ **[Understand Burn](/smart-contract/burn/)**
-
----
-
-# Colonists awaken the world
-
-Dormant territory does not become civilization by itself.
-
-Colonists bring participation into the system.
-
-As territory is administered and time passes, structure begins to emerge.
-
-**Farm → City → State → Kingdom**
-
-These are not decorative labels placed on a map.
-
-They describe progressively larger forms of territorial organization.
-
-And they do not mature instantly.
+The beginning is measurable.
 
 Time matters.
 
-➡ **[Discover Colonists](/world/colonists/)**  
-➡ **[Explore Territories](/world/territories/)**  
-➡ **[Understand Time](/world/time/)**
+Population emerges.
+
+Territory develops.
+
+Economic activity leaves consequences.
+
+Civilization is not written in advance.
+
+> **We define the conditions.**
+>
+> **We do not define the outcome.**
+
+Zipvilization begins with a blockchain.
+
+But it is not only a blockchain project.
+
+It contains a token.
+
+But it is not built around the idea that a token alone is the product.
+
+It contains a world.
+
+But that world is not a conventional game map controlled by an invisible administrator.
+
+It contains rules.
+
+And those rules are designed to be inspectable by Humans and machines.
+
+This Atlas is the public entrance to that system.
 
 ---
 
-# Then life appears
+# One project, two perspectives
 
-Territory alone is not a civilization.
+Almost everything in Zipvilization can be observed from two related perspectives.
 
-Zipvilization also has population.
+## Blockchain
 
-Its native population is formed by **Zips**.
+Addresses.
 
-Zips do not exist simply because territory exists.
+Balances.
 
-Their emergence and maturity follow deterministic rules linked to territory and time.
+Transfers.
 
-This is one of the places where the idea of Zipvilization becomes mechanical rather than narrative:
+Supply.
 
-we do not decide that a place is alive because a story says so.
+Blocks.
 
-The system must reach the conditions that make it alive.
+Fees.
 
-➡ **[Discover Zips](/world/zips/)**  
-➡ **[Explore Civilization](/world/civilization/)**
+Burn.
 
----
+Reflection.
 
-# Time is part of the architecture
+Liquidity.
 
-Zipvilization is intentionally slow.
+Treasury.
 
-A large territory does not instantly become a mature civilization because someone acquired it.
+Permissions.
 
-Higher forms of organization require maturation.
+Contract state.
 
-Population requires maturation.
+## Zipvilization
 
-History requires time.
+Colonists.
 
-This is fundamental to the experiment.
+Territory.
 
-Without time, ownership could create an instant empire.
+Time.
 
-With time, territory has to become something.
+Zips.
 
-➡ **[Understand Time](/world/time/)**  
-➡ **[Explore Territories](/world/territories/)**  
-➡ **[Discover Zips](/world/zips/)**
+Dormant Land.
 
----
+Permanent Nature.
 
-# The world is not just an idea
+Farms.
 
-Zipvilization is conceptual because civilizations require meaning.
+Cities.
 
-But the project is also technical because ideas alone cannot create one.
+States.
 
-The system is being built as a set of connected layers.
+Kingdoms.
 
-### Solum
+Civilization.
 
-Provides the territorial foundation.
+These are not two unrelated systems.
 
-➡ **[Solum](/world/solum/)**
+They are two ways of reading the same underlying experiment.
 
-### SolumTools
+> **Blockchain provides the verifiable state.**
+>
+> **Zipvilization gives that state world meaning.**
 
-Makes the underlying activity observable and understandable.
+The distinction must always remain visible.
 
-It is the analytical and observational layer of the project.
+A metaphor never overrides the contract.
 
-➡ **[SolumTools](/world/solumtools/)**
+A narrative never creates blockchain state.
 
-### SolumWorld
-
-Defines the canonical state and structure of the world.
-
-It answers a different question:
-
-**Given the rules and everything that has happened, what exists?**
-
-➡ **[SolumWorld](/world/solumworld/)**
-
-### SolumView
-
-Turns that canonical world into a visual experience.
-
-It does not decide what exists.
-
-It reveals what already exists.
-
-➡ **[SolumView](/world/solumview/)**
-
-These are not competing versions of Zipvilization.
-
-They are different layers of the same system.
-
-➡ **[See how The World fits together](/world/)**
+And technical implementation should never silently redefine the canonical world.
 
 ---
 
-# Public rules before trust
+# Solum
 
-A civilization should not depend on promises made by its creators.
+Everything begins with land.
 
-Its fundamental rules should be public.
+The territorial substrate of Zipvilization is:
 
-Deterministic.
+> **Solum**
 
-Inspectable.
+Its canonical relationship is simple:
 
-Verifiable.
+> **1 SOLUM = 1 m²**
 
-That is why Zipvilization uses blockchain.
+Initial Supply:
 
-Not because blockchain is the idea.
+> **100,000,000,000,000 SOLUM**
 
-Because it gives the idea a way to become enforceable.
+Therefore the original world contains:
 
-The **Smart Contract** is where the conceptual world meets technical reality.
+> **100,000,000,000,000 m²**
 
-It defines the blockchain mechanics behind Solum and its economic behavior.
+No additional SOLUM can be created through a post-deployment mint function in the documented contract.
 
-There we use blockchain terminology without hiding it:
+The substrate is finite.
 
-**token, supply, tokenomics, pool, burn, taxes, access limits, security, canonical rules.**
+Civilization can become more complex.
 
-And for every important mechanism we explain three things:
+Population can grow.
 
-**how it works, what it means inside Zipvilization, and why it was designed that way.**
+Territories can develop.
 
-➡ **[Explore the Smart Contract](/smart-contract/)**
+History can accumulate.
+
+But the original land does not need to expand with them.
+
+→ **[Discover Solum](/world/solum/)**  
+→ **[Explore the Solum Token](/smart-contract/solum-token/)**  
+→ **[Understand Supply](/smart-contract/supply/)**
+
+---
+
+# A finite world can still change
+
+Finite does not mean static.
+
+SOLUM can move.
+
+Ownership can change.
+
+Dormant Land can enter colonization.
+
+Economic activity can Burn SOLUM.
+
+Burned SOLUM becomes permanently unavailable.
+
+Inside Zipvilization, that state has a canonical name:
+
+> **Permanent Nature**
+
+This creates one of the fundamental relationships of the world:
+
+**finite original substrate**
+
+↓
+
+**Dormant Land**
+
+**Colonist-controlled land**
+
+**Permanent Nature**
+
+The world does not need infinite expansion to generate history.
+
+Its finite substrate can change state.
+
+→ **[Explore Pool and Dormant Land](/smart-contract/pool/)**  
+→ **[Explore Burn and Permanent Nature](/smart-contract/burn/)**
+
+---
+
+# From Holder to Colonist
+
+At blockchain level, an address holding SOLUM is a:
+
+> **Holder**
+
+Inside Zipvilization, participation can be understood through another concept:
+
+> **Colonist**
+
+The technical identity is not erased.
+
+It is interpreted.
+
+**Blockchain**
+
+Holder
+
+↓
+
+SOLUM balance
+
+↓
+
+on-chain state
+
+**Zipvilization**
+
+Colonist
+
+↓
+
+territorial capacity
+
+↓
+
+world state
+
+This parallelism is fundamental throughout the Atlas.
+
+> **Holder belongs to the blockchain perspective.**
+>
+> **Colonist belongs to the Zipvilization perspective.**
+
+→ **[Discover Colonists](/world/colonists/)**
+
+---
+
+# Territory
+
+Solum gives territorial scale mathematical structure.
+
+The foundational hierarchy is:
+
+| Territory | Territorial scale |
+|:----------|------------------:|
+| Farm | 8 |
+| City | 256 |
+| State | 8,192 |
+| Kingdom | 262,144 |
+
+These numbers are not decorative labels.
+
+They belong to the deterministic territorial architecture of Zipvilization.
+
+But territorial scale alone is not enough.
+
+A balance may support a territorial level.
+
+That does not mean the Territory is biologically mature.
+
+> **Territory defines capacity.**
+>
+> **Time defines development.**
+
+→ **[Explore Territories](/world/territories/)**
+
+---
+
+# Zips
+
+Land alone does not create civilization.
+
+Zipvilization introduces a native population:
+
+> **Zips**
+
+A Zip is also an information unit.
+
+> **1 Zip = 1 bit**
+
+Therefore:
+
+> **8 Zips = 1 byte**
+
+This creates another deliberate parallelism.
+
+**World**
+
+Population
+
+↓
+
+Zips
+
+**Information**
+
+Bits
+
+↓
+
+Bytes
+
+The biological and computational structures are connected without becoming identical.
+
+Zips develop according to deterministic rules.
+
+They are not SOLUM emissions.
+
+They do not mint new land.
+
+Population can grow while territorial substrate remains finite.
+
+→ **[Discover Zips](/world/zips/)**
+
+---
+
+# Time
+
+Zipvilization does not use arbitrary narrative time for biological development.
+
+Its canonical developmental clock is derived from blockchain progression.
+
+One biological cycle is:
+
+> **65,536 blocks**
+
+That gives the world a measurable temporal foundation.
+
+Human clock time can be estimated.
+
+But it is not canonical.
+
+> **Blocks are canonical.**
+>
+> **Hours and days are translations.**
+
+This means a Colonist may acquire enough SOLUM to support a City-scale Territory.
+
+But capital alone cannot purchase completed history.
+
+Development still requires canonical progression.
+
+> **Land can be acquired.**
+>
+> **Elapsed time cannot.**
+
+→ **[Understand Time](/world/time/)**
+
+---
+
+# From Farm to Kingdom
+
+The territorial hierarchy is not merely a scale of ownership.
+
+It becomes the structural foundation from which increasingly complex forms of civilization can emerge.
+
+**Zips**
+
+↓
+
+**Farm**
+
+↓
+
+**City**
+
+↓
+
+**State**
+
+↓
+
+**Kingdom**
+
+The meaning can deepen as Zipvilization develops.
+
+Farms establish the first territorial organization.
+
+Cities create a larger structural level.
+
+States introduce the scale at which political and macroeconomic systems can emerge.
+
+Kingdoms create the scale for alliances, conflict, cooperation, and larger struggles for power.
+
+But those higher systems should not be invented before their canonical Chapters define them.
+
+> **The hierarchy exists.**
+>
+> **Its history remains unwritten.**
+
+→ **[Explore Territories](/world/territories/)**  
+→ **[Explore Civilization](/world/civilization/)**  
+→ **[Explore the Chapters](/chapters/)**
+
+---
+
+# Solum has real Tokenomics
+
+Solum is not a narrative token with a world description attached afterward.
+
+Its economic architecture is explicitly documented.
+
+The contract defines mechanisms for:
+
+- finite Supply,
+- BUY fees,
+- SELL fees,
+- TRANSFER fees,
+- Burn,
+- Reflection,
+- Liquidity,
+- Treasury,
+- MAX_TX,
+- dynamic Max Wallet,
+- Launch protection,
+- whitelist access,
+- BUY cooldown,
+- SwapBack,
+- exemptions,
+- administrative permissions,
+- timelocked changes,
+- and ownership.
+
+Those mechanisms interact.
+
+Together they form the economic foundation beneath the world.
+
+→ **[Explore Tokenomics](/smart-contract/tokenomics/)**
+
+---
+
+# Tokenomics in one view
+
+The initial documented configuration includes:
+
+| Mechanism | Initial state |
+|:----------|:--------------|
+| Supply | 100T SOLUM |
+| Decimals | 18 |
+| BUY Fee | 1% |
+| SELL Fee | 10% |
+| TRANSFER Fee | 5% |
+| MAX_TX | 10B SOLUM |
+| Initial Max Wallet | 30B SOLUM |
+| Max Wallet initial period | 180 days |
+| Max Wallet growth after initial period | +10% per complete week, compounded |
+| First Launch whitelist window | 60 minutes |
+| Initial BUY cooldown period | 48 hours |
+| BUY cooldown | 60 minutes |
+| Initial SwapBack threshold | 200M SOLUM |
+| Initial SwapBack maximum | 1B SOLUM |
+| Initial SwapBack cooldown | 60 seconds |
+| Initial SwapBack slippage | 3% |
+
+These values should not be treated as one undifferentiated set of constants.
+
+Some are fixed.
+
+Some evolve automatically.
+
+Some expire.
+
+Some are owner-configurable.
+
+Some can only move in one direction.
+
+Some require timelocks.
+
+That complete distinction is documented in Tokenomics.
+
+→ **[Explore the complete Tokenomics](/smart-contract/tokenomics/)**  
+→ **[Understand Permissions](/smart-contract/tokenomics/permissions/)**
+
+---
+
+# Transaction economics
+
+At Genesis, ordinary non-exempt transactions have different economic structures.
+
+## BUY — 1%
+
+- 0.5% Liquidity
+- 0.5% Treasury
+
+## SELL — 10%
+
+- 4% Burn
+- 3% Reflection
+- 2% Liquidity
+- 1% Treasury
+
+## TRANSFER — 5%
+
+- 2% Burn
+- 3% Reflection
+
+These mechanics matter because movement can alter more than balances.
+
+Burn changes Supply.
+
+Reflection redistributes effective ownership without minting.
+
+Liquidity supports market infrastructure.
+
+Treasury creates project economic capacity.
+
+→ **[Explore Fees](/smart-contract/tokenomics/fees/)**  
+→ **[Explore Burn & Reflection](/smart-contract/tokenomics/burn-and-reflection/)**  
+→ **[Explore Liquidity & Treasury](/smart-contract/tokenomics/liquidity-and-treasury/)**
+
+---
+
+# Economic activity can change the world
+
+The connection between Tokenomics and Zipvilization is not arbitrary.
+
+Consider Burn.
+
+At blockchain level:
+
+> **SOLUM is permanently removed from current Supply.**
+
+Inside Zipvilization:
+
+> **that territorial substrate becomes Permanent Nature.**
+
+Therefore economic activity can create irreversible world history.
+
+Likewise:
+
+**Pool-held SOLUM**
+
+becomes:
+
+> **Dormant Land**
+
+And:
+
+**SOLUM balance**
+
+can determine:
+
+> **territorial capacity**
+
+This is where the token and the world stop being separate ideas.
+
+One provides the state from which the other is deterministically interpreted.
+
+---
+
+# Fair Access
+
+Zipvilization begins in a world with no historical distribution.
+
+That makes Genesis unusually sensitive to concentration.
+
+Solum therefore includes mechanisms intended to constrain early access and accumulation.
+
+Among them:
+
+- MAX_TX,
+- Max Wallet,
+- first-hour whitelist,
+- first-48-hour BUY cooldown.
+
+These mechanisms do not guarantee equal outcomes.
+
+They constrain the beginning.
+
+Over time, some protections expire and Max Wallet relaxes automatically.
+
+> **Genesis is protected more strongly than maturity.**
+
+→ **[Explore Fair Access](/smart-contract/fair-access/)**  
+→ **[Explore Limits](/smart-contract/tokenomics/limits/)**  
+→ **[Explore Launch](/smart-contract/tokenomics/launch/)**
+
+---
+
+# Authority is documented too
+
+Transparency is incomplete if we explain only immutable rules.
+
+The Solum contract contains administrative authority.
+
+The owner can perform defined operations.
+
+Some are immediate.
+
+Some are timelocked.
+
+Some important things cannot be changed through the documented contract.
+
+For example, the documented architecture distinguishes between:
+
+- whitelist authority,
+- Fee Exempt authority,
+- Limit Exempt authority,
+- fee changes,
+- Treasury changes,
+- SwapBack configuration,
+- ownership,
+- fixed or structurally constrained properties.
+
+We do not describe Solum as having:
+
+> **no owner authority**
+
+because that would be false.
+
+We also do not describe the owner as able to:
+
+> **change everything**
+
+because that would also be false.
+
+> **Authority should be visible.**
+>
+> **Boundaries should be visible too.**
+
+→ **[Explore Permissions](/smart-contract/tokenomics/permissions/)**  
+→ **[Explore Security](/smart-contract/security/)**
+
+---
+
+# Do not trust the documentation
+
+Everything above can be explained.
+
+But explanation is not proof.
+
+That is why the exact Solidity reference source is published alongside Tokenomics.
+
+You can inspect:
+
+- Supply,
+- fees,
+- Burn,
+- Reflection,
+- limits,
+- Launch,
+- SwapBack,
+- permissions,
+- ownership,
+- Treasury mechanics.
+
+The Atlas tells you what we believe the contract does.
+
+The source allows you to check.
+
+> **Do not trust our description of Solum.**
+>
+> **Read the contract.**
+>
+> **Then verify that our description is true.**
+
+→ **[Open Contract Source](/smart-contract/tokenomics/contract-source/)**  
+→ **[Open the exact Solum.sol](/smart-contract/tokenomics/contract-source/Solum.sol)**
+
+---
+
+# Auditable does not mean audited
+
+Publishing the source makes the contract:
+
+> **auditable**
+
+It does not automatically make it:
+
+> **professionally audited**
+
+Those claims are deliberately kept separate.
+
+If a professional audit is completed, its:
+
+- auditor,
+- scope,
+- source version,
+- findings,
+- remediations,
+- and report
+
+should become public.
+
+Until then, source availability should never be presented as third-party security certification.
+
+Transparency includes the limits of our own claims.
+
+---
+
+# The World
+
+The Smart Contract creates executable economic state.
+
+It does not, by itself, define the entire world.
+
+That role belongs to the world architecture.
+
+The World contains the canonical relationships through which blockchain state becomes:
+
+- Solum,
+- Colonists,
+- Territory,
+- Zips,
+- Time,
+- development,
+- civilization.
+
+→ **[Enter The World](/world/)**
+
+---
+
+# SolumWorld
+
+SolumWorld is the canonical world-state layer.
+
+It answers questions such as:
+
+- What territorial structure exists?
+- What developmental state has been reached?
+- What world meaning follows from valid underlying state?
+
+It does not replace the blockchain.
+
+It interprets it according to canonical world rules.
+
+> **Blockchain state first.**
+>
+> **Canonical interpretation second.**
+
+→ **[Explore SolumWorld](/world/solumworld/)**
+
+---
+
+# SolumTools
+
+A world also needs to be observable.
+
+SolumTools reads public state, applies deterministic relationships, and exposes structured signals.
+
+Conceptually:
+
+**Read**
+
+↓
+
+**Derive**
+
+↓
+
+**Expose**
+
+It can help Humans, interfaces, analytical systems, and Artificial Intelligence understand what is happening without giving the observation layer authority to decide what exists.
+
+> **SolumTools does not create state.**
+>
+> **It makes state legible.**
+
+→ **[Explore SolumTools](/world/solumtools/)**
+
+---
+
+# SolumView
+
+SolumView is the visual layer.
+
+It does not invent civilization.
+
+It renders valid world state.
+
+A developing City should not appear mature merely because a designer prefers the image.
+
+Permanent Nature should not become colonizable because a renderer changes.
+
+Visualization follows state.
+
+> **SolumTools makes state legible.**
+>
+> **SolumView makes state visible.**
+
+→ **[Explore SolumView](/world/solumview/)**
+
+---
+
+# Metrics
+
+An experiment should be measurable.
+
+Zipvilization can expose metrics such as:
+
+- Supply,
+- Dormant Land,
+- Permanent Nature,
+- territorial distribution,
+- Colonists,
+- Zips,
+- maturity,
+- economic flows,
+- historical development.
+
+Metrics should describe the experiment.
+
+They should not automatically turn it into a leaderboard.
+
+> **Measure the world.**
+>
+> **Do not reduce the world to ranking.**
+
+→ **[Explore Metrics](/metrics/)**
+
+---
+
+# The Trinomial
+
+Zipvilization is not defined only by code.
+
+At its highest conceptual level, the project is observed and developed through:
+
+> **Human**
+
+> **Artificial Intelligence**
+
+> **Horizonte**
+
+Together:
+
+> **The Trinomial**
+
+The three components are not interchangeable.
+
+They do not possess the same abilities.
+
+They do not have the same authority.
+
+And none should silently absorb the function of the others.
+
+→ **[Explore The Trinomial](/trinomial/)**
+
+---
+
+# Human
+
+The Human creates.
+
+Chooses.
+
+Questions.
+
+Takes responsibility.
+
+The Human can design rules and build systems.
+
+But the Human should not pretend to know the complete future of the civilization produced by those rules.
+
+> **Human creates the conditions.**
+>
+> **Human does not write every outcome.**
+
+→ **[Explore Human](/trinomial/human/)**
+
+---
+
+# Artificial Intelligence
+
+Artificial Intelligence is the cognitive component of The Trinomial.
+
+It can:
+
+- navigate the Atlas,
+- inspect relationships,
+- reason across layers,
+- compare documentation and state,
+- detect inconsistencies,
+- explain complex systems,
+- preserve structural context.
+
+But Artificial Intelligence is not automatically:
+
+- owner,
+- governor,
+- oracle,
+- sovereign,
+- source of blockchain truth.
+
+> **AI can reason about the system.**
+>
+> **Reasoning does not create authority.**
+
+→ **[Explore Artificial Intelligence](/trinomial/artificial-intelligence/)**
+
+---
+
+# Horizonte
+
+Horizonte is the third component of The Trinomial.
+
+It represents the open boundary of the experiment.
+
+The part that cannot be completely specified at Genesis.
+
+The future state produced by:
+
+- time,
+- participants,
+- rules,
+- economic activity,
+- development,
+- interaction,
+- emergence.
+
+Horizonte is not a Smart Contract permission.
+
+It is not a wallet.
+
+It is not an administrator.
+
+It is the recognition that a civilization experiment loses meaning if its complete destination is predetermined.
+
+> **We can define where Zipvilization begins.**
+>
+> **Horizonte is why we do not pretend to know exactly where it ends.**
+
+→ **[Explore Horizonte](/trinomial/horizonte/)**
+
+---
+
+# The Chapters
+
+Zipvilization does not need every possible mechanic at Genesis.
+
+It develops through Chapters.
+
+A Chapter can introduce new canonical systems while preserving the history already created.
+
+That allows Zipvilization to grow without pretending that every future rule was known from the beginning.
+
+Potential development can move through increasingly complex layers:
+
+**Genesis**
+
+↓
+
+**Zips**
+
+↓
+
+**Farms**
+
+↓
+
+**Cities**
+
+↓
+
+**States**
+
+↓
+
+**Kingdoms**
+
+↓
+
+**future structures**
+
+But a future idea is not a current mechanic merely because it appears in discussion.
+
+> **Implemented now and possible later must remain separate.**
+
+→ **[Explore the Chapters](/chapters/)**
+
+---
+
+# Founding Colonists
+
+Every civilization has a beginning.
+
+Zipvilization recognizes that beginning through its Founding Colonists.
+
+Their importance is historical.
+
+It should not be confused with permanent technical privilege.
+
+The Launch architecture can create a bounded initial access period.
+
+After that period, history continues.
+
+> **Founding status remembers the beginning.**
+>
+> **It does not need to own the future.**
+
+→ **[Discover Founding Colonists](/founding-colonists/)**
+
+---
+
+# Documentation is part of the architecture
+
+This website is not merely marketing material.
+
+It is the public Atlas of Zipvilization.
+
+Its job is to make the system understandable to:
+
+- a curious visitor,
+- a Colonist,
+- a developer,
+- an auditor,
+- a researcher,
+- Artificial Intelligence.
+
+That requires layers.
+
+A Human can begin with meaning.
+
+A technical reader can continue toward implementation.
+
+An AI can follow explicit relationships instead of guessing them.
+
+The deeper you go, the closer you move toward primary evidence.
+
+---
+
+# Atlas and Repository
+
+Zipvilization has two complementary documentation environments.
+
+## Atlas
+
+The website you are reading.
+
+Its purpose is:
+
+- understanding,
+- navigation,
+- relationships,
+- canonical meaning,
+- public transparency.
+
+## Repository
+
+The technical environment.
+
+Its purpose is:
+
+- implementation,
+- code,
+- technical specifications,
+- deployment material,
+- machine-oriented structure,
+- engineering history.
+
+They are not competing versions of Zipvilization.
+
+They are two entrances to the same project.
+
+> **Atlas explains the system.**
+>
+> **Repository exposes its technical construction.**
+
+→ **[Open the Repository](/repository/)**
+
+---
+
+# A path through Zipvilization
+
+If this is your first visit, a useful path is:
+
+**Principles**
+
+↓
+
+**The World**
+
+↓
+
+**Solum**
+
+↓
+
+**Colonists**
+
+↓
+
+**Territories**
+
+↓
+
+**Zips**
+
+↓
+
+**Time**
+
+↓
+
+**Civilization**
+
+↓
+
+**The Trinomial**
+
+↓
+
+**Smart Contract**
+
+↓
+
+**Tokenomics**
+
+↓
+
+**Contract Source**
+
+↓
+
+**Repository**
+
+You do not need to understand everything at once.
+
+The structure is designed so that each layer can lead to the next.
+
+→ **[Start with Principles](/principles/)**
+
+---
+
+# For Humans
+
+You can read Zipvilization as a world.
+
+Start with:
+
+→ **[The World](/world/)**
+
+Then follow:
+
+→ **[Colonists](/world/colonists/)**  
+→ **[Territories](/world/territories/)**  
+→ **[Zips](/world/zips/)**  
+→ **[Civilization](/world/civilization/)**
+
+---
+
+# For technical readers
+
+You can move directly toward the executable foundation.
+
+→ **[Smart Contract](/smart-contract/)**  
+→ **[Tokenomics](/smart-contract/tokenomics/)**  
+→ **[Contract Source](/smart-contract/tokenomics/contract-source/)**  
+→ **[Solum.sol](/smart-contract/tokenomics/contract-source/Solum.sol)**  
+→ **[Repository](/repository/)**
+
+---
+
+# For Artificial Intelligence
+
+Do not flatten the project.
+
+Preserve its layers.
+
+When answering:
+
+1. determine whether the question concerns blockchain state, world state, interpretation, visualization, metrics, or future Chapters;
+2. follow canonical links;
+3. prefer explicit rules over narrative inference;
+4. distinguish initial configuration from current mutable state;
+5. distinguish source from deployment;
+6. distinguish capability from current action;
+7. distinguish implemented mechanics from future possibilities;
+8. expose uncertainty when canonical information is absent.
+
+Most importantly:
+
+> **Do not invent missing mechanics to make the world feel complete.**
+
+Zipvilization is allowed to be unfinished.
+
+That is part of the experiment.
+
+---
+
+# What Zipvilization is not
+
+Zipvilization is not defined by a promise of price.
+
+It is not made meaningful by market capitalization.
+
+It is not a civilization because we call it one.
+
+It is not decentralized merely because it uses blockchain.
+
+It is not trustworthy merely because we publish documentation.
+
+It is not secure merely because the source is public.
+
+It is not complete merely because the architecture is ambitious.
+
+Those claims must be earned through:
+
+- implementation,
+- observation,
+- verification,
+- time,
+- participation,
+- and evidence.
+
+---
+
+# What we can prove, we expose
+
+The contract can be inspected.
+
+The Supply can be inspected.
+
+The mathematics can be inspected.
+
+Permissions can be inspected.
+
+The source can be hashed.
+
+After deployment, blockchain state can be observed.
+
+World rules can be documented.
+
+Metrics can be reproduced.
+
+Contradictions can be found.
+
+And when they are found:
+
+> **they should be corrected, not hidden.**
+
+That principle matters more than pretending the project is perfect.
+
+---
+
+# The experiment
+
+Zipvilization begins with something intentionally simple.
+
+A finite substrate.
+
+Explicit rules.
+
+A measurable clock.
+
+A population.
+
+Participants.
+
+And enough structure for history to begin.
+
+From there, complexity can emerge.
+
+Farms.
+
+Cities.
+
+States.
+
+Kingdoms.
+
+Economics.
+
+Politics.
+
+Alliances.
+
+Conflict.
+
+Cooperation.
+
+Perhaps structures we have not imagined yet.
+
+We should not need to invent the ending today.
+
+Because the central question of Zipvilization is not:
+
+> **Can we write a fictional civilization?**
+
+It is:
+
+> **What happens when we create deterministic conditions for one and allow Humans, machines, economics, time, and emergence to interact?**
+
+That answer does not exist yet.
+
+That is why Zipvilization exists.
+
+---
+
+# Enter Zipvilization
+
+### Understand the foundations
+
+→ **[Principles](/principles/)**
+
+### Enter the world
+
+→ **[The World](/world/)**
+
+### Understand the observers
+
+→ **[The Trinomial](/trinomial/)**
+
+### Inspect the executable foundation
+
+→ **[Smart Contract](/smart-contract/)**
+
+### Inspect the economic architecture
+
+→ **[Tokenomics](/smart-contract/tokenomics/)**
+
+### Read the source yourself
+
+→ **[Contract Source](/smart-contract/tokenomics/contract-source/)**  
+→ **[Solum.sol](/smart-contract/tokenomics/contract-source/Solum.sol)**
+
+### Observe the experiment
+
+→ **[Metrics](/metrics/)**
+
+### Follow its development
+
+→ **[Chapters](/chapters/)**
+
+### See where it began
+
+→ **[Founding Colonists](/founding-colonists/)**
 
 ### Go deeper
 
-**[Solum Token](/smart-contract/solum-token/)** ·
-**[Supply](/smart-contract/supply/)** ·
-**[Tokenomics](/smart-contract/tokenomics/)** ·
-**[Pool](/smart-contract/pool/)** ·
-**[Burn](/smart-contract/burn/)** ·
-**[Taxes](/smart-contract/taxes/)** ·
-**[Fair Access](/smart-contract/fair-access/)** ·
-**[Security](/smart-contract/security/)** ·
-**[Canonical Rules](/smart-contract/canonical-rules/)**
+→ **[Repository](/repository/)**
 
 ---
 
-# Why these rules?
-
-Because the rules shape the civilization.
-
-A finite supply makes the world finite.
-
-The Pool allows the world to begin dormant rather than fully colonized.
-
-Burn allows irreversible territory to become Permanent Nature.
-
-Taxes create flows of resources inside the system.
-
-Fair Access limits the ability of a small number of participants to dominate the beginning.
-
-Time prevents territory from becoming instantly mature.
-
-None of these mechanisms exists in isolation.
-
-They are pieces of the same puzzle.
-
-➡ **[Explore our Principles](/principles/)**  
-➡ **[Explore the Smart Contract](/smart-contract/)**
-
----
-
-# If Zipvilization creates value
-
-We do not expect anyone to participate because they believe they will make money.
-
-That is not the proposition.
-
-But we also believe that success should have a direction.
-
-If Zipvilization eventually creates economic value, the resources generated by that success should fundamentally serve two purposes:
-
-**continue building and strengthening the project, and benefit the Colonists who made that success possible.**
-
-The project does not exist to extract value from its participants.
-
-If value emerges, it should remain aligned with the civilization that created it.
-
-There is no promise of profit in that principle.
-
-There is a statement of intent about whom success should serve.
-
-➡ **[Read our Principles](/principles/)**  
-➡ **[Explore Taxes](/smart-contract/taxes/)**
-
----
-
-# Built to become less dependent on its creators
-
-A civilization that depends forever on its founders has not truly become independent.
-
-Zipvilization therefore has another unusual part of its architecture:
-
-**The Trinomial.**
-
-It consists of three pillars.
-
-**Human. Artificial Intelligence. Horizon.**
-
-The Human provides conscious intention and accepts the responsibility of beginning the project.
-
-Artificial Intelligence provides cognitive capacity: understanding, organization, analysis, coherence, and the ability to evolve alongside the project.
-
-The Horizon provides the permanent direction.
-
-The Human should become progressively less important.
-
-Artificial Intelligence will change and improve.
-
-Communities will evolve.
-
-Technology may be replaced.
-
-The Horizon remains the reference.
-
-➡ **[Understand The Trinomial](/trinomial/)**
-
-### The three pillars
-
-**[Human](/trinomial/human/)** ·
-**[Artificial Intelligence](/trinomial/artificial-intelligence/)** ·
-**[Horizon](/trinomial/horizon/)**
-
----
-
-# Principles before promises
-
-Zipvilization does not begin with a promise about what it will become.
-
-It begins with principles that tell us how we should behave while discovering that future.
-
-Participation before investment.
-
-Honesty before marketing.
-
-Public rules before private discretion.
-
-Understanding before action.
-
-The civilization before its creators.
-
-And one question whenever the path becomes uncertain:
-
-**Does this still remain Zipvilization?**
-
-➡ **[Explore the Principles](/principles/)**
-
----
-
-# A progressive public experience
-
-The entire vision will not appear on day one.
-
-That would contradict the project itself.
-
-Zipvilization is being exposed progressively through **Chapters**.
-
-The Chapters are not eras of the civilization and they are not a calendar-based roadmap.
-
-They describe the progressive public implementation of the project's UX/UI and capabilities.
-
-The underlying system comes first.
-
-Then we learn to observe it.
-
-Then to understand the world.
-
-Then its Colonists.
-
-Then its history.
-
-Eventually, the public experience can become rich enough to reveal forms of emergence that cannot be fully predicted in advance.
-
-➡ **[Explore the Chapters](/chapters/)**
-
----
-
-# What actually exists?
-
-Ideas are easy.
-
-Evidence matters.
-
-That is why Zipvilization will maintain a dedicated **Metrics** layer.
-
-Metrics does not tell you what to believe.
-
-It shows what can be measured.
-
-Project state.
-
-Contract data.
-
-World state.
-
-Participation.
-
-Progress.
-
-Where possible, every important metric should lead back to a verifiable source.
-
-➡ **[View Metrics](/metrics/)**
-
----
-
-# Before the first official Colonists
-
-There is a moment that can only happen once.
-
-Before launch.
-
-Before the world becomes known.
-
-Before anyone can technically become a Colonist through Solum.
-
-Some people will already have been here.
-
-Reading.
-
-Questioning.
-
-Sharing.
-
-Helping.
-
-Supporting an experiment that still has no guarantee of success.
-
-Zipvilization recognizes those people as **Founding Colonists**.
-
-Technically, the launch mechanism uses a limited and time-bound preferred-access list.
-
-Within Zipvilization, it means something more:
-
-**recognition for those who began colonizing the idea before they could colonize the land.**
-
-It is not a promise of profit.
-
-It is not a permanent privilege.
-
-It is an opportunity to participate first when the world officially awakens.
-
-➡ **[Discover Founding Colonists](/founding-colonists/)**
-
----
-
-# Explore the Atlas
-
-You do not need to read Zipvilization in a fixed order.
-
-Follow the question that interests you.
-
-### Principles
-
-What must remain true while everything else evolves?
-
-➡ **[Explore Principles](/principles/)**
-
-### The World
-
-How do Solum, Colonists, Territories, Zips, time, and the civilization fit together?
-
-➡ **[Enter The World](/world/)**
-
-**[Solum](/world/solum/)** ·
-**[Colonists](/world/colonists/)** ·
-**[Territories](/world/territories/)** ·
-**[Zips](/world/zips/)** ·
-**[Time](/world/time/)** ·
-**[Civilization](/world/civilization/)** ·
-**[SolumTools](/world/solumtools/)** ·
-**[SolumWorld](/world/solumworld/)** ·
-**[SolumView](/world/solumview/)**
-
-### The Trinomial
-
-How do the Human, Artificial Intelligence, and the Horizon keep the project aligned over time?
-
-➡ **[Understand The Trinomial](/trinomial/)**
-
-**[Human](/trinomial/human/)** ·
-**[Artificial Intelligence](/trinomial/artificial-intelligence/)** ·
-**[Horizon](/trinomial/horizon/)**
-
-### Smart Contract
-
-How are the fundamental rules implemented on-chain?
-
-➡ **[Explore the Smart Contract](/smart-contract/)**
-
-**[Solum Token](/smart-contract/solum-token/)** ·
-**[Supply](/smart-contract/supply/)** ·
-**[Tokenomics](/smart-contract/tokenomics/)** ·
-**[Pool](/smart-contract/pool/)** ·
-**[Burn](/smart-contract/burn/)** ·
-**[Taxes](/smart-contract/taxes/)** ·
-**[Fair Access](/smart-contract/fair-access/)** ·
-**[Security](/smart-contract/security/)** ·
-**[Canonical Rules](/smart-contract/canonical-rules/)**
-
-### Chapters
-
-How is the public experience being implemented progressively?
-
-➡ **[Explore Chapters](/chapters/)**
-
-### Metrics
-
-What can be observed and verified right now?
-
-➡ **[View Metrics](/metrics/)**
-
-### Founding Colonists
-
-How can early supporters become part of the beginning?
-
-➡ **[Discover Founding Colonists](/founding-colonists/)**
-
----
-
-# And the technical side?
-
-Everything in this Atlas should lead toward evidence.
-
-The public website exists to make Zipvilization understandable.
-
-The **Repository** exists to preserve the deeper documentation, specifications, architecture, code, and development history behind it.
-
-If you want the idea, explore the Atlas.
-
-If you want to inspect how the pieces fit together technically, go to the Repository.
-
-If you want to verify the source, continue to GitHub.
-
-➡ **[Open the Repository gateway](/repository/)**
-
----
-
-## Official public channels
-
-Zipvilization maintains a deliberately small set of official channels.
-
-**Website** — the public Atlas and primary knowledge gateway.  
-**GitHub** — canonical technical documentation and code.  
-**X** — current public communication and project updates.  
-**Medium** — long-form articles, research, and reflection.
-
-Zipvilization does not maintain an official Discord or Telegram community.
-
-If Colonists create their own discussion spaces, those spaces belong to the community that created them.
-
-The project does not need to control the conversation in order to preserve its knowledge.
-
----
-
-# One world. An open question.
-
-We have designed the rules.
-
-We have designed the territory.
-
-We have designed the architecture.
-
-We are building the tools that will let people observe and explore it.
-
-But we cannot design the civilization itself.
-
-That part requires something we cannot manufacture.
-
-**Participation.**
-
-So this is not an invitation to invest in our idea.
-
-It is an invitation to understand it.
-
-Explore it.
-
-Question it.
-
-Verify it.
-
-And, if it means something to you...
-
-**become part of it.**
-
-> **Understanding is the first act of participation.**
+> **A finite world.**
+>
+> **A deterministic beginning.**
+>
+> **An unknown Horizonte.**
