@@ -719,7 +719,7 @@ This is one of the reasons **The Trinomial** exists.
 
 → **[Understand The Trinomial](/trinomial/)**  
 → **[Meet the Human](/trinomial/human/)**  
-→ **[Discover Horizon](/trinomial/horizon/)**
+→ **[Discover Horizon](/trinomial/horizonte/)**
 
 ---
 
