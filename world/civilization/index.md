@@ -398,7 +398,7 @@ We should not invent future uses before they are implemented.
 
 But neither should we hide the fact that Tax is one of the mechanisms capable of connecting blockchain economics with future territorial organization.
 
-→ **[Explore Tax](/smart-contract/tax/)**  
+→ **[Explore Tax](/smart-contract/taxes/)**  
 → **[Explore the Smart Contract](/smart-contract/)**
 
 ---
