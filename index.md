@@ -1422,3 +1422,19 @@ That is why Zipvilization exists.
 `Machine: read recursively.`
 
 `Ω`
+---
+
+### `// ONE SMALL PROBLEM`
+
+Everything seems serious.
+
+Structured.  
+Mathematical.  
+Deterministic.  
+Orderly.
+
+Perhaps it isn't.
+
+**[Zips will be Zips →](/spoiler/)**
+
+`[THIS MAY BECOME A PROBLEM]`
