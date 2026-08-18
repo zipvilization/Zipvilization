@@ -3,59 +3,79 @@ layout: default
 title: "Chapter 0 — Genesis"
 parent: Chapters
 nav_order: 1
-description: "Genesis defines the initial conditions of Zipvilization: Solum, Dormant Land, Colonists, Territory, Bloch, Zips, canonical time, and the first process of territorial development."
+description: "Genesis is the first structural state of Zipvilization: Solum is deployed, the finite substrate exists on-chain, and the experiment begins with real executable state."
 permalink: /chapters/genesis/
 ---
 
 # Chapter 0 — Genesis
 
-Every civilization needs a beginning.
+Before there can be a world, something must exist.
 
-Zipvilization begins with:
+Before Territory.
 
-> **Genesis**
+Before Zips.
 
-Genesis does not attempt to define the civilization that will eventually exist.
+Before visualization.
 
-It defines the conditions from which that civilization can begin.
+Before history.
 
-The land exists.
+Before civilization.
 
-The rules exist.
+There is:
 
-Time begins to matter.
+> **Solum**
 
-Colonists can enter.
+Chapter 0 is Genesis.
 
-Territory can develop.
-
-Zips can appear.
-
-History can begin.
-
-> **Genesis defines the beginning.**
->
-> **It does not define the outcome.**
+The moment Zipvilization stops existing only as a design and begins existing as executable state.
 
 ---
 
-# Before civilization
+# Exist without pretending
 
-At Genesis there are no mature Cities.
+Genesis is deliberately limited.
 
-No States.
+It does not need to look like a civilization.
 
-No Kingdoms.
+It does not need to simulate one.
 
-No accumulated history.
+It does not need to pretend that systems exist before they have been built.
 
-No established civilization.
+Its first responsibility is simpler and more important:
 
-There is something more fundamental:
+> **exist correctly on-chain**
 
-> **a finite world capable of developing one.**
+This is the foundation upon which every later Chapter depends.
 
-The original territorial substrate is Solum.
+---
+
+# Deployment
+
+Genesis begins with the deployment of the Solum Smart Contract.
+
+Deployment creates something fundamentally different from documentation.
+
+Before deployment:
+
+`SPECIFICATION`
+
+After deployment:
+
+`EXECUTABLE STATE`
+
+The distinction matters.
+
+A document can describe rules.
+
+A deployed contract can enforce the rules that actually exist in its code.
+
+From Genesis onward, Zipvilization has a technical source of observable blockchain state.
+
+---
+
+# Solum
+
+Solum is the territorial substrate of Zipvilization.
 
 Its canonical relationship is:
 
@@ -65,439 +85,472 @@ Initial Supply:
 
 > **100,000,000,000,000 SOLUM**
 
-Therefore the original world begins with:
+Therefore the original territorial substrate represents:
 
 > **100,000,000,000,000 m²**
 
-The substrate exists before civilization.
+No additional SOLUM can be created through a post-deployment mint function in the documented contract.
+
+The original substrate is finite.
+
+That fact matters later.
+
+At Genesis, the important thing is that it becomes real.
 
 ---
 
-# Dormant Land
+# The first state
 
-Not all land begins as active Territory.
+Once deployed, the contract can contain observable facts.
 
-SOLUM held by the Pool is interpreted inside Zipvilization as:
+For example:
+
+- total Supply,
+- balances,
+- Pool balance,
+- ownership,
+- exemptions,
+- transaction limits,
+- fee configuration,
+- Treasury configuration,
+- liquidity configuration,
+- Launch state.
+
+These are not world metaphors.
+
+They are blockchain state.
+
+Chapter 0 protects that distinction.
+
+> **Blockchain truth comes before world interpretation.**
+
+---
+
+# The Pool
+
+Genesis includes the initial distribution architecture of Solum.
+
+SOLUM can exist inside the Pool before entering broader circulation.
+
+Later, Zipvilization can interpret Pool-held SOLUM as:
 
 > **Dormant Land**
 
-Dormant Land belongs to the world.
+But Genesis does not require that metaphor in order for the underlying state to exist.
 
-But it has not yet entered active colonization.
+At blockchain level:
 
-This creates one of the first state transitions of Genesis:
+> **the Pool holds SOLUM**
 
-**Dormant Land**
-
-↓
-
-**Colonization**
-
-↓
-
-**Colonist-controlled land**
-
-The world does not need to be created when a Colonist arrives.
-
-The world already exists.
-
-What changes is its state.
+World meaning comes later.
 
 ---
 
-# The Colonist
+# Transactions
 
-At blockchain level, an address can hold SOLUM.
+A deployed token that never interacts with reality has demonstrated very little.
 
-Inside Zipvilization, participation is interpreted through the concept of:
+Genesis therefore includes the possibility of actual movement.
 
-> **Colonist**
+SOLUM can move between valid participants according to the contract rules.
 
-A Colonist does not create new land.
+Transactions create observable consequences.
 
-A Colonist acquires capacity within the finite substrate that already exists.
+Balances change.
 
-The relationship remains explicit:
+Fees can apply.
 
-**Holder**
+Supply can change through Burn.
 
-↓
+Reflection can alter effective ownership.
 
-**SOLUM balance**
+Liquidity and Treasury mechanisms can operate where applicable.
 
-↓
-
-**territorial capacity**
-
-↓
-
-**Colonist**
-
-The blockchain identity remains the underlying technical state.
-
-Colonist is its world interpretation.
+The system begins producing state transitions.
 
 ---
 
-# Territory begins
+# Tokenomics are executable
 
-Solum gives territorial capacity.
+Solum does not begin with a blank economic model.
 
-But Territory is not simply a decorative representation of balance.
+Its documented contract contains explicit Tokenomics.
 
-It has structure.
+These include mechanisms for:
 
-The first canonical territorial unit is:
+- BUY fees,
+- SELL fees,
+- TRANSFER fees,
+- Burn,
+- Reflection,
+- Liquidity,
+- Treasury,
+- MAX_TX,
+- dynamic Max Wallet,
+- Launch protection,
+- whitelist access,
+- BUY cooldown,
+- SwapBack,
+- exemptions,
+- administrative permissions,
+- timelocked changes,
+- ownership.
 
-> **Farm**
+Genesis is where those mechanisms stop being merely described architecture and can become executable behaviour.
 
-A Farm contains:
-
-> **8 tiles**
-
-Its mature population is:
-
-> **8 Zips**
-
-And therefore:
-
-> **8 Zips = 1 byte**
-
-This is the first complete biological and informational territorial structure of Zipvilization.
-
----
-
-# Bloch
-
-Population does not appear instantaneously merely because sufficient Territory exists.
-
-Development requires time.
-
-The foundational container associated with that process is:
-
-> **Bloch**
-
-A Farm has one Bloch container.
-
-The container persists.
-
-It does not disappear when a Zip appears.
-
-Bloch provides the structural point from which the first population development can occur.
+> **Tokenomics begin as code before they become history.**
 
 ---
 
-# The first Zip
+# Burn
 
-Genesis eventually produces something the empty territorial substrate did not contain:
+Burn is particularly important because it creates irreversible state.
 
-> **an inhabitant**
+When SOLUM is burned:
 
-A Zip.
+> **current Supply decreases**
 
-The canonical developmental cycle is:
+That is a blockchain fact.
 
-> **65,536 blocks**
+Later, Zipvilization interprets burned territorial substrate as:
 
-After one complete cycle:
+> **Permanent Nature**
 
-> **1 Zip**
+But the order of authority remains important:
 
-The container remains.
-
-Time continues.
-
-Another complete cycle can produce another Zip.
-
-The progression is therefore:
-
-`0 Zips`
+`BURN`
 
 ↓
 
-`65,536 blocks`
+`ON-CHAIN STATE`
 
 ↓
 
-`1 Zip`
+`WORLD INTERPRETATION`
 
-↓
+The world meaning follows the valid state.
 
-`65,536 blocks`
-
-↓
-
-`2 Zips`
-
-↓
-
-`...`
-
-↓
-
-`8 Zips`
+It does not create it.
 
 ---
 
-# The first byte
+# Reflection
 
-A Farm reaches its mature population after eight complete cycles.
+Reflection redistributes economic value according to the contract mechanism.
 
-Therefore:
+It does not mint additional SOLUM.
 
-> **8 Zips = 1 byte**
+It does not expand the original territorial substrate.
 
-And:
+At Genesis, this distinction can already be verified through the contract.
 
-> **8 × 65,536 = 524,288 blocks**
+The world may later interpret the consequences of changing balances.
 
-So the first mature Farm represents a convergence of:
-
-**Territory**
-
-`8 tiles`
-
-+
-
-**Population**
-
-`8 Zips`
-
-+
-
-**Information**
-
-`1 byte`
-
-+
-
-**Time**
-
-`524,288 blocks`
-
-This relationship is deterministic.
-
-The history that those Zips may eventually create is not.
+But Genesis remains concerned with the underlying mechanism.
 
 ---
 
-# Canonical time
+# Limits
 
-Genesis establishes an important principle:
+Genesis also contains constraints.
 
-> **Blockchain progression is the canonical developmental clock.**
+Among the documented mechanisms are:
 
-Human time can be estimated.
+- MAX_TX,
+- dynamic Max Wallet,
+- Launch whitelist,
+- initial BUY cooldown.
 
-Hours can be calculated.
+These mechanisms are particularly relevant at the beginning because Genesis is the period in which initial distribution is most sensitive.
 
-Days can be approximated.
+They do not guarantee equal outcomes.
 
-But those translations are not the underlying clock.
+They constrain the initial conditions.
 
-The canonical unit is:
-
-> **blocks**
-
-Therefore:
-
-`1 biological cycle = 65,536 blocks`
-
-This prevents developmental history from being purchased instantaneously.
-
-A Colonist may acquire territorial capacity.
-
-The Colonist cannot acquire elapsed canonical time.
-
-> **Land can be acquired.**
+> **Genesis can constrain the beginning.**
 >
-> **History must happen.**
+> **It cannot predetermine the final distribution.**
 
 ---
 
-# Maturity
+# Authority exists
 
-Territorial capacity and territorial maturity are different concepts.
+Genesis must also expose an uncomfortable but necessary truth:
 
-A Colonist may possess enough SOLUM to support a larger territorial structure.
+the contract contains administrative authority.
 
-That does not mean its biological development is complete.
+The owner can perform defined operations.
 
-Genesis establishes the distinction:
+Some can be immediate.
 
-`CAPACITY ≠ MATURITY`
+Some require timelocks.
+
+Some properties cannot be changed through the documented contract.
+
+Transparency therefore requires both sides to remain visible:
+
+`WHAT THE OWNER CAN DO`
 
 and:
 
-`OWNERSHIP ≠ ELAPSED DEVELOPMENT`
+`WHAT THE OWNER CANNOT DO`
 
-Time remains part of the architecture.
+Zipvilization should not claim decentralization by hiding authority.
 
----
-
-# From one Zip to civilization
-
-Genesis does not create a finished civilization.
-
-It creates the conditions from which one can begin.
-
-The progression starts very small:
-
-**Solum**
-
-↓
-
-**Territory**
-
-↓
-
-**Bloch**
-
-↓
-
-**Time**
-
-↓
-
-**Zip**
-
-↓
-
-**Population**
-
-↓
-
-**Farm maturity**
-
-What happens beyond that requires larger structures and later Chapters.
+Nor should it exaggerate authority beyond what the contract actually permits.
 
 ---
 
-# What Genesis defines
+# Source before story
 
-Genesis establishes the foundations required by everything that follows.
+The exact Solidity source is part of the public technical evidence for Genesis.
 
-It defines or depends upon:
+Documentation can explain the contract.
 
-- finite Solum,
-- the relationship `1 SOLUM = 1 m²`,
-- Dormant Land,
-- Colonists,
-- territorial capacity,
-- Farms,
-- tiles,
-- Bloch,
+It cannot replace it.
+
+Therefore:
+
+> **Do not trust the description merely because it is written here.**
+
+Read the source.
+
+Inspect the deployment when available.
+
+Compare the state.
+
+Verify the claims.
+
+This principle begins at Chapter 0 and should survive every later Chapter.
+
+---
+
+# Auditable is not audited
+
+Source availability creates the possibility of inspection.
+
+It does not create third-party certification.
+
+Therefore:
+
+`PUBLIC SOURCE = AUDITABLE`
+
+but:
+
+`PUBLIC SOURCE ≠ PROFESSIONALLY AUDITED`
+
+If a professional audit exists in the future, its scope, version, findings and report should be identified explicitly.
+
+Genesis should never borrow trust from an audit that has not occurred.
+
+---
+
+# What does not exist yet
+
+This boundary is essential.
+
+At Chapter 0, Solum can exist without pretending that the complete Zipvilization world already exists operationally.
+
+Genesis does not require:
+
+- SolumTools,
+- complete world interpretation,
+- rendered Territory,
+- mature Colonists,
 - Zips,
-- canonical block time,
-- biological cycles,
-- maturity,
-- the relationship between Zips and bits,
-- the first byte.
+- Bloch development,
+- accumulated world history,
+- emergent civilization,
+- planetary governance.
 
-These are foundational conditions.
+Those concepts may already be specified elsewhere.
 
-Later Chapters may build upon them.
+But specification does not move them backward into Chapter 0.
 
-They should not silently rewrite them.
-
----
-
-# What Genesis does not define
-
-Genesis does not need to determine:
-
-- the complete economy of a mature civilization,
-- industrial systems,
-- State politics,
-- macroeconomic structures,
-- alliances,
-- wars,
-- Kingdom relations,
-- planetary governance,
-- the final behaviour of the Zips,
-- the final history of Zipvilization.
-
-Those questions belong beyond Genesis.
-
-Some may be addressed by later Chapters.
-
-Some may emerge through interaction.
-
-Some deliberately remain unresolved.
+> **Future architecture does not become Genesis state merely because we know about it.**
 
 ---
 
-# The Zips themselves
+# What Genesis proves
 
-Genesis can define:
+Genesis should establish that the foundational substrate can survive reality.
 
-when Zips can appear,
+The important questions are basic:
 
-how population develops,
+Does the contract exist?
 
-how many Zips constitute a mature Farm,
+Does Supply behave as specified?
 
-and how population relates to information.
+Can SOLUM move?
 
-It does not need to predetermine the life of every Zip.
+Do balances change correctly?
 
-Each Zip is an inhabitant.
+Does Burn reduce Supply?
 
-Not merely a population counter.
+Do fees behave correctly?
 
-Not merely a player-controlled unit.
+Do limits operate?
 
-The structure around them can be deterministic without requiring their individual histories to be predetermined.
+Do permissions correspond to the documented authority?
 
-> **The world provides the conditions.**
+Can the resulting state be independently inspected?
+
+If the answer is no, there is no reason to build a civilization interpretation on top of it.
+
+---
+
+# Why Chapter 0 comes first
+
+It would be easy to begin with the attractive parts.
+
+A world.
+
+Maps.
+
+Zips.
+
+Cities.
+
+Civilization.
+
+But doing so would reverse the architecture.
+
+Zipvilization begins from the bottom.
+
+`CONTRACT`
+
+↓
+
+`STATE`
+
+↓
+
+`OBSERVATION`
+
+↓
+
+`WORLD`
+
+↓
+
+`HISTORY`
+
+↓
+
+`EMERGENCE`
+
+The visible civilization must ultimately remain connected to the substrate beneath it.
+
+---
+
+# Human at Genesis
+
+The founding Human has substantial responsibility at this stage.
+
+The Human can:
+
+- design,
+- deploy,
+- configure,
+- document,
+- verify,
+- correct development errors,
+- expose authority,
+- define the initial conditions.
+
+That power should not be hidden.
+
+Chapter 0 is necessarily close to the founding Human because the system has not yet developed the later structures through which responsibility may become distributed.
+
+But Human authority at Genesis does not imply that every future outcome should remain under founding control forever.
+
+That question belongs much later.
+
+---
+
+# Artificial Intelligence at Genesis
+
+Artificial Intelligence can already have a role.
+
+Not as governor.
+
+Not as oracle.
+
+Not as source of blockchain truth.
+
+Its role is cognitive.
+
+AI can:
+
+- inspect documentation,
+- read source,
+- compare claims,
+- identify inconsistencies,
+- explain mechanisms,
+- navigate relationships,
+- help Humans understand the system.
+
+The contract remains the executable source.
+
+> **AI can inspect Genesis.**
 >
-> **The Zips provide the lives.**
+> **AI does not create Genesis by describing it.**
 
 ---
 
-# Observation begins
+# SolumTools comes next
 
-With the first Zip, something fundamental changes.
+Once real state exists, a new problem appears.
 
-Before:
+The blockchain contains truth.
 
-there was state.
+But raw truth is not necessarily easy to read.
 
-After:
+Addresses.
 
-there is something to observe living inside that state.
+Events.
 
-This is the beginning of the observational character of Zipvilization.
+Balances.
 
-The question slowly changes from:
+Transactions.
 
-> **What exists?**
+Blocks.
 
-to:
+Supply.
 
-> **What is happening?**
+Burn.
+
+Configuration.
+
+All of it exists.
+
+Now it must become legible.
+
+That creates the condition for the next Chapter:
+
+> **Observability**
+
+And the layer designed to support it:
+
+> **SolumTools**
 
 ---
 
-# Genesis and Horizonte
+# Chapter boundary
 
-Genesis and Horizonte sit at opposite conceptual boundaries.
+Chapter 0 asks:
 
-Genesis asks:
+> **Does Zipvilization exist?**
 
-> **Where do we begin?**
+Chapter 1 will ask:
 
-Horizonte asks:
+> **Can we reliably observe what exists?**
 
-> **What can this become?**
+This boundary must remain clear.
 
-Genesis must therefore be precise.
+Genesis does not need to explain the world.
 
-Horizonte must remain open.
-
-Between them:
-
-> **history happens.**
+It needs to give the world something real to stand on.
 
 ---
 
@@ -507,58 +560,68 @@ Between them:
 
 `NAME ..................... GENESIS`
 
-`WORLD SUBSTRATE .......... DEFINED`
+`PRIMARY VERB ............. EXIST`
 
-`TERRITORIAL FOUNDATION ... DEFINED`
+`FOUNDATIONAL LAYER ....... SOLUM`
 
-`CANONICAL TIME ........... DEFINED`
+`SOURCE ................... SMART CONTRACT`
 
-`BLOCH .................... DEFINED`
+`STATE .................... ON-CHAIN`
 
-`ZIP DEVELOPMENT .......... DEFINED`
+`SUPPLY ................... FINITE`
 
-`FARM MATURITY ............ DEFINED`
+`TRANSACTIONS ............. EXECUTABLE`
 
-`FUTURE HISTORY ........... OPEN`
+`TOKENOMICS ............... CONTRACT-DEFINED`
+
+`WORLD INTERPRETATION ..... NOT REQUIRED YET`
+
+`VISUALIZATION ............ NOT REQUIRED YET`
+
+`HISTORY .................. NOT YET`
+
+`EMERGENCE ................ NOT YET`
 
 `HORIZON .................. OPEN`
 
 ---
 
-# The beginning
+# Genesis
 
-At first there is land.
+There is no City.
 
-Then a Colonist.
+There is no State.
 
-Then Territory.
+There is no Kingdom.
 
-Then Bloch.
+There may not even be anything recognizable as a world yet.
 
-Then time.
+There is code.
 
-Then:
+There are rules.
 
-> **one Zip.**
+There is a finite substrate.
 
-Nothing resembling a civilization needs to exist yet.
+There is state.
 
-But something has begun.
+And for the first time:
 
-And from that moment forward, the world can accumulate something it did not possess at Genesis:
+> **something exists that does not depend on us merely saying that it exists.**
 
-> **history.**
+That is enough.
+
+That is Genesis.
 
 ---
 
 → **[Explore Solum](/world/solum/)**  
-→ **[Explore Colonists](/world/colonists/)**  
-→ **[Explore Territories](/world/territories/)**  
-→ **[Discover Zips](/world/zips/)**  
-→ **[Understand Time](/world/time/)**
+→ **[Explore the Solum Token](/smart-contract/solum-token/)**  
+→ **[Explore Tokenomics](/smart-contract/tokenomics/)**  
+→ **[Open Contract Source](/smart-contract/tokenomics/contract-source/)**  
+→ **[Continue to Chapter 1 — Observability](/chapters/observability/)**
 
 ---
 
-**Genesis defines the conditions.**
+**Before meaning, state.**
 
-**What happens next requires another Chapter.**
+**Before civilization, existence.**
