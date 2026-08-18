@@ -884,7 +884,7 @@ Metrics should help answer:
 
 ## What economic state exists?
 
-→ Active contract and Chapter metrics
+→ Active contract and canonical economic metrics
 
 The purpose is not maximum data.
 
