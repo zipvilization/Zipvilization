@@ -723,40 +723,130 @@ The categories provide the initial structure.
 
 ---
 
-# Chapters will create new metrics
+# Civilization will create new metrics
 
-As new mechanics become active, new measurements become possible.
+The metrics available at any moment depend on what Zipvilization can actually observe and what canonical systems exist.
 
-A production Chapter may create:
+Genesis begins with relatively simple measurable state.
 
-- production volume,
-- resource distribution,
-- specialization.
+As new structural layers become meaningful, new classes of observation become possible.
 
-An economic Chapter may create:
+The Chapters describe that progression.
 
-- exchange,
-- flows,
-- prices,
-- trade relationships.
+They do not prescribe a sequence of economic or political systems.
 
-A political Chapter may create:
+For example:
 
+**Genesis** can expose:
+
+- Supply,
+- balances,
+- transactions,
+- Burn,
+- Pool state.
+
+**Observability** can make those signals structured and legible.
+
+**Territory & World Coherence** can introduce measurable world relationships such as:
+
+- Dormant Land,
+- Permanent Nature,
+- territorial distribution,
+- territorial capacity.
+
+**Colonists & Roles** can introduce measurements related to:
+
+- Colonists,
 - participation,
-- proposals,
-- collective decisions.
+- observable behavior,
+- canonically defined roles.
 
-An alliance system may create:
+**Time, History & Evolution** can introduce:
 
-- relationships between Territories,
-- coalition structures,
-- strategic networks.
+- Zips,
+- developmental cycles,
+- territorial maturity,
+- historical transitions,
+- accumulated change.
 
-Metrics grows with the world.
+**Emergence** can eventually make entirely new classes of metrics meaningful as canonical civilization systems develop.
 
-But only after the corresponding canonical state exists.
+These could potentially include:
 
-→ **[Explore the Chapters](/chapters/)**
+- production,
+- specialization,
+- economic activity,
+- trade,
+- political organization,
+- cooperation,
+- conflict,
+- alliances,
+- governance,
+- larger collective structures.
+
+But these metrics should not exist merely because they are imaginable.
+
+> **A metric requires something real to measure.**
+
+---
+
+# Future civilization metrics
+
+Production, economics, politics, alliances and governance are not predefined Chapters.
+
+They are possible dimensions of an evolving civilization.
+
+If canonical systems for them are introduced, Metrics can observe their resulting state.
+
+Conceptually:
+
+`CANONICAL SYSTEM`
+
+↓
+
+`OBSERVABLE STATE`
+
+↓
+
+`METRIC`
+
+Not:
+
+`POSSIBLE IDEA`
+
+↓
+
+`METRIC`
+
+This distinction prevents the observation layer from presenting future concepts as current reality.
+
+---
+
+# Metrics follow the experiment
+
+Metrics should evolve with Zipvilization.
+
+They should not attempt to predict its complete future measurement model at Genesis.
+
+A Farm may eventually produce measurable activity.
+
+Cities may create specialization or economic complexity.
+
+States may make political or macroeconomic signals meaningful.
+
+Kingdoms may create measurable cooperation, conflict or larger structures.
+
+But those measurements become canonical only when the systems beneath them become canonical.
+
+> **First the system exists.**
+>
+> **Then it can be observed.**
+>
+> **Then it can be measured.**
+
+Metrics follows the experiment.
+
+It does not define the experiment.
 
 ---
 
