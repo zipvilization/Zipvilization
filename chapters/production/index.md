@@ -1,527 +1,676 @@
 ---
 layout: default
-title: "Chapter 1 — Production"
+title: "Chapter 1 — Observability"
 parent: Chapters
 nav_order: 2
-description: "Production begins when mature Farms and their Zips transform territorial capacity into the first productive activity of Zipvilization."
-permalink: /chapters/production/
+description: "Observability makes the on-chain state created at Genesis legible. SolumTools reads public blockchain state and exposes deterministic signals without inventing world meaning."
+permalink: /chapters/observability/
 ---
 
-# Chapter 1 — Production
+# Chapter 1 — Observability
 
-Genesis creates the conditions.
+Genesis answers the first question:
 
-Production asks the first practical question:
+> **Does it exist?**
 
-> **What will the Zips do with them?**
+Chapter 1 asks the next:
 
-There is land.
+> **Can we see what exists?**
 
-There is Territory.
+Solum is deployed.
 
-There is time.
+Transactions can occur.
 
-There are Zips.
+Balances can change.
 
-Now activity can begin.
+Supply can change.
 
-Chapter 1 introduces the first productive layer of Zipvilization.
+Blocks advance.
+
+The blockchain contains state.
+
+But existence alone is not enough.
+
+Before Zipvilization interprets that state as a world, it must be possible to observe it.
+
+Chapter 1 is:
+
+> **Observability**
 
 ---
 
-# From existence to activity
+# Transparency before meaning
 
-Genesis establishes population.
+This order matters.
 
-Production gives that population something new:
+It would be easy to begin immediately with:
 
-> **productive activity**
+Territory.
 
-This is an important transition.
+Colonists.
 
-A Zip existing in a Territory is population.
+Nature.
 
-A Zip interacting productively with that Territory begins to create economic activity.
+Development.
 
-Conceptually:
+Civilization.
 
-**Territory**
+But those concepts are interpretations.
 
-+
+Chapter 1 deliberately comes before them.
 
-**Zips**
+First:
 
-+
+> **read the underlying state**
 
-**Activity**
+Then:
+
+> **derive what can be derived**
+
+Only later:
+
+> **give that state canonical world meaning**
+
+This creates one of the foundational principles of Zipvilization:
+
+> **Transparency before meaning.**
+
+---
+
+# From existence to observation
+
+Chapter 0 establishes:
+
+`CONTRACT`
 
 ↓
 
-**Production**
+`ON-CHAIN STATE`
 
-This is the first step from settlement toward economy.
+Chapter 1 adds:
+
+`READ`
+
+↓
+
+`DERIVE`
+
+↓
+
+`EXPOSE`
+
+Nothing in that sequence needs to create new blockchain truth.
+
+It makes existing truth easier to inspect.
 
 ---
 
-# The Farm
+# SolumTools
 
-The foundational productive Territory is:
+The foundational layer of Chapter 1 is:
 
-> **Farm**
+> **SolumTools**
 
-A mature Farm contains:
+SolumTools exists to make public state legible.
 
-> **8 tiles**
+Conceptually:
 
-and:
+**Blockchain**
 
-> **8 Zips**
+↓
+
+**SolumTools**
+
+↓
+
+**structured observable information**
+
+Its role is not to replace the blockchain.
+
+Its role is to read it.
+
+---
+
+# Read
+
+The first responsibility is direct observation.
+
+Depending on the available public state, SolumTools can read information such as:
+
+- addresses,
+- balances,
+- Supply,
+- transactions,
+- transfers,
+- Burn,
+- blocks,
+- timestamps,
+- Pool state,
+- contract configuration,
+- public permissions,
+- relevant events.
+
+The important principle is provenance.
+
+An observed value should remain traceable to the state from which it came.
+
+> **Observation should preserve its source.**
+
+---
+
+# Derive
+
+Some useful information does not need to exist as a literal stored variable.
+
+It can be deterministically derived from observable state.
+
+Conceptually:
+
+`PUBLIC STATE`
+
++
+
+`EXPLICIT RULE`
+
+↓
+
+`DERIVED SIGNAL`
+
+A derived value is valid only when the relationship used to calculate it is explicit.
+
+Derivation must not become invention.
+
+---
+
+# Expose
+
+Raw blockchain information is technically public.
+
+That does not automatically make it understandable.
+
+SolumTools can expose state in forms that are easier for:
+
+- Humans,
+- developers,
+- interfaces,
+- researchers,
+- auditors,
+- Artificial Intelligence
+
+to inspect.
+
+This creates a bridge between public availability and practical legibility.
+
+> **Public does not automatically mean legible.**
+
+---
+
+# SolumTools does not create state
+
+This boundary is fundamental.
+
+SolumTools may:
+
+- read,
+- calculate,
+- compare,
+- organize,
+- classify according to explicit rules,
+- expose structured signals.
+
+It does not acquire authority merely because it makes information easier to understand.
 
 Therefore:
 
-> **1 mature Farm = 1 byte of population**
+`OBSERVATION ≠ AUTHORITY`
 
-The Farm is more than the first territorial scale.
+and:
 
-In Chapter 1 it becomes the first productive unit of Zipvilization.
+`DERIVATION ≠ CREATION`
 
----
+If SolumTools disappears, the underlying blockchain state should still exist.
 
-# Why production begins here
+If SolumTools reports something inconsistent with authoritative state, the observation layer is wrong.
 
-A civilization cannot begin with macroeconomics.
-
-It cannot begin with States.
-
-It cannot begin with large industrial systems.
-
-Before those structures can exist, something must be produced.
-
-The Farm provides that foundation.
-
-Its role is analogous to the primary productive layer of a civilization:
-
-- land,
-- resources,
-- basic production,
-- territorial activity,
-- first economic output.
-
-The exact productive systems must be defined canonically before implementation.
-
-But the structural direction is clear:
-
-> **Production begins close to the land.**
+The blockchain is not rewritten to match the tool.
 
 ---
 
-# Zips produce
+# Source hierarchy
 
-Production is not generated by Territory alone.
+Chapter 1 begins establishing a hierarchy that becomes increasingly important later.
 
-Land provides capacity.
+At the lowest level:
 
-Zips provide activity.
+> **blockchain state**
 
-This distinction matters.
+Above it:
 
-A Farm is not productive merely because its coordinates exist.
+> **observation**
 
-Its population creates the possibility of productive behaviour.
+Later:
+
+> **world interpretation**
+
+Later still:
+
+> **visual representation**
 
 Conceptually:
 
-`LAND ≠ PRODUCTION`
+`BLOCKCHAIN`
 
-`POPULATION ≠ PRODUCTION`
+↓
 
-but:
+`SOLUMTOOLS`
 
-`LAND + POPULATION + ACTIVITY → PRODUCTION`
+↓
+
+`SOLUMWORLD`
+
+↓
+
+`SOLUMVIEW`
+
+Each layer can add legibility.
+
+None should silently rewrite the layer beneath it.
 
 ---
 
-# The individual still matters
+# Facts and interpretations
 
-Eight Zips do not need to behave as one machine.
+Chapter 1 must distinguish between two different kinds of statements.
 
-A mature Farm contains eight individuals.
+A blockchain fact might be:
 
-They may differ in:
+> An address holds a particular amount of SOLUM.
 
-- ability,
-- interest,
-- attention,
-- preference,
-- behaviour,
-- relationships,
-- activity.
+A later world interpretation might be:
 
-Production therefore does not require personality to disappear.
+> That balance supports a particular territorial capacity.
 
-Quite the opposite.
+Those statements can be related.
 
-The productive system can provide structure while individual Zips remain observable inhabitants.
+They are not identical.
 
-> **The Farm organizes productive capacity.**
+Chapter 1 is primarily concerned with the first category.
+
+It prepares reliable inputs for the second.
+
+---
+
+# The observer needs evidence
+
+Zipvilization is an experiment.
+
+An experiment that cannot be observed is difficult to evaluate.
+
+Chapter 1 therefore begins creating the conditions for independent questions.
+
+What happened?
+
+When did it happen?
+
+Which address was involved?
+
+What changed?
+
+What was the Supply before?
+
+What is the Supply now?
+
+Was SOLUM burned?
+
+Did a balance move?
+
+Which contract rule applies?
+
+These questions should increasingly be answerable from evidence.
+
+---
+
+# State before narrative
+
+Suppose a transfer occurs.
+
+Chapter 1 can observe:
+
+`ADDRESS A`
+
+↓
+
+`TRANSFER`
+
+↓
+
+`ADDRESS B`
+
+It can inspect the amount.
+
+The block.
+
+The transaction.
+
+The resulting balances.
+
+But Chapter 1 should not automatically announce:
+
+> “A Colonist transferred Territory to another Colonist.”
+
+That sentence introduces world interpretation.
+
+It may eventually be valid.
+
+But it belongs to a later semantic layer.
+
+> **Observe first.**
 >
-> **It does not turn eight Zips into one mind.**
+> **Interpret second.**
 
 ---
 
-# Productive behaviour
+# Burn before Permanent Nature
 
-Chapter 1 establishes the conceptual space for primary productive activity.
+The same principle applies to Burn.
 
-Possible categories can include systems related to:
+At Chapter 1:
 
-- cultivation,
-- gathering,
-- extraction,
-- basic resource generation,
-- territorial maintenance,
-- primary transformation where canonically appropriate.
+> SOLUM was burned.
 
-These categories describe the intended direction.
+That is observable blockchain state.
 
-They do not automatically define implemented mechanics.
+Later, SolumWorld can apply the canonical relationship:
 
-Specific resources, yields, formulas, tools, efficiencies, environmental constraints, and production rules require explicit canonical definition.
+> Burned SOLUM → Permanent Nature
 
-> **Direction can be defined before every mechanic is defined.**
+Chapter 1 should make the Burn legible.
 
----
+Chapter 2 can explain what that Burn means inside the world.
 
-# Resources
-
-Production introduces an important future requirement:
-
-> **resources must have explicit meaning.**
-
-A resource should not exist merely because an interface needs another number.
-
-If resources are introduced, their existence should follow defined world rules.
-
-For each canonical resource, the system should eventually be able to answer:
-
-- What is it?
-- Where can it exist?
-- How is it produced?
-- What conditions affect it?
-- Can it be depleted?
-- Can it regenerate?
-- Can it move?
-- Can it be stored?
-- Can it be transformed?
-- What consumes it?
-
-Until those questions are specified, a resource remains conceptual rather than implemented canon.
+This separation protects the architecture.
 
 ---
 
-# Territory matters
+# Pool before Dormant Land
 
-Not every productive system should necessarily behave identically everywhere.
+Likewise:
 
-Zipvilization is territorial.
+At blockchain level:
 
-Therefore production can eventually depend upon characteristics of the Territory itself.
+> the Pool holds SOLUM.
 
-This creates the possibility of meaningful differences between places.
+Later, world interpretation can establish:
 
-But those differences must come from canonical world state.
+> Pool-held SOLUM → Dormant Land
 
-They must not be invented by the renderer.
+SolumTools exposes the underlying state.
 
-`TERRITORY`
-
-↓
-
-`CONDITIONS`
-
-↓
-
-`PRODUCTIVE POSSIBILITY`
-
-SolumView may represent those differences.
-
-It does not create them.
+SolumWorld gives it territorial meaning.
 
 ---
 
-# Time still matters
+# Holder before Colonist
 
-Production does not replace the developmental clock established in Genesis.
+At Chapter 1:
 
-Canonical time continues to progress through blocks.
+> address / Holder
 
-This means productive history can accumulate.
+Later:
 
-A Farm can have:
+> Colonist
 
-- a beginning,
-- activity,
-- change,
-- accumulated production,
-- events,
-- consequences.
+The same entity can eventually be understood through both perspectives.
 
-The existence of production therefore adds another dimension to observation:
+But the technical identity must remain visible beneath the world interpretation.
 
-> **not only what exists, but what has happened there.**
+This prevents metaphor from replacing evidence.
 
 ---
 
-# Production creates history
+# Time begins as blocks
 
-Before productive activity, two equivalent mature Farms may appear structurally similar.
+Blocks already advance at Genesis.
 
-After activity begins, their histories can diverge.
+Chapter 1 can observe them.
 
-One may produce one thing.
+It can expose:
 
-Another may produce something else.
+- block number,
+- block progression,
+- timestamps,
+- elapsed blocks,
+- relevant state changes associated with blocks.
 
-Their Zips may behave differently.
+At this stage, time does not yet need to become biological development.
 
-Different events may occur.
+It is first observable blockchain progression.
 
-Different relationships may develop.
-
-The underlying territorial rules can remain deterministic while the histories become increasingly distinct.
-
-> **Equal starting structure does not require equal history.**
-
----
-
-# Production is not a leaderboard
-
-Production creates measurable activity.
-
-That does not mean Zipvilization should reduce every Farm to:
-
-`OUTPUT: 927`
-
-`RANK: #42`
-
-`EFFICIENCY: 97.4%`
-
-Metrics may describe production.
-
-They should not automatically become the purpose of production.
-
-A highly productive Farm may be interesting.
-
-A strange Farm may also be interesting.
-
-An inefficient Farm may develop an extraordinary history.
-
-Observation should preserve more than optimization.
+Later Chapters can give that progression additional canonical meaning.
 
 ---
 
-# Efficiency is not civilization
+# Machine legibility
 
-This distinction becomes increasingly important from Chapter 1 onward.
+Chapter 1 is particularly important for Artificial Intelligence.
 
-A perfectly optimized productive system is not necessarily the most interesting civilization.
+A Human can sometimes infer context from a poorly structured page.
 
-Zips may:
+A machine can also infer.
 
-- specialize,
-- cooperate,
-- experiment,
-- change activity,
-- abandon activity,
-- imitate,
-- discover,
-- become unusually skilled,
-- become interested in something else.
+But inference creates risk.
 
-Productive structure should allow behaviour to matter.
+If Zipvilization wants AI to reason reliably about the system, important relationships should be explicit.
 
-It should not require every inhabitant to maximize output continuously.
+SolumTools can contribute by exposing:
 
-`MAXIMUM OUTPUT ≠ MAXIMUM CIVILIZATION`
+- structured fields,
+- explicit provenance,
+- deterministic calculations,
+- consistent terminology,
+- stable relationships,
+- machine-readable outputs.
 
----
+The goal is not merely:
 
-# Surplus
+> **AI can read this.**
 
-Production creates the conceptual possibility of:
+The stronger goal is:
 
-> **surplus**
-
-Once a Territory can produce more than its immediate activity requires, new questions become possible.
-
-What happens to the excess?
-
-Can it be stored?
-
-Can it move?
-
-Can another Territory need it?
-
-Can it be transformed?
-
-Can specialization emerge?
-
-Those questions lead toward economic development.
-
-But Chapter 1 does not need to answer all of them.
-
-It needs to make them possible.
+> **AI can determine why this statement is true.**
 
 ---
 
-# From production to exchange
+# Artificial Intelligence as observer
 
-A productive civilization eventually creates differences.
+AI can become a powerful observer of Zipvilization.
 
-Different Territories.
+It can:
 
-Different outputs.
+- inspect state,
+- compare periods,
+- detect inconsistencies,
+- reconstruct sequences,
+- explain relationships,
+- identify unusual changes,
+- connect technical documentation with observable evidence.
 
-Different needs.
+But Chapter 1 establishes a boundary that should never disappear:
 
-Different capabilities.
+> **AI reasoning is not blockchain authority.**
 
-That creates the conditions from which exchange can become meaningful.
+An AI may conclude something incorrectly.
 
-Conceptually:
-
-**Production**
-
-↓
-
-**Surplus**
-
-↓
-
-**Difference**
-
-↓
-
-**Exchange**
-
-↓
-
-**Economic complexity**
-
-The later stages belong beyond Chapter 1.
+The underlying evidence must remain available for verification.
 
 ---
 
-# What Chapter 1 defines
+# Human observability
 
-Production establishes the structural direction that:
+Observability is not only for machines.
 
-- Farms are the foundational productive Territories,
-- productive activity begins from land and population,
-- Zips participate in productive activity,
-- production can create measurable output,
-- productive history can accumulate,
-- resources require explicit canonical definition,
-- territorial conditions can matter,
-- individual Zip behaviour remains relevant,
-- production can create surplus,
-- surplus can create the conditions for later economic development.
+A Colonist should not need to trust an opaque interface merely because the underlying system is technically public.
 
----
+Humans should increasingly be able to inspect:
 
-# What Chapter 1 does not define
+- their own state,
+- relevant system state,
+- important transitions,
+- contract relationships,
+- evidence behind derived information.
 
-Chapter 1 does not automatically define:
+The interface may simplify.
 
-- every resource,
-- exact production formulas,
-- exact yields,
-- complete resource regeneration,
-- complete environmental simulation,
-- industrial production,
-- complex markets,
-- monetary systems,
-- City-scale specialization,
-- taxation,
-- State macroeconomics,
-- political authority,
-- Kingdom relations.
-
-Those systems require later canonical development.
-
-> **Production creates the foundation.**
->
-> **It does not prematurely create the entire economy.**
+It should not conceal provenance.
 
 ---
 
-# Observation
+# SolumView can begin here
 
-Chapter 1 changes what the observer can see.
+Visualization can already exist at Chapter 1.
 
-Genesis allows the observer to ask:
+But its role remains limited by what is meaningful.
 
-> **How is this Territory developing?**
+SolumView may represent observable state.
 
-Production adds:
+Charts.
 
-> **What are they doing?**
+Numbers.
 
-That question is fundamental.
+Signals.
 
-A Farm should eventually become interesting not only because it has reached maturity, but because its inhabitants are doing something inside it.
+Structural information.
 
-And because those inhabitants are individuals, the answer may not always be obvious.
+It should not render a mature civilization merely because the visual layer exists.
 
----
+> **Visibility must not outrun meaning.**
 
-# The Zips at work
-
-A productive system does not require every Zip to behave identically.
-
-One may be exceptionally skilled.
-
-Another may learn.
-
-Two may cooperate.
-
-Another may observe.
-
-One may become fascinated by a particular activity.
-
-Another may lose interest.
-
-These differences can eventually become part of the history of a Territory.
-
-The observer does not need to assign every action.
-
-The observer watches productive life emerge.
+SolumView evolves as later Chapters make more world state canonical.
 
 ---
 
-# Chapter transition
+# No hidden simulation
 
-Genesis answers:
+Chapter 1 also protects Zipvilization from becoming dependent on invisible authoritative simulation.
 
-> **Can life begin?**
+If a displayed value represents blockchain-derived state, its derivation should be inspectable.
 
-Production asks:
+If a later world state is derived deterministically, its rule should be documented.
 
-> **What can that life produce?**
+If something is simulated rather than derived from authoritative state, that distinction must be explicit.
 
-The next transition appears when production is no longer isolated.
+> **Observation should reduce hidden assumptions.**
 
-When output can accumulate.
+---
 
-When differences between Territories matter.
+# What Chapter 1 establishes
 
-When specialization becomes possible.
+Observability establishes the structural direction that:
 
-When production begins connecting Territories rather than merely occurring inside them.
+- public blockchain state can be read,
+- important state can be organized,
+- deterministic signals can be derived,
+- derivations remain traceable to their inputs,
+- Humans can inspect relevant information,
+- machines can traverse structured information,
+- AI can reason over evidence,
+- observation does not create authority,
+- world interpretation remains separate from raw state.
 
-At that point, Zipvilization approaches another structural threshold:
+---
 
-> **economic development**
+# What Chapter 1 does not establish
+
+Chapter 1 does not yet require:
+
+- territorial interpretation,
+- complete SolumWorld state,
+- visual geography,
+- mature Territory,
+- Zips,
+- Bloch biology,
+- world history,
+- civilization,
+- governance,
+- emergent social structures.
+
+Those systems may already exist as designs or specifications.
+
+But Chapter 1 does not pretend they are implied merely because blockchain data can be read.
+
+---
+
+# When Chapter 1 is meaningful
+
+Chapter 1 becomes meaningful when the state established at Genesis can be reliably inspected rather than merely asserted.
+
+The exact technical implementation can evolve.
+
+The structural requirement does not.
+
+The observer should increasingly be able to move from:
+
+> **“Trust us.”**
+
+to:
+
+> **“Check it.”**
+
+That is the transition.
+
+---
+
+# The next problem
+
+Once state becomes observable, another question appears.
+
+A balance is visible.
+
+But what does it mean inside Zipvilization?
+
+A Pool balance is visible.
+
+What does that represent?
+
+Burn is visible.
+
+What happens to that land?
+
+Addresses are visible.
+
+Where are the Colonists?
+
+Numbers exist.
+
+But where is the world?
+
+Observability cannot answer those questions alone.
+
+That requires interpretation.
+
+---
+
+# Chapter boundary
+
+Chapter 0 asks:
+
+> **Does it exist?**
+
+Chapter 1 asks:
+
+> **Can we observe it?**
+
+Chapter 2 will ask:
+
+> **What does it mean as a world?**
+
+That is the boundary between:
+
+`STATE`
+
+and:
+
+`WORLD`
 
 ---
 
@@ -529,67 +678,66 @@ At that point, Zipvilization approaches another structural threshold:
 
 `CHAPTER .................. 1`
 
-`NAME ..................... PRODUCTION`
+`NAME ..................... OBSERVABILITY`
 
-`FOUNDATIONAL TERRITORY ... FARM`
+`PRIMARY VERB ............. OBSERVE`
 
-`POPULATION FOUNDATION .... 8 ZIPS / MATURE FARM`
+`FOUNDATIONAL LAYER ....... SOLUMTOOLS`
 
-`PRODUCTIVE ROLE .......... PRIMARY`
+`INPUT .................... PUBLIC ON-CHAIN STATE`
 
-`RESOURCE SYSTEM .......... TO BE CANONICALLY SPECIFIED`
+`PROCESS .................. READ / DERIVE / EXPOSE`
 
-`EXACT YIELDS ............. UNRESOLVED`
+`PROVENANCE ............... REQUIRED`
 
-`INDUSTRIAL SYSTEMS ....... NOT YET`
+`BLOCKCHAIN AUTHORITY ..... PRESERVED`
 
-`STATE ECONOMICS .......... NOT YET`
+`WORLD INTERPRETATION ..... NOT YET`
 
-`ZIP INDIVIDUALITY ........ PRESERVED`
+`TERRITORY ................ NOT YET REQUIRED`
 
-`OBSERVATION .............. ACTIVE PRINCIPLE`
+`HISTORY .................. NOT YET`
+
+`EMERGENCE ................ NOT YET`
 
 `HORIZON .................. OPEN`
 
 ---
 
-# The first economy begins small
+# Observability
 
-Eight tiles.
+Genesis gave Zipvilization something real.
 
-Eight Zips.
+Chapter 1 gives us the ability to look at it.
 
-One mature Farm.
+Not through belief.
 
-Land that can now become productive.
+Not through narrative.
 
-That may not look like a civilization yet.
+Not because the Atlas says so.
 
-But civilization needs something before it can build Cities, organize States, or create Kingdoms.
+Through state.
 
-It needs inhabitants capable of doing something with the world around them.
+Through evidence.
 
-Chapter 1 begins there.
+Through relationships that can be checked.
 
-> **The land existed.**
->
-> **The Zips arrived.**
->
-> **Now they get to work.**
+The world does not need to exist yet.
 
-What they eventually do with everything they produce...
-
-belongs to the next Chapter.
+First we need to know what is actually there.
 
 ---
 
-→ **[Return to Genesis](/chapters/genesis/)**  
-→ **[Explore Territories](/world/territories/)**  
-→ **[Discover Zips](/world/zips/)**  
-→ **[Explore Civilization](/world/civilization/)**
+→ **[Return to Chapter 0 — Genesis](/chapters/genesis/)**  
+→ **[Explore SolumTools](/world/solumtools/)**  
+→ **[Explore Solum](/world/solum/)**  
+→ **[Explore Metrics](/metrics/)**  
+→ **[Continue to Chapter 2 — Territory & World Coherence](/chapters/territory-world/)**
 
 ---
 
-**Genesis creates inhabitants.**
+**Genesis makes state real.**
 
-**Production gives them something to do.**
+**Observability makes state legible.**
+
+**Next, the numbers become a world.**
