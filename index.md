@@ -948,45 +948,121 @@ It is the recognition that a civilization experiment loses meaning if its comple
 
 # The Chapters
 
-Zipvilization does not need every possible mechanic at Genesis.
+Zipvilization does not appear all at once.
 
-It develops through Chapters.
+It develops through six foundational Chapters.
 
-A Chapter can introduce new canonical systems while preserving the history already created.
+These Chapters are not release dates.
 
-That allows Zipvilization to grow without pretending that every future rule was known from the beginning.
+They are not conventional roadmap milestones.
 
-Potential development can move through increasingly complex layers:
+They describe the structural conditions through which Zipvilization can move from executable state toward an observable civilization.
 
-**Genesis**
+> **A Chapter is entered, not launched.**
 
-↓
+The progression is:
 
-**Zips**
+**Chapter 0 — Genesis**
 
-↓
+`EXIST`
 
-**Farms**
-
-↓
-
-**Cities**
+Solum is deployed and the finite substrate becomes executable on-chain state.
 
 ↓
 
-**States**
+**Chapter 1 — Observability**
+
+`OBSERVE`
+
+SolumTools makes that state legible without inventing world meaning.
 
 ↓
 
-**Kingdoms**
+**Chapter 2 — Territory & World Coherence**
+
+`WORLD`
+
+SolumWorld gives observable state canonical spatial meaning.
+
+The numbers become land.
 
 ↓
 
-**future structures**
+**Chapter 3 — Colonists & Roles**
 
-But a future idea is not a current mechanic merely because it appears in discussion.
+`ACT`
 
-> **Implemented now and possible later must remain separate.**
+The world gains actors.
+
+Holders can be interpreted as Colonists, and observable behavior can acquire structured meaning.
+
+↓
+
+**Chapter 4 — Time, History & Evolution**
+
+`REMEMBER`
+
+Canonical time transforms world state into development.
+
+Bloch, Zips, maturity and accumulated history make the world capable of having a past.
+
+↓
+
+**Chapter 5 — Emergence, Community & Open Horizon**
+
+`EMERGE`
+
+Interaction and accumulated history can begin producing structures that were not individually scripted at Genesis.
+
+↓
+
+**? — Horizonte**
+
+`OPEN`
+
+The conditions can be defined.
+
+The complete history cannot.
+
+---
+
+The Chapters are cumulative.
+
+Each one depends on the structural conditions established before it.
+
+They do not describe six separate versions of Zipvilization.
+
+They describe how the same experiment becomes progressively capable of supporting more meaning.
+
+`STATE`
+
+↓
+
+`OBSERVATION`
+
+↓
+
+`WORLD`
+
+↓
+
+`ACTORS`
+
+↓
+
+`HISTORY`
+
+↓
+
+`EMERGENCE`
+
+↓
+
+`?`
+
+> **We define the conditions.**
+>
+> **We do not define the outcome.**
 
 → **[Explore the Chapters](/chapters/)**
 
