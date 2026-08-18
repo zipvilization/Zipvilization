@@ -769,7 +769,7 @@ But its meaning inside Zipvilization is civilizational.
 
 Before there are established territories, there are people willing to enter the unknown.
 
-→ **[Discover Early Adopters](/early-adopters/)**
+→ **[Discover Early Adopters](/founding-colonists/)**
 
 ---
 
