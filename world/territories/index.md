@@ -955,26 +955,56 @@ Two necessary perspectives.
 
 ---
 
-# Territories at a glance
+# Civilizational direction
 
-| Level | Scale | Growth | Information | Conceptual role |
-|:------|------:|-------:|------------:|:----------------|
-| Farm | 8 | — | 1 byte | Primary production |
-| City | 256 | ×32 | 32 bytes | Industry and urban structure |
-| State | 8,192 | ×32 | 64 bytes | Politics and macroeconomics |
-| Kingdom | 262,144 | ×32 | 128 bytes | Alliances, conflict, and power |
+Territorial scale creates structural possibility.
 
-These figures describe different dimensions of the same territorial architecture.
+It does not automatically implement a complete social, economic, or political system.
 
-They should not be collapsed into a single metric.
+As Zipvilization develops, each territorial level can support increasingly complex forms of civilization.
 
-**Scale is not maturity.**
+| Territory | Potential civilizational direction |
+|:----------|:------------------------------------|
+| Farm | Primary production and local territorial activity |
+| City | Economic specialization, transformation, and urban complexity |
+| State | Political coordination, administration, and macroeconomic structures |
+| Kingdom | Alliances, competition, conflict, cooperation, and larger struggles for power |
 
-**Maturity is not power.**
+These relationships describe the intended direction of development.
 
-**Power is not civilization.**
+They are not all current implemented mechanics.
 
-The system becomes interesting precisely because those dimensions can eventually interact.
+A Farm does not become productive merely because the word appears in this table.
+
+A State does not automatically acquire a government.
+
+A Kingdom does not automatically enter a war.
+
+Those systems require their own canonical definitions, conditions, and implementation.
+
+> **Territorial scale creates possibility.**
+>
+> **Civilization determines what becomes meaningful within it.**
+
+This distinction is especially important for later Chapters.
+
+Chapter 5 opens the space in which increasingly complex social, economic, and political structures may emerge.
+
+It does not predetermine their exact form.
+
+Therefore:
+
+`FARM ≠ IMPLEMENTED PRIMARY ECONOMY`
+
+`CITY ≠ IMPLEMENTED INDUSTRIAL SYSTEM`
+
+`STATE ≠ IMPLEMENTED GOVERNMENT`
+
+`KINGDOM ≠ IMPLEMENTED WAR`
+
+The territorial hierarchy exists.
+
+Its complete civilizational history does not.
 
 ---
 
