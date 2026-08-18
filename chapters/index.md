@@ -1,843 +1,738 @@
 ---
 layout: default
 title: Chapters
-nav_order: 5
+nav_order: 7
 has_children: true
-description: >
-  Chapters are the evolutionary stages of Zipvilization. They introduce new
-  mechanics and possibilities progressively while preserving the canonical
-  foundations, accumulated state, and history of the world.
+description: "Chapters define the structural evolution of Zipvilization: from the deployment of Solum to an observable world capable of accumulating history and eventually producing emergent civilization."
 permalink: /chapters/
 ---
 
 # Chapters
 
-Zipvilization does not begin as a finished civilization.
+Zipvilization does not appear all at once.
 
-It begins with foundations.
+It develops through:
 
-Solum.
+> **Chapters**
 
-Colonists.
+A Chapter is not a release date.
 
-Territory.
+It is not a marketing milestone.
 
-Zips.
+It is not a promise that a feature will exist at a particular moment.
 
-Time.
+A Chapter represents a structural state of maturity.
 
-A world capable of changing.
+> **A Chapter is entered, not launched.**
 
-What happens after that should not arrive all at once.
+Its conditions must become true.
 
-It should emerge through **Chapters**.
+Previous dependencies must remain valid.
 
-Chapters are the evolutionary stages of Zipvilization.
-
-Each Chapter can introduce new mechanics, new relationships, and new possibilities into a world that already has state and history.
-
-> **Genesis creates the conditions.**
->
-> **Chapters expand what can happen.**
->
-> **Colonists determine what actually happens.**
-
-→ **[Explore The World](/world/)**
+Only then does the next layer of Zipvilization become meaningful.
 
 ---
 
 # Why Chapters exist
 
-A civilization cannot meaningfully emerge if everything has already been decided before anyone arrives.
+Zipvilization contains several systems:
 
-If all economic systems are active from the beginning,
-
-if political structures already exist,
-
-if alliances are already defined,
-
-if conflict is predetermined,
-
-if every future mechanic is available at Genesis,
-
-then Colonists are not entering an experiment.
-
-They are entering a finished game.
-
-Zipvilization takes a different approach.
-
-The world begins with a limited canonical foundation.
-
-Then its possibility space expands.
-
-**Chapter by Chapter.**
-
-This gives the experiment time to develop.
-
-And it gives each new system a world with existing conditions to act upon.
-
----
-
-# Genesis is not civilization
-
-Genesis establishes the foundation.
-
-It does not attempt to simulate everything a civilization might eventually become.
-
-At the beginning, the essential questions are simpler.
-
-Who enters?
-
-How much Solum leaves Dormant Land?
-
-Where does territory appear?
-
-How do Zips develop?
-
-How does time affect that development?
-
-How much land becomes Permanent Nature?
-
-What structures begin to mature?
-
-These processes create the initial state from which later complexity can emerge.
-
-> **Civilization is not installed at Genesis.**
->
-> **Genesis makes civilization possible.**
-
----
-
-# Chapters expand possibility
-
-A Chapter does not need to dictate an outcome.
-
-Its purpose is to introduce new possibilities.
-
-A future Chapter may enable systems related to:
-
-- production,
-- economics,
-- markets,
-- territorial specialization,
-- political organization,
-- taxation,
-- cooperation,
-- alliances,
-- competition,
-- conflict,
-- or other forms of civilizational development.
-
-But enabling a mechanic is different from deciding its result.
-
-A Chapter may make cooperation possible.
-
-It does not decide who cooperates.
-
-A Chapter may make political organization possible.
-
-It does not decide which political model will dominate.
-
-A Chapter may create economic mechanisms.
-
-It does not decide who becomes wealthy.
-
-> **The system introduces possibility.**
->
-> **Participants create consequence.**
-
----
-
-# The world already exists when a Chapter arrives
-
-This is essential.
-
-A new Chapter does not begin from zero.
-
-When later Chapters activate, Zipvilization may already contain:
-
+- Solum,
+- SolumTools,
+- SolumWorld,
+- SolumView,
 - Colonists,
-- Farms,
-- Cities,
-- States,
-- Kingdoms,
+- Territory,
 - Zips,
-- mature and developing Territories,
-- Dormant Land,
-- Permanent Nature,
-- accumulated time,
-- economic flows,
-- and previous decisions.
+- Time,
+- History,
+- Artificial Intelligence,
+- Civilization.
 
-Therefore every new mechanic enters a world with history.
+These systems should not be treated as if they all become meaningful simultaneously.
 
-That history matters.
+There is an order.
 
-A political system introduced later may encounter an existing territorial distribution.
+Before a world can be interpreted, there must be state.
 
-An economic system may encounter mature Cities and younger ones.
+Before state can be interpreted safely, it must be observable.
 
-An alliance system may encounter established States.
+Before history can exist, something must be capable of changing through time.
 
-A Kingdom may inherit centuries of simulated development before a new mechanic becomes available.
+Before emergence can be observed, the underlying structure must be sufficiently stable.
 
-The Chapter does not create that history.
-
-It encounters it.
+Chapters preserve that order.
 
 ---
 
-# Chapters do not reset the experiment
+# The progression
 
-Zipvilization is cumulative.
+The six foundational Chapters describe a progression from infrastructure to emergence.
 
-A new Chapter should not casually erase what previous Chapters produced.
+`CHAPTER 0`
 
-Existing Colonists remain part of the world.
+**GENESIS**
 
-Territorial development matters.
-
-Zips matter.
-
-Time matters.
-
-Permanent Nature remains permanent.
-
-Irreversible actions remain consequential.
-
-A new mechanic should normally extend the world rather than replace it.
-
-Conceptually:
-
-**existing world**
-
-+
-
-**new canonical possibilities**
-
-=
-
-**expanded world**
-
-Not:
-
-**old world**
+`EXIST`
 
 ↓
 
-**reset**
+`CHAPTER 1`
+
+**OBSERVABILITY**
+
+`OBSERVE`
 
 ↓
 
-**new version**
+`CHAPTER 2`
 
-This is one of the differences between a persistent world and a conventional game update.
+**TERRITORY & WORLD COHERENCE**
+
+`BECOME A WORLD`
+
+↓
+
+`CHAPTER 3`
+
+**COLONISTS & ROLES**
+
+`HAVE ACTORS`
+
+↓
+
+`CHAPTER 4`
+
+**TIME, HISTORY & EVOLUTION**
+
+`REMEMBER`
+
+↓
+
+`CHAPTER 5`
+
+**EMERGENCE, COMMUNITY & OPEN HORIZON**
+
+`EMERGE`
 
 ---
 
-# History has weight
+# Chapter 0 — Genesis
 
-If past state can be rewritten whenever it becomes inconvenient, then history is decorative.
+## Exist
 
-Zipvilization should avoid that.
+Everything begins with executable state.
 
-A Colonist who arrived early should have actually arrived early.
+Before Zipvilization can become a world, Solum must exist correctly on-chain.
 
-A City that required time to mature should have actually accumulated that time.
+Genesis establishes the substrate from which everything else depends.
 
-Solum that became Permanent Nature should remain permanently outside future colonization.
+At this stage the priority is not narrative.
 
-A structural consequence produced under valid rules should not disappear merely because a later Chapter would be simpler without it.
+It is not visualization.
 
-This does not mean Zipvilization can never evolve.
+It is not civilization.
 
-It means evolution must respect consequence.
+It is:
 
-> **The future may expand the rules.**
+> **existence**
+
+The contract must exist.
+
+Its rules must operate.
+
+Supply must be real.
+
+Balances must be real.
+
+Transactions must be real.
+
+Burn must have real consequences.
+
+State must survive contact with the blockchain.
+
+Only then is there something meaningful to observe.
+
+→ **[Enter Chapter 0 — Genesis](/chapters/genesis/)**
+
+---
+
+# Chapter 1 — Observability
+
+## Observe
+
+Once state exists, it must become legible.
+
+This is the domain in which SolumTools becomes meaningful.
+
+The system begins reading what already exists:
+
+- addresses,
+- balances,
+- Supply,
+- transactions,
+- Burn,
+- blocks,
+- contract state,
+- structural signals.
+
+Nothing needs to become a world yet.
+
+The first requirement is simpler:
+
+> **See the truth before interpreting it.**
+
+Chapter 1 establishes observability before meaning.
+
+→ **[Enter Chapter 1 — Observability](/chapters/observability/)**
+
+---
+
+# Chapter 2 — Territory & World Coherence
+
+## Become a world
+
+Observable numbers are not yet a world.
+
+Chapter 2 introduces canonical world meaning.
+
+The foundational relationship:
+
+> **1 SOLUM = 1 m²**
+
+allows blockchain state to acquire territorial interpretation.
+
+Balances can become territorial capacity.
+
+Pool-held SOLUM can become Dormant Land.
+
+Burned SOLUM can become Permanent Nature.
+
+Territorial structure becomes coherent.
+
+This is where SolumWorld becomes fundamental.
+
+> **State is no longer only read.**
 >
-> **It should not casually erase the past.**
+> **It can now be interpreted as a world.**
 
-→ **[Explore SolumWorld](/world/solumworld/)**
-
----
-
-# Chapters and canonical state
-
-A Chapter becomes meaningful when its mechanics become part of the canonical system.
-
-An idea written in documentation is not automatically an active mechanic.
-
-A proposed feature is not world state.
-
-A concept under development is not something an AI should describe as already happening.
-
-There must be a clear distinction between:
-
-**Conceptual**
-
-↓
-
-**Specified**
-
-↓
-
-**Implemented**
-
-↓
-
-**Active**
-
-Only active canonical mechanics should produce active canonical world state.
-
-This distinction is essential for humans.
-
-It is even more important for Artificial Intelligence.
-
-> **Future possibility is not present reality.**
+→ **[Enter Chapter 2 — Territory & World Coherence](/chapters/territory-world/)**
 
 ---
 
-# Chapters and SolumWorld
+# Chapter 3 — Colonists & Roles
 
-When a Chapter introduces a mechanic that affects the world, SolumWorld must be able to determine its resulting state.
+## Have actors
 
-The relationship is:
+A world without actors is still incomplete.
 
-**Chapter**
+Chapter 3 introduces the human participant into the world model.
 
-introduces a canonical mechanic.
+At blockchain level:
 
-↓
+> **address / Holder**
 
-**Valid events or conditions**
+Inside Zipvilization:
 
-activate that mechanic.
+> **Colonist**
 
-↓
+The underlying identity is not erased.
 
-**SolumWorld**
+It is interpreted.
 
-determines the resulting world state.
+Behaviour can begin to matter.
+
+Participation can begin to acquire meaning.
+
+Roles can emerge from observable state without becoming arbitrary ranks.
+
+> **Behavior before intention.**
+
+Chapter 3 gives the world actors.
+
+It does not yet write their history.
+
+→ **[Enter Chapter 3 — Colonists & Roles](/chapters/colonists-roles/)**
+
+---
+
+# Chapter 4 — Time, History & Evolution
+
+## Remember
+
+Until this point, Zipvilization can still be understood largely as a state.
+
+Chapter 4 changes that.
+
+Time becomes structural.
+
+The world begins to accumulate:
+
+- development,
+- transitions,
+- territorial history,
+- Colonist history,
+- population history,
+- irreversible consequences.
+
+The system moves from:
+
+`SNAPSHOT`
+
+to:
+
+`TIMELINE`
+
+This is where canonical time, Bloch, Zips and territorial maturity become especially important.
+
+A Farm is no longer merely a configuration.
+
+It can have an age.
+
+A Territory can have a past.
+
+A Zip can have a history.
+
+> **The world begins to remember.**
+
+And memory creates the conditions for civilization.
+
+→ **[Enter Chapter 4 — Time, History & Evolution](/chapters/time-history/)**
+
+---
+
+# Chapter 5 — Emergence, Community & Open Horizon
+
+## Emerge
+
+Chapter 5 is different.
+
+It is not simply another feature layer.
+
+It represents the point at which the structures established before it can begin producing outcomes that were not individually scripted at Genesis.
+
+Population exists.
+
+Territory exists.
+
+Actors exist.
+
+Time exists.
+
+History exists.
+
+Interactions accumulate.
+
+Patterns can emerge.
+
+Community can matter structurally.
+
+Artificial Intelligence can observe increasingly complex relationships.
+
+Larger forms of organization can become possible.
+
+And the founding Human can no longer pretend to know every future outcome.
+
+> **Chapter 5 is not a feature.**
+>
+> **It is a condition.**
+
+This is where Horizonte becomes essential.
+
+→ **[Enter Chapter 5 — Emergence](/chapters/emergence/)**
+
+---
+
+# The layers behind the Chapters
+
+The Chapters do not replace the architecture of Zipvilization.
+
+They describe when its layers become meaningful.
+
+A useful reading is:
+
+**Solum**
+
+defines the executable substrate.
 
 ↓
 
 **SolumTools**
 
-can expose it.
+makes state observable.
+
+↓
+
+**SolumWorld**
+
+gives state canonical world meaning.
 
 ↓
 
 **SolumView**
 
-can represent it.
+makes valid world state visible.
 
-A Chapter therefore cannot bypass the world architecture.
+↓
 
-> **A Chapter can expand SolumWorld.**
+**Zipvilization**
+
+allows those layers to coexist as an observable civilization experiment.
+
+↓
+
+**Chapters**
+
+describe the structural conditions under which each level becomes meaningful.
+
+---
+
+# SolumView is different
+
+SolumView is deliberately not forced into a Chapter simply because it is one of the major project layers.
+
+Visualization follows valid state.
+
+As more of Zipvilization becomes meaningful, more of that state can become visible.
+
+SolumView therefore evolves across the Chapters.
+
+It can begin with simple state representation.
+
+Later it can render Territory.
+
+Later still it can render development, Zips, activity, history and increasingly complex civilization.
+
+> **SolumView does not decide what exists.**
 >
-> **It cannot replace SolumWorld.**
-
-→ **[Explore SolumWorld](/world/solumworld/)**
+> **It reveals what the valid state allows us to see.**
 
 ---
 
-# Chapters and SolumTools
+# Chapters are cumulative
 
-New mechanics create new things to observe.
+Entering a new Chapter does not erase the previous one.
 
-A production Chapter may create production signals.
+Chapter 1 still depends on Genesis.
 
-An economic Chapter may create new flows.
+Chapter 2 still depends on observable state.
 
-A political Chapter may create new structural states.
+Chapter 3 still depends on a coherent world.
 
-An alliance system may create relationships between Territories.
+Chapter 4 still depends on actors and Territory.
 
-SolumTools can evolve to expose those states.
+Chapter 5 still depends on accumulated history.
 
-But the same rule remains:
+Therefore:
 
-> **SolumTools observes what exists.**
+`CHAPTER(n) REQUIRES CHAPTER(n-1)`
 
-It does not activate a Chapter.
+Conceptually, the system accumulates capability.
 
-It does not invent the state of a Chapter.
-
-It exposes the canonical consequences once they exist.
-
-→ **[Explore SolumTools](/world/solumtools/)**
+It does not repeatedly replace its foundation.
 
 ---
 
-# Chapters and SolumView
+# Chapters are not dates
 
-As the world becomes more complex, its visual representation can become more complex too.
+No Chapter should be understood as:
 
-New canonical mechanics may eventually produce visible consequences.
+`Q3 2027`
 
-Production may change Territory.
+or:
 
-Economic activity may leave visible traces.
+`launch next month`
 
-Political structures may create new boundaries or relationships.
+unless a separate public schedule explicitly states that.
 
-Alliances may alter how large-scale structures are represented.
+The Chapter structure answers:
 
-Conflict may transform the landscape if canonical mechanics eventually define such consequences.
+> **What must become true?**
 
-But the rule remains unchanged:
+Not:
 
-> **State first.**
+> **What date do we promise?**
+
+This distinction protects the project from pretending that complex systems can be made real merely by assigning them deadlines.
+
+---
+
+# Chapters are not feature drops
+
+A Chapter can contain technical development.
+
+But its meaning is larger than a list of features.
+
+For example:
+
+Chapter 1 is not simply:
+
+> “release SolumTools”
+
+It means:
+
+> **the system has become sufficiently observable for its state to be inspected reliably.**
+
+Likewise, Chapter 4 is not simply:
+
+> “add Zips”
+
+It means:
+
+> **the world has acquired canonical time, accumulated change and history.**
+
+The technology serves the structural transition.
+
+The transition defines the Chapter.
+
+---
+
+# Chapters are not guaranteed outcomes
+
+The architecture can define conditions.
+
+It cannot honestly guarantee the civilization those conditions will produce.
+
+This distinction becomes increasingly important as Zipvilization advances.
+
+Early Chapters can be highly explicit.
+
+Later Chapters necessarily encounter more:
+
+- interaction,
+- collective behaviour,
+- governance,
+- economic complexity,
+- social structure,
+- emergent patterns,
+- unknown outcomes.
+
+Therefore certainty decreases as the system approaches Horizonte.
+
+---
+
+# Defined evolution and open evolution
+
+The early architecture of Zipvilization can be designed deliberately.
+
+Contracts can be specified.
+
+Observation can be built.
+
+World rules can be defined.
+
+Visualization can be implemented.
+
+Canonical time can be established.
+
+But eventually the experiment reaches a boundary.
+
+If every later political structure, economic outcome, alliance, conflict, social behaviour and historical event were predetermined by the founders...
+
+there would be no civilization experiment.
+
+There would be a script.
+
+Zipvilization deliberately rejects that destination.
+
+> **Structure can be designed.**
 >
-> **Image second.**
-
-SolumView should never visually activate a future Chapter simply because its concepts already exist in documentation.
-
-→ **[Explore SolumView](/world/solumview/)**
+> **History must be allowed to happen.**
 
 ---
 
-# Chapters and the Colonist
+# Beyond the foundational Chapters
 
-For the Colonist, Chapters mean that participation changes over time.
+The six foundational Chapters establish the path from Genesis to emergence.
 
-The world they enter at Genesis may not offer the same possibilities as the world that exists later.
+That does not mean Zipvilization necessarily ends at Chapter 5.
 
-This is intentional.
+Later structural developments may become possible.
 
-An early Colonist may begin primarily with:
+Large territorial organization.
 
-Solum.
+States.
 
-Territory.
+Kingdoms.
 
-Zips.
+Cooperative structures.
 
-Time.
+Governance.
 
-Development.
+Redistribution.
 
-Later, the same territory may become capable of participating in increasingly complex systems.
+Planetary coordination.
 
-Production.
+Potential evolution beyond the founding Human core.
 
-Markets.
+Some of these directions already exist in project research and internal development.
 
-Political organization.
+But they must not be presented as current implemented reality before their canonical conditions are defined.
 
-Coordination.
+Chapter 5 therefore opens a boundary rather than closing the roadmap.
 
-Competition.
-
-Power.
-
-The Colonist does not simply accumulate more features.
-
-Their existing position enters new contexts.
-
-That creates consequence.
-
-→ **[Discover Colonists](/world/colonists/)**
+> **Beyond emergence, Horizonte matters more than prediction.**
 
 ---
 
-# Territory acquires meaning progressively
+# How to read the Chapters
 
-The territorial hierarchy already provides structure:
+For a Human:
 
-**Farm**
+follow them in order.
 
-↓
+They explain why each new layer becomes possible.
 
-**City**
+For a developer:
 
-↓
+treat them as dependency boundaries.
 
-**State**
+Do not implement a later semantic layer by silently inventing an earlier one.
 
-↓
+For Artificial Intelligence:
 
-**Kingdom**
+treat Chapter order as structural context.
 
-But those structures do not need every possible civilizational function from the beginning.
+A statement about a later Chapter must not be projected backward into Genesis.
 
-Their meaning can deepen through Chapters.
+A future possibility must not be interpreted as current state.
 
-A Farm can become relevant to primary production.
+A historical document must not override current canon merely because it contains more detail.
 
-A City can become relevant to industrial or productive complexity.
+---
 
-A State can become relevant to political and macroeconomic organization.
+# Canonical discipline
 
-A Kingdom can become relevant to alliances, conflict, and large-scale power.
+Every Chapter should distinguish between:
 
-These relationships give us direction.
+`DEFINED`
 
-They do not require every mechanic to be active at Genesis.
+`IMPLEMENTED`
 
-> **Territory provides structure.**
+`OBSERVABLE`
+
+`PLANNED`
+
+`CONCEPTUAL`
+
+`OPEN`
+
+These states are not interchangeable.
+
+Something can be conceptually important without being implemented.
+
+Something can be implemented without yet being visible.
+
+Something can be observable without having world meaning.
+
+Something can be possible without being canonical.
+
+> **Possibility is not implementation.**
 >
-> **Chapters progressively give that structure more things to do.**
-
-→ **[Explore Territories](/world/territories/)**
-
----
-
-# Complexity should be earned
-
-Zipvilization does not need maximum complexity on day one.
-
-Complexity becomes meaningful when the world underneath can support it.
-
-A political system means more when States already exist.
-
-An alliance system means more when there are multiple Kingdoms capable of forming alliances.
-
-An economy means more when production and territorial differences already matter.
-
-Conflict means more when there is something worth protecting.
-
-This gives Chapters another purpose:
-
-**sequencing complexity.**
-
-The world should become more complex because its development makes greater complexity meaningful.
-
-Not because more features always make a better product.
-
----
-
-# Chapters are not seasons
-
-A Chapter is not simply a temporary content season.
-
-Its purpose is not to generate short-term novelty and then disappear.
-
-When a Chapter introduces a canonical mechanic, its consequences can become part of the persistent world.
-
-A later Chapter may build upon it.
-
-Colonists may make decisions because of it.
-
-History may accumulate around it.
-
-Therefore Chapters should be treated as structural evolution.
-
-Not disposable content.
-
-> **A Chapter adds history.**
+> **Documentation is not execution.**
 >
-> **It does not merely add content.**
+> **Narrative is not state.**
 
 ---
 
-# Chapters are not a roadmap promise
+# The complete arc
 
-The existence of a Chapter structure does not mean every future mechanic is guaranteed exactly as currently imagined.
+`0 — EXIST`
 
-Zipvilization is an experiment.
+The substrate becomes real.
 
-Some systems require further mathematics.
+↓
 
-Some require technical validation.
+`1 — OBSERVE`
 
-Some depend on the state reached by earlier Chapters.
+The state becomes legible.
 
-Some may prove unnecessary.
+↓
 
-Some may need to change before implementation.
+`2 — WORLD`
 
-Therefore the Atlas should distinguish clearly between:
+The state acquires territorial meaning.
 
-- canonical active mechanics,
-- defined future structures,
-- conceptual directions,
-- and unresolved questions.
+↓
 
-This protects the project from pretending certainty where certainty does not yet exist.
+`3 — ACTORS`
+
+The world gains participants.
+
+↓
+
+`4 — REMEMBER`
+
+Time turns state into history.
+
+↓
+
+`5 — EMERGE`
+
+History creates possibilities the founders cannot completely prescribe.
+
+↓
+
+`?`
+
+**HORIZONTE**
 
 ---
 
-# The sequence matters
+# The purpose
 
-Chapters are not an arbitrary list of features.
+The Chapters exist so that Zipvilization does not pretend to be something before it has earned the right to become it.
 
-Their order should reflect the increasing complexity of civilization.
+First:
 
-The broad progression is:
+> **exist**
 
-**Genesis**
+Then:
 
-existence.
+> **observe**
 
-↓
+Then:
 
-**Production**
+> **interpret**
 
-survival and resources.
+Then:
 
-↓
+> **inhabit**
 
-**Cities and economic complexity**
+Then:
 
-transformation and exchange.
+> **remember**
 
-↓
+And only then:
 
-**States**
+> **allow something larger to emerge.**
 
-political and macroeconomic organization.
+---
 
-↓
+`CHAPTERS ................. 0 → 5`
 
-**Kingdoms**
+`BEGINNING ................ GENESIS`
 
-alliances, competition, and large-scale power.
+`SUBSTRATE ................ SOLUM`
 
-↓
+`OBSERVABILITY ............ SOLUMTOOLS`
 
-**Planetary structures**
+`WORLD .................... SOLUMWORLD`
 
-coordination beyond individual Kingdoms.
+`VISUALIZATION ............ SOLUMVIEW`
 
-This progression mirrors a fundamental idea:
+`HISTORY .................. ACCUMULATIVE`
 
-> **first the world exists,**
+`EMERGENCE ................ OPEN`
+
+`FINAL SCRIPT ............. NONE`
+
+`HORIZON .................. OPEN`
+
+---
+
+> **We define the conditions.**
 >
-> **then life develops,**
+> **The Chapters define when those conditions become meaningful.**
 >
-> **then civilization becomes complex.**
-
-The exact mechanics belong inside each Chapter.
-
----
-
-# A Chapter must answer four questions
-
-Every Chapter should eventually make four things clear.
-
-### What becomes possible?
-
-The new mechanic or capability introduced into Zipvilization.
-
-### What conditions are required?
-
-The canonical state necessary for that possibility to exist.
-
-### What changes?
-
-The new state transitions, relationships, or consequences created by the Chapter.
-
-### What remains open?
-
-The outcomes that are deliberately left to Colonists and emergent civilization.
-
-This structure keeps Chapters rigorous without scripting the experiment.
-
----
-
-# Chapters and Artificial Intelligence
-
-AI must understand the temporal status of every mechanic.
-
-It should be able to distinguish:
-
-> **This exists.**
-
-from:
-
-> **This is specified but not active.**
-
-from:
-
-> **This is planned.**
-
-from:
-
-> **This is conceptual.**
-
-from:
-
-> **This is unknown.**
-
-Without those distinctions, an AI can accidentally collapse the entire future of Zipvilization into the present.
-
-That would destroy the meaning of Chapters.
-
-The Atlas and Repository should therefore make implementation status explicit enough that AI does not need to guess.
-
-→ **[Explore Artificial Intelligence](/trinomial/artificial-intelligence/)**
-
----
-
-# Chapters and The Trinomial
-
-The Trinomial accompanies the evolution of Zipvilization.
-
-The Human can design.
-
-Artificial Intelligence can analyze, formalize, test, and help maintain coherence.
-
-Horizonte provides long-term direction.
-
-But Chapters should not become arbitrary expressions of any one component.
-
-Each new stage must remain compatible with the principles and accumulated state of the experiment.
-
-The Trinomial helps build the path.
-
-It does not predetermine the destination.
-
-→ **[Explore The Trinomial](/trinomial/)**
-
----
-
-# Explore the Chapters
-
-The Chapter system will be developed through dedicated sections.
-
-Each one should describe its own mechanics, conditions, dependencies, and consequences.
-
-The progression begins with the foundations and moves toward increasingly complex civilization.
-
-**Genesis**
-
-The world becomes active.
-
-↓
-
-**Production**
-
-Territory begins to produce.
-
-↓
-
-**Economic Development**
-
-Production creates greater economic and structural complexity.
-
-↓
-
-**States**
-
-Political and macroeconomic organization becomes possible.
-
-↓
-
-**Kingdoms**
-
-Large-scale alliances, competition, and power emerge.
-
-↓
-
-**Planetary Civilization**
-
-The world reaches structures that extend beyond individual Kingdoms.
-
-The exact implementation of each stage belongs in its own Chapter.
-
-This index defines the logic connecting them.
-
----
-
-# Follow Chapters through the Atlas
-
-### What world do Chapters expand?
-
-→ **[The World](/world/)**
-
-### What determines canonical state?
-
-→ **[SolumWorld](/world/solumworld/)**
-
-### What observes new mechanics?
-
-→ **[SolumTools](/world/solumtools/)**
-
-### What makes their consequences visible?
-
-→ **[SolumView](/world/solumview/)**
-
-### Who acts inside those mechanics?
-
-→ **[Colonists](/world/colonists/)**
-
-### What territorial structure supports them?
-
-→ **[Territories](/world/territories/)**
-
-### What remains emergent?
-
-→ **[Civilization](/world/civilization/)**
-
-### What guides their development?
-
-→ **[The Trinomial](/trinomial/)**
-
-### Where does implementation live?
-
-→ **[Repository](/repository/)**
-
----
-
-# We do not know the final world
-
-That is not a weakness of Zipvilization.
-
-It is the experiment.
-
-We know the foundations.
-
-We define the rules.
-
-We build the systems carefully.
-
-We preserve state.
-
-We preserve consequence.
-
-We introduce new possibilities when the world is ready for them.
-
-But we do not write the final history.
-
-At Genesis, there is land.
-
-Then Colonists arrive.
-
-Life develops.
-
-Territories mature.
-
-Production begins.
-
-Economies may form.
-
-Political structures may emerge.
-
-Kingdoms may cooperate.
-
-Or compete.
-
-Or fail.
-
-Nature may reclaim territory permanently.
-
-Power may concentrate.
-
-Or fragment.
-
-Systems we have not yet imagined may become necessary.
-
-The world will answer questions that cannot be answered honestly before the experiment begins.
-
-That is why Zipvilization has Chapters.
-
-Not to tell civilization what it must become.
-
-But to give civilization **the next thing it is capable of becoming.**
-
----
-
-→ **[Return Home](/)**  
-→ **[Explore The World](/world/)**  
-→ **[Continue to Metrics](/metrics/)**
+> **History defines what happens next.**
