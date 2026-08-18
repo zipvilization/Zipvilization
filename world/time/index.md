@@ -186,6 +186,121 @@ But the biological core still has to emerge.
 
 ---
 
+# Territorial maturity through time
+
+Farm establishes the foundational biological cycle.
+
+Larger Territories continue that developmental structure.
+
+They do not become mature merely because a Colonist possesses enough SOLUM to support their territorial scale.
+
+The canonical cumulative progression is:
+
+| Territory | Cumulative canonical time |
+|:----------|--------------------------:|
+| Farm | 524,288 blocks |
+| City | 2,097,152 blocks |
+| State | 4,194,304 blocks |
+| Kingdom | 8,388,608 blocks |
+
+These values represent accumulated development from the beginning of the territorial history.
+
+They are not independent timers that all begin from zero when a new territorial level becomes possible.
+
+Conceptually:
+
+**Farm**
+
+`8 cycles`
+
+`524,288 blocks`
+
+↓
+
+**City**
+
+additional development
+
+`2,097,152 blocks cumulative`
+
+↓
+
+**State**
+
+additional development
+
+`4,194,304 blocks cumulative`
+
+↓
+
+**Kingdom**
+
+additional development
+
+`8,388,608 blocks cumulative`
+
+The larger structure inherits the development that came before it.
+
+> **Territorial maturity is cumulative.**
+
+---
+
+# Capacity and maturity are different
+
+This distinction is fundamental.
+
+SOLUM determines territorial capacity.
+
+Canonical time determines territorial development.
+
+Therefore:
+
+`ENOUGH SOLUM ≠ MATURE TERRITORY`
+
+A Colonist may acquire enough SOLUM to support City-scale Territory immediately.
+
+That does not create a mature City immediately.
+
+Likewise, acquiring State-scale or Kingdom-scale capacity does not purchase the history required for those Territories to mature.
+
+> **Land can be acquired.**
+>
+> **Elapsed canonical time cannot.**
+
+This prevents economic capacity from collapsing the temporal structure of the world.
+
+---
+
+# Blocks remain canonical
+
+The values above are expressed in blocks deliberately.
+
+Human time depends on actual blockchain block production.
+
+Therefore hours, days, months, or years may be useful estimates, but they remain translations.
+
+The canonical maturity conditions are:
+
+`524,288 blocks`
+
+`2,097,152 blocks`
+
+`4,194,304 blocks`
+
+`8,388,608 blocks`
+
+not a fixed number of human days.
+
+> **Blocks define development.**
+>
+> **Clock time describes it.**
+
+If network conditions change, the human-time estimate may change.
+
+The canonical block requirement does not.
+
+---
+
 # Territorial time is cumulative
 
 Higher territorial structures do not begin in a world with no past.
