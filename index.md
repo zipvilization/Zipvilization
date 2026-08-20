@@ -8,16 +8,10 @@ description: >
   Zips introduce population, time creates development, and Humans, Artificial
   Intelligence, and Horizonte observe what civilization becomes.
 permalink: /
+
 ---
-<img
-  src="{{ '/assets/images/home/01-hero.webp' | relative_url }}"
-  alt="Welcome to Zipvilization — a living world inhabited by Zips"
-  width="1280"
-  height="720"
-  fetchpriority="high"
-  decoding="async"
-  style="width: 100%; height: auto; display: block;"
->
+
+![Welcome to Zipvilization](/assets/images/01-hero.webp)
 
 **A finite world.**
 
@@ -64,6 +58,8 @@ And those rules are designed to be inspectable by Humans and machines.
 This Atlas is the public entrance to that system.
 
 ---
+
+![The First Law — participation and observation, not investment](/assets/images/02-first-law.webp)
 
 # The First Law
 
