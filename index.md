@@ -58,6 +58,59 @@ This Atlas is the public entrance to that system.
 
 ---
 
+# The First Law
+
+> ## Zipvilization is an experiment in participation and observation.
+> ## It is not built as an investment project.
+
+Solum has an economic architecture.
+
+It can be acquired, transferred, exchanged, Burned, and used as the territorial substrate of Zipvilization.
+
+But its existence does not create a promise of profit.
+
+Territory is not a promise of yield.
+
+Participation is not a promise of financial return.
+
+Zipvilization begins from a different question:
+
+> **What happens when independent Humans enter a finite world, share the same explicit rules, and civilization is allowed to develop through time?**
+
+A participant may become a Colonist.
+
+A Colonist may control Territory.
+
+Territory may develop.
+
+Zips may emerge.
+
+Civilization may become increasingly complex.
+
+But no particular economic, territorial, political, or historical outcome is guaranteed.
+
+---
+
+`PARTICIPATION ≠ INVESTMENT`
+
+`TERRITORY ≠ YIELD`
+
+`SOLUM ≠ PROMISE OF PROFIT`
+
+`OBSERVATION ≠ CONTROL`
+
+---
+
+> **We provide the conditions.**
+>
+> **We participate in the experiment.**
+>
+> **We observe what happens.**
+
+---
+
+---
+
 # One project, two perspectives
 
 Almost everything in Zipvilization can be observed from two related perspectives.
