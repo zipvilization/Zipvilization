@@ -8,7 +8,7 @@ description: >
   Zips introduce population, time creates development, and Humans, Artificial
   Intelligence, and Horizonte observe what civilization becomes.
 permalink: /
----
+
 <img
   src="{{ '/assets/images/home/01-hero.webp' | relative_url }}"
   alt="Welcome to Zipvilization — a living world inhabited by Zips"
