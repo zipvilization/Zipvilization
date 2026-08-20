@@ -11,7 +11,7 @@ permalink: /
 
 ---
 
-![Welcome to Zipvilization]({{ '/assets/images/home/01-hero.webp' | relative_url }})
+![Welcome to Zipvilization](/assets/images/01-hero.webp)
 
 **A finite world.**
 
