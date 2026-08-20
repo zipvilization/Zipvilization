@@ -17,8 +17,9 @@ permalink: /
   fetchpriority="high"
   decoding="async"
   style="width: 100%; height: auto; display: block;"
+  
 >
-
+---
 **A finite world.**
 
 **A deterministic beginning.**
