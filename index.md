@@ -11,16 +11,7 @@ permalink: /
 
 ---
 
-<img
-  src="{{ '/assets/images/home/01-hero.webp' | relative_url }}"
-  alt="Welcome to Zipvilization — a living world inhabited by Zips"
-  width="1280"
-  height="720"
-  fetchpriority="high"
-  decoding="async"
-  style="width: 100%; height: auto; display: block;"
-  
->
+![Welcome to Zipvilization]({{ '/assets/images/home/01-hero.webp' | relative_url }})
 
 **A finite world.**
 
