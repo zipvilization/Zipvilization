@@ -59,6 +59,8 @@ This Atlas is the public entrance to that system.
 
 ---
 
+![The First Law — participation and observation, not investment](/assets/images/02-first-law.webp)
+
 # The First Law
 
 > ## Zipvilization is an experiment in participation and observation.
