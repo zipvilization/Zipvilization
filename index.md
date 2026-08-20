@@ -9,6 +9,8 @@ description: >
   Intelligence, and Horizonte observe what civilization becomes.
 permalink: /
 
+---
+
 <img
   src="{{ '/assets/images/home/01-hero.webp' | relative_url }}"
   alt="Welcome to Zipvilization — a living world inhabited by Zips"
@@ -19,7 +21,7 @@ permalink: /
   style="width: 100%; height: auto; display: block;"
   
 >
----
+
 **A finite world.**
 
 **A deterministic beginning.**
