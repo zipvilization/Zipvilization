@@ -185,7 +185,7 @@ A narrative never creates blockchain state.
 And technical implementation should never silently redefine the canonical world.
 
 ---
-
+![Solum — the finite territorial substrate of Zipvilization](/assets/images/home/03-solum.webp)
 # Solum
 
 Everything begins with land.
