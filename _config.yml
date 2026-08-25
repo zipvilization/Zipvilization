@@ -1,5 +1,4 @@
 title: Zipvilization
-title: Zipvilization
 logo: "/assets/images/zipvilization-logo.png"
 
 tagline: "An on-chain civilization experiment"
@@ -40,55 +39,6 @@ nav_sort: case_insensitive
 
 heading_anchors: true
 gh_edit_link: false
-
-aux_links_new_tab: false
-
-toc:
-  h2: "Contents"
-
-back_to_top: true
-back_to_top_text: "Back to top"
-
-tagline: "An on-chain civilization experiment"
-
-description: "Zipvilization is an on-chain civilization experiment built from immutable rules, territory, identity and shared history."
-
-url: "https://zipvilization.com"
-baseurl: ""
-
-permalink: pretty
-
-lang: en
-locale: en_US
-
-remote_theme: just-the-docs/just-the-docs
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-author:
-  name: "Zipvilization"
-  url: "https://zipvilization.com"
-
-social:
-  name: "Zipvilization"
-  links:
-    - "https://github.com/zipvilization/Zipvilization"
-
-color_scheme: light
-
-search_enabled: false
-search_button_text: "Search"
-
-nav_enabled: true
-nav_sort: case_insensitive
-
-heading_anchors: true
-gh_edit_link: false
-
-aux_links_new_tab: false
 
 toc:
   h2: "Contents"
