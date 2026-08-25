@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Genesis
+title: TGE Genesis
 nav_order: 3
 description: >
   Genesis is the beginning of Zipvilization. Before there can be history,
