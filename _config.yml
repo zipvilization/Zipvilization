@@ -96,3 +96,11 @@ toc:
 back_to_top: true
 back_to_top_text: "Back to top"
 
+# External channels
+aux_links:
+  "X":
+    - "https://x.com/Zipvilization"
+  "Medium":
+    - "https://medium.com/@zipvilization"
+
+aux_links_new_tab: true
