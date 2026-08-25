@@ -52,5 +52,7 @@ aux_links:
     - "https://x.com/Zipvilization"
   "Medium":
     - "https://medium.com/@zipvilization"
+  "Base":
+    - "https://base.app/profile/zipvilization"
 
 aux_links_new_tab: true
