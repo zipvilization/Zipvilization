@@ -9,47 +9,238 @@ description: >
 permalink: /founding-colonists/
 ---
 
+
 # Founding Colonists
 
 Every civilization has people who arrive before there is a civilization to join.
 
-Zipvilization does too.
+Zipvilization needs them.
 
-Before Token Launch, there is no Solum available for public participation.
+Before Genesis, there are no active Colonists.
 
-There are no active Colonists.
+No Farms have matured.
 
-There are no Farms.
+No Cities have emerged.
 
-There are no Cities.
+No States exist.
 
-The world has not yet begun its public history.
+No Kingdoms have formed.
 
-And yet some people may already be here.
+There is almost no history to observe.
 
-Reading.
+There is only a finite world, a set of explicit rules, and a question:
 
-Understanding.
+> **What happens if enough independent Humans decide to enter it?**
 
-Questioning.
+That question cannot be answered by the contract alone.
 
-Following the experiment.
+Zipvilization needs its first participants.
 
-Supporting it before anyone knows whether it will matter.
+Its first decisions.
 
-We call them:
+Its first interactions.
 
-> **Founding Colonists.**
+Its first Colonists.
 
-Not because they already own territory.
+---
 
-Not because they already possess Solum.
+# Before there was something to see
 
-Not because they receive a fictional place in a world that has not started.
+Some people will discover Zipvilization before Genesis.
 
-But because they arrived before participation was technically possible.
+Before the Pool is active.
 
-Zipvilization remembers that.
+Before public participation is possible.
+
+Before anyone knows what the experiment will become.
+
+They may:
+
+read the Atlas,
+
+question the rules,
+
+follow the development,
+
+share the project,
+
+contribute an idea,
+
+help another person discover it,
+
+or simply look at this empty world and decide:
+
+> **I want to be there when it begins.**
+
+Those are the people we call:
+
+> # **Founding Colonists**
+
+Technically, they are not Colonists yet.
+
+They do not own fictional Territory.
+
+They do not receive imaginary blockchain history.
+
+But they have done something that will only be possible once:
+
+> **they chose to participate before there was a civilization to participate in.**
+
+---
+
+# Your ticket to Genesis
+
+The pre-Genesis whitelist exists for them.
+
+It is not a presale.
+
+It is not a private investment round.
+
+It is not a mechanism for selling privileged financial positions.
+
+It is a protected participation mechanism for the Humans who decided, before Genesis:
+
+> **I want to be a Colonist.**
+
+The whitelist is the technical mechanism.
+
+Its human meaning is much simpler:
+
+> ## **Your ticket to Genesis.**
+
+When the world opens, recognized pre-Genesis participants receive the opportunity to enter during the contract-defined whitelist window.
+
+They remain subject to the rules of the contract.
+
+No guaranteed profit.
+
+No guaranteed future value.
+
+No exemption from MAX_TX.
+
+No exemption from Max Wallet.
+
+No exemption from the applicable launch rules.
+
+What is protected is something else:
+
+> **the opportunity to be there at the beginning.**
+
+→ **[Explore Genesis](/genesis/)**  
+→ **[Explore the technical Launch](/smart-contract/tokenomics/launch/)**
+
+---
+
+# Help us find the first Colonists
+
+Zipvilization is not asking its pre-Genesis participants to fund the experiment.
+
+It needs something more important at this stage:
+
+> **participation.**
+
+If you want to be there when Zipvilization begins, help other people discover it.
+
+Share it.
+
+Talk about it.
+
+Question it.
+
+Explain it.
+
+Contribute an idea when you have one.
+
+Bring another curious Human to the Atlas.
+
+Not because activity should be farmed.
+
+Not because participation should become a points competition.
+
+Not because noise deserves an allocation.
+
+But because a civilization cannot begin with documentation alone.
+
+> **We need Humans who want to see what happens.**
+
+The objective is not to find the largest buyers.
+
+The objective is to find enough independent first Colonists for Zipvilization to begin producing meaningful history.
+
+---
+
+# The first Colonists do not fund Zipvilization
+
+They bring it to life.
+
+That distinction is fundamental.
+
+Genesis is designed around an unusually low initial economic barrier because the objective of the beginning is not maximum capital formation.
+
+It is broad initial participation.
+
+The Pool opens the door.
+
+Fair Access protects the beginning.
+
+The whitelist gives pre-Genesis participants their first opportunity to enter.
+
+And the Colonists provide the ingredient the contract cannot create by itself:
+
+> **independent Human decisions.**
+
+One enters.
+
+Then another.
+
+Then another.
+
+Balances change.
+
+Territory begins to distribute.
+
+Transactions occur.
+
+Blocks continue.
+
+The world accumulates state.
+
+And at some point, Zipvilization is no longer waiting to begin.
+
+> **It has begun.**
+
+---
+
+# Every interaction counts
+
+From that moment onward, participation becomes history.
+
+A BUY changes state.
+
+A SELL changes state.
+
+A TRANSFER changes state.
+
+A Burn changes state.
+
+A new Colonist changes the distribution.
+
+Time changes what Territory can become.
+
+Eventually, Zips emerge into a world already shaped by everything that happened before them.
+
+Not every interaction needs to be economically important.
+
+It matters because it occurred inside the experiment.
+
+> **Every interaction counts.**
+
+That is why the first Colonists matter so much.
+
+They create the first state upon which everything else will act.
+
+---
+
 
 ---
 
