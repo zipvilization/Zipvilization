@@ -361,31 +361,72 @@ Ownership only exists when the relevant blockchain state exists.
 
 ---
 
-# Limited by design
+# Pre-Genesis participation
 
-Founding Colonist access is not intended to be unlimited.
+The objective is not to make pre-Genesis access artificially scarce.
 
-There are two important boundaries:
+It is the opposite.
 
-**places**
+Zipvilization wants to find as many genuinely interested future Colonists as possible before the world opens.
 
-and
+If you discover Zipvilization before TGE, engage with the project, and want to participate in Genesis, the whitelist exists to protect that opportunity.
 
-**time.**
+> **Every recognized pre-Genesis Colonist should have a ticket to Genesis.**
 
-The number of eligible early participants is limited.
+This does not mean unlimited acquisition.
 
-The preferential participation window is also limited.
+It does not override MAX_TX.
 
-These restrictions matter because "early" must mean something.
+It does not override Max Wallet.
 
-If anyone can enter forever under the same conditions, there is no founding period.
+It does not override the contract-defined Launch conditions.
 
-If the opportunity has no limit, recognition loses its structure.
+The opportunity to participate can be broad.
 
-Founding Colonists belong to a specific moment in the history of Zipvilization:
+The amount any individual participant can acquire remains constrained by the same Fair Access architecture.
 
-> **before public colonization became normal.**
+That distinction is essential:
+
+**broad access**
+
+does not mean
+
+**unlimited accumulation.**
+
+---
+
+# We want thousands
+
+A meaningful observation experiment needs meaningful participation.
+
+Zipvilization does not benefit from Genesis being concentrated among a handful of large early positions.
+
+It becomes more interesting when many independent Humans enter the same finite world and begin making their own decisions.
+
+Hundreds would matter.
+
+Thousands would matter more.
+
+Not because a larger number creates financial value by itself.
+
+Because every additional independent Colonist introduces another source of action into the experiment.
+
+Another decision.
+
+Another interaction.
+
+Another territorial position.
+
+Another possible history.
+
+> **The scarce resource at Genesis should not be access.**
+>
+> **The scarce resource should remain the finite world itself.**
+
+This is why the initial architecture combines broad participation with limits on individual accumulation.
+
+→ **[Explore Fair Access](/smart-contract/fair-access/)**  
+→ **[Explore Genesis](/genesis/)**
 
 ---
 
