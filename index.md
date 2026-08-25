@@ -1183,3 +1183,24 @@ Perhaps it isn't.
 **[Zips will be Zips →](/spoiler/)**
 
 `[THIS MAY BECOME A PROBLEM]`
+
+--- 
+
+# Follow Zipvilization
+
+The Atlas is the canonical public knowledge layer.
+
+Outside the Atlas, Zipvilization uses two channels to communicate, explain, and invite participation.
+
+**X / Twitter** — updates, conversation, development, and the public life of the experiment.
+
+**Medium** — long-form articles about Zipvilization, Genesis, its architecture, and the evolution of the experiment.
+
+> **Social networks communicate.**
+>
+> **The Atlas explains.**
+>
+> **The Repository verifies.**
+
+→ **[Follow Zipvilization on X](https://x.com/Zipvilization)**  
+→ **[Read Zipvilization on Medium](https://medium.com/@zipvilization)**
