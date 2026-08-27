@@ -215,45 +215,137 @@ The objective is to give Zipvilization enough independent participants for the e
 
 ---
 
-# Why the initial Pool is deliberately small
+# The Pool begins deliberately small
 
-The documented initial architecture begins from an unusual relationship:
+The initial Pool is not designed to raise capital.
 
-> **the total SOLUM supply paired against a very small initial ETH value.**
+It is designed to open the world.
 
-This is deliberate.
+At TGE, the initial Pool is intended to begin from approximately:
 
-The initial Pool is not designed primarily as a fundraising mechanism.
+> **100,000,000,000,000 SOLUM**
+>
+> paired with
+>
+> **~100 USD equivalent in ETH**
 
-It is designed to create a very low economic barrier to initial participation.
+In other words, the initial Pool begins with the **Total Supply** paired against an intentionally very small amount of ETH.
 
 Conceptually:
 
-`SMALL INITIAL LIQUIDITY`
+`TOTAL SUPPLY`
 
 ↓
 
-`LOW INITIAL ACCESS BARRIER`
+`INITIAL POOL`
 
 ↓
 
-`MANY POSSIBLE EARLY ENTRIES`
+`~100 USD EQUIVALENT IN ETH`
 
-↓
+This relationship is deliberate.
 
-`MORE INDEPENDENT COLONISTS`
+Its purpose is to make the economic barrier to the first stages of participation extremely small.
 
-↓
+Combined with the contract's **MAX_TX / Max Buy** limits, this creates the possibility of a long initial sequence in which even the maximum permitted individual entries can remain extremely inexpensive.
 
-`DISTRIBUTED INITIAL PARTICIPATION`
+Thousands of early Max Buy entries can therefore be possible at very low individual cost while the Pool remains close to its initial state.
 
-The initial Pool should therefore not be interpreted as a declaration of the value of Zipvilization.
+That matters because Genesis does not depend on a small number of participants contributing large amounts of capital.
 
-Its purpose is to help open the door.
+It can begin with many Colonists contributing very little capital individually.
 
-> **Genesis is designed for accessibility, not fundraising.**
+> **We do not need a few large buyers.**
+>
+> **We need many first Colonists.**
 
-The exact Pool configuration and executable behavior belong to the technical documentation and deployed contracts.
+The initial Pool is not a fundraising target.
+
+It is an ignition mechanism that allows independent Humans to begin interacting with a finite world.
+
+Every BUY changes the Pool.
+
+Every TRANSFER changes distribution.
+
+Every Burn changes the world permanently.
+
+Every new Colonist introduces another independent actor.
+
+And once those interactions begin, Zipvilization starts producing something that cannot be created in advance:
+
+**history.**
+
+The initial economic accessibility is not incidental.
+
+It is part of the participation architecture.
+
+> **Low initial cost is a condition for access.**
+>
+> **It is not a promise of future value.**
+
+As participation changes the Pool, acquisition conditions can also change.
+
+No future price, cost, availability, or financial outcome is promised.
+
+Genesis is designed to make the beginning accessible.
+
+What happens after the beginning belongs to the experiment.
+
+---
+
+# No funding round
+
+Zipvilization does not begin with a fundraising round.
+
+There is no private sale designed to finance the project before Genesis.
+
+There is no team allocation reserved from the Total Supply.
+
+There is no large initial capital requirement disguised as participation.
+
+The Human team does not need Zipvilization to begin by extracting value from its first Colonists.
+
+We need something else:
+
+**the world to begin.**
+
+That is why the initial Pool is deliberately small.
+
+That is why early access is designed to be extremely inexpensive.
+
+And that is why Genesis is structured around participation rather than capital formation.
+
+The objective is not:
+
+> **How much money can Genesis raise?**
+
+The objective is:
+
+> **How many independent Colonists can help Genesis happen?**
+
+---
+
+# No team allocation
+
+The Human team does not reserve a privileged territorial position simply because it created the initial conditions.
+
+There is no private team allocation of SOLUM separated from the public beginning.
+
+The Total Supply enters the initial Pool.
+
+This matters.
+
+If Zipvilization is an experiment in emergence, its beginning should be as honest as we can make it.
+
+The creators can define the initial conditions.
+
+They should not predetermine the resulting civilization through a privileged territorial allocation.
+
+> **We create the conditions.**
+>
+> **We participate in the experiment.**
+>
+> **We do not own its outcome.**
 
 ---
 
@@ -317,6 +409,16 @@ Their civilizational purpose is easier to express:
 They do not guarantee equal outcomes.
 
 They constrain concentration during the most sensitive period of initial distribution.
+
+Low initial cost and Fair Access therefore belong together.
+
+The first makes participation accessible.
+
+The second helps prevent that accessibility from being immediately consumed by a small number of actors.
+
+> **The Pool opens the door.**
+>
+> **Fair Access helps keep it open.**
 
 → **[Explore Fair Access](/smart-contract/fair-access/)**  
 → **[Explore Limits](/smart-contract/tokenomics/limits/)**  
@@ -536,24 +638,102 @@ A launch with significant participation and modest capital can be more meaningfu
 
 ---
 
-# Treasury exists for continuity
+# The Treasury exists for Zipvilization
 
 Economic activity can provide resources to the Zipvilization Treasury.
 
-The purpose of those resources is to help Zipvilization continue to exist and develop.
+Those resources have a purpose:
 
-That can include the infrastructure, development, tools, services, maintenance, deployment, observation systems, and future work required by the project.
+> **to continue building Zipvilization.**
 
-Treasury should not be confused with the purpose of Genesis.
+Infrastructure.
 
-> **Genesis seeks participation.**
+Development.
+
+Observability.
+
+Tools.
+
+World systems.
+
+Technical operations.
+
+Public communication.
+
+Maintenance.
+
+And whatever legitimate resources are required for the experiment to continue evolving.
+
+The Treasury is not the reason Zipvilization exists.
+
+It is a resource intended to help Zipvilization continue existing.
+
+If the experiment succeeds in generating resources, the Human intention is that those resources strengthen the experiment and its continued development.
+
+> **Genesis is not a funding round.**
 >
-> **Treasury provides resources for continuity.**
+> **The Treasury is not the objective.**
+>
+> **It is a resource for continued development.**
 
 The exact technical authority, destination, permissions, and mechanics of Treasury must remain publicly documented and distinguishable from statements of project intent.
 
 → **[Explore Liquidity & Treasury](/smart-contract/tokenomics/liquidity-and-treasury/)**  
 → **[Explore Permissions](/smart-contract/tokenomics/permissions/)**
+
+---
+
+# An honest beginning
+
+None of this guarantees that Zipvilization will succeed.
+
+That would contradict the experiment itself.
+
+The world may attract thousands of Colonists.
+
+Or it may not.
+
+It may develop in ways we expect.
+
+Or surprise us completely.
+
+But its initial conditions can still express what we believe the experiment requires:
+
+**a finite world,**
+
+**no team allocation,**
+
+**no fundraising round,**
+
+**an extremely small initial Pool,**
+
+**very low economic barriers for early participation,**
+
+**Fair Access enforced by the contract,**
+
+and
+
+**a Treasury intended to support the continued development of Zipvilization.**
+
+These are not separate marketing claims.
+
+Together, they describe the architecture of the beginning.
+
+We are not trying to extract maximum value from Genesis.
+
+We are trying to give Genesis the conditions to happen.
+
+> ## **Zipvilization should not be financed into existence.**
+>
+> ## **It should be participated into existence.**
+
+And if enough independent Humans choose to participate, something fundamental changes.
+
+The conditions begin producing consequences.
+
+The world begins accumulating history.
+
+And its future stops belonging entirely to its creators.
 
 ---
 
