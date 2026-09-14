@@ -5,6 +5,7 @@ nav_order: 7
 description: "Become a Founding Colonist of Zipvilization. Get your ticket to Genesis and request access to the pre-Genesis whitelist."
 permalink: /founding-colonists/
 ---
+![Welcome to Zipvilization](/assets/images/01-hero.webp)
 
 # We Need Colonists.
 
