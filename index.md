@@ -130,6 +130,8 @@ Not spectators waiting for a chart.
 
 > ## **We need the first Colonists.**
 
+[**BECOME A FOUNDING COLONIST →**](https://docs.google.com/forms/d/e/1FAIpQLSdQWXaCUz-kae_sYSsFepZVVMu5KKxieMQlgyaPcYaJ_fjpGg/viewform?usp=header){: .btn .btn-primary }
+
 ---
 
 # I want to be there
