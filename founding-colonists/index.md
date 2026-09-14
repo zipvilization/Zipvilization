@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Founding Colonists
-parent: Documentation
 nav_order: 7
 description: "Become a Founding Colonist of Zipvilization. Get your ticket to Genesis and request access to the pre-Genesis whitelist."
+permalink: /founding-colonists/
 ---
 
 # We Need Colonists.
@@ -14,7 +14,7 @@ The world is almost ready.
 
 Now we need the Humans who will bring it to life.
 
-[**GET YOUR TICKET TO GENESIS →**](https://docs.google.com/forms/d/e/1FAIpQLSdQWXaCUz-kae_sYSsFepZVVMu5KKxieMQlgyaPcYaJ_fjpGg/viewform?usp=header){: .btn .btn-primary }
+[**GET YOUR TICKET TO GENESIS →**](https://docs.google.com/forms/d/e/1FAIpQLSdQWXaCUz-kae_sYSsFepZVVMu5KKxieMQlgyaPcYaJ_fjpGg/viewform?usp=header)
 
 ---
 
@@ -187,7 +187,7 @@ The world is almost ready.
 
 **Will you be there before history begins?**
 
-[**GET YOUR TICKET TO GENESIS →**](https://docs.google.com/forms/d/e/1FAIpQLSdQWXaCUz-kae_sYSsFepZVVMu5KKxieMQlgyaPcYaJ_fjpGg/viewform?usp=header){: .btn .btn-primary }
+[**GET YOUR TICKET TO GENESIS →**](https://docs.google.com/forms/d/e/1FAIpQLSdQWXaCUz-kae_sYSsFepZVVMu5KKxieMQlgyaPcYaJ_fjpGg/viewform?usp=header)
 
 ---
 
