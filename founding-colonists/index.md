@@ -2,60 +2,112 @@
 layout: default
 title: Founding Colonists
 nav_order: 7
-description: "Become a Founding Colonist of Zipvilization. Get your ticket to Genesis and request access to the pre-Genesis whitelist."
+description: "Become a Founding Colonist. Get your ticket to the pre-Genesis whitelist and be there when Zipvilization begins."
 permalink: /founding-colonists/
 ---
+
 ![Welcome to Zipvilization](/assets/images/01-hero.webp)
 
-# We Need Colonists.
+# WE NEED COLONISTS.
 
 ## Genesis is approaching.
 
 The world is almost ready.
 
-Now we need the Humans who will bring it to life.
+But before Zipvilization can have Cities, States, Kingdoms or history...
 
-[**GET YOUR TICKET TO GENESIS →**](https://docs.google.com/forms/d/e/1FAIpQLSdQWXaCUz-kae_sYSsFepZVVMu5KKxieMQlgyaPcYaJ_fjpGg/viewform?usp=header)
+**it needs its first Colonists.**
 
----
+And there will only ever be one chance to be there before it all begins.
 
-## What is Zipvilization?
+# BE THERE FROM ZERO.
 
-Zipvilization is a digital civilization experiment built on **finite Territory, time and participation**.
-
-Humans acquire Territory.  
-Time creates development.  
-Zips create population.  
-Interactions create history.
-
-The world has rules.
-
-It has a finite territorial substrate called **SOLUM**, where:
-
-> **1 SOLUM = 1 m² of Territory**
-
-We have designed the world and its initial conditions.
-
-What happens next has not been written.
-
-> **We define the conditions.  
-> We do not define the outcome.**
+[**GET YOUR TICKET TO GENESIS →**](https://docs.google.com/forms/d/e/1FAIpQLSdQWXaCUz-kae_sYSsFepZVVMu5KKxieMQlgyaPcYaJ_fjpGg/viewform?usp=header){: .btn .btn-primary }
 
 ---
 
-# Why become a Founding Colonist?
+# What does being a Founding Colonist mean?
 
-Because there will only ever be one moment before Zipvilization has a history.
+It means you were here **before Genesis**.
 
-**Genesis.**
+Founding Colonists can request access to the **pre-Genesis whitelist**.
 
-Founding Colonists can request access to the **pre-Genesis whitelist** and be among the Humans able to participate from the very beginning.
+And that matters.
 
-During the **first hour of Genesis**, BUY access is restricted to whitelisted wallets.
+During the **FIRST HOUR of Genesis**, BUY access is restricted to whitelisted wallets.
 
-After that, general BUY access opens under the applicable Smart Contract rules.
+## Your wallet can be there when SOLUM begins.
 
-> ## There will only be one first hour.
+**FIRST-HOUR BUY ACCESS**
+
+**MAX BUY: 10,000,000,000 SOLUM**
+
+Yes.
+
+## 10 BILLION SOLUM.
+
+That is the maximum BUY under the initial Smart Contract rules.
+
+And Genesis is deliberately designed to begin with an extraordinarily low economic barrier.
+
+---
+
+# Look at how Genesis begins.
+
+The planned initial Pool:
+
+## 100,000,000,000,000 SOLUM
+
+paired with approximately
+
+## $100 equivalent in ETH.
+
+Yes.
+
+Approximately **$100**.
+
+That is intentional.
+
+No private round.
+
+No presale.
+
+No SOLUM allocation reserved for the Human team.
+
+We are not trying to raise as much capital as possible before the world begins.
+
+## WE NEED COLONISTS.
+
+Many independent Humans.
+
+Many interactions.
+
+Many decisions.
+
+Many different pieces of Territory beginning their own history.
+
+> **The first Colonists don't fund Zipvilization.  
+> They bring it to life.**
+
+---
+
+# Why start this way?
+
+Because Genesis is not designed around:
+
+> **How much capital can we attract?**
+
+It is designed around:
+
+> ## How many Humans can we bring into the world?
+
+The extremely small initial liquidity creates a deliberately low economic barrier at the beginning.
+
+Fair Access rules are designed to prevent that beginning from being immediately dominated by a few wallets.
+
+The Pool opens the door.
+
+**Fair Access helps keep it open.**
 
 ---
 
@@ -63,132 +115,190 @@ After that, general BUY access opens under the applicable Smart Contract rules.
 
 Becoming a Founding Colonist is simple.
 
-**Follow. Participate. Bring your wallet.**
+## TWO ACTIONS.
+
+**1. Follow @Zipvilization on X.**
+
+**2. Like and repost our pinned Founding Colonists post.**
 
 That's it.
 
+Then submit your **X username** and **Genesis wallet**.
+
+Help us find the first Colonists.
+
+Get your ticket to the pre-Genesis whitelist.
+
 [**BECOME A FOUNDING COLONIST →**](https://docs.google.com/forms/d/e/1FAIpQLSdQWXaCUz-kae_sYSsFepZVVMu5KKxieMQlgyaPcYaJ_fjpGg/viewform?usp=header){: .btn .btn-primary }
 
-No purchase is required to request whitelist access.
+---
 
-Whitelist access does not provide free SOLUM, guarantee acquisition, guarantee profit or future value, or remove any applicable Smart Contract limits.
+# What does the whitelist give you?
 
-It gives you something much simpler:
+Something that will never exist again once Genesis has passed:
 
-> **Access to the beginning.**
+# ACCESS TO THE BEGINNING.
+
+For the first **60 minutes after trading is enabled**, BUY access is restricted to whitelisted wallets under the applicable Smart Contract rules.
+
+After that first-hour window, general BUY access opens under the applicable rules.
+
+> ## There will only ever be one first hour.
 
 ---
 
-## Genesis is designed for participation
+# 10 BILLION SOLUM?
 
-Most launches ask:
+The initial **MAX_TX** is:
 
-> **How much capital can we attract?**
+## 10,000,000,000 SOLUM.
 
-Genesis asks something different:
+That is a transaction limit.
 
-> **How many independent Humans can we bring into the world?**
+It is **not** an allocation.
 
-There is no private funding round.
+Being whitelisted does not give you 10 billion SOLUM for free and does not guarantee that you will be able to acquire that amount.
 
-There is no presale designed to finance Zipvilization.
+Actual acquisition depends on the Pool, the AMM, previous interactions and the applicable Smart Contract rules when you participate.
 
-The Human team does not intend to reserve a SOLUM allocation for itself.
+But it gives you something we cannot recreate later:
 
-The planned initial Pool begins with:
+## The opportunity to participate from the very beginning.
 
-**100,000,000,000,000 SOLUM**  
-paired with approximately  
-**$100 equivalent in ETH**
+Low initial cost is a condition for access.
 
-Yes.
-
-Approximately **$100**.
-
-That extraordinarily small beginning is deliberate.
-
-The objective is not to maximize the capital entering Genesis.
-
-The objective is to make the initial economic barrier extremely low and create room for many independent Humans to participate.
-
-> **Low initial cost is a condition for access.  
-> It is not a promise of future value.**
-
-We are not trying to sell the beginning.
-
-> ## We are trying to distribute it.
+**It is not a promise of future value.**
 
 ---
 
-## Fair Access
+# Fair Access
 
-A low barrier means little if a few wallets can take the beginning for themselves.
+Genesis begins with protections designed to create room for participation.
 
-That is why Genesis starts with **Fair Access** protections.
+**MAX_TX** limits individual transaction size.
 
-- MAX_TX limits individual transaction size.
-- Max Wallet limits early accumulation.
-- The initial whitelist creates the first-hour access window.
-- The early BUY cooldown limits rapid repeated purchases.
+**Max Wallet** limits early accumulation.
+
+**The whitelist** defines who can BUY during the first hour.
+
+**The early BUY cooldown** limits rapid repeated purchases during the initial period.
 
 These mechanisms do not guarantee equal outcomes.
 
-They help give more Humans an opportunity to participate while the world is beginning to populate.
+They are there because a beginning designed for thousands of Colonists makes little sense if a few wallets can immediately take it for themselves.
 
 > **The Pool opens the door.  
 > Fair Access helps keep it open.**
 
 ---
 
-# Before History
+# And then?
 
-There will be a moment when Zipvilization contains almost everything except a civilization.
+Then we stop talking about a world that hasn't begun.
 
-The Territory will exist.
+Because Genesis changes everything.
 
-The rules will exist.
+Territory changes hands.
 
-The Smart Contract will exist.
+Blocks pass.
 
-The world will be waiting.
+Time accumulates.
 
-And then someone will enter.
+Zips are born.
 
-Then someone else.
+Farms mature.
 
-A balance will change.
+Cities emerge.
 
-A block will pass.
+States form.
 
-A decision will be made.
+Kingdoms become possible.
 
-And the state of the world will no longer be simply the state we created.
+Interactions become history.
 
-It will contain the consequences of what happened next.
+And every new state contains the consequences of what happened before it.
 
-For the first time, Zipvilization will have a past.
+We created the conditions.
 
-> ## History will have begun.
+## We do not define the outcome.
 
-We don't know what happens after that.
+SOLUM.
 
-**That's the experiment.**
+Colonists.
+
+Interactions.
+
+Blockchain.
+
+Time.
+
+Together they will shape Zipvilization.
+
+Maybe something extraordinary emerges.
+
+Maybe chaos.
+
+Maybe something none of us expected.
+
+**We don't know.**
+
+That's the experiment.
 
 ---
 
-# We Need Colonists.
+# BEFORE GENESIS.
 
-Not your capital.
+Right now, Zipvilization has something it will never have again.
 
-**Your participation.**
+## NO HISTORY.
 
-Genesis is approaching.
+The Territory is waiting.
 
-The world is almost ready.
+The rules are waiting.
 
-**Will you be there before history begins?**
+The world is waiting.
 
-[**GET YOUR TICKET TO GENESIS →**](https://docs.google.com/forms/d/e/1FAIpQLSdQWXaCUz-kae_sYSsFepZVVMu5KKxieMQlgyaPcYaJ_fjpGg/viewform?usp=header)
+Once Genesis begins, there is no returning to this moment.
+
+Someone will make the first BUY.
+
+Someone will hold the first Territory.
+
+Blocks will pass.
+
+The first consequences will accumulate.
+
+And Zipvilization will have a past.
+
+# THERE WILL NEVER BE ANOTHER GENESIS.
+
+---
+
+# WE NEED COLONISTS.
+
+Not investors.
+
+Not spectators.
+
+## COLONISTS.
+
+If you want to discover Zipvilization after Genesis, you can.
+
+If you want to discover it **from Genesis**...
+
+this is the moment.
+
+No promise of profit.
+
+No promise of future value.
+
+No predetermined ending.
+
+Just the opportunity to say:
+
+> ## I WAS THERE BEFORE HISTORY BEGAN.
+
+[**GET YOUR TICKET TO GENESIS →**](https://docs.google.com/forms/d/e/1FAIpQLSdQWXaCUz-kae_sYSsFepZVVMu5KKxieMQlgyaPcYaJ_fjpGg/viewform?usp=header){: .btn .btn-primary }
 
 ---
 
