@@ -6,7 +6,7 @@ description: "Become a Founding Colonist. Get your ticket to the pre-Genesis whi
 permalink: /founding-colonists/
 ---
 
-![Welcome to Zipvilization](/assets/images/01-hero.webp)
+![Welcome to Zipvilization](/assets/images/zipvilization-founding.webp)
 
 # WE NEED COLONISTS.
 
