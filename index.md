@@ -40,7 +40,7 @@ Time passes through [blocks](/world/time/).
 
 Interactions change the underlying state.
 
-And that state can be observed, interpreted and progressively transformed into a living digital world.
+And that state can be translated, represented and progressively explored as a living digital world.
 
 We create the initial conditions.
 
@@ -51,6 +51,8 @@ What happens after that depends increasingly on interaction.
 > **We do not define the outcome.**
 
 [Explore the World →](/world/)
+
+[Current Status → What exists right now?](/status/)
 
 ---
 
@@ -120,25 +122,25 @@ Before Zipvilization was promoted, it was being documented.
 
 As the project became more complex, we documented its concepts, rules, relationships, technical decisions and unresolved questions so that Humans and Artificial Intelligence could work from the same increasingly coherent structure.
 
-That repository grew with Zipvilization.
+That documentation grew with Zipvilization.
 
 Eventually, however, we encountered a problem.
 
-A repository may be an excellent way to preserve and expose a complex system.
+A repository may be an excellent environment for developing and maintaining a complex system.
 
 It is not necessarily the friendliest way to discover one.
 
 So we made a decision:
 
-**turn the repository into an Atlas.**
-
-The documentation remains.
+**turn the documentation into an Atlas.**
 
 The depth remains.
 
-The technical structure remains accessible.
+The relationships remain.
 
-But the website adds another layer over it — one designed to help Humans explore Zipvilization without needing to approach it like a developer reading a repository.
+The technical structure remains part of the project.
+
+But the Atlas adds another layer — one designed to help Humans explore Zipvilization without needing to approach it like a developer reading a repository.
 
 That is why this website can sometimes feel deeper than a conventional website.
 
@@ -148,15 +150,23 @@ And that is intentional.
 
 You can stay at the surface and understand the essential ideas.
 
-Or you can follow the links deeper and deeper until you reach the technical construction underneath them.
+Or you can follow the links deeper and deeper into the rules, mechanics and architecture underneath them.
 
 The two experiences are not separate.
 
-They are different ways of exploring the same project.
+They are different depths of the same project.
 
-> **The Atlas makes Zipvilization easier to explore.**
+> **The Atlas explains what can be made public.**
 >
-> **The Repository keeps it possible to inspect.**
+> **The Repository supports the technical construction behind it.**
+
+The working Repository is currently private where access could expose information that should remain restricted before Genesis.
+
+The Atlas therefore contains the public documentation needed to understand Zipvilization without pretending that every internal technical resource is publicly accessible.
+
+> **Private where integrity requires it.**
+>
+> **Public wherever it doesn't.**
 
 This Index is the simplest place to begin.
 
@@ -164,7 +174,7 @@ From here, go as deep as you want.
 
 For Artificial Intelligence and automated systems, the links throughout the Atlas are also part of its structure.
 
-They connect concepts to their deeper definitions, technical documentation and related components.
+They connect concepts to deeper definitions, technical documentation and related components.
 
 When greater precision is required, follow them.
 
@@ -174,6 +184,8 @@ The Index introduces Zipvilization.
 
 [Explore the Repository →](/repository/)
 
+[Check Current Status →](/status/)
+
 ---
 
 # 2. How Does It Work?
@@ -182,11 +194,15 @@ Underneath Zipvilization is something deliberately much less mysterious:
 
 **a blockchain and a Smart Contract.**
 
-SOLUM exists on [Base](https://www.base.org/), an Ethereum Layer 2 network.
+SOLUM is designed for [Base](https://www.base.org/), an Ethereum Layer 2 network.
 
 The [SOLUM Smart Contract](/smart-contract/) defines the initial supply and the fundamental rules governing transfers, fees, limits, burns, reflections, liquidity and other token mechanics.
 
-Once deployed, those rules operate on-chain.
+The contract code is complete.
+
+The official SOLUM contract has not yet been deployed.
+
+Once Genesis occurs and the official system is live, those rules can operate on-chain.
 
 That matters because Zipvilization is not supposed to depend on someone manually writing its history.
 
@@ -226,19 +242,19 @@ But inside Zipvilization, they can also have meaning.
 
 The relationship is fundamental:
 
-**Blockchain state → Zipvilization state.**
+**Blockchain state → canonical rules → Zipvilization state.**
 
 A balance can represent [Territory](/world/territories/).
 
 A holder can become a [Colonist](/world/colonists/).
 
-SOLUM remaining in the initial liquidity environment can represent **Dormant Land**.
+SOLUM held by the Pool can represent **Dormant Land**.
 
 SOLUM permanently removed through [burn](/smart-contract/burn/) can become **Permanent Nature**.
 
 Block progression provides [Time](/world/time/).
 
-Territorial state and elapsed time can determine the development and maturity of **Farms, Cities, States and Kingdoms**.
+Territorial state and elapsed Time can determine the development and maturity of **Farms, Cities, States and Kingdoms**.
 
 And those processes can determine the development of the [Zips](/world/zips/).
 
@@ -268,9 +284,99 @@ The story does not create the data.
 
 ---
 
-## A Civilization Designed to Continue
+## From Data to World
 
-There is another important consequence.
+As Zipvilization develops, three connected systems allow the same underlying reality to be understood at different levels.
+
+### SolumTools — Data
+
+[SolumTools](/world/solumtools/) reads relevant blockchain, contract, Pool and block-progression data.
+
+It applies the canonical rules and translates technical state into Zipvilization state.
+
+Holder becomes Colonist.
+
+Balance becomes territorial capacity.
+
+Pool-held SOLUM becomes Dormant Land.
+
+Burn becomes Permanent Nature.
+
+Blocks become biological Time.
+
+Territory and Time become development.
+
+> **SolumTools translates the data.**
+
+### SolumWorld — World
+
+[SolumWorld](/world/solumworld/) takes that valid translated state and gives it graphical form at world scale.
+
+It allows Zipvilization to be explored broadly.
+
+Dormant Land.
+
+Permanent Nature.
+
+Colonized Territory.
+
+Farms.
+
+Cities.
+
+States.
+
+Kingdoms.
+
+Development.
+
+A navigable world seen from a broad, satellite-like scale.
+
+> **SolumWorld shows the world.**
+
+### SolumView — Inside
+
+[SolumView](/world/solumview/) begins when broad world exploration is no longer enough.
+
+It allows us to enter a Colonist's Territory and move progressively deeper.
+
+Territory.
+
+Internal structures.
+
+Farms.
+
+Zips.
+
+At its maximum development, SolumView can become a live window into what is happening inside a Colonist's Territory as valid world state changes.
+
+> **SolumView lets us enter it.**
+
+The relationship is:
+
+**BLOCKCHAIN + CONTRACT + POOL + BLOCK PROGRESSION**  
+↓  
+**CANONICAL RULES**  
+↓  
+**SOLUMTOOLS — DATA**  
+↓  
+**SOLUMWORLD — WORLD**  
+↓  
+**SOLUMVIEW — INSIDE**
+
+One underlying reality.
+
+Different levels of translation and observation.
+
+[Explore SolumTools →](/world/solumtools/)
+
+[Explore SolumWorld →](/world/solumworld/)
+
+[Explore SolumView →](/world/solumview/)
+
+---
+
+## A Civilization Designed to Continue
 
 Zipvilization needs Humans to create its initial conditions.
 
@@ -298,35 +404,17 @@ The world can continue to be observed.
 
 In that sense, Genesis is more than a launch.
 
-It is the moment when Zipvilization begins having a history of its own.
+It is the moment when Zipvilization begins having an actual on-chain history of its own.
 
 > **Zipvilization doesn't need us to write its history.**
 >
 > **It needs interaction to create one.**
 
-Our role is to build the structures that allow that reality to be observed, interpreted and progressively experienced.
+Our role is to establish the conditions and build the systems that allow that reality to be translated, observed and experienced.
 
-That is where [SolumTools](/world/solumtools/), [SolumWorld](/world/solumworld/) and [SolumView](/world/solumview/) enter the story.
+The foundations are designed.
 
-**SolumTools observes.**
-
-**SolumWorld defines the coherent world state.**
-
-**SolumView renders it.**
-
-Or, more simply:
-
-> **What is happening?**
->
-> **What exists?**
->
-> **What does that world look like?**
-
-[Explore SolumTools →](/world/solumtools/)
-
-[Explore SolumWorld →](/world/solumworld/)
-
-[Explore SolumView →](/world/solumview/)
+The history is not.
 
 ---
 
@@ -338,7 +426,7 @@ Every civilization needs a beginning.
 
 For Zipvilization, that beginning is [Genesis](/genesis/).
 
-Genesis begins when the SOLUM economy and its initial Pool become active and independent participants can begin interacting with the system.
+Genesis begins when the official SOLUM economy and its initial Pool become active and independent participants can begin interacting with the system.
 
 The documented [Total Supply](/smart-contract/supply/) is:
 
@@ -356,9 +444,9 @@ The intention is for the Total Supply to enter the [initial liquidity Pool](/sma
 
 And that Pool is deliberately unusual.
 
-The intended initial configuration is approximately:
+At TGE, the initial Pool is intended to begin with the Total Supply paired with approximately:
 
-**100T SOLUM + ~$100 equivalent in ETH.**
+**$100 equivalent in ETH.**
 
 Yes.
 
@@ -548,7 +636,7 @@ They describe increasingly complex states of the system.
 
 The system begins.
 
-SOLUM exists on-chain.
+The official SOLUM contract becomes active.
 
 The Pool exists.
 
@@ -556,9 +644,9 @@ Independent interaction becomes possible.
 
 The first Colonists arrive.
 
-Before Genesis, there is design.
+Before Genesis, there is design and preparation.
 
-After Genesis, there is history.
+After Genesis, there is actual on-chain history.
 
 [Explore Chapter 0 — Genesis →](/chapters/genesis/)
 
@@ -570,7 +658,7 @@ After Genesis, there is history.
 
 A civilization cannot be understood if nobody can see what is happening.
 
-[SolumTools](/world/solumtools/) begins exposing the observable state of Zipvilization.
+[SolumTools](/world/solumtools/) translates observable blockchain state into the language of Zipvilization.
 
 Colonists.
 
@@ -596,13 +684,13 @@ Maturity.
 
 Activity.
 
-The principle is simple:
+The principle is:
 
-> **READ → DERIVE → EXPOSE**
+> **READ → DERIVE → TRANSLATE → EXPOSE**
 
-SolumTools does not need to invent activity.
+SolumTools does not invent activity.
 
-It observes what actually exists.
+It translates what actually exists according to canonical rules.
 
 [Explore Chapter 1 — Observability →](/chapters/observability/)
 
@@ -614,21 +702,41 @@ It observes what actually exists.
 
 **WORLD**
 
-Data begins becoming a coherent territorial world.
+Translated state becomes a coherent graphical world.
 
-[SolumWorld](/world/solumworld/) interprets valid underlying state and determines what exists within the world according to canonical rules.
+[SolumWorld](/world/solumworld/) uses valid Zipvilization state to represent the world at broad scale.
 
-[SolumView](/world/solumview/) can then render that state.
+Dormant Land.
 
-The order matters.
+Permanent Nature.
 
-> **SolumWorld defines.**
+Colonized Territory.
+
+Farms.
+
+Cities.
+
+States.
+
+Kingdoms.
+
+Development.
+
+Humans can move across that world, explore it and observe how its geography changes.
+
+When broad world observation is no longer enough, [SolumView](/world/solumview/) allows us to enter individual Colonists' Territories and continue deeper.
+
+> **SolumTools translates the data.**
 >
-> **SolumView renders.**
+> **SolumWorld shows the world.**
+>
+> **SolumView lets us enter it.**
 
 State first.
 
-Image second.
+Representation second.
+
+Detail follows the same underlying truth.
 
 [Explore Chapter 2 — Territory & World Coherence →](/chapters/territory-world/)
 
@@ -958,25 +1066,33 @@ A role that belongs to Zipvilization.
 
 # 7. Can You Verify Any of This?
 
-You should be able to.
+Zipvilization distinguishes between what is described, what is implemented, what is live and what remains possible.
 
-Zipvilization distinguishes between what is described, what is implemented and what remains possible.
+That distinction matters.
 
 The public website is the **Atlas**.
 
-It explains the world, its concepts and the relationships between them.
+It explains the world, its concepts, canonical relationships and the technical information that can safely be made public.
 
-The [Repository](/repository/) exposes the technical construction of the project.
+The working **Repository** contains deeper technical construction and remains private where access could compromise project integrity.
 
-The [Smart Contract](/smart-contract/) defines the on-chain mechanics of SOLUM.
+The [Smart Contract](/smart-contract/) documentation describes the mechanics of SOLUM.
 
-And the blockchain provides the underlying state once the system is live.
+Once Genesis occurs, the blockchain itself provides the underlying public state.
 
-> **The Atlas explains the system.**
+And [Status](/status/) answers a different question:
+
+> **What is actually true right now?**
+
+The distinction is:
+
+> **The Atlas explains what Zipvilization is.**
 >
-> **The Repository exposes its technical construction.**
-
-This distinction matters.
+> **Status explains what is true right now.**
+>
+> **The Repository supports its technical construction.**
+>
+> **The blockchain records the live state once Genesis begins.**
 
 A narrative statement does not override code.
 
@@ -986,9 +1102,19 @@ An idea does not become canon merely because it sounds interesting.
 
 And an AI interpretation does not become truth merely because it is convincing.
 
-Where possible:
+Where public evidence exists:
 
 **verify.**
+
+Where access is intentionally restricted:
+
+**do not pretend it is public.**
+
+> **Private where integrity requires it.**
+>
+> **Public wherever it doesn't.**
+
+[Check Current Status →](/status/)
 
 [Read the Smart Contract documentation →](/smart-contract/)
 
@@ -996,7 +1122,7 @@ Where possible:
 
 [Explore the Technical Tokenomics →](/smart-contract/tokenomics/)
 
-[Read the Contract Source →](/smart-contract/tokenomics/contract-source/)
+[Read the Contract Source documentation →](/smart-contract/tokenomics/contract-source/)
 
 [Explore the Repository →](/repository/)
 
@@ -1080,6 +1206,11 @@ You don't need to read Zipvilization in a fixed order.
 
 If you already know what you're looking for, start anywhere.
 
+### Current State
+
+[Status →](/status/)  
+What is actually true right now: defined, built, live, evolving or still pending.
+
 ### The World
 
 [SOLUM →](/world/solum/)  
@@ -1092,13 +1223,24 @@ How SOLUM becomes space inside the world.
 The Humans participating in Zipvilization.
 
 [Time →](/world/time/)  
-How block progression provides time and maturity.
+How block progression provides biological Time and maturity.
 
 [Zips →](/world/zips/)  
 The native inhabitants of Zipvilization.
 
 [Civilization →](/world/civilization/)  
-How the different layers can progressively become a civilization.
+What may emerge when Territory, population, Time, participation and history interact.
+
+### From Data to World
+
+[SolumTools →](/world/solumtools/)  
+Translate blockchain, contract, Pool and Time data into Zipvilization state.
+
+[SolumWorld →](/world/solumworld/)  
+Explore the graphical world at broad, world-scale detail.
+
+[SolumView →](/world/solumview/)  
+Enter Colonists' Territories and explore progressively deeper toward Farms and Zips.
 
 ### The Beginning
 
@@ -1117,16 +1259,7 @@ Mechanisms designed to support broader early participation.
 ### Evolution
 
 [Chapters →](/chapters/)  
-The structural evolution from Genesis to Emergence.
-
-[SolumTools →](/world/solumtools/)  
-Observe what is happening.
-
-[SolumWorld →](/world/solumworld/)  
-Determine what exists in the coherent world.
-
-[SolumView →](/world/solumview/)  
-Render what that world has become.
+The structural progression from Genesis to Emergence.
 
 ### The Trinomial
 
@@ -1206,7 +1339,7 @@ The documented mechanics underlying SOLUM.
 The canonical contract-level rules.
 
 [Repository →](/repository/)  
-The technical construction of Zipvilization.
+The private technical construction environment and its relationship with the public Atlas.
 
 ---
 
