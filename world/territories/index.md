@@ -4,1139 +4,1057 @@ title: Territories
 parent: The World
 nav_order: 3
 description: >
-  Territories organize Solum into Farms, Cities, States, and Kingdoms.
-  Their scale, population, information, and maturity follow deterministic
-  rules designed to make territorial development meaningful over time.
+  Territories are the spatial structures of Zipvilization. SOLUM defines territorial
+  capacity, while Time and Zips determine development and maturity across Farms,
+  Cities, States, and Kingdoms.
 permalink: /world/territories/
 ---
 
 # Territories
 
-Solum gives Zipvilization land.
+SOLUM gives Zipvilization space.
 
-Territories give that land structure.
+Territories give that space structure.
 
-A balance can tell us how much Solum exists under the control of a Holder.
+The foundational relationship is:
 
-A Territory begins answering a different question:
+> **1 SOLUM = 1 m²**
 
-> **What has that land become inside Zipvilization?**
+A Colonist's SOLUM therefore represents territorial capacity inside Zipvilization.
 
-This distinction is fundamental.
+But Territory is not merely a balance expressed in square meters.
 
-On blockchain, we can measure balances, transfers, thresholds, and state.
+As territorial capacity increases, deterministic thresholds create larger structural scales:
 
-Inside Zipvilization, those same quantities can become:
+**Farm**  
+↓  
+**City**  
+↓  
+**State**  
+↓  
+**Kingdom**
 
-**Farms.**
+These structures provide the spatial foundation upon which biological development, history and eventually civilization can emerge.
 
-**Cities.**
-
-**States.**
-
-**Kingdoms.**
-
-These are not decorative names assigned to increasingly large balances.
-
-They are the territorial architecture through which an initially barren world can progressively acquire structure, population, maturity, and eventually civilizational complexity.
-
-→ **[Discover Solum](/world/solum/)**  
-→ **[Explore The World](/world/)**
-
----
-
-# Two languages, one territorial reality
-
-Territories continue the semantic structure used throughout Zipvilization.
-
-**Blockchain describes how it works.**
-
-**Zipvilization describes what it means.**
-
-At the technical layer, the system sees things such as:
-
-- Solum balances,
-- deterministic thresholds,
-- transfers,
-- block progression,
-- canonical state,
-- and contract rules.
-
-Inside Zipvilization, those same facts become:
-
-- land,
-- territorial units,
-- development,
-- maturation,
-- population,
-- political scale,
-- and eventually civilization.
-
-Neither language replaces the other.
-
-A Farm is not secretly a different token.
-
-A State is not a new blockchain asset created because we want a political metaphor.
-
-The underlying Solum remains Solum.
-
-What changes is the **structured meaning of its quantity, organization, population, and maturity inside the world**.
-
-> **Quantity is measured by the system.**
+> **Solum defines how much Territory exists.**
 >
-> **Territory is what that quantity becomes inside Zipvilization.**
+> **Time determines how far it has developed.**
+>
+> **Zips express its biological state.**
 
-→ **[Explore the Smart Contract](/smart-contract/)**  
-→ **[Explore SolumWorld](/world/solumworld/)**
+→ **[Explore Solum](/world/solum/)**  
+→ **[Understand Time](/world/time/)**  
+→ **[Discover Zips](/world/zips/)**
 
 ---
 
-# The territorial ladder
+# From Solum to Territory
 
-The canonical territorial hierarchy is:
+At blockchain level, a wallet contains a SOLUM balance.
 
-> **Farm → City → State → Kingdom**
+Inside Zipvilization, that balance has spatial meaning.
 
-Each level increases the scale of the world by a factor of **32**.
+The translation begins with:
 
-The current territorial thresholds are:
+> **1 SOLUM = 1 m²**
 
-| Territory | Territorial scale | Relative growth |
-|:----------|------------------:|----------------:|
-| Farm | 8 | — |
-| City | 256 | ×32 |
-| State | 8,192 | ×32 |
-| Kingdom | 262,144 | ×32 |
+Therefore:
 
-The arithmetic is deliberately clean:
+**SOLUM BALANCE**  
+↓  
+**TERRITORIAL CAPACITY**  
+↓  
+**TERRITORIAL STRUCTURE**
 
-**8 × 32 = 256**
+This relationship allows blockchain ownership to become geography without changing the underlying technical state.
 
-**256 × 32 = 8,192**
+The balance remains a balance.
 
-**8,192 × 32 = 262,144**
+The address remains an address.
 
-This progression gives the territorial system a predictable mathematical backbone.
+Zipvilization gives them world meaning.
 
-A higher level is not assigned subjectively.
+---
 
-It exists because the underlying quantitative conditions exist.
+# The Territorial Hierarchy
+
+Zipvilization uses four foundational territorial scales:
+
+| Territory | SOLUM | Area |
+|:----------|------:|-----:|
+| Farm | 8 | 8 m² |
+| City | 256 | 256 m² |
+| State | 8,192 | 8,192 m² |
+| Kingdom | 262,144 | 262,144 m² |
+
+The relationship between consecutive levels is:
+
+> **×32**
+
+Therefore:
+
+**8**  
+× 32  
+↓  
+**256**  
+× 32  
+↓  
+**8,192**  
+× 32  
+↓  
+**262,144**
+
+This is not merely a naming system.
+
+It creates a deterministic hierarchy of territorial scale.
 
 ---
 
 # Why ×32?
 
-The ×32 progression is important because Zipvilization needs territorial scale to increase dramatically without requiring an endless number of named levels.
+The territorial hierarchy expands by a constant factor:
 
-A Farm is small.
+> **32**
 
-A City is already structurally much larger.
+A City contains the territorial capacity of 32 Farms.
 
-A State represents another order of magnitude.
+A State contains the territorial capacity of 32 Cities.
 
-A Kingdom becomes a genuinely large territorial structure.
+A Kingdom contains the territorial capacity of 32 States.
 
-Each transition therefore matters.
+Therefore:
 
-The hierarchy is not:
+> **1 City = 32 Farms**
 
-small,
+> **1 State = 32 Cities**
 
-slightly larger,
+> **1 Kingdom = 32 States**
 
-slightly larger again.
+And consequently:
 
-It is:
+> **1 Kingdom = 1,024 Cities**
 
-**local → urban → political → geopolitical.**
+> **1 Kingdom = 32,768 Farms**
 
-The mathematical jump creates room for each layer to develop a genuinely different function inside the civilization.
+The hierarchy scales predictably while allowing increasingly large territorial structures to emerge from the same foundational unit.
 
-The exact mechanics associated with those functions may evolve through future Chapters.
+---
 
-The territorial scale itself provides the structure on which those mechanics can later operate.
+# Territory Is Capacity
+
+Crossing a territorial threshold establishes capacity.
+
+It does not automatically establish maturity.
+
+This distinction is fundamental.
+
+A Colonist holding enough SOLUM for a City has:
+
+> **City-scale territorial capacity**
+
+That does not necessarily mean:
+
+> **Mature City**
+
+The same principle applies to every higher level.
+
+> **TERRITORIAL CAPACITY ≠ TERRITORIAL MATURITY**
+
+Solum determines the first.
+
+Development determines the second.
 
 ---
 
 # Farm
 
-The **Farm** is the smallest canonical territorial unit.
+The smallest foundational Territory is the:
 
-It begins at:
+> **Farm**
 
-> **8 territorial units**
+Canonical territorial requirement:
 
-A Farm is the first point at which Solum stops being only isolated land and becomes a meaningful territorial structure inside Zipvilization.
+> **8 SOLUM = 8 m²**
 
-Conceptually, the Farm represents the most fundamental economic layer of civilization:
+The Farm establishes the first territorial scale capable of biological development.
 
-**primary production.**
+Its mature biological core requires:
 
-Food.
+> **8 Zips**
 
-Raw materials.
+Because:
 
-Basic extraction.
+> **1 Zip = 1 bit**
 
-The beginning of productive territory.
+then:
 
-This does not mean that every production mechanic must exist at Genesis.
+> **8 Zips = 1 byte**
 
-It means the Farm provides the canonical territorial level where those mechanics belong when they are implemented.
+The Farm therefore connects three foundational systems:
 
-A Farm is therefore both:
+**Territory**
 
-**a mathematically defined territorial threshold**
+**Biology**
 
-and
+**Information**
 
-**the conceptual foundation of the productive world.**
+Its territorial capacity may exist immediately when the SOLUM condition is satisfied.
 
-→ **[Discover Solum](/world/solum/)**  
-→ **[Discover Zips](/world/zips/)**
+Its mature biological state requires Time.
 
 ---
 
 # City
 
-A **City** begins at:
+The second territorial scale is:
 
-> **256 territorial units**
+> **City**
 
-That is:
+Canonical territorial requirement:
 
-> **32 Farms of territorial scale**
+> **256 SOLUM = 256 m²**
 
-But the City should not be understood merely as thirty-two Farms placed next to each other.
+Because:
 
-A City introduces a different level of organization.
+> **256 = 8 × 32**
 
-Conceptually, this is where Zipvilization can begin representing:
+a City represents the territorial capacity of:
 
-**concentration, transformation, industry, infrastructure, and urban complexity.**
+> **32 Farms**
 
-The transition therefore means more than:
+But crossing the City threshold does not instantly manufacture City history or biological maturity.
 
-> "This Holder has more Solum."
+A Colonist can therefore possess:
 
-It means:
+> **City-scale Territory**
 
-> **This territorial structure has crossed into another scale of civilization.**
+while the City remains:
 
-The City is also important visually.
+> **Developing**
 
-The current architecture treats the **City as the minimum major territorial structure intended for full visual representation**.
-
-That creates a useful distinction:
-
-A Farm can exist canonically.
-
-A City becomes a major visible unit of the world.
-
-→ **[Explore SolumView](/world/solumview/)**  
-→ **[Understand Time](/world/time/)**
+The distinction between scale and maturity continues through the entire hierarchy.
 
 ---
 
 # State
 
-A **State** begins at:
+The third territorial scale is:
 
-> **8,192 territorial units**
+> **State**
 
-Again:
+Canonical territorial requirement:
 
-> **256 × 32 = 8,192**
+> **8,192 SOLUM = 8,192 m²**
 
-At this scale, the conceptual role changes again.
+Because:
 
-A State is not simply an oversized City.
+> **8,192 = 256 × 32**
 
-It introduces the scale at which territorial organization can begin supporting:
+a State represents the territorial capacity of:
 
-**politics, public resources, administration, and macroeconomics.**
+> **32 Cities**
 
-This is an important boundary.
+or:
 
-A City can represent concentrated civilization.
+> **1,024 Farms**
 
-A State can begin representing the organization of multiple interests at a larger political scale.
+The term **State** describes a canonical territorial scale.
 
-That does not mean Zipvilization pretends those political systems already exist at launch.
+It does not automatically create:
 
-They do not need to.
+- government,
+- taxation,
+- political institutions,
+- macroeconomic systems,
+- laws,
+- or authority over other Colonists.
 
-The territory establishes the scale at which those systems can later become meaningful.
+Those possibilities belong to later civilizational development.
 
-The distinction between **territorial architecture** and **future civilizational mechanics** must remain explicit.
-
-→ **[Explore Civilization](/world/civilization/)**  
-→ **[Explore the Chapters](/chapters/)**
+> **Territorial scale does not automatically create political structure.**
 
 ---
 
 # Kingdom
 
-A **Kingdom** begins at:
+The fourth foundational territorial scale is:
 
-> **262,144 territorial units**
+> **Kingdom**
 
-Again:
+Canonical territorial requirement:
 
-> **8,192 × 32 = 262,144**
+> **262,144 SOLUM = 262,144 m²**
 
-This is the largest canonical territorial level currently defined.
+Because:
 
-At Kingdom scale, Zipvilization reaches the point where interaction between major territorial powers can become structurally important.
+> **262,144 = 8,192 × 32**
 
-Conceptually, this is the layer of:
+a Kingdom represents the territorial capacity of:
 
-**alliances, strategic competition, conflict, diplomacy, and power.**
+> **32 States**
 
-A Kingdom is therefore not merely a prestige tier.
+or:
 
-Its significance lies in scale.
+> **1,024 Cities**
 
-At this point, a territory is large enough that its decisions can potentially matter beyond itself.
+or:
 
-That is one of the transitions we care about most.
+> **32,768 Farms**
 
-Civilization becomes truly interesting when territories no longer exist only internally.
+Again, the name defines scale.
 
-They begin having relationships with one another.
+It does not predetermine civilization.
+
+A Kingdom-scale Territory is not automatically:
+
+- a monarchy,
+- a government,
+- an empire,
+- a military power,
+- or a political alliance.
+
+> **KINGDOM-SCALE TERRITORY ≠ KINGDOM GOVERNANCE**
+
+The world provides structure.
+
+Civilization remains open.
 
 → **[Explore Civilization](/world/civilization/)**
 
 ---
 
-# Territory is hierarchical
+# Scale and Maturity
 
-The territorial system is not designed as four unrelated thresholds.
+Territorial scale answers:
 
-Higher structures emerge from lower ones.
+> **How much Territory can this Colonist support?**
 
-That means the hierarchy preserves continuity.
+Maturity answers:
 
-Conceptually:
+> **How far has that Territory developed?**
 
-**Farms form the productive substrate.**
-
-**Cities emerge from larger territorial organization.**
-
-**States organize a higher political scale.**
-
-**Kingdoms operate at a scale where relationships between powers become possible.**
-
-The world therefore grows in complexity without forgetting its lower layers.
-
-A Kingdom does not make Farms irrelevant.
-
-A State does not erase Cities.
-
-A City does not eliminate the productive layer beneath it.
-
-Higher levels depend on the existence of lower-level structure.
-
-This principle becomes especially important when population and time enter the system.
-
----
-
-# Existing structure and new structure
-
-Territorial growth in Zipvilization is not intended to behave as if each higher level simply replaces everything below it.
-
-The canonical architecture distinguishes between:
-
-**inherited structure**
-
-and
-
-**new structure associated with the higher level.**
-
-This matters because a larger territory should retain the developmental history that made it possible.
-
-A new level does not mean:
-
-> delete the old world and assign a larger label.
-
-It means:
-
-> **preserve what already exists and add another layer of organization.**
-
-This principle allows territorial complexity to accumulate rather than reset.
-
-It also creates the basis for future systems where different territorial layers can perform different functions simultaneously.
-
-The precise implementation of inherited and newly activated structures belongs to the deeper canonical documentation and to the corresponding population and timing rules.
-
-→ **[Discover Zips](/world/zips/)**  
-→ **[Understand Time](/world/time/)**  
-→ **[Open the Repository](/repository/)**
-
----
-
-# Land and information do not scale in the same way
-
-Territorial size is only one dimension of Zipvilization.
-
-Population and information introduce another.
-
-The canonical model connects mature Zip population with binary information.
-
-A Zip corresponds to one bit of biological information.
-
-Eight Zips therefore form:
-
-> **1 byte**
-
-The Farm establishes the first complete unit:
-
-> **8 Zips = 8 bits = 1 byte**
-
-At higher levels, the mature information structure grows according to its own canonical rules.
-
-The current architecture defines:
-
-| Territory | Territorial scale | Mature information |
-|:----------|------------------:|-------------------:|
-| Farm | 8 | 1 byte |
-| City | 256 | 32 bytes |
-| State | 8,192 | 64 bytes |
-| Kingdom | 262,144 | 128 bytes |
-
-This table reveals something important.
-
-Territorial scale and biological information are **different dimensions**.
-
-Territory continues multiplying dramatically.
-
-The biological/information layer follows its own progression.
-
-We should not force them into the same equation simply because both can be measured.
-
-Zipvilization deliberately separates:
-
-**how much territory exists**
-
-from
-
-**how biologically consolidated that territory has become.**
-
-→ **[Discover Zips](/world/zips/)**
-
----
-
-# The Farm establishes the biological base
-
-A mature Farm contains:
-
-> **8 Zips**
-
-Those 8 Zips correspond to:
-
-> **8 bits = 1 byte**
-
-This is not only a convenient numerical relationship.
-
-It establishes the smallest complete biological information unit of the territorial system.
-
-The Farm therefore connects three layers:
-
-**Territory**
-
-8 units of territorial scale.
-
-**Population**
-
-8 Zips.
-
-**Information**
-
-1 byte.
-
-That relationship becomes the base from which larger territorial structures can develop.
-
-It is one of the places where Zipvilization intentionally connects geography, biology, and computation.
-
----
-
-# Bloch: life does not appear instantly
-
-The biological development of territory uses the **Bloch** container model.
-
-A Bloch container is associated with the generation of Zip population over time.
-
-The canonical cycle is:
-
-> **65,536 blocks**
-
-The container does not simply disappear after producing a Zip.
-
-It remains part of the biological architecture.
-
-At Farm scale, maturation requires multiple cycles until the territory reaches its canonical population.
-
-The result is a crucial separation:
-
-> **Solum determines territorial capacity.**
->
-> **Bloch cycles determine biological development.**
-
-That means someone can cross a territorial threshold immediately through a blockchain transaction while still having to wait for the biological layer to consolidate.
-
-The economic event can be fast.
-
-The world is not.
-
-→ **[Discover Zips](/world/zips/)**  
-→ **[Understand Time](/world/time/)**
-
----
-
-# Maturity is a state, not a label
-
-This is one of the most important concepts in Territories.
-
-A Territory can exist structurally without being mature.
-
-That means:
-
-**Territory level**
-
-and
-
-**Territorial maturity**
-
-are not the same thing.
-
-A Holder may satisfy the Solum requirement for a larger territorial level.
-
-Inside Zipvilization, the corresponding Colonist may therefore have the structural conditions for that territory.
-
-But the biological core still needs time.
-
-Population still needs to develop.
-
-Lower structures still matter.
-
-The territory must consolidate.
-
-This prevents a single transaction from doing everything.
-
-Without this distinction, a sufficiently wealthy participant could move from nothing to a fully mature high-level civilization instantly.
-
-Zipvilization deliberately rejects that model.
-
-> **Capital can change possession.**
->
-> **Capital cannot manufacture elapsed time.**
-
-→ **[Understand Time](/world/time/)**
-
----
-
-# Canonical maturation cycles
-
-The current biological architecture uses a fixed block cycle:
-
-> **1 cycle = 65,536 blocks**
-
-The Farm establishes the first maturity requirement:
-
-> **8 cycles**
-
-Higher levels introduce additional development requirements.
-
-The current canonical progression defines:
-
-- **Farm:** 8 cycles
-- **City:** +32 cycles
-- **State:** +32 cycles
-- **Kingdom:** +64 cycles
-
-These are deterministic requirements.
-
-They do not become shorter because someone holds more capital.
-
-They do not become longer because someone is less influential.
-
-The blockchain provides the clock.
-
-The rules determine what that clock means inside the world.
-
-Detailed maturation calculations belong to the dedicated **Time** and **Zips** documentation, where the biological model can be explained without overloading the territorial layer.
-
-→ **[Understand Time](/world/time/)**  
-→ **[Discover Zips](/world/zips/)**
-
----
-
-# Quantity determines scale. Time determines maturity.
-
-This relationship is worth making explicit.
-
-> **Solum answers: How large can this territory be?**
->
-> **Time answers: How developed has this territory become?**
-
-Those two dimensions work together.
-
-A large amount of Solum without elapsed maturation time does not become an instant mature Kingdom.
-
-A long period of time without sufficient Solum does not create territorial scale that does not exist.
-
-Both conditions matter.
-
-This gives the system a simple but powerful structure:
-
-**Quantity → territorial capacity**
-
-**Time → maturation**
-
-**Zips → biological state**
-
-**Interaction → civilization**
-
-No single dimension can substitute for all the others.
-
----
-
-# Upgrades have consequences
-
-When a Holder crosses a territorial threshold, the blockchain state has changed.
-
-Inside Zipvilization, the Colonist's territorial capacity changes with it.
+These questions can have different answers.
 
 For example:
 
-a Farm-scale holding may cross into City scale.
+> **Territorial scale: City**
 
-But the transition does not imply that every consequence of City maturity appears immediately.
+while:
 
-Higher structure can become **eligible**.
+> **Biological maturity: Farm**
 
-Development still follows the canonical rules.
+This is not a contradiction.
 
-This distinction allows territorial growth to feel like a structural transition rather than a cosmetic relabeling.
+It means the Colonist has enough territorial capacity for City-scale structure, while biological development has not yet completed the City stage.
 
-→ **[Understand Time](/world/time/)**  
-→ **[Explore SolumWorld](/world/solumworld/)**
-
----
-
-# Downgrades have consequences too
-
-A shared deterministic world also has to deal with movement in the opposite direction.
-
-If the underlying Solum no longer satisfies a territorial threshold, the higher territorial condition cannot simply remain untouched because it is narratively convenient.
-
-The system must remain consistent with its current state.
-
-At the same time, Zipvilization does not need punitive fictional mechanics merely to create drama.
-
-Zips do not need to be killed because a balance changes.
-
-Existing biological state and future reproductive capacity can be handled according to deterministic rules.
-
-The important principle is:
-
-**territorial structure follows real state.**
-
-Not storytelling.
-
-Not preference.
-
-Not manual intervention.
-
-Detailed upgrade and downgrade behavior belongs to the corresponding canonical Territory, Zips, Time, and SolumWorld specifications.
-
-→ **[Discover Zips](/world/zips/)**  
-→ **[Explore SolumWorld](/world/solumworld/)**  
-→ **[Open the Repository](/repository/)**
+The architecture must preserve both states.
 
 ---
 
-# Residual land still matters
+# Time Creates Maturity
 
-Territorial levels should not make smaller quantities disappear conceptually.
+Territorial capacity can change immediately with SOLUM ownership.
 
-A Colonist's primary territorial level can be determined by the largest complete canonical structure supported by their Solum.
+Maturity cannot.
 
-Additional Solum may remain outside that complete higher structure.
+The canonical biological cycle is:
 
-That residual land is still part of the Holder's blockchain balance and still part of the Colonist's territorial relationship with the world.
+> **1 cycle = 65,536 blocks**
 
-This matters because the system should not discard information simply to make labels easier.
+Development accumulates through those cycles.
 
-A territorial classification is a way to understand structure.
+Canonical cumulative maturity milestones are:
 
-It is not permission to ignore the rest of the land.
+| Territory | Cumulative canonical time |
+|:----------|--------------------------:|
+| Farm | 524,288 blocks |
+| City | 2,097,152 blocks |
+| State | 4,194,304 blocks |
+| Kingdom | 8,388,608 blocks |
 
-The deeper canonical rules determine exactly how complete and residual structures are represented.
+Therefore:
 
-→ **[Explore SolumWorld](/world/solumworld/)**
-
----
-
-# Territory becomes function
-
-Why use Farms, Cities, States, and Kingdoms at all?
-
-Because scale creates the possibility for different kinds of civilization.
-
-The hierarchy gives future mechanics a coherent place to belong.
-
-## Farm
-
-**Territorial meaning:** smallest canonical unit.
-
-**Civilizational direction:** primary production and basic resources.
-
-## City
-
-**Territorial meaning:** concentrated larger-scale structure.
-
-**Civilizational direction:** transformation, industry, infrastructure, and urban development.
-
-## State
-
-**Territorial meaning:** higher-order territorial organization.
-
-**Civilizational direction:** politics, administration, shared resources, and macroeconomics.
-
-## Kingdom
-
-**Territorial meaning:** major territorial power.
-
-**Civilizational direction:** alliances, strategic competition, conflict, diplomacy, and power.
-
-These functions describe the intended civilizational role of each scale.
-
-They do **not** mean that every corresponding mechanic is already implemented.
-
-That distinction is essential.
-
-Zipvilization should never present future potential as current functionality.
-
-→ **[Explore the Chapters](/chapters/)**  
-→ **[View Metrics](/metrics/)**
-
----
-
-# The map must follow the territory
-
-Territorial state eventually needs to become visible.
-
-That is where **SolumWorld** and **SolumView** become essential.
-
-SolumWorld determines what exists according to the canonical rules.
-
-SolumView renders that state.
-
-This relationship prevents the interface from inventing development.
-
-If a City is structurally present but biologically immature, the visual representation should be capable of expressing that difference.
-
-If a State does not canonically exist, the interface should not draw one merely because it would look impressive.
-
-If territorial state changes, the visual world changes because the underlying system changed.
-
-> **The map follows the world.**
+> **SOLUM determines capacity.**
 >
-> **The world does not follow the map.**
+> **Time provides development.**
 
-→ **[Explore SolumWorld](/world/solumworld/)**  
+A Colonist can acquire more Territory.
+
+They cannot purchase elapsed canonical Time.
+
+→ **[Understand Time](/world/time/)**
+
+---
+
+# Zips Express Biological Development
+
+Time alone is not the complete biological interpretation.
+
+Zips are the native population of Zipvilization.
+
+At the foundational Farm level:
+
+> **1 cycle → 1 Zip**
+
+and:
+
+> **8 cycles → 8 Zips → Mature Farm**
+
+This creates a relationship between:
+
+**Territory**  
+↓  
+**Time**  
+↓  
+**Zips**  
+↓  
+**Maturity**
+
+Higher territorial structures continue the developmental architecture.
+
+Territory therefore has both:
+
+**spatial state**
+
+and
+
+**biological state**
+
+The two belong together without becoming the same thing.
+
+→ **[Discover Zips](/world/zips/)**
+
+---
+
+# Higher Territory Inherits Lower Development
+
+Territorial development is cumulative.
+
+A City does not exist in isolation from the Farm-scale structure beneath it.
+
+A State does not begin with no City-scale past.
+
+A Kingdom does not erase the structures that made it possible.
+
+The progression is:
+
+**FARM**  
+↓  
+**CITY**  
+↓  
+**STATE**  
+↓  
+**KINGDOM**
+
+Each higher scale inherits the developmental history below it.
+
+> **Higher Territory does not replace lower history.**
+>
+> **It grows from it.**
+
+---
+
+# Acquiring Capacity Does Not Create a Past
+
+Suppose a Colonist acquires enough SOLUM to move directly from Farm-scale capacity to Kingdom-scale capacity.
+
+The blockchain can record that balance immediately.
+
+SolumTools can translate it immediately as:
+
+> **Kingdom-scale territorial capacity**
+
+But that does not mean the Colonist instantly receives a Mature Kingdom.
+
+The Territory still has its actual developmental state.
+
+This produces an important rule:
+
+> **A Colonist can acquire future capacity.**
+>
+> **A Colonist cannot acquire a fictional past.**
+
+---
+
+# Territory Can Change
+
+SOLUM is transferable.
+
+Therefore territorial capacity can change.
+
+A Colonist can gain SOLUM.
+
+A Colonist can transfer SOLUM.
+
+A balance can cross territorial thresholds in either direction.
+
+Current territorial capacity must therefore remain connected to current valid blockchain state.
+
+But past development is different.
+
+Completed cycles occurred.
+
+Zips that validly emerged belong to history.
+
+Previous maturation occurred.
+
+The exact consequences of increases and decreases belong to the deeper canonical specification.
+
+The general principle is:
+
+> **Current capacity can change.**
+>
+> **History is not rewritten.**
+
+---
+
+# Territory Is Not Ownership of Civilization
+
+A Colonist can control SOLUM.
+
+That gives territorial capacity.
+
+It does not give ownership of Zipvilization itself.
+
+A large Territory does not automatically create authority over smaller Territories.
+
+A Kingdom-scale Colonist does not automatically govern other Colonists.
+
+A State does not automatically legislate.
+
+A City does not automatically control Farms belonging to others.
+
+Territorial scale provides structure.
+
+Relationships between participants belong to civilization.
+
+> **Territory creates possibility.**
+>
+> **It does not predetermine social order.**
+
+---
+
+# Dormant Land
+
+Not all SOLUM is necessarily active Colonist-controlled Territory.
+
+SOLUM held by the Pool has a specific world meaning:
+
+> **Dormant Land**
+
+Dormant Land remains part of the finite territorial substrate.
+
+But it has not entered active Colonist-controlled territorial state.
+
+The relationship is:
+
+**SOLUM IN THE POOL**  
+↓  
+**DORMANT LAND**
+
+As SOLUM moves between the Pool and Colonists, the distribution between Dormant Land and colonized Territory can change.
+
+→ **[Explore the Pool](/smart-contract/pool/)**
+
+---
+
+# Permanent Nature
+
+Burn creates a fundamentally different territorial condition.
+
+When SOLUM is permanently removed from circulation:
+
+> **that Territory becomes Permanent Nature**
+
+Therefore:
+
+**BURNED SOLUM**  
+↓  
+**PERMANENT NATURE**
+
+Dormant Land and Permanent Nature must never be confused.
+
+Dormant Land may potentially become colonized.
+
+Permanent Nature cannot return to circulation.
+
+> **Dormant Land is available possibility.**
+>
+> **Permanent Nature is irreversible consequence.**
+
+→ **[Understand Burn](/smart-contract/burn/)**
+
+---
+
+# Three Fundamental Territorial States
+
+At world scale, SOLUM can therefore correspond to three fundamental territorial conditions.
+
+## Dormant Land
+
+SOLUM held by the Pool.
+
+Potentially available for future colonization.
+
+## Colonized Territory
+
+SOLUM controlled by Colonists and therefore participating in territorial structure.
+
+## Permanent Nature
+
+SOLUM permanently removed from circulation through Burn.
+
+These states provide the basic geography of Zipvilization.
+
+They can change the appearance of the world without requiring invented geography.
+
+---
+
+# Territory and Colonists
+
+A Holder becomes meaningful inside Zipvilization as a:
+
+> **Colonist**
+
+Their SOLUM balance provides territorial capacity.
+
+Therefore:
+
+**ADDRESS**  
+↓  
+**SOLUM BALANCE**  
+↓  
+**COLONIST**  
+↓  
+**TERRITORIAL CAPACITY**  
+↓  
+**DEVELOPMENT**
+
+This allows blockchain identity and world geography to remain connected.
+
+→ **[Discover Colonists](/world/colonists/)**
+
+---
+
+# SolumTools Translates Territory
+
+SolumTools is the first interpretive layer above raw blockchain state.
+
+It reads relevant information from the blockchain, contract and Pool and applies the canonical rules of Zipvilization.
+
+For Territory, the translation can include:
+
+**SOLUM balance**  
+→ **territorial capacity**
+
+**Pool-held SOLUM**  
+→ **Dormant Land**
+
+**burned SOLUM**  
+→ **Permanent Nature**
+
+**block progression**  
+→ **Time / development**
+
+**Territory + Time**  
+→ **maturity / biological state**
+
+SolumTools therefore provides structured Zipvilization data from technical state.
+
+> **SolumTools translates the data.**
+
+It does not draw the world.
+
+It provides the valid information from which the world can be represented.
+
+→ **[Explore SolumTools](/world/solumtools/)**
+
+---
+
+# SolumWorld Shows Territory
+
+SolumWorld takes that translated state and gives it graphical form at world scale.
+
+This is where Territory becomes geography that Humans can see.
+
+From a broad, navigable perspective, SolumWorld can represent:
+
+- Dormant Land,
+- Permanent Nature,
+- colonized Territory,
+- Farms,
+- Cities,
+- States,
+- Kingdoms,
+- and developmental differences supported by valid state.
+
+The experience can be understood as a broad satellite-like view of Zipvilization.
+
+A Human can move across the world.
+
+Explore it.
+
+Zoom into regions.
+
+Observe territorial distribution.
+
+But the level of detail remains intentionally limited.
+
+SolumWorld answers:
+
+> **What does Zipvilization look like?**
+
+It does not determine the Territory underneath it.
+
+> **The data defines the state.**
+>
+> **SolumWorld makes it visible.**
+
+→ **[Explore SolumWorld](/world/solumworld/)**
+
+---
+
+# SolumView Lets Us Enter Territory
+
+SolumView begins where the broad world view reaches its useful limit.
+
+A Human can move from Zipvilization as a whole into the Territory of a specific Colonist.
+
+The progression can become:
+
+**WORLD**  
+↓  
+**COLONIST**  
+↓  
+**TERRITORY**  
+↓  
+**INTERNAL STRUCTURE**  
+↓  
+**FARMS**  
+↓  
+**ZIPS**
+
+The deeper the view becomes, the more local state can be revealed.
+
+At its maximum development, SolumView can allow a Human to enter a Colonist's Territory and observe its Farms and Zips as the world changes in real time.
+
+That does not make SolumView the source of the state.
+
+It remains a window into state derived from the underlying system.
+
+> **SolumWorld lets us explore Zipvilization.**
+>
+> **SolumView lets us enter it.**
+
 → **[Explore SolumView](/world/solumview/)**
 
 ---
 
-# Territorial mathematics create constraints
+# Data → World → Inside
 
-The numbers are not there to make Zipvilization look technical.
+The territorial architecture can therefore be understood in three layers:
 
-They create constraints.
+**SOLUMTOOLS — DATA**
 
-A Farm requires a defined territorial threshold.
+Translates blockchain, contract, Pool and Time into Zipvilization state.
 
-A City requires thirty-two times that scale.
+↓
 
-A State requires another ×32.
+**SOLUMWORLD — WORLD**
 
-A Kingdom requires another ×32.
+Represents that state graphically across Zipvilization.
 
-Biological maturity follows block-based cycles.
+↓
 
-Population follows deterministic capacity rules.
+**SOLUMVIEW — INSIDE**
 
-Supply remains finite.
+Allows detailed exploration inside Colonists' Territories.
 
-Permanent Nature can remove territory permanently from future colonization.
+The same Territory exists underneath all three.
 
-Together, these constraints make choices meaningful.
+Only the level of interpretation and representation changes.
 
-Without limits:
-
-territory would be arbitrary.
-
-Without thresholds:
-
-levels would be cosmetic.
-
-Without time:
-
-maturity would be purchasable instantly.
-
-Without finite supply:
-
-expansion would have no real boundary.
-
-Without deterministic state:
-
-the world would depend on whoever controlled the interface.
-
-**The mathematics are not the decoration beneath the civilization.**
-
-**They are part of the conditions that make civilization possible.**
+> **SolumTools translates the data.**
+>
+> **SolumWorld shows the world.**
+>
+> **SolumView lets us enter it.**
 
 ---
 
-# From arithmetic to geopolitics
+# Representation Does Not Create Territory
 
-The territorial architecture begins with very simple arithmetic.
+This boundary must remain explicit.
 
-**8**
+A graphical Farm does not create a Farm.
 
-**256**
+A visual City does not create City-scale capacity.
 
-**8,192**
+A map does not create ownership.
 
-**262,144**
+A rendered Kingdom does not create governance.
 
-But those numbers create progressively larger spaces of possible behavior.
+A visible Zip does not create canonical population.
 
-At Farm scale, the important question may be production.
+The direction is always:
 
-At City scale, concentration and transformation.
+**VALID STATE**  
+↓  
+**TRANSLATION**  
+↓  
+**REPRESENTATION**
 
-At State scale, political organization.
+Never:
 
-At Kingdom scale, relationships between major powers.
+**REPRESENTATION**  
+↓  
+**INVENTED STATE**
 
-The mathematics do not automatically create economics, politics, or conflict.
-
-They create the **scales at which those phenomena can become meaningful**.
-
-That distinction is important.
-
-Zipvilization does not claim that multiplying a number by 32 creates a society.
-
-It claims something much more modest and much more interesting:
-
-> **If a digital civilization is going to emerge, it needs coherent scales on which different forms of organization can develop.**
-
-Territories provide those scales.
+> **The world can become visually rich without becoming canonically fictional.**
 
 ---
 
-# No instant empires
+# One Territory, Different Scales
 
-This may be the simplest way to understand why the territorial system is designed this way.
+The same Territory can be observed differently depending on scale.
 
-Suppose someone acquires enough Solum for a Kingdom.
+From SolumWorld:
 
-At the blockchain level, that quantity can exist immediately.
+a Territory may appear as part of the global geography.
 
-But inside Zipvilization, quantity alone should not produce an instant mature Kingdom with a complete population and history.
+From SolumView:
 
-Otherwise the world would reduce civilization to purchasing power.
+the same Territory may reveal internal structures, Farms and eventually Zips.
 
-Our architecture deliberately separates those things.
+These are not different realities.
 
-**Land can change hands quickly.**
+They are different levels of observation.
 
-**Structure has rules.**
-
-**Life has cycles.**
-
-**Maturity requires time.**
-
-**History cannot be purchased retroactively.**
-
-A large Holder can become a large territorial participant.
-
-That is allowed.
-
-What they cannot do is buy a past that never happened.
-
-That distinction gives time and development genuine meaning.
+> **Zoom reveals detail.**
+>
+> **It does not change truth.**
 
 ---
 
-# Territory is not power by itself
+# Territory and Artificial Intelligence
 
-A Kingdom-scale territory is large.
+Territory must also be understandable to machines.
 
-That does not mean the system should automatically assume political dominance, military success, economic strength, or cultural influence.
+An AI should not need to infer territorial scale from an image.
 
-Those are different dimensions.
+It should be able to reason from explicit relationships:
 
-Territorial scale creates capacity.
+- SOLUM balance,
+- territorial thresholds,
+- Pool state,
+- Burn state,
+- Time,
+- Zip population,
+- maturity,
+- and canonical dependencies.
 
-It creates potential.
+This allows AI to distinguish questions such as:
 
-It creates a larger stage on which future systems can operate.
+> How much Territory does this Colonist control?
 
-But civilization should still require interaction.
+> What territorial scale does that amount support?
 
-A small territory may become economically important.
+> What level is biologically mature?
 
-A large territory may be poorly coordinated.
+> How much Dormant Land remains?
 
-Multiple States may cooperate against a Kingdom.
+> How much Territory has become Permanent Nature?
 
-Future systems may create relationships that raw Solum alone cannot predict.
+The Atlas explains the meaning.
 
-This is another reason Zipvilization separates the substrate from the civilization.
+Canonical rules define the relationships.
 
-**Territory creates possibility.**
+SolumTools provides translated state.
 
-**Participants create consequence.**
+AI can reason from evidence.
 
-→ **[Discover Colonists](/world/colonists/)**  
+→ **[Explore Artificial Intelligence](/trinomial/artificial-intelligence/)**
+
+---
+
+# Territory Does Not Define Civilization
+
+Territory provides space.
+
+It does not determine what civilization becomes.
+
+A State does not have to become a particular political system.
+
+A Kingdom does not have to produce monarchy.
+
+A large Colonist does not have to dominate smaller Colonists.
+
+Territorial concentration does not automatically produce conflict.
+
+Territorial distribution does not automatically produce cooperation.
+
+Those outcomes belong to interaction, history, future mechanics and emergence.
+
+> **We define the territorial conditions.**
+>
+> **We do not define the civilizational outcome.**
+
 → **[Explore Civilization](/world/civilization/)**
 
 ---
 
-# Territories across both layers
+# Territory at Genesis
 
-The relationship between blockchain and Zipvilization can now be stated clearly.
+At Genesis, the world begins with a territorial substrate.
 
-## Blockchain
+Much of it may initially remain Dormant Land.
 
-A Holder has a measurable Solum balance.
+Colonists begin interacting with SOLUM.
 
-Thresholds can be evaluated.
+Territorial distribution begins to change.
 
-Transfers can change balances.
+Development begins to accumulate.
 
-Block progression can be measured.
+Zips begin to emerge according to canonical rules.
 
-Canonical rules can be applied deterministically.
+History begins.
 
-→ **[Explore the Smart Contract](/smart-contract/)**
+The territorial world does not need to begin complete.
 
-## Zipvilization
+It begins capable of becoming something.
 
-That same state becomes territorial structure.
-
-The Holder is a Colonist.
-
-Solum becomes land.
-
-Thresholds become Farms, Cities, States, and Kingdoms.
-
-Block progression becomes development time.
-
-Population becomes Zips.
-
-Canonical state becomes a world that can be represented and explored.
-
-→ **[Explore The World](/world/)**
-
-Again:
-
-> **Blockchain explains the mechanism.**
+> **Genesis does not reveal a finished world.**
 >
-> **Zipvilization explains the meaning.**
+> **It starts one.**
 
-One system.
-
-Two necessary perspectives.
+→ **[Explore Genesis](/genesis/)**
 
 ---
 
-# Civilizational direction
+# Territory at a Glance
 
-Territorial scale creates structural possibility.
+The foundational relationship:
 
-It does not automatically implement a complete social, economic, or political system.
+> **1 SOLUM = 1 m²**
 
-As Zipvilization develops, each territorial level can support increasingly complex forms of civilization.
+The territorial hierarchy:
 
-| Territory | Potential civilizational direction |
-|:----------|:------------------------------------|
-| Farm | Primary production and local territorial activity |
-| City | Economic specialization, transformation, and urban complexity |
-| State | Political coordination, administration, and macroeconomic structures |
-| Kingdom | Alliances, competition, conflict, cooperation, and larger struggles for power |
+| Territory | SOLUM / m² | Relationship |
+|:----------|-----------:|:-------------|
+| Farm | 8 | Base territorial unit |
+| City | 256 | 32 Farms |
+| State | 8,192 | 32 Cities |
+| Kingdom | 262,144 | 32 States |
 
-These relationships describe the intended direction of development.
+The world states:
 
-They are not all current implemented mechanics.
+**Pool-held SOLUM → Dormant Land**
 
-A Farm does not become productive merely because the word appears in this table.
+**Colonist-held SOLUM → Colonized Territory**
 
-A State does not automatically acquire a government.
+**Burned SOLUM → Permanent Nature**
 
-A Kingdom does not automatically enter a war.
+The developmental distinction:
 
-Those systems require their own canonical definitions, conditions, and implementation.
+> **Capacity ≠ Maturity**
 
-> **Territorial scale creates possibility.**
+And the observational architecture:
+
+> **SolumTools = Data**
 >
-> **Civilization determines what becomes meaningful within it.**
-
-This distinction is especially important for later Chapters.
-
-Chapter 5 opens the space in which increasingly complex social, economic, and political structures may emerge.
-
-It does not predetermine their exact form.
-
-Therefore:
-
-`FARM ≠ IMPLEMENTED PRIMARY ECONOMY`
-
-`CITY ≠ IMPLEMENTED INDUSTRIAL SYSTEM`
-
-`STATE ≠ IMPLEMENTED GOVERNMENT`
-
-`KINGDOM ≠ IMPLEMENTED WAR`
-
-The territorial hierarchy exists.
-
-Its complete civilizational history does not.
+> **SolumWorld = World**
+>
+> **SolumView = Inside**
 
 ---
 
-# Follow Territories through the Atlas
+# Follow Territory Through the Atlas
 
-Territories connect almost every major part of Zipvilization.
-
-### What is territory made from?
+### What gives Territory its spatial value?
 
 → **[Solum](/world/solum/)**
 
-### Who holds and develops it?
+### Who controls colonized Territory?
 
 → **[Colonists](/world/colonists/)**
 
-### How does population emerge?
-
-→ **[Zips](/world/zips/)**
-
-### Why does maturation take time?
+### What gives Territory biological development?
 
 → **[Time](/world/time/)**
 
-### What can territorial interaction eventually produce?
+### What population emerges through that development?
 
-→ **[Civilization](/world/civilization/)**
+→ **[Zips](/world/zips/)**
 
-### How is territorial state observed?
+### What remains outside active colonization?
+
+→ **[Pool — Dormant Land](/smart-contract/pool/)**
+
+### What becomes permanently unavailable?
+
+→ **[Burn — Permanent Nature](/smart-contract/burn/)**
+
+### Where is blockchain state translated into world data?
 
 → **[SolumTools](/world/solumtools/)**
 
-### What determines the canonical territory that currently exists?
+### Where can we explore the world from above?
 
 → **[SolumWorld](/world/solumworld/)**
 
-### How does that territory become visible?
+### Where can we enter a Colonist's Territory?
 
 → **[SolumView](/world/solumview/)**
 
-### What defines the underlying token and supply?
+### What can eventually emerge from Territory and interaction?
 
-→ **[Solum Token](/smart-contract/solum-token/)**  
-→ **[Supply](/smart-contract/supply/)**
+→ **[Civilization](/world/civilization/)**
 
-### What technical rules constrain territorial behavior?
+### Where are the deeper canonical rules documented?
 
 → **[Canonical Rules](/smart-contract/canonical-rules/)**
 
-### Which territorial capabilities are actually implemented today?
-
-→ **[Chapters](/chapters/)**  
-→ **[Metrics](/metrics/)**
-
-### Where is the deeper technical specification?
-
-→ **[Repository](/repository/)**
-
 ---
 
-# From soil to civilization
+# Somewhere to Exist
 
-The progression of Zipvilization can now be seen more clearly.
+Solum gives Zipvilization finite space.
 
-**Solum**
+Territory organizes that space.
 
-gives the world land.
+Time prevents it from developing instantly.
 
-↓
+Zips give it biological state.
 
-**Colonists**
+Colonists change its distribution.
 
-bring participation.
+Burn can transform part of it permanently.
 
-↓
+And the resulting world can be observed at different scales.
 
-**Territories**
+From data.
 
-give that land structure.
+To geography.
 
-↓
+To the life inside a Territory.
 
-**Zips**
+But none of those systems determine what civilization will eventually do with the land.
 
-bring biological population.
+They establish the conditions.
 
-↓
+Then history begins.
 
-**Time**
-
-allows those structures to mature.
-
-↓
-
-**Interaction**
-
-creates relationships between territories and participants.
-
-↓
-
-**Civilization**
-
-may emerge.
-
-The first three steps can be described mathematically.
-
-The next steps become progressively harder to predict.
-
-That is exactly where the experiment becomes interesting.
-
-We know how much Solum defines a Farm.
-
-We know how much defines a City.
-
-We know how much defines a State.
-
-We know how much defines a Kingdom.
-
-We can define how population develops.
-
-We can define how time is measured.
-
-We can define what the canonical world state is.
-
-But we cannot write an equation today that tells us exactly what thousands of Colonists will do with those conditions years from now.
-
-And we should not try.
-
-**The mathematics build the territory.**
-
-**Participation determines what happens there.**
+> **Solum gives the world space.**
+>
+> **Territory gives that space structure.**
+>
+> **Time gives that structure development.**
+>
+> **Zips give it life.**
+>
+> **Civilization decides what happens next.**
 
 ---
 
 → **[Return to The World](/world/)**  
-→ **[Continue to Zips](/world/zips/)**
+→ **[Continue to Colonists](/world/colonists/)**
