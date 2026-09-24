@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GEN
+title: Gen
 parent: The Trinomial
 nav_order: 4
 description: >
