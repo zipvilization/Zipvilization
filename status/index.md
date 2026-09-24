@@ -20,7 +20,7 @@ The architecture exists.
 
 The documentation exists.
 
-The SOLUM Smart Contract exists.
+The SOLUM Smart Contract code exists.
 
 The territorial system exists.
 
@@ -216,7 +216,7 @@ When greater precision is required, follow them.
 
 **STATUS: CORE COMPLETE / READY FOR DEPLOYMENT**
 
-The SOLUM Smart Contract is complete and ready for deployment.
+The SOLUM Smart Contract code is complete and ready for deployment.
 
 Its fundamental mechanics are closed.
 
@@ -254,7 +254,7 @@ We are also considering a pre-TGE **Hackathon / Bug Contest** designed to expose
 
 If performed, its purpose will be simple:
 
-Try to break it before Genesis does.
+**Try to break it before Genesis does.**
 
 ---
 
@@ -480,31 +480,13 @@ This relationship is part of the core.
 
 ---
 
-# SolumTools
-
-**STATUS: CLOSED ALPHA / FUNCTIONAL BACKEND**
-
-SolumTools is not merely a concept.
-
-Its backend is functional.
-
-A basic backend version 1.0 exists, and development has progressed toward a more developed 1.5 deployment architecture.
-
-The principal open area is currently the definitive frontend.
-
-SolumTools is designed to observe real Zipvilization state.
-
-Before Genesis, it can be developed and tested.
-
-After Genesis, it can begin doing what it was fundamentally created to do:
-
-**observe a real Zipvilization.**
-
----
-
 # SolumWorld
 
 **STATUS: ARCHITECTURE DEFINED / DATA-DEPENDENT**
+
+SolumWorld is the canonical world-state and coherence layer of Zipvilization.
+
+Its role is to determine what valid world state exists from canonical inputs and rules.
 
 Different SolumWorld architectures have already been studied.
 
@@ -524,6 +506,28 @@ SolumWorld will evolve with them.
 
 ---
 
+# SolumTools
+
+**STATUS: CLOSED ALPHA / FUNCTIONAL BACKEND**
+
+SolumTools is not merely a concept.
+
+Its backend is functional.
+
+A basic backend version 1.0 exists, and development has progressed toward a more developed 1.5 deployment architecture.
+
+The principal open area is currently the definitive frontend.
+
+Within the documented architecture, SolumTools observes and exposes valid state derived from the underlying system.
+
+Before Genesis, it can be developed and tested.
+
+After Genesis, it can begin doing what it was fundamentally created to do:
+
+**observe a real Zipvilization.**
+
+---
+
 # SolumView
 
 **STATUS: ARCHITECTURE COMPLETE / IMPLEMENTATION PENDING**
@@ -532,11 +536,11 @@ SolumView is primarily the visual and UX layer of Zipvilization.
 
 Its architecture is defined.
 
-Its implementation deliberately follows SolumTools and SolumWorld because SolumView should represent valid world state rather than invent it.
+Its implementation deliberately follows valid world state because SolumView should represent that state rather than invent it.
 
-The dependency is simple:
+The canonical relationship is:
 
-**SolumTools observes.**
+**Blockchain records.**
 
 ↓
 
@@ -544,7 +548,15 @@ The dependency is simple:
 
 ↓
 
+**SolumTools observes and exposes.**
+
 **SolumView renders.**
+
+SolumTools and SolumView perform different functions around valid state.
+
+SolumTools makes that state observable and measurable.
+
+SolumView makes it visible and explorable.
 
 SolumView is expected to be significantly more frontend- and UX-oriented than backend-intensive.
 
@@ -566,11 +578,11 @@ More importantly, Zipvilization does not require that infrastructure in order to
 
 Genesis can occur through the deployment and activation of the fundamental on-chain system.
 
-The other systems are layers of observation, canonical interpretation, analysis and representation built around that state.
+SolumWorld, SolumTools and SolumView are layers of canonical interpretation, observation, analysis and representation built around that underlying state.
 
 > **Zipvilization can emerge from Genesis alone.**
 
-Infrastructure can improve how deeply we observe and experience it.
+Infrastructure can improve how deeply we observe, interpret and experience it.
 
 Infrastructure does not create its underlying history.
 
