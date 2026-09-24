@@ -1,3 +1,4 @@
+---
 layout: default
 title: GEN
 parent: The Trinomial
