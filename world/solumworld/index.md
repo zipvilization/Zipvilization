@@ -5,593 +5,725 @@ parent: The World
 nav_order: 8
 has_children: true
 description: >
-  SolumWorld is the canonical world-state layer of Zipvilization. It translates
-  blockchain state and canonical rules into a deterministic model of what
-  exists in the world, without adding narrative, visual, or AI invention.
+  SolumWorld is the world-scale graphical representation of Zipvilization.
+  It transforms valid data derived from blockchain state and canonical rules
+  into a coherent visual world without inventing unsupported state.
 permalink: /world/solumworld/
 ---
 
 # SolumWorld
 
-Blockchain tells us what happened.
+Data can describe a world.
 
-Zipvilization also needs to determine what those events mean for the world.
+But data is not yet a world we can see.
 
 That is the role of **SolumWorld**.
 
-SolumWorld is the canonical world-state layer of Zipvilization.
+SolumWorld is the **world-scale graphical representation of Zipvilization**.
 
-It connects technical state with the rules of the world and determines what canonically exists:
+It takes valid information derived from blockchain state and canonical rules and turns it into a coherent visual representation of the world.
 
-- Colonists,
-- Territories,
-- Zips,
-- maturity,
-- Dormant Land,
-- Permanent Nature,
-- developmental state,
-- and other world structures defined by canonical rules.
+Territory becomes visible.
 
-It does not create blockchain state.
+Dormant Land becomes visible.
 
-It does not move Solum.
+Permanent Nature becomes visible.
 
-It does not invent civilization.
+Farms, Cities, States and Kingdoms can become visible when their underlying conditions exist.
 
-It does not decide what would make the world more interesting.
+Development can become visible.
 
-It determines what the existing state means inside Zipvilization.
+Change can become visible.
 
-> **Blockchain records what happened.**
+> **SolumTools tells us what is happening.**
 >
-> **SolumWorld determines what that means for the world.**
+> **SolumWorld shows us the world those data describe.**
 
-→ **[Explore The World](/world/)**  
-→ **[Explore the Smart Contract](/smart-contract/)**
-
----
-
-# Two languages, one world
-
-Zipvilization deliberately maintains two connected languages.
-
-**Blockchain describes the mechanism.**
-
-**Zipvilization describes the meaning.**
-
-For example:
-
-| Blockchain | Zipvilization |
-|:-----------|:--------------|
-| Holder | Colonist |
-| Solum balance | Controlled land |
-| Supply | Finite territorial substrate |
-| Pool | Dormant Land |
-| Burn | Permanent Nature |
-| Block progression | Biological time |
-| Threshold state | Territory |
-| Binary information | Zip population |
-
-These are not independent systems.
-
-They describe the same underlying reality from different layers.
-
-SolumWorld is the bridge that keeps those relationships deterministic.
-
-It prevents every interface, tool, or AI from creating its own interpretation of Zipvilization.
+→ **[Explore SolumTools](/world/solumtools/)**  
+→ **[Continue to SolumView](/world/solumview/)**
 
 ---
 
-# Deterministic interpretation
+# From Data to World
 
-SolumWorld interprets state.
+The relationship is simple:
 
-But **interpretation does not mean imagination**.
+**BLOCKCHAIN STATE + CANONICAL RULES**  
+↓  
+**SOLUMTOOLS** — Data / observation / translation  
+↓  
+**SOLUMWORLD** — World-scale graphical representation  
+↓  
+**SOLUMVIEW** — Colonist and Territory-scale exploration
 
-Given the same canonical inputs and the same canonical rules, the resulting world state should be the same.
+In simple terms:
 
-A Farm cannot be mature for one interface and immature for another.
+> **SolumTools = Data**  
+> **SolumWorld = World**  
+> **SolumView = Zoom**
 
-Burned Solum cannot be Permanent Nature in one application and available territory in another.
+SolumWorld occupies the middle layer.
 
-A City cannot exist because an AI believes that it should.
+It is where observable Zipvilization state becomes a world that Humans can see and explore.
 
-A Kingdom cannot appear because a map designer wants the world to look more interesting.
+---
 
-The rule is simple:
+# The World Must Follow the Data
 
-> **State → Canonical Rules → World**
+SolumWorld is graphical.
+
+That does not make it fictional.
+
+Its visual representation must follow valid underlying state.
+
+If the data supports a Farm, SolumWorld may represent a Farm.
+
+If the data supports a developing City, SolumWorld may represent a developing City.
+
+If Solum has become Permanent Nature, SolumWorld may represent Permanent Nature.
+
+If something does not exist in the underlying state, SolumWorld must not present it as if it does.
+
+> **State first.**
+>
+> **World second.**
 
 Never:
 
-> **Desired World → Invented State**
+> **Desired world first.**
+>
+> **Invented state second.**
+
+This distinction is fundamental.
 
 ---
 
-# The authority chain
+# A Graphical World, Not a Dashboard
 
-Each layer of Zipvilization has a different responsibility.
+SolumWorld is not intended to be another blockchain dashboard.
 
-**Smart Contract**
+SolumTools already provides the observational and analytical layer.
 
-executes blockchain mechanics.
+SolumWorld has a different purpose.
 
-↓
+Its objective is to allow a Human to look at Zipvilization and perceive:
 
-**Blockchain**
+**a world.**
 
-records state and progression.
+Not merely:
 
-↓
+- balances,
+- addresses,
+- tables,
+- counters,
+- percentages,
+- or transaction lists.
 
-**Canonical Rules**
+Those data remain underneath.
 
-define how relevant state maps into Zipvilization.
+SolumWorld translates their valid world meaning into graphical form.
 
-↓
-
-**SolumWorld**
-
-determines canonical world state.
-
-↓
-
-**SolumTools**
-
-observes and exposes that state.
-
-↓
-
-**SolumView**
-
-renders that state visually.
-
-This hierarchy is fundamental.
-
-> **The Smart Contract executes.**
+> **You do not only look at the data.**
 >
-> **The blockchain records.**
->
-> **SolumWorld determines.**
->
-> **SolumTools observes.**
->
-> **SolumView reveals.**
-
-No higher layer should silently redefine a lower one.
+> **You look at what the data has become.**
 
 ---
 
-# What SolumWorld can determine
+# What SolumWorld Can Show
 
-Where explicit canonical rules exist, SolumWorld can determine states such as:
+SolumWorld can graphically represent states that are supported by canonical rules and observable data.
 
-### Colonist
+These may include:
 
-A blockchain Holder interpreted as a participant inside Zipvilization.
+- active Territory,
+- Dormant Land,
+- Permanent Nature,
+- Farms,
+- Cities,
+- States,
+- Kingdoms,
+- developmental state,
+- maturity,
+- Zip-related world state,
+- territorial distribution,
+- and changes produced by real activity.
 
-→ **[Discover Colonists](/world/colonists/)**
+The exact visual language may evolve.
 
-### Territory
+The underlying state must not.
 
-The territorial structure supported by canonical Solum conditions.
+---
 
-Farm.
+# Territory Becomes Geography
 
-City.
+SOLUM represents territorial capacity.
 
-State.
+SolumWorld gives that territorial structure a graphical expression.
 
-Kingdom.
+The canonical hierarchy remains:
+
+| Territory | Territorial scale |
+|:----------|------------------:|
+| Farm | 8 |
+| City | 256 |
+| State | 8,192 |
+| Kingdom | 262,144 |
+
+SolumWorld does not redefine those thresholds.
+
+It represents their consequences.
+
+A world-scale view may therefore allow Humans to perceive how Territory is distributed and how larger territorial structures emerge.
 
 → **[Explore Territories](/world/territories/)**
 
-### Biological state
+---
 
-Zip population, development, and maturity according to the canonical biological model.
+# Dormant Land Becomes Visible
 
-→ **[Discover Zips](/world/zips/)**
+Pool-held Solum represents:
 
-### Developmental state
+> **Dormant Land**
 
-Progress derived from canonical block-based time.
+SolumWorld can make that state visible as part of the world.
 
-→ **[Understand Time](/world/time/)**
+Dormant Land is not empty because a designer chose to leave an area blank.
 
-### Dormant Land
+It is dormant because the underlying state says that the corresponding Solum remains in the Pool.
 
-Solum that remains outside active civilization in its dormant state.
+Its graphical representation follows that fact.
 
-→ **[Discover Solum](/world/solum/)**
+→ **[Explore the Pool](/smart-contract/pool/)**
 
-### Permanent Nature
+---
 
-Solum permanently removed from circulation through Burn and therefore unavailable to future colonization.
+# Permanent Nature Becomes Visible
+
+Burned Solum represents:
+
+> **Permanent Nature**
+
+This state is fundamentally different from Dormant Land.
+
+Dormant Land may still become colonized.
+
+Permanent Nature cannot.
+
+SolumWorld should preserve that difference visually.
+
+Two areas may both be outside active Colonist control while representing completely different futures.
+
+The world must make meaningful distinctions visible without changing their meaning.
 
 → **[Understand Burn](/smart-contract/burn/)**
 
-These are examples of canonical world state.
-
-Future Chapters may introduce additional states.
-
 ---
 
-# What SolumWorld does not determine
+# Development Becomes Visible
 
-SolumWorld defines the world beneath civilization.
+Territorial scale and maturity are different.
 
-It does not predetermine civilization itself.
+A Colonist may have enough Territory for a City while that City is still developing.
 
-It should not decide:
+SolumWorld should be capable of representing that distinction.
 
-- which Colonists will cooperate,
-- which territories will become economically important,
-- which political structures will succeed,
-- which alliances will form,
-- which conflicts will occur,
-- who will become powerful,
-- or what culture may emerge.
+For example:
 
-Those outcomes belong to participation and future civilizational mechanics.
-
-> **SolumWorld determines conditions.**
->
-> **Colonists create consequences.**
-
-→ **[Explore Civilization](/world/civilization/)**
-
----
-
-# Territory is not maturity
-
-SolumWorld must preserve distinctions.
-
-A Colonist may satisfy the Solum threshold for a City while that City is still biologically developing.
-
-Therefore both statements can be true:
-
-> **Territory: City**
-
-and
-
+> **Territory: City**  
 > **Maturity: Developing**
 
-Territorial scale and biological maturity are different state dimensions.
+may correspond to a graphical City that visibly reflects incomplete development.
 
-The same applies elsewhere:
+But the graphical design cannot determine maturity.
 
-**Territory is not population.**
+The underlying state determines whether the City is developing or mature.
 
-**Population is not power.**
+The image follows.
 
-**Maturity is not civilization.**
+→ **[Understand Time](/world/time/)**
 
-Keeping these concepts separate prevents false conclusions.
+---
 
-→ **[Explore Territories](/world/territories/)**  
+# Zips Belong to the World
+
+Zips are the native population of Zipvilization.
+
+Their existence and developmental state are governed by canonical relationships.
+
+SolumWorld can make their presence part of the graphical world when the underlying state supports it.
+
+But visual population must not become fictional population.
+
+If the system derives eight Zips, a graphical scene cannot imply hundreds of canonical Zips simply because it looks more alive.
+
+Visual composition may communicate the world.
+
+It must not falsify measurable state.
+
 → **[Discover Zips](/world/zips/)**
 
 ---
 
-# The world has memory
+# Representation Is Not Authority
 
-Zipvilization is not only a snapshot.
+SolumWorld does not decide how much Solum a Colonist controls.
 
-Things happen.
+It does not decide whether Territory qualifies as a Farm or City.
+
+It does not decide whether a Territory is mature.
+
+It does not decide whether Solum is Dormant Land or Permanent Nature.
+
+Those relationships come from blockchain state and canonical rules.
+
+SolumWorld represents them.
+
+If SolumWorld displays something incorrectly, the graphical representation is wrong.
+
+The underlying state does not change.
+
+> **The map follows the world state.**
+>
+> **The world state does not follow the map.**
+
+---
+
+# Deterministic Where It Matters
+
+A graphical world inevitably contains visual design.
+
+Terrain style.
+
+Lighting.
+
+Camera.
+
+Buildings.
+
+Vegetation.
+
+Characters.
+
+Animation.
+
+Atmosphere.
+
+Those elements may evolve creatively.
+
+But any visual element that communicates canonical state must remain consistent with the data.
+
+A mature Territory cannot be shown as immature if the visualization is claiming to represent maturity.
+
+Permanent Nature cannot appear colonizable.
+
+Dormant Land cannot be represented as permanently inaccessible.
+
+A Kingdom cannot appear canonically because it would make the map more impressive.
+
+The distinction is:
+
+**Visual expression can be creative.**
+
+**Canonical meaning cannot be invented.**
+
+---
+
+# The World Has Memory
+
+Zipvilization is not intended to remain a static map.
+
+Activity changes the underlying state.
 
 Colonists arrive.
 
-Territorial thresholds are crossed.
+Territory moves.
 
-Zips emerge.
+Thresholds are crossed.
+
+Zips develop.
 
 Territories mature.
 
 Solum becomes Permanent Nature.
 
-New structures become possible.
+Dormant Land changes.
 
-That creates a difference between:
+History accumulates.
 
-**current state**
+SolumWorld can progressively make those consequences visible.
 
-and
+A world at Genesis should not look identical to the same world after extensive activity.
 
-**history.**
-
-A new City and a mature City may contain similar amounts of Solum while representing very different histories.
-
-A piece of Dormant Land and a piece of Permanent Nature may both sit outside Colonist control while having completely different futures.
-
-SolumWorld must preserve meaningful distinctions created by state and time.
+> **The graphical world should be capable of carrying the visible consequences of history.**
 
 → **[Understand Time](/world/time/)**
 
 ---
 
-# The world must be reconstructable
+# SolumWorld Is Not SolumTools
 
-Zipvilization should not depend entirely on one website, one database, one AI, or one visualization.
+The distinction is fundamental.
 
-Wherever possible, canonical world state should be reproducible from:
+**SolumTools is the data and observation layer.**
 
-**canonical inputs**
+It answers questions such as:
 
-+
+- How many Colonists exist?
+- How much Territory is controlled?
+- How much Dormant Land remains?
+- How much Permanent Nature exists?
+- Which territorial thresholds have been reached?
+- What maturity states exist?
+- What changed?
 
-**canonical rules**
+**SolumWorld is the graphical world layer.**
 
-=
+It asks:
 
-**canonical world state**
+> **What does Zipvilization look like right now?**
 
-An independent implementation following the same rules should be capable of reaching the same answer.
+SolumTools makes the state understandable.
 
-That makes the world more resilient.
-
-And more verifiable.
-
-> **If an interface disappears, the world should remain derivable.**
-
-The deeper technical specification for that reconstruction belongs in the Repository.
-
-→ **[Open the Repository](/repository/)**
-
----
-
-# SolumWorld is not SolumTools
-
-The distinction is simple.
-
-**SolumWorld determines.**
-
-**SolumTools observes.**
-
-SolumWorld answers:
-
-> What canonically exists?
-
-SolumTools answers:
-
-> How can we expose and inspect that state?
-
-A SolumTools error does not change the world.
-
-It means the tool is wrong.
+SolumWorld makes the world visible.
 
 → **[Explore SolumTools](/world/solumtools/)**
 
 ---
 
-# SolumWorld is not SolumView
+# SolumWorld Is Not SolumView
 
-SolumView is the visual layer.
+Both are visual.
 
-Its responsibility is representation.
+But they operate at different scales.
 
-SolumWorld may determine:
+**SolumWorld** is the global representation of Zipvilization.
 
-> **City — Developing**
+**SolumView** is the closer observational layer used to inspect Colonists and their Territories.
 
-SolumView may represent that City as visually incomplete.
+The movement is conceptually:
 
-But SolumView cannot promote it to maturity because a finished City looks better.
+**WORLD**  
+↓  
+**TERRITORY**  
+↓  
+**COLONIST**  
+↓  
+**DETAIL**
 
-Likewise, Permanent Nature can appear visually because the corresponding canonical state exists.
+SolumWorld lets us see the civilization-scale environment.
 
-The direction must always remain:
+SolumView lets us move closer.
 
-**World State**
-
-↓
-
-**Visual Representation**
-
-> **The map follows the world.**
+> **SolumWorld shows the world.**
 >
-> **The world does not follow the map.**
+> **SolumView lets us enter it.**
 
 → **[Explore SolumView](/world/solumview/)**
 
 ---
 
+# World → Territory → Colonist
+
+A useful way to understand the visual architecture is through scale.
+
+## World
+
+At the highest level, we observe Zipvilization globally.
+
+Territorial distribution.
+
+Dormant Land.
+
+Permanent Nature.
+
+Large territorial structures.
+
+Global development.
+
+## Territory
+
+As observation moves closer, individual territorial structures become more relevant.
+
+Kingdom.
+
+State.
+
+City.
+
+Farm.
+
+Developmental state.
+
+## Colonist
+
+At closer scale, the Human participant behind a territorial position becomes observable through their Zipvilization identity and state.
+
+This transition leads naturally from SolumWorld into SolumView.
+
+---
+
+# SolumWorld Does Not Invent Civilization
+
+A world can be represented without predetermining its civilization.
+
+SolumWorld should not invent:
+
+- alliances,
+- wars,
+- governments,
+- political systems,
+- economic institutions,
+- cultural identities,
+- social hierarchies,
+- or historical events
+
+unless those things actually become supported by future mechanics and real state.
+
+A dramatic map is not evidence of a war.
+
+A large Territory is not evidence of political authority.
+
+A graphical border is not automatically a political border.
+
+A visual settlement is not automatically a government.
+
+> **Representation must not become prophecy.**
+
+→ **[Explore Civilization](/world/civilization/)**
+
+---
+
 # SolumWorld and Artificial Intelligence
 
-Artificial Intelligence needs a world it can reason about without inventing missing state.
+Artificial Intelligence may eventually help generate, organize, interpret or render aspects of the graphical world.
 
-The correct path is:
+But AI does not receive permission to invent canonical state.
 
-**Canonical concept**
+The correct relationship remains:
 
-↓
+**REAL STATE**  
+↓  
+**CANONICAL RULES**  
+↓  
+**VALID DATA**  
+↓  
+**GRAPHICAL REPRESENTATION**
 
-**Canonical rule**
+AI may assist with the final representation.
 
-↓
+It cannot reverse the chain.
 
-**Implementation status**
+If data is missing, the graphical system should preserve uncertainty rather than manufacture certainty.
 
-↓
-
-**Current state**
-
-↓
-
-**Valid derivation**
-
-↓
-
-**Explanation**
-
-If information is missing, the correct answer may be:
-
-> **Unknown.**
-
-That is acceptable.
-
-Inventing canonical state is not.
-
-AI can help understand Zipvilization.
-
-It cannot create Zipvilization simply by describing something as true.
+> **AI may help render the world.**
+>
+> **AI does not get to rewrite it.**
 
 → **[Explore Artificial Intelligence](/trinomial/artificial-intelligence/)**
 
 ---
 
-# Explore SolumWorld
+# One World, Different Visual Systems
 
-SolumWorld contains several deeper problems that deserve their own documentation.
+The visual implementation of SolumWorld may evolve over time.
 
-## Authority
+Different rendering technologies may be tested.
 
-What is authoritative, and which layer is allowed to determine what?
+Different graphical styles may appear.
 
-→ **Authority**
+Different infrastructure may eventually be required.
 
-## State Mapping
+The world may become more detailed as Zipvilization grows.
 
-How does blockchain state map deterministically into Zipvilization concepts?
+None of those implementation choices should redefine the canonical state underneath them.
 
-→ **State Mapping**
+This separation allows technology to evolve without rewriting history.
 
-## State Transitions
-
-How do upgrades, downgrades, maturation, Burn, and other events change world state?
-
-→ **State Transitions**
-
-## History
-
-How do current state, previous state, and irreversible events create a world with memory?
-
-→ **History**
-
-## AI Integrity
-
-How can Artificial Intelligence reason about Zipvilization without inventing canonical state?
-
-→ **AI Integrity**
-
-## Versioning
-
-How can canonical rules evolve without silently rewriting the world that already existed?
-
-→ **Versioning**
-
-These pages will develop the deeper architecture.
-
-This index defines their common foundation.
+> **The renderer can change.**
+>
+> **The underlying facts remain.**
 
 ---
 
-# SolumWorld in the architecture
+# Infrastructure Follows the World
 
-The complete relationship is:
+The definitive infrastructure for SolumWorld does not need to be selected before real Zipvilization activity exists.
 
-**Smart Contract**
+A relatively simple world may be representable with relatively simple infrastructure.
 
-executes.
+A world containing large amounts of historical, spatial and real-time information may eventually require dedicated systems.
 
-↓
+The correct architecture depends on actual scale.
 
-**Blockchain**
+Not imagined scale.
 
-records.
+That means SolumWorld can evolve technically as the world itself becomes more complex.
 
-↓
-
-**Canonical Rules**
-
-define relationships.
-
-↓
-
-**SolumWorld**
-
-determines.
-
-↓
-
-**SolumTools**
-
-observes.
-
-↓
-
-**SolumView**
-
-reveals.
-
-↓
-
-**Humans and Artificial Intelligence**
-
-understand.
-
-↓
-
-**Colonists**
-
-act.
-
-↓
-
-**Civilization**
-
-may emerge.
-
-The final outcome can remain open because the foundation beneath it is explicit.
+> **Build for the world that exists.**
+>
+> **Scale for the world that emerges.**
 
 ---
 
-# Continue exploring
+# SolumWorld at Genesis
 
-### Observe the world
+Genesis does not require a fully developed SolumWorld frontend in order for Zipvilization to begin.
+
+The underlying on-chain state can exist independently.
+
+SolumTools can observe it.
+
+SolumWorld can progressively represent it.
+
+At the beginning, the world itself will also be beginning.
+
+That makes Genesis a natural starting point for the visual history of Zipvilization.
+
+> **Before Genesis, we can design the world.**
+>
+> **After Genesis, the data begins telling us what world actually exists.**
+
+---
+
+# From Genesis to a Living World
+
+At first, Zipvilization may contain very little history.
+
+Then interactions begin.
+
+Colonists appear.
+
+Territory moves.
+
+Time progresses.
+
+Zips develop.
+
+Structures mature.
+
+Dormant Land changes.
+
+Permanent Nature grows.
+
+The world acquires memory.
+
+SolumWorld should allow those changes to become increasingly visible.
+
+Not because a script decided what the story should be.
+
+Because something actually happened.
+
+---
+
+# SolumWorld at a Glance
+
+SolumWorld is:
+
+**WORLD-SCALE**
+
+It represents Zipvilization globally.
+
+**GRAPHICAL**
+
+It transforms valid state into a visible world.
+
+**DATA-BOUND**
+
+Canonical meaning must follow real state and canonical rules.
+
+**EVOLVING**
+
+Its visual and technical implementation can improve over time.
+
+**NON-AUTHORITATIVE**
+
+It does not change the underlying state.
+
+**NON-FICTIONAL**
+
+It must not present invented mechanics or events as canonical reality.
+
+Its central question is:
+
+> **What does Zipvilization look like right now?**
+
+---
+
+# Follow SolumWorld Through the Atlas
+
+### Where does the underlying data come from?
 
 → **[SolumTools](/world/solumtools/)**
 
-### See the world
-
-→ **[SolumView](/world/solumview/)**
-
-### Understand the world substrate
-
-→ **[Solum](/world/solum/)**
-
-### Understand territorial structure
+### What territorial structures can appear?
 
 → **[Territories](/world/territories/)**
 
-### Understand biological state
+### What native population inhabits the world?
 
 → **[Zips](/world/zips/)**
 
-### Understand development
+### How does development progress?
 
 → **[Time](/world/time/)**
 
-### Understand what remains emergent
+### What is Dormant Land?
+
+→ **[Pool](/smart-contract/pool/)**
+
+### What becomes Permanent Nature?
+
+→ **[Burn](/smart-contract/burn/)**
+
+### Where can we inspect Colonists and Territories more closely?
+
+→ **[SolumView](/world/solumview/)**
+
+### What remains emergent?
 
 → **[Civilization](/world/civilization/)**
 
-### Inspect the blockchain mechanics
+### What mechanics create the underlying blockchain state?
 
 → **[Smart Contract](/smart-contract/)**
 
-### Reach the technical source
+### Where is the deeper technical architecture documented?
 
 → **[Repository](/repository/)**
 
 ---
 
-**The blockchain gives Zipvilization facts.**
+# From Numbers to Geography
 
-**Canonical rules give those facts relationships.**
+Blockchain gives Zipvilization measurable state.
 
-**SolumWorld turns those relationships into a world.**
+Canonical rules give that state meaning.
 
-And only then should anyone — human, interface, or Artificial Intelligence — decide how to look at it.
+SolumTools makes that meaning observable.
+
+SolumWorld gives it geography.
+
+It allows a collection of balances, blocks, thresholds and irreversible events to become something Humans can perceive as a world.
+
+Not an imagined world disconnected from the blockchain.
+
+Not a decorative map placed above the data.
+
+A graphical expression of what the data says Zipvilization has become.
+
+**The Smart Contract executes.**
+
+**The blockchain records.**
+
+**SolumTools observes and translates.**
+
+**SolumWorld shows the world.**
+
+**SolumView lets us look closer.**
+
+And as the underlying state changes,
+
+**the world changes with it.**
 
 ---
 
