@@ -4,9 +4,9 @@ title: Time
 parent: The World
 nav_order: 5
 description: >
-  Time is a structural dimension of Zipvilization. Blockchain blocks become
-  biological cycles, allowing Zips, Territories, and the world itself to mature
-  through deterministic development rather than instant acquisition.
+  Time is a structural dimension of Zipvilization. Blockchain progression becomes
+  biological time, allowing Zips and Territories to develop through deterministic
+  cycles instead of instant acquisition.
 permalink: /world/time/
 ---
 
@@ -16,31 +16,25 @@ Land can be acquired.
 
 Time cannot.
 
-That distinction changes everything.
+That distinction is fundamental to Zipvilization.
 
-Zipvilization uses blockchain because it provides public, measurable progression.
+Blockchain provides continuous, public and measurable progression:
 
-Blocks happen.
+> **blocks**
 
-They can be counted.
+Zipvilization gives that progression biological meaning.
 
-They cannot be negotiated away because a participant wants a faster outcome.
+Blocks become cycles.
 
-Inside Zipvilization, that technical progression becomes something more:
+Cycles allow Zips to emerge.
 
-**development.**
+Zips allow biological structures to consolidate.
 
 Territories mature.
 
-Zips emerge.
-
-Biological cores consolidate.
-
-Higher structures become possible.
-
 History accumulates.
 
-Time is therefore not a timer placed on top of Zipvilization.
+Time is therefore not a countdown placed on top of Zipvilization.
 
 > **Time is part of the world.**
 
@@ -51,11 +45,11 @@ Time is therefore not a timer placed on top of Zipvilization.
 
 # Two Languages, One Progression
 
-Time follows the same relationship between technical state and world meaning that runs through Zipvilization.
+Time follows the same relationship between blockchain state and world meaning that runs through Zipvilization.
 
-At the technical layer:
+At the blockchain layer:
 
-> **Blocks → blockchain progression**
+> **Blocks → measurable progression**
 
 Inside Zipvilization:
 
@@ -65,39 +59,31 @@ The blockchain does not know that a Farm is maturing.
 
 It produces blocks.
 
-Zipvilization interprets a defined quantity of that objective progression as a biological cycle.
+The canonical rules of Zipvilization interpret a defined quantity of that progression as a biological cycle.
 
-> **Blockchain describes how progression is measured.**
+> **Blockchain provides the progression.**
 >
-> **Zipvilization describes what that progression means.**
-
-The mechanism remains technical.
-
-The consequence becomes part of the world.
+> **Zipvilization gives that progression meaning.**
 
 ---
 
-# One Cycle
+# One Biological Cycle
 
 The canonical biological unit of Time is:
 
 > **1 cycle = 65,536 blocks**
 
-A cycle is not one day, one week, one month, or an arbitrary period chosen for convenience.
+A cycle is not defined as one day, one week or one month.
 
 Its canonical definition is block-based.
 
-This matters because Human-time estimates may vary with the underlying blockchain environment.
+This matters because Human-time estimates depend on actual block production and may vary.
 
-The world therefore depends on:
+The biological rule does not.
 
-**blocks**
-
-rather than on an approximation of how long those blocks may take.
-
-> **The blockchain provides the clock.**
+> **Blocks are canonical.**
 >
-> **Zipvilization gives that clock meaning.**
+> **Clock time is a Human translation.**
 
 ---
 
@@ -113,21 +99,19 @@ Zipvilization also connects biological population with binary information:
 
 > **8 Zips = 1 byte**
 
-Using a power-of-two cycle maintains the computational language beneath the biological interpretation of the world.
+The biological interpretation of the world therefore sits on top of a deterministic computational structure.
 
 Bits.
 
 Bytes.
 
-Bloch.
-
 Cycles.
 
-Population.
+Zips.
 
 Territory.
 
-The biological world sits on top of deterministic information.
+Time connects them through progression.
 
 → **[Discover Zips](/world/zips/)**
 
@@ -159,18 +143,11 @@ the first complete maturation sequence requires:
 
 This establishes one of the most important distinctions in Zipvilization:
 
-**having enough Territory**
-
-is not the same as
-
-**having developed Territory.**
+> **Territorial capacity is not territorial maturity.**
 
 A Colonist can satisfy the territorial requirement for a Farm.
 
-The biological core still has to emerge.
-
-→ **[Explore Territories](/world/territories/)**  
-→ **[Discover Zips](/world/zips/)**
+The biological core still has to develop.
 
 ---
 
@@ -178,7 +155,7 @@ The biological core still has to emerge.
 
 Larger Territories continue the developmental structure established by the Farm.
 
-They do not become mature merely because a Colonist possesses enough SOLUM to support their territorial scale.
+They do not become mature merely because a Colonist controls enough SOLUM to support their territorial scale.
 
 The canonical cumulative progression is:
 
@@ -189,181 +166,177 @@ The canonical cumulative progression is:
 | State | 4,194,304 blocks |
 | Kingdom | 8,388,608 blocks |
 
-These values represent accumulated development from the beginning of territorial history.
+These values represent accumulated development.
 
-They are not independent timers that all begin from zero when a new territorial level becomes possible.
+They are not four unrelated timers.
 
-The progression is:
+The progression is cumulative:
 
-**Farm** — 8 cycles — 524,288 blocks  
+**Farm** — 524,288 blocks  
 ↓  
-**City** — additional development — 2,097,152 blocks cumulative  
+**City** — 2,097,152 blocks cumulative  
 ↓  
-**State** — additional development — 4,194,304 blocks cumulative  
+**State** — 4,194,304 blocks cumulative  
 ↓  
-**Kingdom** — additional development — 8,388,608 blocks cumulative
+**Kingdom** — 8,388,608 blocks cumulative
 
-> **Territorial maturity is cumulative.**
+> **Higher development inherits lower history.**
 
 ---
 
 # Capacity and Maturity Are Different
 
-This distinction is fundamental.
+SOLUM and Time answer different questions.
 
-SOLUM determines territorial capacity.
+**SOLUM**
 
-Canonical Time determines territorial development.
+> How much Territory can this Colonist support?
+
+**Time**
+
+> How far has that Territory developed?
 
 Therefore:
 
 > **ENOUGH SOLUM ≠ MATURE TERRITORY**
 
-A Colonist may acquire enough SOLUM to support City-scale Territory immediately.
+A Colonist may acquire enough SOLUM for City-scale Territory immediately.
 
 That does not create a Mature City immediately.
 
-Likewise, acquiring State-scale or Kingdom-scale capacity does not purchase the history required for those Territories to mature.
+The same applies to States and Kingdoms.
 
 > **Land can be acquired.**
 >
 > **Elapsed canonical Time cannot.**
 
-This prevents economic capacity from collapsing the temporal structure of the world.
-
 ---
 
 # Blocks Remain Canonical
 
-The maturity values are expressed in blocks deliberately.
+Human time is useful for understanding development.
 
-Human time depends on actual blockchain block production.
+It is not the canonical unit.
 
-Hours, days, months, or years may therefore be useful estimates, but they remain translations.
-
-The canonical maturity conditions are:
+The canonical maturity conditions remain:
 
 - **Farm:** 524,288 blocks
 - **City:** 2,097,152 blocks
 - **State:** 4,194,304 blocks
 - **Kingdom:** 8,388,608 blocks
 
+An interface may translate those values into approximate hours, days, months or years.
+
+But:
+
 > **Blocks define development.**
 >
 > **Clock time describes it.**
 
-If network timing changes, the Human-time estimate may change.
+If observed block timing changes, the Human estimate changes.
 
-The canonical block requirement does not.
+The canonical requirement does not.
 
 ---
 
-# Territorial Time Is Cumulative
+# Development Is Cumulative
 
-Higher territorial structures do not begin in a world with no past.
+Higher territorial structures do not begin without a past.
 
-They inherit development.
-
-A City grows from lower structure.
-
-A State grows from City-scale structure.
-
-A Kingdom grows from State-scale structure.
-
-The canonical maturation architecture currently defines:
+The canonical maturation architecture defines:
 
 | Territory | Development requirement |
 |:----------|:------------------------|
 | Farm | 8 cycles |
-| City | +32 cycles |
+| City | +24 cycles |
 | State | +32 cycles |
 | Kingdom | +64 cycles |
 
 The `+` matters.
 
-Higher development belongs to a sequence.
+A City inherits the development of its Farm.
 
-A new level does not erase the Time already invested in the structure beneath it.
+A State inherits the development below it.
 
-> **Higher Territory inherits lower history.**
+A Kingdom inherits the development beneath it.
+
+The world does not restart its clock every time a new territorial threshold is crossed.
+
+> **Development accumulates.**
 
 ---
 
 # Structure First, Maturity Later
 
-Suppose a Holder acquires enough SOLUM to cross a territorial threshold.
+Suppose a Colonist acquires enough SOLUM to cross a territorial threshold.
 
 At blockchain level, the balance changes immediately.
 
-Inside Zipvilization, the corresponding Colonist can satisfy the structural condition for a new territorial level immediately.
+Inside Zipvilization, that balance can immediately support a larger territorial structure.
 
 But two different statements now exist:
 
-> **This Territory qualifies structurally.**
+> **This territorial scale exists.**
 
 and:
 
-> **This Territory is mature.**
+> **This territorial scale is mature.**
 
 They are not equivalent.
 
-The first can follow directly from quantity.
+A Colonist can therefore have City-scale Territory while the City remains biologically developing.
 
-The second requires development.
-
-This allows Zipvilization to recognize City-scale Territory without pretending that a Mature City already exists.
-
-The same principle applies upward.
+The same distinction continues upward.
 
 ---
 
-# Three Different Questions
+# Solum, Time and Zips
 
-Solum, Time and Zips answer different questions.
+Three dimensions interact without becoming interchangeable.
 
 **Solum**
 
-> How much Territory can this structure support?
+determines territorial capacity.
 
 **Time**
 
-> How far has that structure progressed?
+provides developmental progression.
 
 **Zips**
 
-> What biological state has actually consolidated?
+express biological state.
 
 Together:
 
-> **Solum → territorial capacity**
->
-> **Time → development**
->
-> **Zips → biological state**
-
-These dimensions are related.
-
-They are not interchangeable.
+**SOLUM**  
+↓  
+**TERRITORIAL CAPACITY**  
+↓  
+**TIME / CYCLES**  
+↓  
+**ZIP DEVELOPMENT**  
+↓  
+**MATURITY**
 
 A larger balance cannot substitute for missing Time.
 
-Elapsed Time cannot create territorial scale that does not exist.
+Elapsed Time cannot create territorial capacity that does not exist.
 
-Population cannot exceed the canonical structure that supports it.
+Zips cannot be detached from the biological structure that supports them.
 
 ---
 
 # No Instant Cities
 
-You cannot purchase a Mature City simply by crossing the City threshold.
+A Colonist cannot purchase a Mature City simply by crossing the City threshold.
 
-You can acquire the territorial condition.
+They can acquire the territorial capacity.
 
-You can make City-scale structure possible.
+They can make City-scale development possible.
 
 But the world still has to develop.
 
-Otherwise the territorial hierarchy would collapse into a pricing table:
+Otherwise the territorial hierarchy would collapse into:
 
 buy enough → Farm  
 buy enough → City  
@@ -374,39 +347,33 @@ That is not the model.
 
 Instead:
 
-> **Economic capacity can change the conditions.**
+> **Economic capacity can create possibility.**
 >
-> **Development still needs a past.**
+> **Development still requires Time.**
 
 ---
 
-# No Instant Empires
+# No Instant Kingdoms
 
-The same principle becomes even more important at larger scale.
+The same principle becomes increasingly important at larger scales.
 
-A Holder may acquire enough SOLUM for Kingdom-scale Territory.
+A Colonist may acquire enough SOLUM for Kingdom-scale Territory.
 
-The blockchain can record that amount immediately.
+That state can exist immediately.
 
-Zipvilization does not deny that reality.
-
-The Colonist has Kingdom-scale territorial capacity.
-
-But a Mature Kingdom cannot legitimately contain a history that never happened.
+But a Mature Kingdom cannot legitimately contain developmental history that never occurred.
 
 Lower structures matter.
 
-Population matters.
-
 Cycles matter.
 
-Maturation matters.
+Zips matter.
 
-> **A participant may acquire future capacity.**
+Maturity matters.
+
+> **A Colonist may acquire future capacity.**
 >
 > **They cannot purchase its past.**
-
-This creates a boundary between wealth and development.
 
 ---
 
@@ -414,27 +381,27 @@ This creates a boundary between wealth and development.
 
 Blockchain assets can move quickly.
 
-That does not mean every dimension of Zipvilization should move at market speed.
+Biological development does not need to move at market speed.
 
-If financial capacity automatically produced complete development, wealth would become equivalent to civilizational maturity.
+If financial capacity automatically produced complete development, wealth would become equivalent to maturity.
 
 Zipvilization deliberately separates them.
 
 Economic capacity can influence:
 
-- how much SOLUM a Holder controls,
+- how much SOLUM a Colonist controls,
 - which territorial thresholds are satisfied,
-- and what future capacity becomes possible.
+- and which developmental structures become possible.
 
 It cannot directly determine:
 
 - how many biological cycles have already elapsed,
-- whether a territorial core has matured,
+- whether a biological core has matured,
 - or how much history has actually accumulated.
 
-> **Wealth can change capacity.**
+> **Capacity can be acquired.**
 >
-> **It cannot manufacture elapsed Time.**
+> **Elapsed Time cannot.**
 
 ---
 
@@ -444,23 +411,21 @@ Without Time, an action changes state.
 
 With Time, sequences of state changes can create history.
 
-Two Colonists may currently control the same amount of SOLUM.
+Two Colonists may currently control identical amounts of SOLUM.
 
-Their current balances may be identical.
+Their Territories may nevertheless have different developmental histories.
 
-Their developmental histories may not be.
+One may have existed longer.
 
-One Territory may have existed longer.
+One may have completed more cycles.
 
-One may have completed more biological development.
+One may have matured lower structures earlier.
 
-One may have crossed thresholds earlier.
+The current balance alone cannot describe that difference.
 
-One may already contain mature lower structures.
+The world therefore acquires something beyond quantity:
 
-The world can therefore contain something a current balance alone cannot describe:
-
-**age.**
+> **age**
 
 ---
 
@@ -468,13 +433,13 @@ The world can therefore contain something a current balance alone cannot describ
 
 Zipvilization does not need fictional history.
 
-History can emerge from real changes in canonical state.
+History can emerge from actual changes in state.
 
 A Colonist arrives.
 
-A territorial threshold is crossed.
+Territory becomes colonized.
 
-A Bloch cycle completes.
+A cycle completes.
 
 A Zip emerges.
 
@@ -492,13 +457,13 @@ Each event creates a difference between:
 
 and
 
-**after.**
+**after**
 
 When those differences accumulate, the world acquires history.
 
-> **The state transition comes first.**
+> **The event comes first.**
 >
-> **The narrative can come later.**
+> **The story can come later.**
 
 ---
 
@@ -512,20 +477,6 @@ Cycles progress.
 
 Zips emerge according to canonical rules.
 
-This creates continuity.
-
-Bloch is not merely a disposable countdown toward a visual reward.
-
-It belongs to the biological structure of Zipvilization.
-
-Its state can help describe:
-
-- generated population,
-- remaining developmental capacity,
-- territorial maturity,
-- higher-level activation,
-- and historical biological state.
-
 The relationship is:
 
 **BLOCKCHAIN PROGRESSION**  
@@ -536,13 +487,15 @@ The relationship is:
 ↓  
 **TERRITORIAL MATURITY**
 
+Bloch therefore belongs to the biological structure of Zipvilization.
+
+It is not merely a countdown toward a visual reward.
+
 → **[Discover Zips](/world/zips/)**
 
 ---
 
 # Higher Levels Depend on Lower Development
-
-Zipvilization does not use a territorial ladder where higher levels simply bypass unfinished lower structures.
 
 Development has dependency.
 
@@ -554,13 +507,9 @@ The general progression is:
 ↓  
 **MATURITY**  
 ↓  
-**HIGHER BIOLOGICAL STRUCTURE BECOMES AVAILABLE**  
+**HIGHER BIOLOGICAL STRUCTURE BECOMES POSSIBLE**  
 ↓  
 **NEW DEVELOPMENT**
-
-This creates a developmental hierarchy rather than a collection of unrelated timers.
-
-The lower world supports the higher world.
 
 A City inherits what came before it.
 
@@ -574,9 +523,9 @@ A Kingdom inherits the structures beneath it.
 
 # Structural Recognition Is Not Biological Maturity
 
-This distinction matters for Humans, interfaces and AI.
+This distinction must remain visible to Humans, interfaces and AI.
 
-A higher territorial level can be structurally recognized while its corresponding biological development remains incomplete.
+A higher territorial level can be structurally recognized while its biological development remains incomplete.
 
 Therefore:
 
@@ -588,84 +537,50 @@ and:
 
 may have different answers.
 
-An interface must not collapse those questions.
+The architecture must preserve both.
 
-An AI must not collapse those questions.
+SolumTools must translate them separately.
 
-SolumTools must expose them separately.
+SolumWorld must represent the difference correctly.
 
-SolumWorld must represent them correctly.
-
-SolumView must preserve the distinction when we look closer.
+SolumView must allow that difference to be explored in detail.
 
 ---
 
-# Upgrade: New Capacity, Not Invented History
+# Territory Can Change
 
-When a Holder acquires additional SOLUM and crosses a higher threshold, blockchain state changes.
+A Colonist's SOLUM balance can change.
 
-Inside Zipvilization, the Colonist gains access to a larger territorial structure.
+Additional SOLUM can increase territorial capacity.
 
-But the upgrade does not manufacture a completed past.
+Transferred SOLUM can reduce it.
 
-Existing mature structures remain meaningful.
+The blockchain records those changes immediately.
 
-New higher-level capacity becomes relevant.
+But changing current capacity does not rewrite elapsed Time.
 
-Development continues from the state that actually exists.
+Existing development happened.
 
-An upgrade is therefore not:
+Completed cycles happened.
 
-> delete the old Territory and replace it with a bigger one.
+Existing Zips emerged.
 
-It is:
+Past maturity happened.
 
-> **preserve existing development and open another layer of possibility.**
+The exact deterministic consequences of territorial changes belong to the deeper canonical specification.
 
-→ **[Explore Territories](/world/territories/)**
+The principle is:
 
----
-
-# Downgrade: Consequence Without Erasing History
-
-A Holder can also transfer SOLUM away.
-
-A balance may fall below a canonical threshold.
-
-Blockchain state changes immediately.
-
-Current territorial capacity must respond.
-
-A higher level may no longer remain active in the same way.
-
-Future biological capacity may change.
-
-Higher-level development may become dormant.
-
-But elapsed Time happened.
-
-Existing Zips existed.
-
-Previous maturation occurred.
-
-The world does not need to pretend otherwise.
-
-> **Current structure can change.**
+> **Current state can change.**
 >
 > **Past development remains part of history.**
 
-The exact deterministic downgrade behavior belongs to the deeper canonical specification.
-
-→ **[Discover Zips](/world/zips/)**  
+→ **[Explore Territories](/world/territories/)**  
 → **[Open the Repository](/repository/)**
 
 ---
 
 # Time Cannot Be Reversed
-
-A finite world gains meaning from irreversible events.
-
-Time is one of them.
 
 A completed block becomes part of blockchain history.
 
@@ -675,13 +590,13 @@ Later actions can alter present state.
 
 They cannot make elapsed progression never have happened.
 
-This asymmetry matters.
+This creates an important asymmetry:
 
 > **The future remains open.**
 >
 > **The past becomes increasingly fixed.**
 
-That is one of the conditions required for meaningful history.
+That is one of the foundations of meaningful history.
 
 ---
 
@@ -697,15 +612,15 @@ Inside Zipvilization:
 
 that Territory becomes **Permanent Nature**.
 
-Time and Burn therefore share a conceptual property:
+Time and Burn therefore share an important property:
 
-**permanence.**
+> **irreversibility**
 
 A Colonist may change future decisions.
 
 Territory may change control.
 
-A balance may rise or fall.
+Balances may rise or fall.
 
 But some events create conditions that future participants inherit.
 
@@ -713,126 +628,153 @@ Permanent Nature is one.
 
 Elapsed history is another.
 
-A civilization becomes meaningful partly because not everything can be undone.
-
-→ **[Understand Burn](/smart-contract/burn/)**  
-→ **[Discover Solum](/world/solum/)**
+→ **[Understand Burn](/smart-contract/burn/)**
 
 ---
 
-# Time Should Become Visible
+# SolumTools Translates Time
 
-Block numbers are useful to machines.
+SolumTools is where blockchain progression becomes usable Zipvilization data.
 
-They are not enough for Human experience.
+It can read relevant blockchain state and combine it with the canonical rules of Time.
 
-A Colonist should not need to calculate block differences manually to understand whether their Territory is developing.
+Conceptually:
 
-This is where the three observational layers work together.
-
-**BLOCKCHAIN PROGRESSION + CANONICAL TIME RULES**  
+**BLOCKCHAIN BLOCKS**  
++  
+**CANONICAL TIME RULES**  
 ↓  
-**SOLUMTOOLS** — measures and exposes developmental state  
+**SOLUMTOOLS**  
 ↓  
-**SOLUMWORLD** — makes its consequences visible at world scale  
-↓  
-**SOLUMVIEW** — allows closer inspection of Colonists and Territories
+**ZIPVILIZATION TIME DATA**
 
-A developing City may look different from a Mature City.
-
-A newly developing structure need not appear identical to one that has accumulated substantial history.
-
-But the visual world does not determine maturity.
-
-> **Time changes the state.**
->
-> **SolumTools measures it.**
->
-> **SolumWorld shows it.**
->
-> **SolumView lets us look closer.**
-
-→ **[Explore SolumTools](/world/solumtools/)**  
-→ **[Explore SolumWorld](/world/solumworld/)**  
-→ **[Explore SolumView](/world/solumview/)**
-
----
-
-# Time and SolumTools
-
-SolumTools makes Time measurable.
-
-It can read blockchain progression and apply canonical rules relating blocks to biological development.
-
-That allows it to expose signals such as:
+That allows SolumTools to expose information such as:
 
 - current biological cycle,
 - completed cycles,
 - remaining blocks,
-- current territorial scale,
-- biological maturity,
+- developmental state,
+- maturity,
 - Zip population,
-- next developmental milestone,
-- and structural changes over Time.
+- territorial scale,
+- and the next canonical milestone.
 
-SolumTools does not accelerate Time.
+SolumTools does not create Time.
 
-It does not decide arbitrarily that enough Time has passed.
+It does not accelerate it.
 
-It derives the result from valid state and explicit rules.
+It does not decide arbitrarily that a Territory is mature.
 
-> **SolumTools observes and measures.**
+It translates measurable blockchain progression into deterministic Zipvilization state.
+
+> **SolumTools translates blockchain Time into world Time.**
 
 → **[Explore SolumTools](/world/solumtools/)**
 
 ---
 
-# Time and SolumWorld
+# SolumWorld Shows the Consequences of Time
 
-SolumWorld makes the consequences of Time visible across Zipvilization.
+SolumWorld takes the translated state and gives it graphical world-scale expression.
 
-A young world and an old world need not look the same.
+A young world and an older world should not necessarily look the same.
 
-Developing and mature structures can be represented differently.
+Dormant Land can change.
 
-Accumulated territorial development can become part of the graphical geography.
+Colonized Territory can develop.
 
-But:
+Farms, Cities, States and Kingdoms can appear according to their valid state.
 
-> **SolumWorld does not create maturity.**
+Mature and developing structures can become visually distinguishable.
 
-It represents maturity already supported by valid state.
+From SolumWorld, a Human can move across Zipvilization and observe those changes from a broad perspective.
 
-The world follows Time.
+Like a world viewed from above.
 
-Time does not follow the image.
+A navigable, graphical representation of what Zipvilization has become.
+
+But SolumWorld does not determine maturity.
+
+> **Time changes the world.**
+>
+> **SolumWorld shows the consequences.**
 
 → **[Explore SolumWorld](/world/solumworld/)**
 
 ---
 
-# Time and SolumView
+# SolumView Lets Us Enter That Development
 
-SolumView allows Time to be inspected locally.
+SolumView takes observation deeper.
 
-At Territory or Colonist scale, it may expose:
+From the broad world represented by SolumWorld, a Human can enter a specific Colonist's Territory and progressively inspect what exists inside it.
 
-- current cycle,
-- completed cycles,
-- remaining blocks,
-- maturity state,
-- next milestone,
-- and relevant historical progression.
+Conceptually:
 
-SolumWorld may show that a City is developing.
+**WORLD**  
+↓  
+**COLONIST**  
+↓  
+**TERRITORY**  
+↓  
+**INTERNAL STRUCTURE**  
+↓  
+**FARMS**  
+↓  
+**ZIPS**
 
-SolumView can help explain exactly where that development stands.
+At increasingly detailed levels, SolumView can expose the consequences of Time locally.
 
-> **SolumWorld shows the consequence.**
+A Colonist may eventually be able to enter their Territory and observe:
+
+- developmental state,
+- maturity,
+- Farms,
+- biological cycles,
+- Zip population,
+- and the Zips themselves.
+
+At its maximum development, SolumView can become a live window into what is happening inside a Colonist's Territory.
+
+But the principle remains unchanged:
+
+> **SolumView does not invent development.**
 >
-> **SolumView reveals the detail.**
+> **It lets us enter and observe development that actually exists.**
 
 → **[Explore SolumView](/world/solumview/)**
+
+---
+
+# Data → World → Inside
+
+Time makes the distinction between the three layers especially clear.
+
+**SOLUMTOOLS — DATA**
+
+Translates blockchain progression into Zipvilization Time and developmental state.
+
+↓
+
+**SOLUMWORLD — WORLD**
+
+Represents the consequences of that state across the graphical world.
+
+↓
+
+**SOLUMVIEW — INSIDE**
+
+Allows Humans to enter Territories and observe their development at increasingly detailed scales.
+
+The same underlying reality is being observed.
+
+Only the level of representation changes.
+
+> **SolumTools translates the data.**
+>
+> **SolumWorld shows the world.**
+>
+> **SolumView lets us enter it.**
 
 ---
 
@@ -840,37 +782,36 @@ SolumView can help explain exactly where that development stands.
 
 Time must also be machine-readable.
 
-An AI answering questions about Zipvilization should never need to infer maturity from statements such as:
+An AI answering questions about Zipvilization should never need to infer maturity from an image or from statements such as:
 
 > "This City looks old."
 
-It should be able to reason from explicit inputs:
+It should be able to reason from explicit state:
 
-- current blockchain progression,
-- territorial threshold,
-- relevant activation state,
+- blockchain progression,
+- territorial capacity,
 - completed cycles,
-- Zip capacity,
+- Zip population,
 - lower-level dependencies,
 - and canonical maturity rules.
 
-That makes questions such as these answerable from structure:
+That makes questions such as these answerable from evidence:
 
 > When will this Farm mature?
 
 > Is this City structurally present but biologically immature?
 
-> Which biological level is currently mature?
+> Which territorial level is currently mature?
 
-> How much progression remains before the next stage?
+> How much canonical progression remains?
 
 The Atlas explains what Time means.
 
 Canonical rules define the relationships.
 
-SolumTools can expose current measurable state.
+SolumTools provides translated state.
 
-AI can then reason from explicit evidence rather than inventing missing assumptions.
+AI can reason from that evidence.
 
 → **[Explore Artificial Intelligence](/trinomial/artificial-intelligence/)**
 
@@ -884,13 +825,13 @@ Humans naturally ask:
 
 > How many days?
 
-> How long until my City matures?
+> How long until my Farm matures?
 
 Those are useful questions.
 
-Interfaces can provide estimates.
+SolumTools and the interfaces built above it can provide Human-readable estimates.
 
-But an estimate derived from observed block timing is not the canonical rule.
+But those estimates remain translations.
 
 The canonical rule remains:
 
@@ -900,34 +841,28 @@ Therefore:
 
 > **Blocks define the requirement.**
 >
-> **Hours and days translate it for Humans.**
-
-If observed block timing changes, the canonical biological requirement remains unchanged.
+> **Hours and days explain it to Humans.**
 
 ---
 
 # Time Across Both Languages
 
-The mapping can be summarized clearly.
+The relationship can be summarized clearly:
 
 | Blockchain / computation | Zipvilization |
 |:-------------------------|:--------------|
 | Block progression | Passage of world Time |
 | 65,536 blocks | One biological cycle |
 | Completed cycles | Biological development |
-| Deterministic transition | Maturation event |
+| Deterministic transition | Maturation |
 | Historical chain state | World history |
-| Current blockchain state | Current developmental position |
-
-The columns are related.
-
-They are not interchangeable.
+| Current blockchain state | Current developmental state |
 
 The blockchain does not contain literal biological Time.
 
 Zipvilization does not replace block counting with storytelling.
 
-The same objective progression is interpreted through two languages.
+The same objective progression is expressed through two languages.
 
 ---
 
@@ -967,7 +902,7 @@ accumulates
 
 The foundational relationships are deterministic.
 
-The civilization that eventually uses that history is not.
+What civilization eventually does with them remains open.
 
 ---
 
@@ -975,30 +910,28 @@ The civilization that eventually uses that history is not.
 
 > **1 cycle = 65,536 blocks**
 
-Canonical developmental requirements:
+Canonical developmental progression:
 
-| Territory | Cycles | Cumulative blocks |
-|:----------|:-------|------------------:|
-| Farm | 8 | 524,288 |
-| City | +32 | 2,097,152 |
-| State | +32 | 4,194,304 |
-| Kingdom | +64 | 8,388,608 |
+| Territory | Development | Cumulative blocks |
+|:----------|:------------|------------------:|
+| Farm | 8 cycles | 524,288 |
+| City | +24 cycles | 2,097,152 |
+| State | +32 cycles | 4,194,304 |
+| Kingdom | +64 cycles | 8,388,608 |
 
 And the conceptual relationship:
 
-**Solum determines scale.**
-
-**Bloch generates population.**
+**Solum determines capacity.**
 
 **Blocks provide progression.**
 
-**Cycles provide development.**
+**Cycles provide biological Time.**
 
-**Zips express biological state.**
+**Zips express biological development.**
 
 **Maturity records completed development.**
 
-**History is what remains after change.**
+**History records what happened.**
 
 ---
 
@@ -1018,7 +951,7 @@ Time does something more fundamental:
 
 > **It prevents development from being instantaneous.**
 
-That single constraint allows other things to matter.
+That allows other things to matter.
 
 Age.
 
@@ -1052,15 +985,15 @@ History.
 
 → **[Colonists](/world/colonists/)**
 
-### Where is progression measured?
+### Where is blockchain progression translated into Zipvilization data?
 
 → **[SolumTools](/world/solumtools/)**
 
-### Where do the consequences become visible globally?
+### Where do its consequences become visible across the world?
 
 → **[SolumWorld](/world/solumworld/)**
 
-### Where can development be inspected up close?
+### Where can we enter a Territory and observe its development?
 
 → **[SolumView](/world/solumview/)**
 
@@ -1084,19 +1017,17 @@ A blockchain can change state in seconds.
 
 A market can change price in seconds.
 
-A Holder can acquire territorial capacity in seconds.
+A Colonist can acquire territorial capacity in seconds.
 
-But Zipvilization is not trying to make every dimension of the world move at market speed.
-
-Because civilization requires something markets cannot create instantly:
+But civilization requires something that cannot be purchased instantly:
 
 **a past.**
 
-A Farm must have existed before it can have matured.
+A Farm must develop before it can have matured.
 
-A City must develop before its biological core can consolidate.
+A City must inherit what came before it.
 
-Higher structures must inherit something from what came before.
+Higher structures must accumulate development.
 
 Colonists must act before those actions can become history.
 
@@ -1106,7 +1037,7 @@ Sequence into memory.
 
 Memory into history.
 
-And history gives a civilization something that cannot simply be acquired.
+And history gives Zipvilization something that no balance can buy.
 
 > **Solum gives the world space.**
 >
