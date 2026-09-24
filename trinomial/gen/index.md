@@ -1,3 +1,12 @@
+layout: default
+title: GEN
+parent: The Trinomial
+nav_order: 4
+description: >
+  GENESIS, GEN the Zips 0
+permalink: /trinomial/gen/
+---
+
 # GEN — ZIP 0
 
 **The First Zip.**
