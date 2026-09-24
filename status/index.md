@@ -14,11 +14,13 @@ Zipvilization is currently **pre-Genesis**.
 
 But pre-Genesis does not mean that Zipvilization is only an idea.
 
+The project exists.
+
 The core exists.
 
 The architecture exists.
 
-The documentation exists.
+The Atlas exists.
 
 The SOLUM Smart Contract code exists.
 
@@ -28,9 +30,9 @@ The mathematical model of Time and maturity exists.
 
 SolumTools has a functional backend.
 
-SolumWorld has defined architectures.
+The architecture of SolumWorld is defined.
 
-SolumView has a defined architecture.
+The architecture of SolumView is defined.
 
 The Zips have an identity.
 
@@ -42,19 +44,23 @@ What does not exist yet is something fundamentally different:
 
 That begins at Genesis.
 
+> **Zipvilization exists.**
+>
+> **Its history has not begun.**
+
 ---
 
 # How to Read This Page
 
 Different parts of Zipvilization are at very different stages.
 
-A concept can be completely defined without being live.
+A concept can be completely defined without being implemented.
 
-A system can be built without having real data yet.
+A system can be built without being live.
 
 An architecture can be ready while its final infrastructure remains deliberately undecided.
 
-And some parts of Zipvilization are designed to continue evolving.
+And some parts of Zipvilization are designed to continue evolving indefinitely.
 
 For that reason, this page does not use a single percentage to describe the entire project.
 
@@ -70,9 +76,11 @@ A functional implementation exists.
 The component is operating with real Zipvilization state.
 
 **EVOLVING**  
-The component exists, but its nature is expected to continue developing.
+The component exists conceptually or technically, but its expression is expected to continue developing.
 
 > **DEFINED ≠ BUILT ≠ LIVE**
+
+A component may occupy more than one of these states at the same time.
 
 Understanding that distinction is essential when reading the Atlas.
 
@@ -100,6 +108,14 @@ NOT YET CREATED
 
 NONE
 
+**LIVE FARMS / CITIES / STATES / KINGDOMS**
+
+NONE
+
+**LIVE ON-CHAIN ZIP POPULATION**
+
+NONE
+
 **LIVE ZIPVILIZATION HISTORY**
 
 NOT STARTED
@@ -124,11 +140,15 @@ We are deliberately waiting.
 
 Zipvilization already exists as a project.
 
-It has a defined purpose, a documented architecture, a fixed core, working development systems and a clear direction.
+It has a defined purpose, documented architecture, established core, active development process and clear direction.
 
 What has not started is the history that will emerge from real participation.
 
 That distinction matters.
+
+Before Genesis, we can define the conditions.
+
+After Genesis, real interaction begins creating consequences.
 
 > **Zipvilization exists.**
 >
@@ -148,7 +168,7 @@ The current documentation represents the architecture, concepts, relationships a
 
 Internally, we consider its current maturity approximately **9/10**.
 
-That does not mean that the remaining 1/10 is a list of missing pages.
+That does not mean that the remaining 1/10 is a fixed list of missing pages.
 
 Zipvilization continues to develop.
 
@@ -210,6 +230,10 @@ The links throughout the Atlas are part of its knowledge structure.
 
 When greater precision is required, follow them.
 
+> **Humans follow the story.**
+>
+> **AI follows the relationships.**
+
 ---
 
 # SOLUM Smart Contract
@@ -224,15 +248,15 @@ This includes the core behavior of SOLUM, its tax structure and its fundamental 
 
 Minor changes may still be considered before deployment if they are useful or necessary.
 
-The core is not expected to change.
+The core is not expected to change in substance.
 
-Different contracts have been deployed and tested during development.
+Different development and testing contracts have been deployed during the development process.
 
 However:
 
 > **The Zipvilization team has not deployed an official contract named SOLUM.**
 
-Any previous development or testing contracts should not be interpreted as the official SOLUM deployment.
+Development or testing contracts must not be interpreted as the official SOLUM deployment.
 
 The official deployment remains pending Genesis.
 
@@ -244,13 +268,13 @@ The official deployment remains pending Genesis.
 
 The contract has undergone development testing, automated analysis, AI-assisted review and experimental deployments.
 
-Zipvilization does not currently describe the contract as professionally audited by an external auditing company.
+Zipvilization does not currently describe the contract as professionally audited by an independent external auditing company.
 
 That distinction is deliberate.
 
 > **Auditable ≠ Audited**
 
-We are also considering a pre-TGE **Hackathon / Bug Contest** designed to expose the contract to adversarial review before Genesis.
+A pre-TGE **Hackathon / Bug Contest** is also being considered as an additional opportunity for adversarial review before Genesis.
 
 If performed, its purpose will be simple:
 
@@ -288,7 +312,7 @@ It will happen when we consider the initial participation conditions appropriate
 
 # Why Is Genesis Designed This Way?
 
-The initial Pool is intended to contain the complete SOLUM supply paired with only approximately **$100 equivalent in ETH**.
+At TGE, the initial Pool is intended to begin with the **Total Supply** paired with approximately **$100 equivalent in ETH**.
 
 That is intentional.
 
@@ -302,9 +326,17 @@ Depending on network and platform costs, some participants may spend more on tra
 
 Actual acquisition conditions will depend on the AMM state and prior interactions.
 
+No particular acquisition cost is guaranteed.
+
 The objective is not to use Founding Colonists to artificially inflate the initial price.
 
 The objective is distribution and participation.
+
+> **Low initial cost is a condition for access.**
+>
+> **It is not a promise of future value.**
+
+And:
 
 > **We don't need your capital.**
 >
@@ -324,7 +356,7 @@ We are not using paid promotion to accelerate this process.
 
 We do not currently intend to.
 
-The objective is natural growth:
+The objective is natural growth.
 
 No artificial deadline.
 
@@ -340,6 +372,10 @@ We want Humans who are genuinely interested in being present when Zipvilization 
 >
 > **Real participants.**
 
+Founding Colonist status is intended as historical recognition of participation at the beginning.
+
+It is not designed as a permanent privileged class.
+
 ---
 
 # Whitelist
@@ -348,13 +384,17 @@ We want Humans who are genuinely interested in being present when Zipvilization 
 
 The requirements for Founding Colonist access are deliberately minimal.
 
-Before Genesis, the submitted accounts and wallets will undergo a final validation.
+Before Genesis, submitted accounts and wallets will undergo final validation.
 
-The objective is to confirm that the provided accounts continue to satisfy the required conditions and that the submitted wallet addresses are correct.
+The objective is to confirm that the provided accounts continue to satisfy the required conditions and that submitted wallet addresses are correct.
 
 Registration therefore does not mean that the final Genesis whitelist is already closed.
 
 The final set of eligible wallets will be validated before TGE.
+
+Whitelist access does not itself grant SOLUM, Territory, Zips, maturity, fee exemptions or exemptions from transaction limits.
+
+Its fundamental purpose is early BUY eligibility under the documented Genesis mechanics.
 
 ---
 
@@ -370,7 +410,7 @@ No mechanism can guarantee that.
 
 Its purpose is to make extreme early concentration more difficult and to give a broader group of independent participants an opportunity to enter during the earliest stage.
 
-The MAX BUY and related launch mechanics are part of that structure.
+The MAX BUY, initial Max Wallet and related launch mechanics are part of that structure.
 
 > **The Pool opens the door.**
 >
@@ -384,9 +424,9 @@ The MAX BUY and related launch mechanics are part of that structure.
 
 Treasury mechanics are already defined within the SOLUM architecture.
 
-The definitive operational wallets have not yet been created.
+The definitive Treasury and operational wallet addresses have not yet been created.
 
-Clean wallets will be created specifically for their intended roles before Genesis.
+New wallets will be created specifically for their intended roles before Genesis.
 
 Genesis does not depend on Treasury funding.
 
@@ -396,7 +436,20 @@ The Human team can continue working even if meaningful Treasury resources never 
 
 If real Zipvilization activity eventually generates Treasury resources, those resources are intended to be reinvested into the continued development of the project.
 
-That may include infrastructure, technology, development, the Zips, SolumTools, SolumWorld, SolumView and future needs that do not yet exist.
+That may include:
+
+- development,
+- infrastructure,
+- technology,
+- the Zips,
+- SolumTools,
+- SolumWorld,
+- SolumView,
+- and future needs that do not yet exist.
+
+> **If Zipvilization grows, its own activity can help fund its future development.**
+
+And:
 
 > **Funding can expand what we can build.**
 >
@@ -414,6 +467,16 @@ Its hierarchy, dimensions, relationships and maturity rules are part of the cano
 
 **Farm → City → State → Kingdom**
 
+The canonical territorial scales are:
+
+**Farm — 8 m²**
+
+**City — 256 m²**
+
+**State — 8,192 m²**
+
+**Kingdom — 262,144 m²**
+
 These rules are documented in the Atlas.
 
 They are not placeholders for a future territorial model.
@@ -426,6 +489,10 @@ The instances do not.
 
 They can only emerge from real Zipvilization state after Genesis.
 
+> **Capacity ≠ Maturity**
+
+Territorial scale and biological development remain separate dimensions of the system.
+
 ---
 
 # Time and Maturity
@@ -435,6 +502,20 @@ They can only emerge from real Zipvilization state after Genesis.
 The relationship between blockchain blocks, biological cycles and territorial maturity is closed.
 
 The mathematical model is part of the canonical core.
+
+The fundamental biological cycle is:
+
+> **1 cycle = 65,536 blocks**
+
+The canonical maturity milestones are:
+
+**Farm — 524,288 blocks**
+
+**City — 2,097,152 blocks**
+
+**State — 4,194,304 blocks**
+
+**Kingdom — 8,388,608 blocks**
 
 The clock is defined.
 
@@ -456,9 +537,17 @@ The relationship is canonical:
 
 > **SOLUM held by the Pool → Dormant Land**
 
-Dormant Land remains territory with the possibility of future colonization.
+Dormant Land remains part of the finite territorial substrate.
 
-This relationship is part of the core interpretation of Zipvilization.
+It retains the possibility of future colonization while the corresponding SOLUM remains available through the Pool.
+
+This relationship is part of the canonical interpretation of Zipvilization.
+
+There is currently no official Dormant Land state because the official SOLUM / ETH Pool does not yet exist.
+
+The rule is defined.
+
+The live instance is not.
 
 ---
 
@@ -474,35 +563,15 @@ Burn removes SOLUM from future circulation.
 
 Inside Zipvilization, that state becomes Permanent Nature.
 
-Future colonization of that territory becomes impossible.
+Future colonization of that Territory becomes impossible.
 
-This relationship is part of the core.
+This relationship is part of the canonical core.
 
----
+There is currently no official Permanent Nature generated by live SOLUM activity because official SOLUM has not yet been deployed.
 
-# SolumWorld
+The rule is defined.
 
-**STATUS: ARCHITECTURE DEFINED / DATA-DEPENDENT**
-
-SolumWorld is the canonical world-state and coherence layer of Zipvilization.
-
-Its role is to determine what valid world state exists from canonical inputs and rules.
-
-Different SolumWorld architectures have already been studied.
-
-Simpler architectures are expected to be functional under lower data and activity requirements.
-
-The definitive infrastructure should not be selected before we know what the real world requires.
-
-If activity and data exceed certain thresholds, dedicated infrastructure such as private VPS systems may become appropriate.
-
-That decision will be based on real requirements rather than premature infrastructure assumptions.
-
-The frontend also remains open.
-
-Our designs evolve quickly.
-
-SolumWorld will evolve with them.
+The live state is not.
 
 ---
 
@@ -512,57 +581,169 @@ SolumWorld will evolve with them.
 
 SolumTools is not merely a concept.
 
-Its backend is functional.
+A functional backend exists.
 
-A basic backend version 1.0 exists, and development has progressed toward a more developed 1.5 deployment architecture.
+Development has progressed through backend versions and architecture work while the definitive public frontend remains an open area of development.
 
-The principal open area is currently the definitive frontend.
+Its role is now clearly defined.
 
-Within the documented architecture, SolumTools observes and exposes valid state derived from the underlying system.
+SolumTools reads relevant:
 
-Before Genesis, it can be developed and tested.
+- blockchain state,
+- contract state,
+- Pool state,
+- balances,
+- transfers,
+- burn,
+- block progression,
+- and other valid inputs.
 
-After Genesis, it can begin doing what it was fundamentally created to do:
+It then applies canonical Zipvilization rules and translates technical state into deterministic Zipvilization state.
 
-**observe a real Zipvilization.**
+Examples include:
+
+**Holder → Colonist**
+
+**SOLUM balance → Territory**
+
+**Pool-held SOLUM → Dormant Land**
+
+**Burned SOLUM → Permanent Nature**
+
+**Block progression → Time**
+
+**Territory + Time → Developmental state**
+
+Before Genesis, SolumTools can be developed and tested using development environments and test data.
+
+After Genesis, it can begin translating actual official Zipvilization state.
+
+> **SolumTools translates the data.**
+
+It does not create that state.
+
+And it does not need to invent what the data does not support.
+
+---
+
+# SolumWorld
+
+**STATUS: ARCHITECTURE DEFINED / IMPLEMENTATION EVOLVING / DATA-DEPENDENT**
+
+SolumWorld is the **world-scale graphical representation of Zipvilization**.
+
+Its role is not to determine canonical world state.
+
+Its role is to consume valid state translated through SolumTools and represent that state graphically at broad world scale.
+
+Conceptually, SolumWorld is a navigable, satellite-like view of Zipvilization.
+
+It can ultimately allow Humans to explore:
+
+- Dormant Land,
+- Permanent Nature,
+- colonized Territory,
+- Farms,
+- Cities,
+- States,
+- Kingdoms,
+- territorial distribution,
+- development,
+- and other valid large-scale consequences of real state.
+
+Different SolumWorld architectures and graphical approaches have already been studied.
+
+The definitive implementation can evolve as the requirements of the real world become clearer.
+
+Its infrastructure should follow actual needs rather than imagined scale.
+
+If future activity and data require dedicated infrastructure, systems such as private VPS infrastructure may become appropriate.
+
+That decision remains open.
+
+The architectural responsibility does not.
+
+> **SolumWorld shows the world.**
+
+SolumWorld may creatively represent valid state.
+
+It must not invent canonical state.
 
 ---
 
 # SolumView
 
-**STATUS: ARCHITECTURE COMPLETE / IMPLEMENTATION PENDING**
+**STATUS: ARCHITECTURE DEFINED / IMPLEMENTATION PENDING**
 
-SolumView is primarily the visual and UX layer of Zipvilization.
+SolumView is the **detailed territorial exploration layer of Zipvilization**.
 
-Its architecture is defined.
+It begins where broad world-scale exploration through SolumWorld reaches its useful limit.
 
-Its implementation deliberately follows valid world state because SolumView should represent that state rather than invent it.
+Its purpose is to let Humans enter individual Colonists' Territories and progressively move deeper.
 
-The canonical relationship is:
+Conceptually:
 
-**Blockchain records.**
-
-↓
-
-**SolumWorld determines.**
+**WORLD**
 
 ↓
 
-**SolumTools observes and exposes.**
+**COLONIST**
 
-**SolumView renders.**
+↓
 
-SolumTools and SolumView perform different functions around valid state.
+**TERRITORY**
 
-SolumTools makes that state observable and measurable.
+↓
 
-SolumView makes it visible and explorable.
+**INTERNAL STRUCTURE**
 
-SolumView is expected to be significantly more frontend- and UX-oriented than backend-intensive.
+↓
 
-> **State first.**
+**FARMS**
+
+↓
+
+**ZIPS**
+
+At its maximum future development, SolumView can become a live window into a Colonist's Territory, allowing Humans to observe Farms and Zips as valid underlying world state changes.
+
+That maximum implementation does not exist yet.
+
+The architecture and direction do.
+
+SolumView does not determine Territory, maturity, population or history.
+
+It consumes valid translated state and represents it at increasing levels of local detail.
+
+> **SolumView lets us enter it.**
+
+The relationship between the three systems is therefore:
+
+**BLOCKCHAIN + CONTRACT + POOL + BLOCK PROGRESSION**
+
+↓
+
+**CANONICAL RULES**
+
+↓
+
+**SOLUMTOOLS — DATA**
+
+↓
+
+**SOLUMWORLD — WORLD**
+
+↓
+
+**SOLUMVIEW — INSIDE**
+
+Or more simply:
+
+> **SolumTools translates the data.**
 >
-> **Image second.**
+> **SolumWorld shows the world.**
+>
+> **SolumView lets us enter it.**
 
 ---
 
@@ -574,17 +755,25 @@ Different infrastructure configurations are being tested.
 
 No definitive private-server architecture has been selected.
 
-More importantly, Zipvilization does not require that infrastructure in order to be born.
+More importantly, Zipvilization does not require the maximum implementation of SolumTools, SolumWorld or SolumView in order to be born.
 
-Genesis can occur through the deployment and activation of the fundamental on-chain system.
+Genesis can occur through deployment and activation of the fundamental on-chain system.
 
-SolumWorld, SolumTools and SolumView are layers of canonical interpretation, observation, analysis and representation built around that underlying state.
+The blockchain can record official state and history independently of the graphical and observational infrastructure built around it.
+
+SolumTools translates that state.
+
+SolumWorld can represent it at world scale.
+
+SolumView can eventually expose it at increasingly detailed territorial scale.
+
+If one of those interfaces is temporarily unavailable, the underlying blockchain history does not cease to exist.
 
 > **Zipvilization can emerge from Genesis alone.**
 
-Infrastructure can improve how deeply we observe, interpret and experience it.
+Infrastructure determines how deeply and effectively we can translate, observe and experience that world.
 
-Infrastructure does not create its underlying history.
+It does not create the underlying history.
 
 ---
 
@@ -738,7 +927,7 @@ That is intentional.
 
 Some technical information is restricted because its publication could affect the integrity of the project.
 
-At the same time, the public Atlas has been deliberately expanded so that documentation which does not compromise project integrity remains accessible.
+At the same time, the public Atlas has been deliberately expanded so that information which does not compromise project integrity remains accessible.
 
 The principle is simple:
 
@@ -774,11 +963,15 @@ There is currently:
 
 **No live Kingdoms.**
 
+**No live Dormant Land derived from an official Pool.**
+
+**No live Permanent Nature derived from official SOLUM burn.**
+
 **No live on-chain Zip population.**
 
 And therefore:
 
-**No Zipvilization economic history yet exists.**
+**No official Zipvilization economic history yet exists.**
 
 If something claims otherwise before the official Genesis, it is not the official Zipvilization state.
 
@@ -826,7 +1019,7 @@ Not capital.
 
 **Participation.**
 
-Zipvilization currently needs Colonists, holders and independent Humans willing to participate when its history begins.
+Zipvilization currently needs Colonists and independent Humans willing to participate when its history begins.
 
 We are deliberately making that participation economically accessible.
 
@@ -837,6 +1030,12 @@ In a very real sense, we are giving that work away.
 What we want in return is something more useful to the experiment:
 
 **Participation.**
+
+> **The first Colonists do not fund Zipvilization.**
+>
+> **They bring it to life.**
+
+And:
 
 > **We want to see Zipvilization born.**
 >
@@ -854,7 +1053,7 @@ A backend can be functional.
 
 An architecture can be defined.
 
-A TGE can be ready.
+A TGE can be technically ready.
 
 Other things cannot honestly be reduced to percentages.
 
@@ -974,21 +1173,19 @@ And we intend to keep working.
 
 **COLONISTS**
 
-The contract is ready.
+The Smart Contract code is ready.
 
-The core is ready.
-
-The territorial system is ready.
+The territorial core is ready.
 
 The rules of Time are ready.
 
 The Atlas is live.
 
-SolumTools is being built.
+SolumTools has a functional backend and continues to develop.
 
-SolumWorld is being developed.
+SolumWorld has a defined architecture and its implementation can evolve with real requirements.
 
-SolumView is waiting downstream.
+SolumView has a defined architecture and its implementation remains ahead.
 
 Genesis is technically possible.
 
@@ -1027,6 +1224,12 @@ ACTIVE / ORGANIC GROWTH
 **Whitelist**  
 ACTIVE / FINAL VALIDATION PENDING
 
+**Fair Access**  
+CORE COMPLETE
+
+**Treasury**  
+MECHANICS DEFINED / OPERATIONAL WALLETS PENDING
+
 **Territory**  
 CORE COMPLETE / 10/10
 
@@ -1043,10 +1246,13 @@ CORE COMPLETE / 10/10
 CLOSED ALPHA / FUNCTIONAL BACKEND
 
 **SolumWorld**  
-ARCHITECTURE DEFINED / DATA-DEPENDENT
+ARCHITECTURE DEFINED / IMPLEMENTATION EVOLVING / DATA-DEPENDENT
 
 **SolumView**  
-ARCHITECTURE COMPLETE / IMPLEMENTATION PENDING
+ARCHITECTURE DEFINED / IMPLEMENTATION PENDING
+
+**Infrastructure**  
+EXPERIMENTAL / NOT REQUIRED FOR GENESIS
 
 **Zips**  
 IDENTITY ESTABLISHED / WAITING FOR GENESIS
@@ -1059,6 +1265,9 @@ CONCEPTUALLY CLOSED / 10/10
 
 **Trinomial**  
 CONCEPTUALLY ESTABLISHED / EVOLVING WITH TECHNOLOGY
+
+**Artificial Intelligence**  
+ACTIVE / RAPIDLY EVOLVING
 
 **Repository**  
 PRIVATE / INTENTIONALLY RESTRICTED
@@ -1082,9 +1291,9 @@ This page describes the current state of Zipvilization.
 
 It should be read as a temporal complement to the rest of the Atlas.
 
-The Atlas explains what Zipvilization is.
-
-**Status explains what is true right now.**
+> **The Atlas explains what Zipvilization is.**
+>
+> **Status explains what is true right now.**
 
 ---
 
@@ -1102,7 +1311,7 @@ The Atlas explains what Zipvilization is.
 
 **A civilization starting from zero.**
 
-The system is ready.
+The foundations are ready.
 
 The history is not.
 
