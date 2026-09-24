@@ -6,8 +6,8 @@ nav_order: 8
 has_children: true
 description: >
   SolumWorld is the world-scale graphical representation of Zipvilization.
-  It transforms valid data derived from blockchain state and canonical rules
-  into a coherent visual world without inventing unsupported state.
+  It transforms valid state translated by SolumTools into a coherent,
+  navigable world without inventing unsupported state.
 permalink: /world/solumworld/
 ---
 
@@ -21,23 +21,25 @@ That is the role of **SolumWorld**.
 
 SolumWorld is the **world-scale graphical representation of Zipvilization**.
 
-It takes valid information derived from blockchain state and canonical rules and turns it into a coherent visual representation of the world.
-
-Territory becomes visible.
+It takes valid Zipvilization state translated by SolumTools and turns it into a coherent visual world.
 
 Dormant Land becomes visible.
 
 Permanent Nature becomes visible.
 
+Colonized Territory becomes visible.
+
 Farms, Cities, States and Kingdoms can become visible when their underlying conditions exist.
 
-Development can become visible.
+Development changes the landscape.
 
-Change can become visible.
+History leaves visible consequences.
 
-> **SolumTools tells us what is happening.**
+And Humans can move across that world and explore it.
+
+> **SolumTools translates the data.**
 >
-> **SolumWorld shows us the world those data describe.**
+> **SolumWorld shows the world.**
 
 → **[Explore SolumTools](/world/solumtools/)**  
 → **[Continue to SolumView](/world/solumview/)**
@@ -46,25 +48,71 @@ Change can become visible.
 
 # From Data to World
 
-The relationship is simple:
+The relationship is:
 
-**BLOCKCHAIN STATE + CANONICAL RULES**  
+**BLOCKCHAIN + CONTRACT + POOL + BLOCK PROGRESSION**  
 ↓  
-**SOLUMTOOLS** — Data / observation / translation  
+**CANONICAL RULES**  
 ↓  
-**SOLUMWORLD** — World-scale graphical representation  
+**SOLUMTOOLS** — Data / derivation / translation  
 ↓  
-**SOLUMVIEW** — Colonist and Territory-scale exploration
+**SOLUMWORLD** — Broad graphical world  
+↓  
+**SOLUMVIEW** — Detailed exploration inside Territory
 
 In simple terms:
 
-> **SolumTools = Data**  
-> **SolumWorld = World**  
-> **SolumView = Zoom**
+> **SolumTools = Data**
+>
+> **SolumWorld = World**
+>
+> **SolumView = Inside**
 
 SolumWorld occupies the middle layer.
 
-It is where observable Zipvilization state becomes a world that Humans can see and explore.
+It is where translated Zipvilization state becomes a world that Humans can see, navigate and explore.
+
+---
+
+# A World Seen From Above
+
+The easiest way to understand SolumWorld is as a broad, satellite-like view of Zipvilization.
+
+Not necessarily a literal satellite image.
+
+A **scale of observation**.
+
+From SolumWorld, a Human should be able to move across Zipvilization and understand the large-scale condition of the world.
+
+Where is Territory colonized?
+
+Where does Dormant Land remain?
+
+Where has Permanent Nature appeared?
+
+Where are Farms?
+
+Where are Cities?
+
+Where are States?
+
+Where are Kingdoms?
+
+How is the world changing?
+
+The user can move.
+
+Explore.
+
+Approach regions.
+
+Zoom far enough to understand their territorial structure.
+
+But SolumWorld deliberately stops before the deepest level of detail.
+
+> **SolumWorld lets us explore Zipvilization from the world scale.**
+
+When we want to enter a specific Colonist's Territory and continue deeper, SolumView takes over.
 
 ---
 
@@ -74,13 +122,15 @@ SolumWorld is graphical.
 
 That does not make it fictional.
 
-Its visual representation must follow valid underlying state.
+Its representation must follow valid underlying state.
 
 If the data supports a Farm, SolumWorld may represent a Farm.
 
 If the data supports a developing City, SolumWorld may represent a developing City.
 
-If Solum has become Permanent Nature, SolumWorld may represent Permanent Nature.
+If SOLUM has become Permanent Nature, SolumWorld may represent Permanent Nature.
+
+If Territory remains Dormant Land, SolumWorld must preserve that condition.
 
 If something does not exist in the underlying state, SolumWorld must not present it as if it does.
 
@@ -94,21 +144,19 @@ Never:
 >
 > **Invented state second.**
 
-This distinction is fundamental.
-
 ---
 
 # A Graphical World, Not a Dashboard
 
-SolumWorld is not intended to be another blockchain dashboard.
+SolumWorld is not another blockchain dashboard.
 
-SolumTools already provides the observational and analytical layer.
+SolumTools already provides the data translation layer.
 
 SolumWorld has a different purpose.
 
 Its objective is to allow a Human to look at Zipvilization and perceive:
 
-**a world.**
+> **a world**
 
 Not merely:
 
@@ -117,13 +165,14 @@ Not merely:
 - tables,
 - counters,
 - percentages,
-- or transaction lists.
+- transaction lists,
+- or block numbers.
 
 Those data remain underneath.
 
-SolumWorld translates their valid world meaning into graphical form.
+SolumWorld gives their valid world meaning graphical form.
 
-> **You do not only look at the data.**
+> **You do not look at the data.**
 >
 > **You look at what the data has become.**
 
@@ -131,24 +180,24 @@ SolumWorld translates their valid world meaning into graphical form.
 
 # What SolumWorld Can Show
 
-SolumWorld can graphically represent states that are supported by canonical rules and observable data.
+At broad world scale, SolumWorld can graphically represent states supported by canonical rules and translated data.
 
 These may include:
 
-- active Territory,
 - Dormant Land,
 - Permanent Nature,
+- colonized Territory,
 - Farms,
 - Cities,
 - States,
 - Kingdoms,
+- territorial distribution,
 - developmental state,
 - maturity,
-- Zip-related world state,
-- territorial distribution,
-- and changes produced by real activity.
+- large-scale biological development,
+- and visible consequences of real activity.
 
-The exact visual language may evolve.
+The exact graphical language may evolve.
 
 The underlying state must not.
 
@@ -156,9 +205,11 @@ The underlying state must not.
 
 # Territory Becomes Geography
 
-SOLUM represents territorial capacity.
+SOLUM provides territorial capacity.
 
-SolumWorld gives that territorial structure a graphical expression.
+SolumTools translates that capacity into Zipvilization state.
+
+SolumWorld gives that state geographical expression.
 
 The canonical hierarchy remains:
 
@@ -173,7 +224,12 @@ SolumWorld does not redefine those thresholds.
 
 It represents their consequences.
 
-A world-scale view may therefore allow Humans to perceive how Territory is distributed and how larger territorial structures emerge.
+A broad world view can therefore allow Humans to perceive:
+
+- how Territory is distributed,
+- where Colonists have established territorial presence,
+- how larger territorial structures appear,
+- and how the geography of Zipvilization changes over time.
 
 → **[Explore Territories](/world/territories/)**
 
@@ -181,17 +237,25 @@ A world-scale view may therefore allow Humans to perceive how Territory is distr
 
 # Dormant Land Becomes Visible
 
-Pool-held Solum represents:
+SOLUM held by the Pool represents:
 
 > **Dormant Land**
 
-SolumWorld can make that state visible as part of the world.
+SolumWorld makes that condition part of the visible world.
 
-Dormant Land is not empty because a designer chose to leave an area blank.
+Dormant Land is not empty because a designer decided to leave an area blank.
 
-It is dormant because the underlying state says that the corresponding Solum remains in the Pool.
+It is dormant because the corresponding SOLUM remains in the Pool.
 
-Its graphical representation follows that fact.
+That distinction matters.
+
+Dormant Land remains part of the finite territorial substrate.
+
+Its condition may change if the underlying SOLUM moves into Colonist control.
+
+> **Dormant Land is not decorative emptiness.**
+>
+> **It is measurable world state.**
 
 → **[Explore the Pool](/smart-contract/pool/)**
 
@@ -199,23 +263,51 @@ Its graphical representation follows that fact.
 
 # Permanent Nature Becomes Visible
 
-Burned Solum represents:
+Burned SOLUM represents:
 
 > **Permanent Nature**
 
-This state is fundamentally different from Dormant Land.
+This condition is fundamentally different from Dormant Land.
 
-Dormant Land may still become colonized.
+Dormant Land may later become colonized.
 
 Permanent Nature cannot.
 
-SolumWorld should preserve that difference visually.
+SolumWorld must preserve that difference visually.
 
-Two areas may both be outside active Colonist control while representing completely different futures.
+Two areas may both sit outside active Colonist control while representing completely different territorial conditions.
 
-The world must make meaningful distinctions visible without changing their meaning.
+**Dormant Land**
+
+may still enter colonization.
+
+**Permanent Nature**
+
+has permanently left that possibility.
+
+> **The world should make meaningful differences visible without changing their meaning.**
 
 → **[Understand Burn](/smart-contract/burn/)**
+
+---
+
+# Colonized Territory Becomes Visible
+
+When SOLUM moves into Colonist control, the territorial condition of Zipvilization changes.
+
+SolumTools translates that blockchain state.
+
+SolumWorld makes its geographical consequence visible.
+
+The world can therefore progressively reveal where colonization exists and how it is distributed.
+
+This does not require fictional continents, arbitrary borders or invented ownership.
+
+The graphical world follows valid territorial state.
+
+> **Colonization becomes geography because the underlying state changed first.**
+
+→ **[Discover Colonists](/world/colonists/)**
 
 ---
 
@@ -225,14 +317,15 @@ Territorial scale and maturity are different.
 
 A Colonist may have enough Territory for a City while that City is still developing.
 
-SolumWorld should be capable of representing that distinction.
+SolumWorld should be capable of communicating that distinction at world scale.
 
 For example:
 
-> **Territory: City**  
+> **Territory: City**
+>
 > **Maturity: Developing**
 
-may correspond to a graphical City that visibly reflects incomplete development.
+may correspond to a graphical City whose world-scale appearance reflects incomplete development.
 
 But the graphical design cannot determine maturity.
 
@@ -240,41 +333,96 @@ The underlying state determines whether the City is developing or mature.
 
 The image follows.
 
+> **Time changes the state.**
+>
+> **SolumWorld shows the consequence.**
+
 → **[Understand Time](/world/time/)**
 
 ---
 
-# Zips Belong to the World
+# Biological Development at World Scale
 
 Zips are the native population of Zipvilization.
 
-Their existence and developmental state are governed by canonical relationships.
+Their existence and development follow canonical relationships.
 
-SolumWorld can make their presence part of the graphical world when the underlying state supports it.
+At broad scale, SolumWorld may reflect the consequences of that biological state.
 
-But visual population must not become fictional population.
+A developing Territory should not necessarily appear identical to a mature one.
 
-If the system derives eight Zips, a graphical scene cannot imply hundreds of canonical Zips simply because it looks more alive.
+An inhabited world should be capable of becoming visibly different from an undeveloped world.
 
-Visual composition may communicate the world.
+But SolumWorld is not intended to be the primary interface for observing individual Zips.
 
-It must not falsify measurable state.
+That belongs to the deeper level of exploration.
 
-→ **[Discover Zips](/world/zips/)**
+> **SolumWorld can show the world shaped by biological development.**
+>
+> **SolumView can take us inside that development.**
+
+→ **[Discover Zips](/world/zips/)**  
+→ **[Explore SolumView](/world/solumview/)**
+
+---
+
+# Broad Detail, Not Infinite Detail
+
+SolumWorld is navigable.
+
+It can allow movement across the world.
+
+It can allow zoom.
+
+It can reveal progressively more geographical structure.
+
+But its purpose is not infinite magnification.
+
+At some point, broad world exploration becomes local territorial exploration.
+
+That boundary belongs to SolumView.
+
+Conceptually:
+
+**ZIPVILIZATION**  
+↓  
+**WORLD REGIONS**  
+↓  
+**TERRITORIAL STRUCTURES**  
+↓  
+**SOLUMWORLD DETAIL LIMIT**  
+↓  
+**SOLUMVIEW**  
+↓  
+**COLONIST TERRITORY**  
+↓  
+**INTERNAL STRUCTURE**  
+↓  
+**FARMS**  
+↓  
+**ZIPS**
+
+This boundary keeps both systems useful.
+
+SolumWorld does not need to become everything.
+
+SolumView does not need to reproduce the entire world.
 
 ---
 
 # Representation Is Not Authority
 
-SolumWorld does not decide how much Solum a Colonist controls.
+SolumWorld does not decide how much SOLUM a Colonist controls.
 
 It does not decide whether Territory qualifies as a Farm or City.
 
 It does not decide whether a Territory is mature.
 
-It does not decide whether Solum is Dormant Land or Permanent Nature.
+It does not decide whether SOLUM is Dormant Land or Permanent Nature.
 
-Those relationships come from blockchain state and canonical rules.
+It does not decide how many Zips exist.
+
+Those relationships come from blockchain state and canonical rules and are translated by SolumTools.
 
 SolumWorld represents them.
 
@@ -302,29 +450,51 @@ Buildings.
 
 Vegetation.
 
-Characters.
+Atmosphere.
 
 Animation.
-
-Atmosphere.
 
 Those elements may evolve creatively.
 
 But any visual element that communicates canonical state must remain consistent with the data.
 
-A mature Territory cannot be shown as immature if the visualization is claiming to represent maturity.
+A Mature Territory cannot be shown as immature if the visualization claims to communicate maturity.
 
 Permanent Nature cannot appear colonizable.
 
-Dormant Land cannot be represented as permanently inaccessible.
+Dormant Land cannot appear permanently inaccessible.
 
-A Kingdom cannot appear canonically because it would make the map more impressive.
+A Kingdom cannot appear canonically merely because it makes the world more impressive.
 
 The distinction is:
 
-**Visual expression can be creative.**
+> **Visual expression can be creative.**
+>
+> **Canonical meaning cannot be invented.**
 
-**Canonical meaning cannot be invented.**
+---
+
+# Geography Can Be Rich Without Becoming Fictional
+
+A graphical world requires visual decisions that are not themselves blockchain variables.
+
+A mountain texture does not need its own smart-contract event.
+
+Lighting does not need to be canonical.
+
+Camera movement does not need to exist on-chain.
+
+Atmosphere does not need to be stored in the contract.
+
+The important boundary is whether a visual element communicates factual world state.
+
+Creative presentation can enrich the experience.
+
+It cannot create unsupported canonical facts.
+
+> **The representation may be richer than the raw data.**
+>
+> **Its factual claims cannot be.**
 
 ---
 
@@ -340,11 +510,13 @@ Territory moves.
 
 Thresholds are crossed.
 
+Time progresses.
+
 Zips develop.
 
 Territories mature.
 
-Solum becomes Permanent Nature.
+SOLUM becomes Permanent Nature.
 
 Dormant Land changes.
 
@@ -352,11 +524,41 @@ History accumulates.
 
 SolumWorld can progressively make those consequences visible.
 
-A world at Genesis should not look identical to the same world after extensive activity.
+A world at Genesis should not necessarily look identical to the same world after extensive activity.
 
-> **The graphical world should be capable of carrying the visible consequences of history.**
+> **The graphical world should carry the visible consequences of history.**
 
 → **[Understand Time](/world/time/)**
+
+---
+
+# A World in Motion
+
+SolumWorld should not only answer:
+
+> **Where is everything?**
+
+It should increasingly help Humans perceive:
+
+> **What is changing?**
+
+The world can evolve as valid state changes.
+
+A region becomes colonized.
+
+Dormant Land decreases.
+
+Permanent Nature expands.
+
+A Farm matures.
+
+A City develops.
+
+Larger structures appear.
+
+The visible world changes because the underlying world changed.
+
+This creates a graphical history without requiring a scripted one.
 
 ---
 
@@ -364,9 +566,9 @@ A world at Genesis should not look identical to the same world after extensive a
 
 The distinction is fundamental.
 
-**SolumTools is the data and observation layer.**
+**SolumTools is the data translation layer.**
 
-It answers questions such as:
+It can answer questions such as:
 
 - How many Colonists exist?
 - How much Territory is controlled?
@@ -374,6 +576,7 @@ It answers questions such as:
 - How much Permanent Nature exists?
 - Which territorial thresholds have been reached?
 - What maturity states exist?
+- How many Zips exist?
 - What changed?
 
 **SolumWorld is the graphical world layer.**
@@ -382,9 +585,9 @@ It asks:
 
 > **What does Zipvilization look like right now?**
 
-SolumTools makes the state understandable.
+SolumTools translates the state.
 
-SolumWorld makes the world visible.
+SolumWorld makes that state visible as a world.
 
 → **[Explore SolumTools](/world/solumtools/)**
 
@@ -392,29 +595,43 @@ SolumWorld makes the world visible.
 
 # SolumWorld Is Not SolumView
 
-Both are visual.
+Both are graphical.
+
+Both can be navigable.
+
+Both represent the same underlying Zipvilization.
 
 But they operate at different scales.
 
-**SolumWorld** is the global representation of Zipvilization.
+**SolumWorld**
 
-**SolumView** is the closer observational layer used to inspect Colonists and their Territories.
+is the broad graphical representation of Zipvilization.
 
-The movement is conceptually:
+It allows Humans to move across the world, explore its geography and understand large-scale territorial state.
+
+**SolumView**
+
+begins when we want to enter a specific Colonist's Territory and continue deeper.
+
+The transition is conceptually:
 
 **WORLD**  
 ↓  
+**REGION**  
+↓  
 **TERRITORY**  
 ↓  
-**COLONIST**  
+**ENTER**  
 ↓  
-**DETAIL**
+**SOLUMVIEW**  
+↓  
+**INTERNAL TERRITORY**  
+↓  
+**FARMS**  
+↓  
+**ZIPS**
 
-SolumWorld lets us see the civilization-scale environment.
-
-SolumView lets us move closer.
-
-> **SolumWorld shows the world.**
+> **SolumWorld lets us explore Zipvilization.**
 >
 > **SolumView lets us enter it.**
 
@@ -422,43 +639,73 @@ SolumView lets us move closer.
 
 ---
 
-# World → Territory → Colonist
+# From World to Territory
 
-A useful way to understand the visual architecture is through scale.
+A useful way to understand the graphical architecture is through scale.
 
 ## World
 
 At the highest level, we observe Zipvilization globally.
 
-Territorial distribution.
-
 Dormant Land.
 
 Permanent Nature.
+
+Colonized Territory.
 
 Large territorial structures.
 
 Global development.
 
+## Region
+
+Moving closer reveals the distribution and relationship of territorial structures.
+
+Kingdoms.
+
+States.
+
+Cities.
+
+Farms where scale allows them to remain meaningful.
+
 ## Territory
 
-As observation moves closer, individual territorial structures become more relevant.
+At some point, the question changes.
 
-Kingdom.
+We are no longer asking:
 
-State.
+> **What does this part of Zipvilization look like?**
 
-City.
+We are asking:
 
-Farm.
+> **What is happening inside this Colonist's Territory?**
 
-Developmental state.
+That is the natural transition from SolumWorld to SolumView.
 
-## Colonist
+---
 
-At closer scale, the Human participant behind a territorial position becomes observable through their Zipvilization identity and state.
+# One World, Two Scales of Exploration
 
-This transition leads naturally from SolumWorld into SolumView.
+SolumWorld and SolumView do not represent different worlds.
+
+They represent different observational scales of the same world.
+
+A City visible from SolumWorld should remain the same City when entered through SolumView.
+
+Its Colonist does not change.
+
+Its Territory does not change.
+
+Its maturity does not change.
+
+Its history does not change.
+
+Only the level of detail changes.
+
+> **One world.**
+>
+> **Different scales of observation.**
 
 ---
 
@@ -501,15 +748,17 @@ But AI does not receive permission to invent canonical state.
 
 The correct relationship remains:
 
-**REAL STATE**  
+**REAL BLOCKCHAIN STATE**  
 ↓  
 **CANONICAL RULES**  
 ↓  
-**VALID DATA**  
+**SOLUMTOOLS**  
 ↓  
-**GRAPHICAL REPRESENTATION**
+**VALID ZIPVILIZATION STATE**  
+↓  
+**SOLUMWORLD**
 
-AI may assist with the final representation.
+AI may assist with representation.
 
 It cannot reverse the chain.
 
@@ -525,15 +774,17 @@ If data is missing, the graphical system should preserve uncertainty rather than
 
 # One World, Different Visual Systems
 
-The visual implementation of SolumWorld may evolve over time.
+The implementation of SolumWorld may evolve over time.
 
 Different rendering technologies may be tested.
 
 Different graphical styles may appear.
 
+Different levels of detail may become possible.
+
 Different infrastructure may eventually be required.
 
-The world may become more detailed as Zipvilization grows.
+The world may become increasingly sophisticated as Zipvilization grows.
 
 None of those implementation choices should redefine the canonical state underneath them.
 
@@ -551,13 +802,13 @@ The definitive infrastructure for SolumWorld does not need to be selected before
 
 A relatively simple world may be representable with relatively simple infrastructure.
 
-A world containing large amounts of historical, spatial and real-time information may eventually require dedicated systems.
+A world containing large amounts of historical, spatial and near-real-time information may eventually require dedicated systems.
 
 The correct architecture depends on actual scale.
 
 Not imagined scale.
 
-That means SolumWorld can evolve technically as the world itself becomes more complex.
+SolumWorld can therefore evolve technically as the world itself becomes more complex.
 
 > **Build for the world that exists.**
 >
@@ -567,21 +818,29 @@ That means SolumWorld can evolve technically as the world itself becomes more co
 
 # SolumWorld at Genesis
 
-Genesis does not require a fully developed SolumWorld frontend in order for Zipvilization to begin.
+Genesis does not require the maximum development of SolumWorld for Zipvilization to begin.
 
 The underlying on-chain state can exist independently.
 
-SolumTools can observe it.
+SolumTools can translate it.
 
 SolumWorld can progressively represent it.
 
 At the beginning, the world itself will also be beginning.
 
-That makes Genesis a natural starting point for the visual history of Zipvilization.
+Much of its Territory may remain Dormant Land.
 
-> **Before Genesis, we can design the world.**
+Colonization will only be starting.
+
+Biological development will only be starting.
+
+History will only be starting.
+
+That makes Genesis a natural beginning for the graphical history of Zipvilization.
+
+> **Before Genesis, we can design how the world is represented.**
 >
-> **After Genesis, the data begins telling us what world actually exists.**
+> **After Genesis, actual state begins determining what world there is to represent.**
 
 ---
 
@@ -593,7 +852,7 @@ Then interactions begin.
 
 Colonists appear.
 
-Territory moves.
+Territory changes.
 
 Time progresses.
 
@@ -613,6 +872,10 @@ Not because a script decided what the story should be.
 
 Because something actually happened.
 
+> **The data creates the possibility of a story.**
+>
+> **History creates the world we eventually see.**
+
 ---
 
 # SolumWorld at a Glance
@@ -621,15 +884,27 @@ SolumWorld is:
 
 **WORLD-SCALE**
 
-It represents Zipvilization globally.
+It represents Zipvilization broadly.
 
 **GRAPHICAL**
 
-It transforms valid state into a visible world.
+It transforms valid translated state into a visible world.
+
+**NAVIGABLE**
+
+Humans can move across and explore Zipvilization.
+
+**SATELLITE-LIKE IN SCALE**
+
+It provides broad geographical observation rather than unlimited local detail.
 
 **DATA-BOUND**
 
 Canonical meaning must follow real state and canonical rules.
+
+**LIMITED IN DEPTH**
+
+Detailed exploration inside a Colonist's Territory belongs to SolumView.
 
 **EVOLVING**
 
@@ -651,7 +926,7 @@ Its central question is:
 
 # Follow SolumWorld Through the Atlas
 
-### Where does the underlying data come from?
+### Where does the translated world data come from?
 
 → **[SolumTools](/world/solumtools/)**
 
@@ -659,7 +934,11 @@ Its central question is:
 
 → **[Territories](/world/territories/)**
 
-### What native population inhabits the world?
+### Who colonizes Territory?
+
+→ **[Colonists](/world/colonists/)**
+
+### What native population develops inside the world?
 
 → **[Zips](/world/zips/)**
 
@@ -675,7 +954,7 @@ Its central question is:
 
 → **[Burn](/smart-contract/burn/)**
 
-### Where can we inspect Colonists and Territories more closely?
+### Where do we move from broad world exploration into local Territory?
 
 → **[SolumView](/world/solumview/)**
 
@@ -687,7 +966,7 @@ Its central question is:
 
 → **[Smart Contract](/smart-contract/)**
 
-### Where is the deeper technical architecture documented?
+### Where is deeper technical architecture documented?
 
 → **[Repository](/repository/)**
 
@@ -699,27 +978,39 @@ Blockchain gives Zipvilization measurable state.
 
 Canonical rules give that state meaning.
 
-SolumTools makes that meaning observable.
+SolumTools translates that meaning into usable Zipvilization data.
 
 SolumWorld gives it geography.
 
-It allows a collection of balances, blocks, thresholds and irreversible events to become something Humans can perceive as a world.
+It allows balances, blocks, thresholds, Pool state and irreversible events to become something Humans can perceive as a world.
 
-Not an imagined world disconnected from the blockchain.
+A world they can move across.
+
+Explore.
+
+Observe from above.
+
+Watch change.
+
+And approach until broad geographical observation is no longer enough.
+
+At that boundary, SolumView begins.
+
+Not an imagined world disconnected from blockchain.
 
 Not a decorative map placed above the data.
 
-A graphical expression of what the data says Zipvilization has become.
+A graphical expression of what valid state says Zipvilization has become.
 
 **The Smart Contract executes.**
 
 **The blockchain records.**
 
-**SolumTools observes and translates.**
+**SolumTools translates.**
 
 **SolumWorld shows the world.**
 
-**SolumView lets us look closer.**
+**SolumView lets us enter it.**
 
 And as the underlying state changes,
 
