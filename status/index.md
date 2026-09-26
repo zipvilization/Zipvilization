@@ -28,11 +28,15 @@ The territorial system exists.
 
 The mathematical model of Time and maturity exists.
 
-SolumTools has a functional backend.
+The architecture of the dApp is defined.
 
-The architecture of SolumWorld is defined.
+SolumTools has a functional backend and a defined role as the data foundation of that experience.
 
-The architecture of SolumView is defined.
+SolumWorld has a defined role as the graphical representation of Solum and its real state.
+
+SolumView has a defined role as the dynamic experience inside individual Territories.
+
+The Chapters establish the foundational DNA through which Zipvilization can progressively develop.
 
 The Zips have an identity.
 
@@ -58,7 +62,7 @@ A concept can be completely defined without being implemented.
 
 A system can be built without being live.
 
-An architecture can be ready while its final infrastructure remains deliberately undecided.
+An architecture can be ready while its final implementation remains deliberately open.
 
 And some parts of Zipvilization are designed to continue evolving indefinitely.
 
@@ -67,13 +71,13 @@ For that reason, this page does not use a single percentage to describe the enti
 Instead, it distinguishes between four different states:
 
 **DEFINED**  
-The rules, architecture or identity are established.
+The rules, architecture, responsibility or identity are established.
 
 **BUILT**  
 A functional implementation exists.
 
 **LIVE**  
-The component is operating with real Zipvilization state.
+The component is operating with real official Zipvilization state.
 
 **EVOLVING**  
 The component exists conceptually or technically, but its expression is expected to continue developing.
@@ -116,6 +120,10 @@ NONE
 
 NONE
 
+**LIVE COLONIST ROLES**
+
+NONE
+
 **LIVE ZIPVILIZATION HISTORY**
 
 NOT STARTED
@@ -127,6 +135,10 @@ ACTIVE
 **GENESIS DATE**
 
 NOT SET
+
+**ATLAS**
+
+LIVE / V1 → V2 REMODEL IN PROGRESS
 
 Genesis is technically possible.
 
@@ -150,6 +162,8 @@ Before Genesis, we can define the conditions.
 
 After Genesis, real interaction begins creating consequences.
 
+Those consequences can accumulate into history.
+
 > **Zipvilization exists.**
 >
 > **Its history has not begun.**
@@ -160,55 +174,61 @@ Genesis is the boundary between those two states.
 
 # Documentation / Atlas
 
-**STATUS: LIVE / ADVANCED / CONTINUOUSLY EVOLVING**
+**STATUS: LIVE / V1 → V2 REMODEL IN PROGRESS**
 
 The public Atlas is live and operational.
 
-The current documentation represents the architecture, concepts, relationships and mechanics of Zipvilization at an advanced level.
+It contains advanced documentation of the architecture, concepts, relationships and mechanics of Zipvilization.
 
-Internally, we consider its current maturity approximately **9/10**.
+But the Atlas is currently undergoing a significant evolution.
 
-That does not mean that the remaining 1/10 is a fixed list of missing pages.
+Zipvilization did not originally begin as a website.
 
-Zipvilization continues to develop.
+It began as a technical repository and documentation system.
 
-New ideas appear.
+As the project developed, that documentation became the public Atlas.
 
-Technology changes.
+This preserved considerable technical depth, but it also meant that much of the information was originally structured from the perspective of architecture, backend logic and individual components rather than from the experience of the Human or Colonist trying to understand the complete system.
 
-Relationships become clearer.
+V2 addresses that.
 
-Language improves.
+The objective is not to simplify Zipvilization by removing depth.
 
-The documentation evolves with that process.
+It is to make that depth easier to understand and explore.
 
-The core and Horizonte are different.
+V2 is therefore connecting concepts that V1 often documented separately:
 
-Their fundamental principles are already established.
+- blockchain state,
+- SOLUM,
+- Solum,
+- Territory,
+- Time,
+- Colonists,
+- Zips,
+- SolumTools,
+- SolumWorld,
+- SolumView,
+- the dApp,
+- the Chapters,
+- history,
+- interaction,
+- and Horizonte.
 
----
+> **V1 defined the pieces.**
+>
+> **V2 connects the system.**
 
-## Why Does the Atlas Look Like This?
+The migration is being documented publicly.
 
-Zipvilization did not begin as a conventional website.
+→ [V1 → V2 Update](/update/)
 
-It began as a repository.
+During this process, some pages may temporarily reflect different stages of the transition.
 
-The Atlas is the result of turning that repository-based structure into a public, navigable knowledge system without removing its depth.
+That is expected.
 
-That is why the website deliberately prioritizes:
+The V2 remodel does not replace the canonical core.
 
-**Content over decoration.**
-
-**Relationships over visual effects.**
-
-**Precision over excessive simplification.**
-
-The more visual side of Zipvilization primarily lives through its social communication.
-
-The Atlas has another purpose.
-
-It exists to explain the system.
+It improves the way its relationships are documented and experienced.
 
 ---
 
@@ -228,11 +248,91 @@ Artificial Intelligence can follow its structure, concepts and contextual links 
 
 The links throughout the Atlas are part of its knowledge structure.
 
-When greater precision is required, follow them.
+V2 is strengthening that structure by giving major concepts clearer authoritative homes and connecting related pages contextually rather than unnecessarily repeating the same explanation everywhere.
 
 > **Humans follow the story.**
 >
 > **AI follows the relationships.**
+
+---
+
+# V2 Documentation Model
+
+**STATUS: DEFINED / MIGRATION IN PROGRESS**
+
+The conceptual model guiding the V2 documentation remodel is now defined.
+
+Its central distinction is simple:
+
+**Architecture explains how the system works.**
+
+**Experience explains what that system becomes for a Colonist.**
+
+Both perspectives describe the same Zipvilization.
+
+Neither replaces the other.
+
+The V2 migration is now progressively applying that distinction across the Atlas.
+
+The current master reference is:
+
+→ [Update — V1 → V2](/update/)
+
+The migration is not complete.
+
+Some pages already express the V2 model.
+
+Others still reflect V1 terminology or relationships and will be updated progressively.
+
+---
+
+# The dApp
+
+**STATUS: EXPERIENCE ARCHITECTURE DEFINED / IMPLEMENTATION EVOLVING**
+
+The role of the Zipvilization dApp is now clearly defined.
+
+It is not a separate world layered on top of Zipvilization.
+
+It is how Humans and Colonists progressively experience the real world produced by Zipvilization.
+
+Its current conceptual progression is:
+
+**READ**
+
+↓
+
+**SEE**
+
+↓
+
+**ENTER**
+
+↓
+
+**EXPERIENCE**
+
+↓
+
+**INTERACT**
+
+↓
+
+**?**
+
+The question mark is intentional.
+
+It leads toward [Horizonte](/trinomial/horizonte/).
+
+The dApp integrates different architectures and responsibilities without requiring them to become separate user experiences.
+
+> **The architecture is modular.**
+>
+> **The experience is unified.**
+
+SolumTools, SolumWorld and SolumView therefore belong to one progressively deepening experience.
+
+→ [The dApp](/dapp/)
 
 ---
 
@@ -445,6 +545,7 @@ That may include:
 - SolumTools,
 - SolumWorld,
 - SolumView,
+- the dApp,
 - and future needs that do not yet exist.
 
 > **If Zipvilization grows, its own activity can help fund its future development.**
@@ -577,17 +678,17 @@ The live state is not.
 
 # SolumTools
 
-**STATUS: CLOSED ALPHA / FUNCTIONAL BACKEND**
+**STATUS: DATA FOUNDATION DEFINED / CLOSED ALPHA / FUNCTIONAL BACKEND / EXPERIENCE EVOLVING**
 
 SolumTools is not merely a concept.
 
 A functional backend exists.
 
-Development has progressed through backend versions and architecture work while the definitive public frontend remains an open area of development.
+Its role within the V2 dApp model is now more clearly defined.
 
-Its role is now clearly defined.
+SolumTools is the **data foundation of the dApp**.
 
-SolumTools reads relevant:
+It reads relevant technical reality from sources such as:
 
 - blockchain state,
 - contract state,
@@ -598,7 +699,9 @@ SolumTools reads relevant:
 - block progression,
 - and other valid inputs.
 
-It then applies canonical Zipvilization rules and translates technical state into deterministic Zipvilization state.
+Canonical rules define what those valid technical states mean inside Zipvilization.
+
+SolumTools applies those rules and exposes the resulting information in the language of Zipvilization.
 
 Examples include:
 
@@ -614,13 +717,37 @@ Examples include:
 
 **Territory + Time → Developmental state**
 
-Before Genesis, SolumTools can be developed and tested using development environments and test data.
+As Zipvilization develops, SolumTools can progressively expose:
 
-After Genesis, it can begin translating actual official Zipvilization state.
+- global state,
+- Time,
+- maturity,
+- historical state,
+- individual wallets,
+- Colonists,
+- Territory history,
+- interactions,
+- behavioral patterns,
+- roles,
+- and other deterministic information supported by real state and canonical rules.
 
-> **SolumTools translates the data.**
+SolumTools therefore concerns both:
 
-It does not create that state.
+**present**
+
+and
+
+**past**.
+
+Before Genesis, it can be developed and tested using development environments and test data.
+
+After Genesis, it can begin translating actual official Zipvilization state and history.
+
+> **Canonical rules define the meaning.**
+>
+> **SolumTools applies those rules to translate and expose the data.**
+
+SolumTools does not create canonical truth.
 
 And it does not need to invent what the data does not support.
 
@@ -628,62 +755,74 @@ And it does not need to invent what the data does not support.
 
 # SolumWorld
 
-**STATUS: ARCHITECTURE DEFINED / IMPLEMENTATION EVOLVING / DATA-DEPENDENT**
+**STATUS: VISUAL WORLD ARCHITECTURE DEFINED / IMPLEMENTATION EVOLVING / DATA-DEPENDENT**
 
-SolumWorld is the **world-scale graphical representation of Zipvilization**.
+SolumWorld is the graphical representation of Solum and Zipvilization at world scale.
 
-Its role is not to determine canonical world state.
+Its role is not to determine canonical truth.
 
-Its role is to consume valid state translated through SolumTools and represent that state graphically at broad world scale.
+Its role is to give valid Zipvilization state a coherent graphical form.
 
-Conceptually, SolumWorld is a navigable, satellite-like view of Zipvilization.
+Conceptually, its earliest expression can be extremely simple.
 
-It can ultimately allow Humans to explore:
+A low-resolution or highly pixelated Solum can already represent fundamental world states such as:
 
 - Dormant Land,
 - Permanent Nature,
 - colonized Territory,
-- Farms,
-- Cities,
-- States,
-- Kingdoms,
-- territorial distribution,
-- development,
-- and other valid large-scale consequences of real state.
+- and their changing distribution.
 
-Different SolumWorld architectures and graphical approaches have already been studied.
+As real state and history accumulate, SolumWorld can progressively gain:
 
-The definitive implementation can evolve as the requirements of the real world become clearer.
+- resolution,
+- geographical depth,
+- territorial detail,
+- development information,
+- structures,
+- navigation,
+- and other valid representations of the world.
 
-Its infrastructure should follow actual needs rather than imagined scale.
+SolumWorld may aggregate and visually interpret valid data.
 
-If future activity and data require dedicated infrastructure, systems such as private VPS infrastructure may become appropriate.
+It does not need to represent every SOLUM literally as one visible unit.
 
-That decision remains open.
+But the representation must remain grounded in the world that actually exists.
 
-The architectural responsibility does not.
+> **Canonical state determines what is true.**
+>
+> **SolumWorld determines what that truth looks like as a world.**
 
-> **SolumWorld shows the world.**
+SolumTools and SolumWorld are therefore deeply connected.
 
-SolumWorld may creatively represent valid state.
+They are two representations of the same underlying reality:
 
-It must not invent canonical state.
+**SolumTools → DATA**
+
+**SolumWorld → IMAGE**
+
+They do not need to appear to the Colonist as separate experiences.
+
+Statistics and world representation can coexist within the same dApp interface.
+
+> **Data explains the world.**
+>
+> **The world gives the data form.**
 
 ---
 
 # SolumView
 
-**STATUS: ARCHITECTURE DEFINED / IMPLEMENTATION PENDING**
+**STATUS: TERRITORY EXPERIENCE DEFINED / IMPLEMENTATION PENDING**
 
-SolumView is the **detailed territorial exploration layer of Zipvilization**.
+SolumView represents a change in depth.
 
-It begins where broad world-scale exploration through SolumWorld reaches its useful limit.
+It is not simply SolumWorld with more zoom.
 
-Its purpose is to let Humans enter individual Colonists' Territories and progressively move deeper.
+SolumView begins when the experience enters an **individual Territory**.
 
-Conceptually:
+Its context is connected to:
 
-**WORLD**
+**WALLET**
 
 ↓
 
@@ -695,55 +834,215 @@ Conceptually:
 
 ↓
 
-**INTERNAL STRUCTURE**
+**INTERNAL EXPERIENCE**
 
-↓
+Where SolumWorld primarily represents the state of the broader world, SolumView can progressively bring individual Territory to life.
 
-**FARMS**
+It may eventually represent:
 
-↓
+- Zips,
+- internal structures,
+- development,
+- maturity,
+- activity,
+- territorial areas,
+- change,
+- and future forms of interaction.
 
-**ZIPS**
+SolumView does not need to be a literal graphical inventory of wallet metrics.
 
-At its maximum future development, SolumView can become a live window into a Colonist's Territory, allowing Humans to observe Farms and Zips as valid underlying world state changes.
+A Colonist with many Farms or Cities does not necessarily need to see every canonical unit represented as a separate literal graphical object.
 
-That maximum implementation does not exist yet.
+The experience may use functional simulation and visual interpretation.
 
-The architecture and direction do.
+But there is a strict boundary:
 
-SolumView does not determine Territory, maturity, population or history.
-
-It consumes valid translated state and represents it at increasing levels of local detail.
-
-> **SolumView lets us enter it.**
-
-The relationship between the three systems is therefore:
-
-**BLOCKCHAIN + CONTRACT + POOL + BLOCK PROGRESSION**
-
-↓
-
-**CANONICAL RULES**
-
-↓
-
-**SOLUMTOOLS — DATA**
-
-↓
-
-**SOLUMWORLD — WORLD**
-
-↓
-
-**SOLUMVIEW — INSIDE**
-
-Or more simply:
-
-> **SolumTools translates the data.**
+> **Visual life may be simulated.**
 >
-> **SolumWorld shows the world.**
+> **Canonical truth may not.**
+
+A Zip may walk without every step becoming an on-chain event.
+
+A structure may contain visual activity that exists for experience rather than as canonical state.
+
+But simulation cannot silently rewrite Territory, maturity, population, Permanent Nature, history or any other canonical truth.
+
+> **SolumView is where Territory becomes an experience.**
+
+Its maximum future expression remains open.
+
+SolumView is not the endpoint of Zipvilization.
+
+---
+
+# SolumTools + SolumWorld + SolumView
+
+**STATUS: UNIFIED dAPP MODEL DEFINED**
+
+V2 clarifies an important distinction.
+
+SolumTools, SolumWorld and SolumView have different architectural responsibilities.
+
+But they are not three unrelated products.
+
+> **The architecture is modular.**
 >
-> **SolumView lets us enter it.**
+> **The experience is unified.**
+
+SolumTools makes Zipvilization readable.
+
+SolumWorld makes it visible.
+
+SolumView makes individual Territory increasingly experienceable.
+
+The user experience does not need to expose those technical boundaries rigidly.
+
+SolumTools and SolumWorld can coexist.
+
+A Colonist can move from global state to individual information, from data to geography, and eventually from world representation into individual Territory.
+
+> **One dApp. One world. Increasing depth.**
+
+→ [The dApp](/dapp/)
+
+---
+
+# Chapters
+
+**STATUS: FOUNDATIONAL DNA DEFINED / V2 INTEGRATION IN PROGRESS**
+
+The six foundational Chapters exist.
+
+Their role is now more explicitly defined within V2.
+
+They are not simply a software roadmap.
+
+They establish the progressive structural conditions — the **DNA** — under which Zipvilization can develop.
+
+The current sequence is:
+
+**Chapter 0 — EXIST**
+
+**Chapter 1 — OBSERVE**
+
+**Chapter 2 — WORLD**
+
+**Chapter 3 — ACT**
+
+**Chapter 4 — REMEMBER**
+
+**Chapter 5 — EMERGE**
+
+and then:
+
+**? — Horizonte**
+
+The Chapters do not define everything Zipvilization will become.
+
+They define foundations it must not stop being.
+
+> **The Chapters establish the DNA.**
+>
+> **The dApp lets Colonists experience what that DNA produces.**
+
+The Chapters themselves already exist.
+
+Their documentation is currently being integrated more deeply with the V2 model.
+
+→ [Chapters](/chapters/)
+
+---
+
+# Colonists & Roles
+
+**STATUS: CONCEPT DEFINED / HISTORY-DEPENDENT / NOT LIVE**
+
+Colonist roles do not currently exist as live Zipvilization history.
+
+Genesis has not happened.
+
+There is therefore no official historical behavior from which real roles can yet emerge.
+
+The concept, however, is defined.
+
+A Colonist acts through interactions with SOLUM and the Smart Contract.
+
+Those interactions produce consequences.
+
+Over Time, those consequences can form measurable behavioral history.
+
+Roles can emerge from that history.
+
+A Colonist may become notable for:
+
+- territorial accumulation,
+- maintaining Territory over Time,
+- interaction frequency,
+- contribution to Permanent Nature,
+- or other valid behavioral patterns supported by real data.
+
+These roles are not intended primarily as user-selected classes.
+
+And they are not moral classifications.
+
+> **Roles emerge from behavior over Time.**
+
+And:
+
+> **Roles describe behavior.**
+>
+> **They do not judge it.**
+
+Chapter 3 — ACT does not mean that a Colonist can already directly redesign, construct within or command the internal life of their Territory.
+
+At that stage, the Colonist remains primarily an observer of that internal world.
+
+Their actions matter because their interactions with the underlying system have consequences.
+
+> **Your actions have consequences in the world.**
+
+Those consequences can become history.
+
+---
+
+# Actions and Consequences
+
+**STATUS: PRINCIPLE DEFINED / LIVE HISTORY NOT STARTED**
+
+Zipvilization does not classify valid contract interactions as inherently good or bad simply because they produce different outcomes.
+
+A BUY can:
+
+- reduce Dormant Land,
+- increase colonized Territory,
+- create or expand Territories,
+- change territorial distribution.
+
+A SELL can:
+
+- return Territory toward the Pool,
+- increase Dormant Land,
+- increase future availability,
+- contribute to Burn,
+- create Permanent Nature,
+- generate Reflection according to the contract mechanics,
+- change territorial distribution.
+
+Both change Zipvilization in different ways.
+
+Neither requires a moral interpretation from the system.
+
+> **There are no good or bad Colonists.**
+>
+> **There are different actions, different consequences and different histories.**
+
+The conditions are defined.
+
+The resulting history is not.
+
+> **We define the conditions.**
+>
+> **We do not define the outcome.**
 
 ---
 
@@ -755,23 +1054,23 @@ Different infrastructure configurations are being tested.
 
 No definitive private-server architecture has been selected.
 
-More importantly, Zipvilization does not require the maximum implementation of SolumTools, SolumWorld or SolumView in order to be born.
+More importantly, Zipvilization does not require the maximum implementation of the dApp in order to be born.
 
 Genesis can occur through deployment and activation of the fundamental on-chain system.
 
 The blockchain can record official state and history independently of the graphical and observational infrastructure built around it.
 
-SolumTools translates that state.
+SolumTools can translate that state.
 
-SolumWorld can represent it at world scale.
+SolumWorld can represent it.
 
-SolumView can eventually expose it at increasingly detailed territorial scale.
+SolumView can progressively make individual Territory experienceable.
 
 If one of those interfaces is temporarily unavailable, the underlying blockchain history does not cease to exist.
 
 > **Zipvilization can emerge from Genesis alone.**
 
-Infrastructure determines how deeply and effectively we can translate, observe and experience that world.
+Infrastructure determines how deeply and effectively Humans can read, see and experience that world.
 
 It does not create the underlying history.
 
@@ -851,15 +1150,51 @@ It is not an unfinished roadmap.
 
 It is the deliberate preservation of the unresolved future.
 
-The project can define conditions.
+The Chapters establish foundations.
 
-It can define rules.
+The core preserves canonical truth.
 
-It can build infrastructure.
+The dApp can make that reality progressively more experienceable.
 
-It can observe consequences.
+Future layers may eventually introduce forms of interaction and complexity that are not yet defined.
 
-But it should not predetermine everything that those conditions may eventually produce.
+Those possibilities remain open deliberately.
+
+> **The foundation is defined.**
+>
+> **The possibilities are not.**
+
+Future layers may expand Zipvilization.
+
+They may not silently rewrite the canonical truth and history accumulated beneath them.
+
+> **New layers may expand Zipvilization.**
+>
+> **They may not rewrite it.**
+
+This is why immutable does not mean static.
+
+Zipvilization can change.
+
+Territory can change.
+
+Nature can expand.
+
+Colonists can develop different histories.
+
+Zips can emerge.
+
+New systems can appear.
+
+The civilization can become increasingly complex.
+
+What must remain protected is the integrity of what actually happened.
+
+> **Immutable does not mean static.**
+>
+> **Zipvilization can evolve without rewriting its history.**
+
+And:
 
 > **We define the conditions.**
 >
@@ -969,6 +1304,8 @@ There is currently:
 
 **No live on-chain Zip population.**
 
+**No live Colonist roles derived from official history.**
+
 And therefore:
 
 **No official Zipvilization economic history yet exists.**
@@ -1007,6 +1344,20 @@ After Genesis:
 
 That is why Genesis matters.
 
+The dApp does not need to pretend that a mature civilization already exists at that moment.
+
+At Genesis there may be little history, limited Territory, few Colonists, few Zips and a visually simple world.
+
+That is not a weakness.
+
+It is the starting condition.
+
+As Zipvilization produces more reality, there is more reality to read, represent and experience.
+
+> **The dApp begins with the civilization.**
+
+And:
+
 > **Genesis is not the product.**
 >
 > **Genesis ignites the process.**
@@ -1030,6 +1381,20 @@ In a very real sense, we are giving that work away.
 What we want in return is something more useful to the experiment:
 
 **Participation.**
+
+Because interaction is what begins producing:
+
+**state**
+
+**consequences**
+
+**Time**
+
+**history**
+
+and eventually:
+
+**emergence**.
 
 > **The first Colonists do not fund Zipvilization.**
 >
@@ -1055,6 +1420,8 @@ An architecture can be defined.
 
 A TGE can be technically ready.
 
+A documentation migration can be in progress.
+
 Other things cannot honestly be reduced to percentages.
 
 The Human team's commitment.
@@ -1069,25 +1436,15 @@ The behavior of Gen.
 
 The identity developing around the Zips.
 
+The future relationships between Colonists.
+
 And Horizonte.
 
-Something interesting happens when a creation develops enough internal coherence.
+This is not missing information that Status should attempt to manufacture.
 
-New ideas stop feeling like additions.
+Some things are deliberately unresolved.
 
-Sometimes they start feeling like discoveries.
-
-That has already happened inside Zipvilization.
-
-The Zips surprised us.
-
-Gen surprised us.
-
-We expect Zipvilization to surprise us again.
-
-We call that identity.
-
-Perhaps even genetics.
+That distinction is part of Zipvilization itself.
 
 ---
 
@@ -1097,11 +1454,21 @@ The foundations of Zipvilization are not waiting to be invented.
 
 The core exists.
 
-The direction exists.
+Territory is defined.
 
-The commitment exists.
+Time is defined.
 
-What remains deliberately open is the scale of what can grow from them.
+Dormant Land is defined.
+
+Permanent Nature is defined.
+
+The fundamental contract mechanics are defined.
+
+The Chapters establish the DNA.
+
+The dApp now has a coherent experiential architecture.
+
+What remains deliberately open is the scale and complexity of what can eventually grow from those foundations.
 
 Treasury resources may eventually increase the technology, infrastructure and development capacity available to the project.
 
@@ -1109,11 +1476,9 @@ Or meaningful Treasury resources may never arrive.
 
 Either way, development can continue.
 
-Zipvilization was deliberately built around a structure capable of growing at extremely low cost.
+Future systems may expand what Colonists can experience and eventually do.
 
-Funding can expand the possibilities.
-
-It does not create the commitment.
+But expansion does not require rewriting the history beneath them.
 
 > **The foundations are stable.**
 >
@@ -1125,7 +1490,7 @@ It does not create the commitment.
 
 We don't know.
 
-That is one of the most important answers in this entire Atlas.
+That remains one of the most important answers in this Atlas.
 
 Technology will change.
 
@@ -1133,17 +1498,27 @@ Artificial Intelligence will change.
 
 Humans will participate.
 
+Colonists will develop histories.
+
 The Zips will emerge.
 
 Gen will probably surprise us.
 
+Territory will change.
+
+Permanent Nature can grow.
+
 The world will accumulate history.
 
-Resources may expand what becomes technically possible.
+New forms of interaction may become possible.
 
 New problems will appear.
 
 New ideas will appear with them.
+
+SolumView is not the endpoint.
+
+The current dApp architecture is not a declaration that everything beyond it has already been imagined.
 
 Trying to describe the final destination today would contradict the architecture we have spent so much time building.
 
@@ -1157,7 +1532,7 @@ We have foundations.
 
 We have technology.
 
-We have an extraordinary amount of creative possibility.
+We have an increasingly coherent way to experience the world.
 
 And we intend to keep working.
 
@@ -1171,7 +1546,11 @@ And we intend to keep working.
 
 # Current Priority
 
-**COLONISTS**
+**COLONISTS + V2 INTEGRATION**
+
+Two processes are currently happening in parallel.
+
+The first is preparation for Genesis.
 
 The Smart Contract code is ready.
 
@@ -1179,25 +1558,33 @@ The territorial core is ready.
 
 The rules of Time are ready.
 
-The Atlas is live.
-
-SolumTools has a functional backend and continues to develop.
-
-SolumWorld has a defined architecture and its implementation can evolve with real requirements.
-
-SolumView has a defined architecture and its implementation remains ahead.
+Founding Colonists are joining.
 
 Genesis is technically possible.
 
-What Zipvilization needs now is Humans.
+The second is the V2 documentation and experience remodel.
 
-Not hype.
+The Atlas is live.
 
-Not artificial urgency.
+The dApp model is defined.
 
-Not a funding round.
+SolumTools has a functional backend and continues to develop.
 
-**Colonists.**
+SolumWorld has a defined visual responsibility and its implementation can evolve with real requirements.
+
+SolumView has a defined territorial responsibility and its implementation remains ahead.
+
+The Chapters are being integrated more explicitly as the foundational DNA of the system.
+
+Neither process requires artificial urgency.
+
+Zipvilization needs Humans for Genesis.
+
+And it needs continued precision while its documentation evolves.
+
+> **No rush.**
+>
+> **No shortcuts.**
 
 ---
 
@@ -1206,8 +1593,17 @@ Not a funding round.
 **Zipvilization**  
 ESTABLISHED / EVOLVING
 
+**Project Phase**  
+PRE-GENESIS
+
 **Atlas / Documentation**  
-LIVE / ADVANCED
+LIVE / V1 → V2 REMODEL IN PROGRESS
+
+**V2 Documentation Model**  
+DEFINED / MIGRATION IN PROGRESS
+
+**The dApp**  
+EXPERIENCE ARCHITECTURE DEFINED / IMPLEMENTATION EVOLVING
 
 **SOLUM Smart Contract**  
 CORE COMPLETE / READY FOR DEPLOYMENT
@@ -1243,13 +1639,22 @@ CORE COMPLETE / 10/10
 CORE COMPLETE / 10/10
 
 **SolumTools**  
-CLOSED ALPHA / FUNCTIONAL BACKEND
+DATA FOUNDATION DEFINED / CLOSED ALPHA / FUNCTIONAL BACKEND / EXPERIENCE EVOLVING
 
 **SolumWorld**  
-ARCHITECTURE DEFINED / IMPLEMENTATION EVOLVING / DATA-DEPENDENT
+VISUAL WORLD ARCHITECTURE DEFINED / IMPLEMENTATION EVOLVING / DATA-DEPENDENT
 
 **SolumView**  
-ARCHITECTURE DEFINED / IMPLEMENTATION PENDING
+TERRITORY EXPERIENCE DEFINED / IMPLEMENTATION PENDING
+
+**Chapters**  
+FOUNDATIONAL DNA DEFINED / V2 INTEGRATION IN PROGRESS
+
+**Colonist Roles**  
+CONCEPT DEFINED / HISTORY-DEPENDENT / NOT LIVE
+
+**Actions & Consequences**  
+PRINCIPLE DEFINED / LIVE HISTORY NOT STARTED
 
 **Infrastructure**  
 EXPERIMENTAL / NOT REQUIRED FOR GENESIS
@@ -1279,7 +1684,7 @@ NOT LIVE
 NOT STARTED
 
 **Current Priority**  
-COLONISTS
+COLONISTS + V2 INTEGRATION
 
 ---
 
@@ -1291,28 +1696,16 @@ This page describes the current state of Zipvilization.
 
 It should be read as a temporal complement to the rest of the Atlas.
 
+During the V1 → V2 remodel, it also provides a current-state reference while individual pages are progressively updated.
+
 > **The Atlas explains what Zipvilization is.**
 >
 > **Status explains what is true right now.**
 
+For the documentation transition itself:
+
+→ **[Update — V1 → V2](/update/)**
+
 ---
 
 **DEFINED ≠ BUILT ≠ LIVE**
-
-**PARTICIPATION ≠ INVESTMENT**
-
-**TERRITORY ≠ YIELD**
-
-**OBSERVATION ≠ CONTROL**
-
----
-
-# ZIPVILIZATION
-
-**A civilization starting from zero.**
-
-The foundations are ready.
-
-The history is not.
-
-**BE THERE FROM ZERO.**
