@@ -28,9 +28,9 @@ Blocks become cycles.
 
 Cycles allow Zips to emerge.
 
-Zips allow biological structures to consolidate.
+Primary Territory matures.
 
-Territories mature.
+Higher territorial development becomes possible.
 
 History accumulates.
 
@@ -117,17 +117,112 @@ Time connects them through progression.
 
 ---
 
-# The Farm Establishes the First Clock
+# Territory Establishes Capacity
 
-The Farm is the smallest canonical territorial unit.
+Time does not determine how much Territory exists.
 
-Its mature biological core requires:
+SOLUM does.
+
+The foundational territorial relationships are:
+
+> **1 SOLUM = 1 m²**
+
+> **1 Tile = 1,000,000 SOLUM = 1 km²**
+
+and:
+
+> **1 Tile = capacity for 1 Zip**
+
+The canonical territorial scales are:
+
+| Territory | Tiles | Maximum Zip Capacity |
+|:----------|------:|---------------------:|
+| Farm | 8 | 8 |
+| City | 256 | 256 |
+| State | 8,192 | 8,192 |
+| Kingdom | 262,144 | 262,144 |
+
+These numbers define total territorial capacity.
+
+They do not mean that all those Zips already exist.
+
+> **Territory defines possibility.**
+>
+> **Time determines emergence.**
+
+---
+
+# Territorial Scale and Territorial Composition
+
+Total territorial capacity and internal territorial composition are not the same thing.
+
+This distinction is fundamental.
+
+Each higher territorial level contains:
+
+**16 complete Territories of the preceding level**
+
+plus
+
+**Territory belonging to the new level itself.**
+
+The two parts occupy equal territorial capacity.
+
+Therefore:
+
+> **50% lower-level Territory**
+>
+> **50% new-level Territory**
+
+This produces the canonical ×32 increase in total territorial scale without requiring the higher level to contain 32 lower-level Territories.
+
+For example:
+
+A City contains:
+
+> **16 Farms**
+
+not 32 Farms.
+
+The remaining half of the City's territorial capacity belongs to the City itself.
+
+> **Mathematical scale ≠ territorial composition**
+
+---
+
+# The Farm Establishes the Primary Clock
+
+The Farm is the primary territorial unit of maturity.
+
+A Farm contains:
+
+> **8 Tiles**
+
+Its maximum biological capacity is therefore:
 
 > **8 Zips**
 
-A Bloch container generates:
+At the primary level, Zip emergence is progressive.
 
-> **1 Zip per cycle**
+One biological cycle completes.
+
+One Zip emerges.
+
+Then another.
+
+And another.
+
+The base sequence is:
+
+**Cycle 1 → 1 Zip**
+
+**Cycle 2 → 2 Zips**
+
+**Cycle 3 → 3 Zips**
+
+**...**
+
+**Cycle 8 → 8 Zips**
 
 Therefore:
 
@@ -147,40 +242,313 @@ This establishes one of the most important distinctions in Zipvilization:
 
 A Colonist can satisfy the territorial requirement for a Farm.
 
-The biological core still has to develop.
+The Farm still has to develop.
 
 ---
 
-# Territorial Maturity Through Time
+# The Farm Is the Primary Territorial Reference
 
-Larger Territories continue the developmental structure established by the Farm.
+The Farm is not merely the smallest named level in the hierarchy.
 
-They do not become mature merely because a Colonist controls enough SOLUM to support their territorial scale.
+It is the primary territorial reference used to understand maturity and reconstruct development through Time.
 
-The canonical cumulative progression is:
+Higher territorial structures become increasingly large:
 
-| Territory | Cumulative canonical time |
-|:----------|--------------------------:|
-| Farm | 524,288 blocks |
-| City | 2,097,152 blocks |
-| State | 4,194,304 blocks |
-| Kingdom | 8,388,608 blocks |
+**Farm**
 
-These values represent accumulated development.
+↓
 
-They are not four unrelated timers.
+**City**
 
-The progression is cumulative:
+↓
 
-**Farm** — 524,288 blocks  
-↓  
-**City** — 2,097,152 blocks cumulative  
-↓  
-**State** — 4,194,304 blocks cumulative  
-↓  
-**Kingdom** — 8,388,608 blocks cumulative
+**State**
 
-> **Higher development inherits lower history.**
+↓
+
+**Kingdom**
+
+But the computational architecture does not need to abandon the primary territorial structure every time a higher threshold is reached.
+
+The higher levels grow from it.
+
+Conceptually:
+
+**BLOCKCHAIN HISTORY**
+
+↓
+
+**SOLUM**
+
+↓
+
+**TILES**
+
+↓
+
+**FARMS**
+
+↓
+
+**MATURITY / ZIPS**
+
+↓
+
+**HIGHER TERRITORIAL STATE**
+
+This provides a stable reference across the entire hierarchy.
+
+> **The territorial hierarchy grows.**
+>
+> **The primary reference remains the Farm.**
+
+---
+
+# The City
+
+A City has total territorial capacity of:
+
+> **256 Tiles**
+
+Its territorial structure is:
+
+> **16 Farms + City Territory**
+
+The 16 Farms occupy:
+
+> **16 × 8 Tiles = 128 Tiles**
+
+The remaining:
+
+> **128 Tiles**
+
+belong to the City itself.
+
+Therefore:
+
+> **A City contains 16 Farms.**
+
+The remaining half of its territorial capacity is not another 16 Farms.
+
+It is **City-level Territory**.
+
+Together:
+
+**128 Farm-level Tiles**
+
++
+
+**128 City-level Tiles**
+
+=
+
+**256 total Tiles**
+
+This distinction is fundamental for maturity calculations.
+
+The Farm remains the primary territorial reference.
+
+Once the 16 Farms have completed their primary development and City-scale Territory exists, the City stage can begin.
+
+At that point, development scales from the 16 primary Farms contained within the City.
+
+> **16 Farms → 16 Zips per biological cycle during City development**
+
+The City does not introduce an independent biological clock detached from its primary Territory.
+
+Its development is translated from the Farms that form its primary territorial foundation.
+
+> **The City grows from its 16 Farms.**
+>
+> **City Territory provides the higher-level structure.**
+
+---
+
+# The State
+
+A State has total territorial capacity of:
+
+> **8,192 Tiles**
+
+Its territorial structure follows the same hierarchical principle.
+
+It contains:
+
+> **16 Cities + State Territory**
+
+The 16 Cities occupy:
+
+> **16 × 256 Tiles = 4,096 Tiles**
+
+The remaining:
+
+> **4,096 Tiles**
+
+belong to the State itself.
+
+Therefore:
+
+> **A State contains 16 Cities.**
+
+The remaining half of its territorial capacity is not another 16 Cities.
+
+It is **State-level Territory**.
+
+Together:
+
+**4,096 City-level and lower-level Tiles**
+
++
+
+**4,096 State-level Tiles**
+
+=
+
+**8,192 total Tiles**
+
+But the primary maturity reference remains the Farm.
+
+Each City contains:
+
+> **16 Farms**
+
+Therefore the 16 Cities contained within the State contain:
+
+> **16 Cities × 16 Farms = 256 Farms**
+
+Those Farms provide the primary territorial reference inherited through the State hierarchy.
+
+The State does not replace them.
+
+It organizes a higher level above them.
+
+> **Higher structure does not erase primary Territory.**
+
+---
+
+# The Kingdom
+
+A Kingdom has total territorial capacity of:
+
+> **262,144 Tiles**
+
+Its territorial structure continues the same principle:
+
+> **16 States + Kingdom Territory**
+
+The 16 States occupy:
+
+> **16 × 8,192 Tiles = 131,072 Tiles**
+
+The remaining:
+
+> **131,072 Tiles**
+
+belong to the Kingdom itself.
+
+Therefore:
+
+> **A Kingdom contains 16 States.**
+
+The remaining half of its territorial capacity is not another 16 States.
+
+It is **Kingdom-level Territory**.
+
+Together:
+
+**131,072 lower-level Tiles**
+
++
+
+**131,072 Kingdom-level Tiles**
+
+=
+
+**262,144 total Tiles**
+
+The hierarchy therefore remains explicit:
+
+**1 City contains 16 Farms**
+
+**1 State contains 16 Cities**
+
+**1 Kingdom contains 16 States**
+
+while each new level also contains Territory belonging to itself.
+
+> **Higher levels contain 16 lower-level Territories.**
+>
+> **The remaining half belongs to the new level.**
+
+---
+
+# The Primary Structure Beneath Higher Levels
+
+Because the Farm remains the primary territorial reference, the hierarchy can also be unfolded downward.
+
+A City contains:
+
+> **16 Farms**
+
+A State contains:
+
+> **16 Cities**
+
+and each City contains:
+
+> **16 Farms**
+
+Therefore the lower-level structure contained inside a State includes:
+
+> **16 × 16 = 256 Farms**
+
+A Kingdom contains:
+
+> **16 States**
+
+Each State contains:
+
+> **16 Cities**
+
+and each City contains:
+
+> **16 Farms**
+
+Therefore the lower-level structure contained inside a Kingdom includes:
+
+> **16 × 16 × 16 = 4,096 Farms**
+
+These numbers describe the explicit lower-level territorial hierarchy contained within the higher structure.
+
+They are different from simply dividing total Tiles by 8.
+
+That distinction is essential.
+
+> **Territorial capacity is not the same as the number of contained Farms.**
+
+---
+
+# Higher Development Scales From Primary Territory
+
+Once the primary Farm stage is complete and sufficient Territory exists for the next level, biological development can continue at the higher scale.
+
+The system does not need to create an unrelated biological clock for each new territorial label.
+
+Instead, higher development can scale according to the primary territorial structure beneath that level.
+
+At Farm scale:
+
+> **1 Farm → 1 Zip per biological cycle**
+
+At City scale:
+
+> **16 Farms → 16 Zips per biological cycle**
+
+The same architectural principle continues upward:
+
+> **Higher maturity scales from the primary Territory contained beneath it.**
+
+This provides a consistent computational reference while allowing territorial complexity to increase.
 
 ---
 
@@ -209,6 +577,87 @@ The same applies to States and Kingdoms.
 > **Land can be acquired.**
 >
 > **Elapsed canonical Time cannot.**
+
+---
+
+# Structural Scale and Biological State Can Differ
+
+A Colonist may support one territorial scale while having reached a lower biological maturity.
+
+For example:
+
+> **Territorial capacity: City**
+
+while:
+
+> **Biological maturity: Farm**
+
+There is no contradiction.
+
+The first describes available Territory.
+
+The second describes completed development.
+
+This distinction must remain visible to:
+
+- SolumTools,
+- Metrics,
+- SolumWorld,
+- SolumView,
+- Humans,
+- and AI.
+
+> **Capacity describes what can exist.**
+>
+> **Maturity describes what has developed.**
+
+---
+
+# Canonical Maturity Milestones
+
+The canonical cumulative maturity milestones are:
+
+| Territory | Cumulative Cycles | Cumulative Canonical Time |
+|:----------|------------------:|--------------------------:|
+| Farm | 8 | 524,288 blocks |
+| City | 32 | 2,097,152 blocks |
+| State | 64 | 4,194,304 blocks |
+| Kingdom | 128 | 8,388,608 blocks |
+
+These values represent accumulated development.
+
+They are not four unrelated timers.
+
+The progression is cumulative:
+
+**Farm — 8 cycles / 524,288 blocks**
+
+↓
+
+**City — 32 cumulative cycles / 2,097,152 blocks**
+
+↓
+
+**State — 64 cumulative cycles / 4,194,304 blocks**
+
+↓
+
+**Kingdom — 128 cumulative cycles / 8,388,608 blocks**
+
+Therefore the additional development after each completed stage is:
+
+| Transition | Additional Cycles |
+|:-----------|------------------:|
+| Start → Farm | 8 |
+| Farm → City | +24 |
+| City → State | +32 |
+| State → Kingdom | +64 |
+
+The `+` matters.
+
+> **Higher development inherits lower history.**
+
+The world does not restart its clock every time a new territorial threshold is crossed.
 
 ---
 
@@ -252,15 +701,13 @@ The canonical maturation architecture defines:
 | State | +32 cycles |
 | Kingdom | +64 cycles |
 
-The `+` matters.
-
-A City inherits the development of its Farm.
+A City inherits Farm development.
 
 A State inherits the development below it.
 
 A Kingdom inherits the development beneath it.
 
-The world does not restart its clock every time a new territorial threshold is crossed.
+The world does not restart its biological history at each level.
 
 > **Development accumulates.**
 
@@ -290,39 +737,75 @@ The same distinction continues upward.
 
 ---
 
-# Solum, Time and Zips
+# Solum, Tiles, Farms, Time and Zips
 
-Three dimensions interact without becoming interchangeable.
+The architecture can now be expressed more precisely.
 
-**Solum**
+**SOLUM**
 
-determines territorial capacity.
+determines raw territorial capacity.
 
-**Time**
+↓
 
-provides developmental progression.
+**TILES**
 
-**Zips**
+translate that capacity into territorial units.
 
-express biological state.
+↓
+
+**FARMS**
+
+provide the primary territorial reference.
+
+↓
+
+**TIME / CYCLES**
+
+provide developmental progression.
+
+↓
+
+**ZIPS**
+
+express biological emergence.
+
+↓
+
+**HIGHER TERRITORIAL STATES**
+
+organize increasingly large developed structures.
 
 Together:
 
-**SOLUM**  
-↓  
-**TERRITORIAL CAPACITY**  
-↓  
-**TIME / CYCLES**  
-↓  
-**ZIP DEVELOPMENT**  
-↓  
-**MATURITY**
+**SOLUM**
 
-A larger balance cannot substitute for missing Time.
+↓
 
-Elapsed Time cannot create territorial capacity that does not exist.
+**TILES**
 
-Zips cannot be detached from the biological structure that supports them.
+↓
+
+**FARMS**
+
+↓
+
+**TIME**
+
+↓
+
+**ZIPS / MATURITY**
+
+↓
+
+**CITY / STATE / KINGDOM**
+
+No part substitutes for another.
+
+A larger SOLUM balance cannot substitute for missing Time.
+
+Elapsed Time cannot create Territory that does not exist.
+
+Higher territorial labels do not erase the primary Territory beneath them.
 
 ---
 
@@ -338,9 +821,12 @@ But the world still has to develop.
 
 Otherwise the territorial hierarchy would collapse into:
 
-buy enough → Farm  
-buy enough → City  
-buy enough → State  
+buy enough → Farm
+
+buy enough → City
+
+buy enough → State
+
 buy enough → Kingdom
 
 That is not the model.
@@ -363,7 +849,7 @@ That state can exist immediately.
 
 But a Mature Kingdom cannot legitimately contain developmental history that never occurred.
 
-Lower structures matter.
+Primary Territory matters.
 
 Cycles matter.
 
@@ -390,13 +876,15 @@ Zipvilization deliberately separates them.
 Economic capacity can influence:
 
 - how much SOLUM a Colonist controls,
+- how many Tiles that represents,
 - which territorial thresholds are satisfied,
 - and which developmental structures become possible.
 
 It cannot directly determine:
 
 - how many biological cycles have already elapsed,
-- whether a biological core has matured,
+- how many Zips have validly emerged,
+- whether primary Territory has matured,
 - or how much history has actually accumulated.
 
 > **Capacity can be acquired.**
@@ -419,7 +907,9 @@ One may have existed longer.
 
 One may have completed more cycles.
 
-One may have matured lower structures earlier.
+One may have matured primary Territory earlier.
+
+One may have reached a higher biological state.
 
 The current balance alone cannot describe that difference.
 
@@ -445,11 +935,17 @@ A Zip emerges.
 
 A Farm matures.
 
-A City develops.
+Higher development begins.
+
+A City matures.
 
 SOLUM becomes Permanent Nature.
 
-Territorial relationships change.
+Territorial capacity changes.
+
+A Colonist sells Territory.
+
+Later, Territory may be acquired again.
 
 Each event creates a difference between:
 
@@ -467,27 +963,131 @@ When those differences accumulate, the world acquires history.
 
 ---
 
+# Why Primary Territory Matters to History
+
+Current SOLUM balance is not enough to reconstruct development.
+
+Imagine a Colonist who:
+
+- acquires Territory,
+- develops it,
+- completes biological cycles,
+- reaches maturity,
+- later sells part of the Territory,
+- falls below a higher territorial threshold,
+- and eventually acquires Territory again.
+
+If the backend looked only at the current label — Farm, City, State or Kingdom — important historical information could be lost or misinterpreted.
+
+The primary territorial structure provides a stable reference.
+
+Conceptually:
+
+**BLOCKCHAIN HISTORY**
+
+↓
+
+**SOLUM THROUGH TIME**
+
+↓
+
+**TILES THROUGH TIME**
+
+↓
+
+**FARMS THROUGH TIME**
+
+↓
+
+**CYCLES / ZIPS / MATURITY**
+
+↓
+
+**HIGHER TERRITORIAL STATE THROUGH TIME**
+
+This is why the Farm matters beyond its role as the first territorial level.
+
+> **The Farm is the primary territorial unit of maturity and historical reconstruction.**
+
+---
+
+# Current State and Historical State
+
+Zipvilization therefore needs to distinguish:
+
+**CURRENT STATE**
+
+from:
+
+**HISTORICAL STATE**
+
+Current state can answer:
+
+- current SOLUM balance,
+- current Tiles,
+- current territorial capacity,
+- current supported territorial scale.
+
+Historical reconstruction can answer:
+
+- what Territory existed previously,
+- how long it existed,
+- which cycles completed,
+- which Zips emerged,
+- what maturity was reached,
+- and which higher territorial states were valid at a particular point in Time.
+
+The two views are connected.
+
+They are not identical.
+
+> **Current state tells us what exists now.**
+>
+> **Primary territorial history helps explain how it got there.**
+
+---
+
 # Time and Bloch
 
-Bloch gives biological Time a mechanism.
+Bloch gives biological Time a computational mechanism.
 
-A container persists.
+Blocks progress.
 
-Cycles progress.
+Cycles complete.
 
-Zips emerge according to canonical rules.
+Zip emergence follows the canonical developmental architecture.
 
-The relationship is:
+At the primary level:
 
-**BLOCKCHAIN PROGRESSION**  
-↓  
-**BIOLOGICAL CYCLES**  
-↓  
-**ZIP DEVELOPMENT**  
-↓  
-**TERRITORIAL MATURITY**
+**BLOCKCHAIN PROGRESSION**
 
-Bloch therefore belongs to the biological structure of Zipvilization.
+↓
+
+**65,536 BLOCKS**
+
+↓
+
+**1 BIOLOGICAL CYCLE**
+
+↓
+
+**1 ZIP**
+
+↓
+
+**8 CYCLES**
+
+↓
+
+**8 ZIPS**
+
+↓
+
+**MATURE FARM**
+
+At higher levels, the same primary territorial reference allows biological development to scale across the lower-level Territory contained within the larger structure.
+
+Bloch therefore belongs to the biological architecture of Zipvilization.
 
 It is not merely a countdown toward a visual reward.
 
@@ -499,553 +1099,4 @@ It is not merely a countdown toward a visual reward.
 
 Development has dependency.
 
-The general progression is:
-
-**LOWER STRUCTURE**  
-↓  
-**DEVELOPMENT**  
-↓  
-**MATURITY**  
-↓  
-**HIGHER BIOLOGICAL STRUCTURE BECOMES POSSIBLE**  
-↓  
-**NEW DEVELOPMENT**
-
-A City inherits what came before it.
-
-A State inherits its lower development.
-
-A Kingdom inherits the structures beneath it.
-
-> **The hierarchy remembers what made it possible.**
-
----
-
-# Structural Recognition Is Not Biological Maturity
-
-This distinction must remain visible to Humans, interfaces and AI.
-
-A higher territorial level can be structurally recognized while its biological development remains incomplete.
-
-Therefore:
-
-> **What territorial scale does this Colonist support?**
-
-and:
-
-> **What territorial level is biologically mature?**
-
-may have different answers.
-
-The architecture must preserve both.
-
-SolumTools must translate them separately.
-
-SolumWorld must represent the difference correctly.
-
-SolumView must allow that difference to be explored in detail.
-
----
-
-# Territory Can Change
-
-A Colonist's SOLUM balance can change.
-
-Additional SOLUM can increase territorial capacity.
-
-Transferred SOLUM can reduce it.
-
-The blockchain records those changes immediately.
-
-But changing current capacity does not rewrite elapsed Time.
-
-Existing development happened.
-
-Completed cycles happened.
-
-Existing Zips emerged.
-
-Past maturity happened.
-
-The exact deterministic consequences of territorial changes belong to the deeper canonical specification.
-
-The principle is:
-
-> **Current state can change.**
->
-> **Past development remains part of history.**
-
-→ **[Explore Territories](/world/territories/)**  
-→ **[Open the Repository](/repository/)**
-
----
-
-# Time Cannot Be Reversed
-
-A completed block becomes part of blockchain history.
-
-A completed biological cycle becomes part of developmental history.
-
-Later actions can alter present state.
-
-They cannot make elapsed progression never have happened.
-
-This creates an important asymmetry:
-
-> **The future remains open.**
->
-> **The past becomes increasingly fixed.**
-
-That is one of the foundations of meaningful history.
-
----
-
-# Time and Permanent Nature
-
-Burn creates another form of irreversibility.
-
-At the technical layer:
-
-SOLUM leaves circulation permanently.
-
-Inside Zipvilization:
-
-that Territory becomes **Permanent Nature**.
-
-Time and Burn therefore share an important property:
-
-> **irreversibility**
-
-A Colonist may change future decisions.
-
-Territory may change control.
-
-Balances may rise or fall.
-
-But some events create conditions that future participants inherit.
-
-Permanent Nature is one.
-
-Elapsed history is another.
-
-→ **[Understand Burn](/smart-contract/burn/)**
-
----
-
-# SolumTools Translates Time
-
-SolumTools is where blockchain progression becomes usable Zipvilization data.
-
-It can read relevant blockchain state and combine it with the canonical rules of Time.
-
-Conceptually:
-
-**BLOCKCHAIN BLOCKS**  
-+  
-**CANONICAL TIME RULES**  
-↓  
-**SOLUMTOOLS**  
-↓  
-**ZIPVILIZATION TIME DATA**
-
-That allows SolumTools to expose information such as:
-
-- current biological cycle,
-- completed cycles,
-- remaining blocks,
-- developmental state,
-- maturity,
-- Zip population,
-- territorial scale,
-- and the next canonical milestone.
-
-SolumTools does not create Time.
-
-It does not accelerate it.
-
-It does not decide arbitrarily that a Territory is mature.
-
-It translates measurable blockchain progression into deterministic Zipvilization state.
-
-> **SolumTools translates blockchain Time into world Time.**
-
-→ **[Explore SolumTools](/world/solumtools/)**
-
----
-
-# SolumWorld Shows the Consequences of Time
-
-SolumWorld takes the translated state and gives it graphical world-scale expression.
-
-A young world and an older world should not necessarily look the same.
-
-Dormant Land can change.
-
-Colonized Territory can develop.
-
-Farms, Cities, States and Kingdoms can appear according to their valid state.
-
-Mature and developing structures can become visually distinguishable.
-
-From SolumWorld, a Human can move across Zipvilization and observe those changes from a broad perspective.
-
-Like a world viewed from above.
-
-A navigable, graphical representation of what Zipvilization has become.
-
-But SolumWorld does not determine maturity.
-
-> **Time changes the world.**
->
-> **SolumWorld shows the consequences.**
-
-→ **[Explore SolumWorld](/world/solumworld/)**
-
----
-
-# SolumView Lets Us Enter That Development
-
-SolumView takes observation deeper.
-
-From the broad world represented by SolumWorld, a Human can enter a specific Colonist's Territory and progressively inspect what exists inside it.
-
-Conceptually:
-
-**WORLD**  
-↓  
-**COLONIST**  
-↓  
-**TERRITORY**  
-↓  
-**INTERNAL STRUCTURE**  
-↓  
-**FARMS**  
-↓  
-**ZIPS**
-
-At increasingly detailed levels, SolumView can expose the consequences of Time locally.
-
-A Colonist may eventually be able to enter their Territory and observe:
-
-- developmental state,
-- maturity,
-- Farms,
-- biological cycles,
-- Zip population,
-- and the Zips themselves.
-
-At its maximum development, SolumView can become a live window into what is happening inside a Colonist's Territory.
-
-But the principle remains unchanged:
-
-> **SolumView does not invent development.**
->
-> **It lets us enter and observe development that actually exists.**
-
-→ **[Explore SolumView](/world/solumview/)**
-
----
-
-# Data → World → Inside
-
-Time makes the distinction between the three layers especially clear.
-
-**SOLUMTOOLS — DATA**
-
-Translates blockchain progression into Zipvilization Time and developmental state.
-
-↓
-
-**SOLUMWORLD — WORLD**
-
-Represents the consequences of that state across the graphical world.
-
-↓
-
-**SOLUMVIEW — INSIDE**
-
-Allows Humans to enter Territories and observe their development at increasingly detailed scales.
-
-The same underlying reality is being observed.
-
-Only the level of representation changes.
-
-> **SolumTools translates the data.**
->
-> **SolumWorld shows the world.**
->
-> **SolumView lets us enter it.**
-
----
-
-# Time and Artificial Intelligence
-
-Time must also be machine-readable.
-
-An AI answering questions about Zipvilization should never need to infer maturity from an image or from statements such as:
-
-> "This City looks old."
-
-It should be able to reason from explicit state:
-
-- blockchain progression,
-- territorial capacity,
-- completed cycles,
-- Zip population,
-- lower-level dependencies,
-- and canonical maturity rules.
-
-That makes questions such as these answerable from evidence:
-
-> When will this Farm mature?
-
-> Is this City structurally present but biologically immature?
-
-> Which territorial level is currently mature?
-
-> How much canonical progression remains?
-
-The Atlas explains what Time means.
-
-Canonical rules define the relationships.
-
-SolumTools provides translated state.
-
-AI can reason from that evidence.
-
-→ **[Explore Artificial Intelligence](/trinomial/artificial-intelligence/)**
-
----
-
-# Human Time Is an Approximation
-
-Humans naturally ask:
-
-> How many hours?
-
-> How many days?
-
-> How long until my Farm matures?
-
-Those are useful questions.
-
-SolumTools and the interfaces built above it can provide Human-readable estimates.
-
-But those estimates remain translations.
-
-The canonical rule remains:
-
-> **1 cycle = 65,536 blocks**
-
-Therefore:
-
-> **Blocks define the requirement.**
->
-> **Hours and days explain it to Humans.**
-
----
-
-# Time Across Both Languages
-
-The relationship can be summarized clearly:
-
-| Blockchain / computation | Zipvilization |
-|:-------------------------|:--------------|
-| Block progression | Passage of world Time |
-| 65,536 blocks | One biological cycle |
-| Completed cycles | Biological development |
-| Deterministic transition | Maturation |
-| Historical chain state | World history |
-| Current blockchain state | Current developmental state |
-
-The blockchain does not contain literal biological Time.
-
-Zipvilization does not replace block counting with storytelling.
-
-The same objective progression is expressed through two languages.
-
----
-
-# The Architecture of Development
-
-The developmental chain can be expressed simply:
-
-**SOLUM**  
-provides territorial capacity  
-↓  
-**TERRITORIAL THRESHOLD**  
-makes a structure possible  
-↓  
-**BLOCH**  
-provides biological generation  
-↓  
-**BLOCKS**  
-provide objective progression  
-↓  
-**CYCLES**  
-translate progression into biological development  
-↓  
-**ZIPS**  
-emerge  
-↓  
-**BIOLOGICAL CORE**  
-consolidates  
-↓  
-**TERRITORY**  
-matures  
-↓  
-**HIGHER STRUCTURES**  
-gain developmental meaning  
-↓  
-**HISTORY**  
-accumulates
-
-The foundational relationships are deterministic.
-
-What civilization eventually does with them remains open.
-
----
-
-# Time at a Glance
-
-> **1 cycle = 65,536 blocks**
-
-Canonical developmental progression:
-
-| Territory | Development | Cumulative blocks |
-|:----------|:------------|------------------:|
-| Farm | 8 cycles | 524,288 |
-| City | +24 cycles | 2,097,152 |
-| State | +32 cycles | 4,194,304 |
-| Kingdom | +64 cycles | 8,388,608 |
-
-And the conceptual relationship:
-
-**Solum determines capacity.**
-
-**Blocks provide progression.**
-
-**Cycles provide biological Time.**
-
-**Zips express biological development.**
-
-**Maturity records completed development.**
-
-**History records what happened.**
-
----
-
-# What Time Does Not Do
-
-Time does not create Territory that does not exist.
-
-Time does not create infinite population.
-
-Time does not override territorial capacity.
-
-Time does not guarantee political power.
-
-Time does not turn a Mature Territory automatically into a successful civilization.
-
-Time does something more fundamental:
-
-> **It prevents development from being instantaneous.**
-
-That allows other things to matter.
-
-Age.
-
-Sequence.
-
-Dependency.
-
-Maturity.
-
-Memory.
-
-History.
-
----
-
-# Follow Time Through the Atlas
-
-### What needs Time to mature?
-
-→ **[Territories](/world/territories/)**
-
-### What develops through biological cycles?
-
-→ **[Zips](/world/zips/)**
-
-### What provides territorial capacity?
-
-→ **[Solum](/world/solum/)**
-
-### Who experiences the development of the world?
-
-→ **[Colonists](/world/colonists/)**
-
-### Where is blockchain progression translated into Zipvilization data?
-
-→ **[SolumTools](/world/solumtools/)**
-
-### Where do its consequences become visible across the world?
-
-→ **[SolumWorld](/world/solumworld/)**
-
-### Where can we enter a Territory and observe its development?
-
-→ **[SolumView](/world/solumview/)**
-
-### What can emerge after Territory, population and history interact?
-
-→ **[Civilization](/world/civilization/)**
-
-### What technical rules constrain the system?
-
-→ **[Canonical Rules](/smart-contract/canonical-rules/)**
-
-### Where is deeper technical documentation maintained?
-
-→ **[Repository](/repository/)**
-
----
-
-# A Civilization Needs a Past
-
-A blockchain can change state in seconds.
-
-A market can change price in seconds.
-
-A Colonist can acquire territorial capacity in seconds.
-
-But civilization requires something that cannot be purchased instantly:
-
-**a past.**
-
-A Farm must develop before it can have matured.
-
-A City must inherit what came before it.
-
-Higher structures must accumulate development.
-
-Colonists must act before those actions can become history.
-
-Time turns states into sequence.
-
-Sequence into memory.
-
-Memory into history.
-
-And history gives Zipvilization something that no balance can buy.
-
-> **Solum gives the world space.**
->
-> **Zips give it life.**
->
-> **Time gives it a past.**
-
----
-
-→ **[Return to The World](/world/)**  
-→ **[Continue to Civilization](/world/civilization/)**
+The general progression 
