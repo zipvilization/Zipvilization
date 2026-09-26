@@ -37,9 +37,9 @@ It does not decide what success should look like.
 
 It measures what can be measured.
 
-> **SolumTools exposes signals.**
+> **SolumTools translates state into observable Zipvilization data.**
 >
-> **Metrics turns selected signals into a public view of the experiment.**
+> **Metrics turns selected data into a public view of the experiment.**
 
 → **[Explore SolumTools](/world/solumtools/)**  
 → **[Explore SolumWorld](/world/solumworld/)**
@@ -136,7 +136,7 @@ Authority remains below the presentation layer.
 
 # The measurement chain
 
-The relationship is:
+The measurement architecture begins with blockchain state.
 
 **Smart Contract**
 
@@ -150,15 +150,15 @@ records.
 
 ↓
 
-**SolumWorld**
+**Canonical Rules**
 
-determines canonical world state.
+define how valid state is interpreted inside Zipvilization.
 
 ↓
 
 **SolumTools**
 
-exposes deterministic signals.
+reads, derives and translates that state into deterministic Zipvilization data.
 
 ↓
 
@@ -166,13 +166,346 @@ exposes deterministic signals.
 
 selects and presents measurements.
 
+↓
+
+**SolumWorld / SolumView**
+
+can use the same grounded data to represent and experience the world.
+
 This distinction matters.
 
-> **SolumWorld determines what exists.**
+> **The blockchain preserves the state.**
 >
-> **SolumTools exposes what can be observed.**
+> **Canonical Rules define its meaning inside Zipvilization.**
 >
-> **Metrics shows what is worth measuring.**
+> **SolumTools translates that state into observable world data.**
+>
+> **Metrics measures it.**
+>
+> **SolumWorld and SolumView give it visual form.**
+
+No presentation layer creates canonical truth.
+
+→ **[Explore Canonical Rules](/smart-contract/canonical-rules/)**
+
+---
+
+# From SOLUM to Territory
+
+Territorial metrics require a deterministic translation from the on-chain unit to the territorial architecture.
+
+The fundamental relationship begins with:
+
+> **1 SOLUM = 1 m²**
+
+But the operational territorial model does not need to process civilization only as individual square metres.
+
+Zipvilization introduces a larger deterministic territorial unit:
+
+> **1 Tile = 1,000,000 SOLUM**
+>
+> **1 Tile = 1,000,000 m²**
+>
+> **1 Tile = 1 km²**
+
+The Tile connects raw SOLUM balances to the territorial structure used by the world.
+
+This produces the basic translation:
+
+**SOLUM**
+
+↓
+
+**Tiles**
+
+↓
+
+**Farms**
+
+↓
+
+**higher territorial structures**
+
+The relationship is deterministic.
+
+The graphical representation may evolve.
+
+The underlying quantities may not.
+
+---
+
+# The territorial scale
+
+The territorial hierarchy follows a fixed ×32 scale.
+
+| Level | Tiles | SOLUM | Area |
+|:--|--:|--:|--:|
+| Farm | 8 | 8,000,000 | 8 km² |
+| City | 256 | 256,000,000 | 256 km² |
+| State | 8,192 | 8,192,000,000 | 8,192 km² |
+| Kingdom | 262,144 | 262,144,000,000 | 262,144 km² |
+
+Therefore:
+
+**1 City = 32 Farm-equivalents**
+
+**1 State = 32 City-equivalents**
+
+**1 Kingdom = 32 State-equivalents**
+
+These equivalences describe total territorial scale.
+
+They should not be confused with graphical composition.
+
+---
+
+# Mathematical scale is not graphical composition
+
+Zipvilization distinguishes between:
+
+**territorial quantity**
+
+and
+
+**territorial representation.**
+
+A City contains 256 Tiles mathematically.
+
+Its graphical territorial structure can represent that capacity as:
+
+**16 Farms**
+
+plus
+
+**City-level territory.**
+
+The 16 Farms occupy:
+
+`16 × 8 = 128 Tiles`
+
+The remaining:
+
+`128 Tiles`
+
+belong to the City-level representation.
+
+Together:
+
+`128 + 128 = 256 Tiles`
+
+The same structural principle can extend upward.
+
+A higher level integrates visible lower-level structures while also introducing territory belonging to its own scale.
+
+This allows the world to remain mathematically exact without requiring every higher territorial level to be rendered simply as 32 identical copies of the level below.
+
+> **Mathematical equivalence does not require graphical equivalence.**
+
+SolumWorld and SolumView may interpret territorial structure visually.
+
+They may not alter its underlying quantity.
+
+---
+
+# The Farm is the primary territorial unit
+
+For measurement, maturity and historical reconstruction, the most important territorial structure is the **Farm**.
+
+> **The Farm is the primary territorial unit of maturity.**
+
+A Farm requires:
+
+**8 Tiles**
+
+which represents:
+
+**8,000,000 SOLUM**
+
+and:
+
+**8 km² of Territory.**
+
+Higher territorial levels organize much larger quantities of Territory.
+
+But they do not erase the primary structure beneath them.
+
+This matters computationally.
+
+A City does not make its underlying primary territory disappear.
+
+A State does not erase the territorial development that preceded it.
+
+A Kingdom does not replace its historical foundations.
+
+The hierarchy accumulates.
+
+It does not overwrite.
+
+---
+
+# Why the Farm matters to the backend
+
+Colonist Territory can change.
+
+A Colonist may:
+
+- acquire SOLUM,
+- receive SOLUM,
+- transfer SOLUM,
+- sell SOLUM,
+- receive reflection where applicable,
+- expand Territory,
+- reduce Territory,
+- later acquire Territory again.
+
+If historical reconstruction depended only on the Colonist's current highest territorial label, changes could become difficult to interpret consistently.
+
+The primary territorial model provides a stable reference.
+
+Conceptually:
+
+**Blockchain history**
+
+↓
+
+**SOLUM state**
+
+↓
+
+**Tile state**
+
+↓
+
+**primary territorial state**
+
+↓
+
+**maturity**
+
+↓
+
+**higher territorial interpretation**
+
+This makes it possible to reconstruct development from the underlying territorial structure rather than treating City, State or Kingdom as isolated historical objects.
+
+> **Higher levels organize the Territory.**
+>
+> **The primary territory preserves the computational reference.**
+
+This distinction is fundamental for SolumTools.
+
+---
+
+# Territory and Zips share the same substrate
+
+The Tile also connects Territory with population capacity.
+
+> **1 Tile = capacity for 1 Zip**
+
+Therefore the territorial scale also establishes maximum Zip capacity:
+
+| Level | Tiles | Maximum Zip capacity |
+|:--|--:|--:|
+| Farm | 8 | 8 |
+| City | 256 | 256 |
+| State | 8,192 | 8,192 |
+| Kingdom | 262,144 | 262,144 |
+
+This does not mean all potential Zips exist immediately.
+
+Territory establishes capacity.
+
+Time establishes emergence.
+
+> **Territory defines possibility.**
+>
+> **Time turns possibility into population.**
+
+→ **[Discover Zips](/world/zips/)**  
+→ **[Understand Time](/world/time/)**
+
+---
+
+# Maturity begins at the primary territory
+
+A complete Farm has capacity for 8 Zips.
+
+Its population does not appear at once.
+
+Zips emerge progressively through canonical biological cycles.
+
+The base sequence is:
+
+**1 Zip**
+
+↓
+
+**2 Zips**
+
+↓
+
+**3 Zips**
+
+↓
+
+**...**
+
+↓
+
+**8 Zips**
+
+When the primary territorial unit completes its biological development, that primary territory is mature.
+
+If sufficient Territory exists for a higher territorial level, development can continue at the next scale.
+
+The higher levels therefore build on completed primary development rather than replacing it.
+
+This creates a progression in which:
+
+**Territory**
+
+provides capacity,
+
+**Time**
+
+provides development,
+
+and
+
+**Zips**
+
+express biological emergence.
+
+---
+
+# Maturity must remain reconstructable
+
+This architecture has an important consequence.
+
+Maturity should not be treated only as a current label.
+
+It is part of history.
+
+A Colonist's present Territory may differ from their Territory at an earlier block.
+
+The measurement system should therefore be capable of asking:
+
+- how much Territory existed,
+- how it was organized,
+- which primary territorial structures existed,
+- how much maturity had accumulated,
+- how many Zips could have emerged,
+- and which higher territorial states were valid
+
+at a given point in history.
+
+The stable reference remains the primary territorial structure.
+
+This makes historical reconstruction possible even when Territory later changes.
+
+> **Current state tells us what exists now.**
+>
+> **Primary territorial history helps explain how it got there.**
 
 ---
 
@@ -299,6 +632,7 @@ Territorial development creates another major group of measurements.
 
 Metrics may show:
 
+- Tiles,
 - Farms,
 - Cities,
 - States,
@@ -306,10 +640,16 @@ Metrics may show:
 - developing Territories,
 - mature Territories,
 - territorial distribution,
-- residual land,
+- residual Territory,
 - and concentration by scale.
 
-But the distinctions must remain intact.
+But these measurements must remain derived from the underlying territorial mathematics.
+
+A higher-level structure is not an arbitrary label.
+
+It represents a deterministic quantity and organization of Territory.
+
+At the same time:
 
 A City is not necessarily a mature City.
 
@@ -332,6 +672,8 @@ Zips provide the biological dimension of the world.
 Potential metrics include:
 
 - total Zip population,
+- maximum Zip capacity,
+- emerged Zips,
 - Zips by territorial level,
 - mature biological cores,
 - developing biological structures,
@@ -344,9 +686,17 @@ Because:
 
 the same state can be presented in both biological and computational language.
 
-That dual representation can be useful.
+And because:
+
+> **1 Tile = capacity for 1 Zip**
+
+population capacity remains mathematically grounded in Territory.
 
 But again:
+
+**capacity is not population.**
+
+And:
 
 **population is not civilization.**
 
@@ -364,7 +714,8 @@ Metrics can expose:
 
 - completed cycles,
 - biological maturity,
-- age of Territories,
+- age of primary Territories,
+- higher-level maturity,
 - historical maturation events,
 - distance to future milestones,
 - and cumulative developmental progression.
@@ -376,6 +727,8 @@ The canonical unit remains:
 Human-readable estimates may be presented where useful.
 
 But they should remain clearly identified as translations of canonical block progression.
+
+The calculation architecture should remain capable of tracing higher-level development back to the primary territorial structure from which it emerged.
 
 → **[Understand Time](/world/time/)**
 
@@ -505,11 +858,15 @@ Historical Dormant Land tells us how quickly the world changed.
 
 Current mature Cities tell us what exists.
 
-Historical maturation tells us how development unfolded.
+Historical territorial reconstruction tells us how that development emerged from primary Territory.
 
 Current Permanent Nature tells us how much exists.
 
 Historical Burn tells us when irreversible decisions were made.
+
+Current Zip population tells us how many have emerged.
+
+Historical maturity tells us how that population developed through Time.
 
 The world is not only a state.
 
@@ -519,31 +876,39 @@ It is a sequence.
 
 # Metrics and SolumTools
 
-SolumTools exposes deterministic signals.
+SolumTools is the data foundation of the dApp.
 
-Metrics selects some of those signals for public presentation.
+It reads blockchain state and history and applies canonical relationships to translate them into Zipvilization.
+
+That translation can include:
+
+- SOLUM,
+- Tiles,
+- primary Territory,
+- higher territorial structures,
+- maturity,
+- Zips,
+- Dormant Land,
+- Permanent Nature,
+- Colonists,
+- and historical transitions.
+
+Metrics selects some of those deterministic signals for public presentation.
 
 For example:
 
-SolumTools may expose:
+SolumTools may expose signals representing:
 
-dormant_land_units
-permanent_nature_units
-mature_city_count
-zip_population
-completed_cycles
+- dormant land,
+- permanent nature,
+- primary territorial units,
+- mature Cities,
+- Zip population,
+- completed cycles.
 
-Metrics may present:
+Metrics may present them as human-readable measurements.
 
-> **Dormant Land — 71.2%**
->
-> **Permanent Nature — 4.8%**
->
-> **Mature Cities — 183**
->
-> **Zip Population — 92,416**
-
-The numbers above are only illustrative examples.
+Any numerical examples used in documentation must remain clearly illustrative.
 
 Real Metrics must always come from current canonical state.
 
@@ -551,19 +916,63 @@ Real Metrics must always come from current canonical state.
 
 This distinction is especially important for Artificial Intelligence.
 
+→ **[Explore SolumTools](/world/solumtools/)**
+
+---
+
+# Metrics, SolumWorld and SolumView
+
+Metrics, SolumWorld and SolumView can consume different views of the same grounded data.
+
+Their roles are different.
+
+**Metrics**
+
+measures and presents selected indicators.
+
+**SolumWorld**
+
+gives the global state visual form.
+
+**SolumView**
+
+can bring an individual Territory to life.
+
+The graphical layers may aggregate, simplify or simulate visual activity where their own rules allow it.
+
+They may not rewrite the underlying territorial mathematics.
+
+For example:
+
+a City does not need to display 256 literal square objects merely because it contains 256 Tiles.
+
+But its representation cannot imply a territorial state incompatible with those 256 Tiles.
+
+> **The data defines the limits of the representation.**
+>
+> **The representation does not redefine the data.**
+
 ---
 
 # Metrics and Artificial Intelligence
 
-AI should be able to distinguish three categories clearly:
+AI should be able to distinguish several categories clearly:
 
 **Canonical state**
 
 what exists.
 
+**Derived state**
+
+what deterministic canonical relationships allow the system to calculate from that state.
+
 **Metric**
 
-a selected measurement of that state.
+a selected measurement of canonical or derived state.
+
+**Representation**
+
+how valid state is presented visually or experientially.
 
 **Interpretation**
 
@@ -581,9 +990,15 @@ would be an interpretation unless a canonical system defines such a state.
 
 AI must not turn interpretation into measurement.
 
+It must also not turn graphical representation into canonical quantity.
+
 The correct path is:
 
 **State**
+
+↓
+
+**Deterministic derivation**
 
 ↓
 
@@ -613,8 +1028,10 @@ toward:
 
 - the relevant SolumTools signal,
 - the canonical definition of maturity,
+- the primary territorial calculation,
 - the territorial threshold,
 - the relevant biological rules,
+- the underlying block history,
 - and ultimately the technical source.
 
 This is the same architecture used across the Atlas.
@@ -631,7 +1048,11 @@ This is the same architecture used across the Atlas.
 
 ↓
 
-**State**
+**Derived state**
+
+↓
+
+**Blockchain state**
 
 ↓
 
@@ -679,9 +1100,9 @@ At the beginning, the most useful Metrics are likely to be foundational.
 
 ## World
 
-- total Solum,
+- total SOLUM,
 - Dormant Land,
-- active Solum,
+- active SOLUM,
 - Permanent Nature.
 
 ## Participation
@@ -693,6 +1114,8 @@ At the beginning, the most useful Metrics are likely to be foundational.
 
 ## Territory
 
+- Tiles,
+- primary territorial units,
 - Farms,
 - Cities,
 - States,
@@ -701,13 +1124,15 @@ At the beginning, the most useful Metrics are likely to be foundational.
 
 ## Biology
 
-- total Zips,
-- mature biological cores,
+- maximum Zip capacity,
+- emerged Zips,
+- mature biological structures,
 - cycles completed.
 
 ## Time
 
 - current canonical progression,
+- primary territorial maturity,
 - historical maturation.
 
 ## Contract
@@ -749,10 +1174,12 @@ For example:
 
 **Territory & World Coherence** can introduce measurable world relationships such as:
 
+- Tiles,
 - Dormant Land,
 - Permanent Nature,
 - territorial distribution,
-- territorial capacity.
+- territorial capacity,
+- primary territorial structures.
 
 **Colonists & Roles** can introduce measurements related to:
 
@@ -800,23 +1227,23 @@ If canonical systems for them are introduced, Metrics can observe their resultin
 
 Conceptually:
 
-`CANONICAL SYSTEM`
+**CANONICAL SYSTEM**
 
 ↓
 
-`OBSERVABLE STATE`
+**OBSERVABLE STATE**
 
 ↓
 
-`METRIC`
+**METRIC**
 
 Not:
 
-`POSSIBLE IDEA`
+**POSSIBLE IDEA**
 
 ↓
 
-`METRIC`
+**METRIC**
 
 This distinction prevents the observation layer from presenting future concepts as current reality.
 
@@ -874,13 +1301,17 @@ Metrics should help answer:
 
 → Territorial distribution and concentration
 
+## How is raw SOLUM organized into Territory?
+
+→ SOLUM / Tiles / Farms / higher territorial structures
+
 ## How developed is the world?
 
-→ Territories, Zips, cycles, maturity
+→ Territory / maturity / Zips / cycles
 
 ## What is changing?
 
-→ Historical progression
+→ Historical progression and reconstruction
 
 ## What economic state exists?
 
@@ -894,13 +1325,17 @@ The purpose is meaningful evidence.
 
 # Follow Metrics through the Atlas
 
-### What exposes the underlying signals?
+### What translates the underlying state into Zipvilization data?
 
 → **[SolumTools](/world/solumtools/)**
 
-### What determines the canonical state?
+### What gives global state visual form?
 
 → **[SolumWorld](/world/solumworld/)**
+
+### What brings individual Territory to life?
+
+→ **[SolumView](/world/solumview/)**
 
 ### What does the world mean?
 
@@ -925,6 +1360,10 @@ The purpose is meaningful evidence.
 ### How does development progress?
 
 → **[Time](/world/time/)**
+
+### What defines the interpretation rules?
+
+→ **[Canonical Rules](/smart-contract/canonical-rules/)**
 
 ### What new measurements may appear later?
 
@@ -958,11 +1397,15 @@ How much of the world awakens.
 
 How much becomes Nature forever.
 
-How Territories develop.
+How Territory organizes itself.
+
+How primary territorial structures mature.
 
 How Zips emerge.
 
-How long structures take to mature.
+How higher territorial levels develop.
+
+How history can be reconstructed.
 
 How economic and political systems evolve when they eventually exist.
 
