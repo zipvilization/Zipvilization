@@ -5,6 +5,20 @@ nav_order: 1
 description: "Zipvilization is an experimental digital civilization built on blockchain. SOLUM provides territory, interactions create history, and Humans, AI and Zips participate in what emerges."
 permalink: /
 ---
+{: .warning }
+> **ZIPVILIZATION IS EVOLVING — V1 → V2**
+>
+> This website began as the technical repository and documentation of Zipvilization. A public website was never part of the original plan.
+>
+> As the project grew, that documentation became the Atlas — but much of its structure still reflects its technical origins.
+>
+> We are now rebuilding that experience: preserving the depth and precision of the original documentation while making Zipvilization easier to understand, explore and experience for everyone — not only advanced or technical readers.
+>
+> This is a deep documentation update. Some pages may temporarily reflect different stages of the transition.
+>
+> **[Follow the V1 → V2 update →](/update/)**
+
+---
 
 # ZIPVILIZATION
 
