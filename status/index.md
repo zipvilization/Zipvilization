@@ -564,35 +564,80 @@ And:
 
 The territorial architecture of Zipvilization is closed.
 
-Its hierarchy, dimensions, relationships and maturity rules are part of the canonical core.
+Its hierarchy, scale, relationships and primary territorial logic are part of the canonical core.
 
 **Farm → City → State → Kingdom**
 
+The territorial system begins with two fundamental relationships:
+
+> **1 SOLUM = 1 m²**
+>
+> **1 Tile = 1,000,000 SOLUM = 1 km²**
+
 The canonical territorial scales are:
 
-**Farm — 8 m²**
+| Level | Tiles | SOLUM | Area | Maximum Zip Capacity |
+|:--|--:|--:|--:|--:|
+| Farm | 8 | 8,000,000 | 8 km² | 8 |
+| City | 256 | 256,000,000 | 256 km² | 256 |
+| State | 8,192 | 8,192,000,000 | 8,192 km² | 8,192 |
+| Kingdom | 262,144 | 262,144,000,000 | 262,144 km² | 262,144 |
 
-**City — 256 m²**
+Each level therefore represents ×32 the total territorial capacity of the preceding level.
 
-**State — 8,192 m²**
+But total mathematical scale should not be confused with graphical composition.
 
-**Kingdom — 262,144 m²**
+For example, a City contains 256 Tiles in total.
 
-These rules are documented in the Atlas.
+Its territorial representation can be structured as:
 
-They are not placeholders for a future territorial model.
+**16 Farms = 128 Tiles**
+
+plus
+
+**128 Tiles of City-level Territory**
+
+for a total of:
+
+**256 Tiles**
+
+The same structural principle extends upward: higher levels integrate lower-level territorial structures while introducing Territory belonging to their own scale.
+
+> **Mathematical scale ≠ graphical composition**
+
+For calculation, maturity and historical reconstruction, the fundamental reference is the **Farm**.
+
+> **The Farm is the primary territorial unit of maturity.**
+
+Higher territorial levels organize the primary Territory.
+
+They do not erase or replace it.
+
+This provides SolumTools with a stable computational reference from which territorial development and historical state can be reconstructed even when a Colonist later acquires, transfers or sells Territory.
+
+The Tile also establishes the relationship between Territory and population capacity:
+
+> **1 Tile = capacity for 1 Zip**
+
+Therefore:
+
+**Territory defines maximum population capacity.**
+
+It does not mean that all potential Zips already exist.
+
+Their emergence depends on Time and maturity.
 
 However, no live Farm, City, State or Kingdom currently exists.
 
-The rules exist.
+The mathematics exist.
 
-The instances do not.
+The live territorial instances do not.
 
-They can only emerge from real Zipvilization state after Genesis.
+They can only emerge from official Zipvilization state after Genesis.
 
-> **Capacity ≠ Maturity**
-
-Territorial scale and biological development remain separate dimensions of the system.
+> **Capacity ≠ Population**
+>
+> **Territory ≠ Maturity**
 
 ---
 
@@ -600,15 +645,37 @@ Territorial scale and biological development remain separate dimensions of the s
 
 **STATUS: CORE COMPLETE / 10/10**
 
-The relationship between blockchain blocks, biological cycles and territorial maturity is closed.
-
-The mathematical model is part of the canonical core.
+The relationship between blockchain blocks, biological cycles, Zip emergence and territorial maturity is part of the canonical core.
 
 The fundamental biological cycle is:
 
 > **1 cycle = 65,536 blocks**
 
-The canonical maturity milestones are:
+Maturity begins at the primary territorial level.
+
+A Farm contains:
+
+**8 Tiles**
+
+and therefore has capacity for:
+
+**8 Zips**.
+
+Its Zips emerge progressively through biological cycles until the primary territorial unit is complete.
+
+The base progression is:
+
+**1 Zip → 2 Zips → 3 Zips → ... → 8 Zips**
+
+When the eighth Zip has emerged, the Farm has completed its primary biological development.
+
+The Farm is mature.
+
+If sufficient Territory exists for a higher territorial level, development can then continue at the next scale.
+
+Higher-level development therefore builds on primary territorial maturity rather than replacing it.
+
+The canonical cumulative maturity milestones are:
 
 **Farm — 524,288 blocks**
 
@@ -618,9 +685,63 @@ The canonical maturity milestones are:
 
 **Kingdom — 8,388,608 blocks**
 
+These correspond to:
+
+**Farm — 8 cumulative cycles**
+
+**City — 32 cumulative cycles**
+
+**State — 64 cumulative cycles**
+
+**Kingdom — 128 cumulative cycles**
+
+The important architectural principle is that higher territorial development does not require abandoning the primary reference.
+
+The Farm remains the computational reference for maturity and historical reconstruction.
+
+This becomes especially important when Territory changes over Time.
+
+A Colonist may acquire Territory, develop it, later reduce it, and eventually acquire Territory again.
+
+The current balance alone does not describe that history.
+
+SolumTools can reconstruct development from the underlying primary territorial structure and the blockchain history from which it derives.
+
+Conceptually:
+
+**Blockchain history**
+
+↓
+
+**SOLUM**
+
+↓
+
+**Tiles**
+
+↓
+
+**Farms**
+
+↓
+
+**Maturity / Zips**
+
+↓
+
+**Higher territorial state**
+
+This allows current territorial state and historical development to remain connected without requiring City, State or Kingdom to become independent sources of truth.
+
+> **Current state tells us what exists now.**
+>
+> **Primary territorial history helps explain how it got there.**
+
 The clock is defined.
 
-But Zipvilization's history has not started.
+The maturity architecture is defined.
+
+But official Zipvilization history has not started.
 
 > **The rules of Time exist.**
 >
@@ -709,13 +830,19 @@ Examples include:
 
 **SOLUM balance → Territory**
 
+**1,000,000 SOLUM → 1 Tile**
+
+**8 Tiles → 1 Farm**
+
+**Primary Territory + Time → Maturity / Zip emergence**
+
+**Primary territorial state → Higher territorial state**
+
 **Pool-held SOLUM → Dormant Land**
 
 **Burned SOLUM → Permanent Nature**
 
 **Block progression → Time**
-
-**Territory + Time → Developmental state**
 
 As Zipvilization develops, SolumTools can progressively expose:
 
@@ -739,9 +866,15 @@ and
 
 **past**.
 
-Before Genesis, it can be developed and tested using development environments and test data.
+The Farm provides the primary territorial reference from which maturity and historical territorial development can be reconstructed.
 
-After Genesis, it can begin translating actual official Zipvilization state and history.
+This is especially important because a Colonist's Territory can change over Time.
+
+Higher territorial structures can therefore be derived from the underlying primary territorial state rather than treated as isolated historical objects.
+
+Before Genesis, this architecture can be developed and tested using development environments and test data.
+
+After Genesis, SolumTools can begin translating actual official Zipvilization state and history.
 
 > **Canonical rules define the meaning.**
 >
@@ -784,7 +917,7 @@ As real state and history accumulate, SolumWorld can progressively gain:
 
 SolumWorld may aggregate and visually interpret valid data.
 
-It does not need to represent every SOLUM literally as one visible unit.
+It does not need to represent every SOLUM, Tile or Farm literally as one visible graphical object.
 
 But the representation must remain grounded in the world that actually exists.
 
@@ -1697,15 +1830,3 @@ This page describes the current state of Zipvilization.
 It should be read as a temporal complement to the rest of the Atlas.
 
 During the V1 → V2 remodel, it also provides a current-state reference while individual pages are progressively updated.
-
-> **The Atlas explains what Zipvilization is.**
->
-> **Status explains what is true right now.**
-
-For the documentation transition itself:
-
-→ **[Update — V1 → V2](/update/)**
-
----
-
-**DEFINED ≠ BUILT ≠ LIVE**
