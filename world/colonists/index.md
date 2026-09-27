@@ -4,9 +4,9 @@ title: Colonists
 parent: The World
 nav_order: 2
 description: >
-  Colonists are the human participants of Zipvilization. On blockchain they
-  are Holders; inside Zipvilization they are Colonists, bringing participation,
-  decisions, territory, and history into a shared evolving world.
+  Colonists are the human participants of Zipvilization who reach at least one
+  complete Farm of territorial capacity. A Holder becomes a Colonist at the
+  8,000,000 $SOLUM threshold, where active territorial development may begin.
 permalink: /world/colonists/
 ---
 
@@ -32,11 +32,11 @@ Not customers consuming a finished product.
 
 And not a different technical category invented to replace the blockchain reality beneath the system.
 
-On blockchain, they are **Holders**.
+On blockchain, a human participant who holds $SOLUM is a **Holder**.
 
-Inside Zipvilization, they are **Colonists**.
+Inside Zipvilization, that Holder becomes a **Colonist** when at least one complete Farm of territorial capacity exists.
 
-Two languages.
+Two connected states.
 
 One participant.
 
@@ -53,19 +53,25 @@ Zipvilization deliberately maintains two connected ways of describing the same s
 
 **Zipvilization describes what it means.**
 
-For the human participant, the relationship is:
+But Holder and Colonist are not automatic equivalents.
 
-> **Holder → Blockchain**
+They describe two connected states in the participant's relationship with the world.
+
+> **Holder → holds $SOLUM on blockchain**
 >
-> **Colonist → Zipvilization**
+> **Colonist → Holder with at least one complete Farm of territorial capacity**
 
-These are not two different people.
+The canonical threshold is:
 
-They are two ways of understanding the same participant from different layers of the system.
+> **8,000,000 $SOLUM = 8 Tiles = 1 complete Farm = 8 km²**
+
+Below that threshold, the participant remains a Holder.
+
+At or above that threshold, the Holder reaches the Colonist threshold and active territorial development may begin according to valid historical state.
 
 ## Holder
 
-At the blockchain layer, a Holder has a technical relationship with Solum.
+At the blockchain layer, a Holder has a technical relationship with $SOLUM.
 
 An address holds tokens.
 
@@ -79,15 +85,17 @@ This language is precise, necessary, and verifiable.
 
 We do not replace it.
 
+Holding $SOLUM alone, however, does not automatically create a Colonist or an active Colonist Territory.
+
 ## Colonist
 
-Inside Zipvilization, that same relationship acquires meaning within the world.
+Inside Zipvilization, the relationship changes when the Holder reaches at least one complete Farm of territorial capacity.
 
-The Holder becomes visible conceptually as a **Colonist**.
+At that threshold, the Holder becomes a **Colonist**.
 
-A human has entered the experiment.
+A human has entered the territorial experiment.
 
-They have a relationship with territory.
+They have a relationship with active Territory.
 
 Their actions can transform the world.
 
@@ -97,11 +105,12 @@ Their interaction with other Colonists may eventually contribute to something mu
 
 **civilization.**
 
-The blockchain records the Holder.
+The blockchain records the Holder and the state from which the threshold can be determined.
 
-**Zipvilization recognizes the Colonist.**
+**Zipvilization recognizes the Colonist when the canonical territorial condition exists.**
 
 → **[Understand the Solum Token](/smart-contract/solum-token/)**  
+→ **[Explore Territories](/world/territories/)**  
 → **[Explore Civilization](/world/civilization/)**
 
 ---
@@ -114,12 +123,12 @@ It belongs to a larger semantic structure running through Zipvilization.
 
 | Blockchain | Zipvilization |
 |:-----------|:--------------|
-| Holder | Colonist |
-| Solum token | Land / Solum |
+| Holder | $SOLUM holder; Colonist only at or above the complete Farm threshold |
+| $SOLUM token | Land / Solum |
 | Total Supply | Finite World |
 | Pool | Dormant Land |
 | Burn | Permanent Nature |
-| Token balance | Territorial holding |
+| $SOLUM balance | Potential territorial capacity |
 | Transfer | Territorial transfer |
 | Tax | Resource flow |
 | Contract rules | Rules of the World |
@@ -139,7 +148,9 @@ A Burn does not cause the Smart Contract to create a forest.
 
 A Pool does not technically contain barren soil.
 
-And a Holder does not stop being a Holder because we call that participant a Colonist inside the world.
+And a Holder does not become a Colonist merely because Zipvilization gives blockchain state a world meaning.
+
+The complete Farm threshold must exist.
 
 The technical reality remains intact.
 
@@ -217,7 +228,7 @@ Money exists.
 
 Markets exist.
 
-Solum can have economic value.
+$SOLUM can have economic value.
 
 That value can rise.
 
@@ -288,7 +299,7 @@ Again, the two languages describe the same underlying system from different pers
 >
 > **Dormant Land → Zipvilization**
 
-When participation brings Solum out of that dormant condition, the amount of world does not increase.
+When participation brings enough $SOLUM out of that dormant condition to satisfy the canonical territorial threshold, the amount of world does not increase.
 
 The underlying land is not replaced.
 
@@ -311,11 +322,13 @@ They bring existing land into civilization.
 
 The Colonist's first structural relationship with Zipvilization is territorial.
 
-Solum provides the underlying unit:
+Solum provides the land.
 
-> **1 Solum = 1 m²**
+$SOLUM measures that land:
 
-At the blockchain layer, a Holder has a Solum balance.
+> **1 $SOLUM = 1 m² of Solum**
+
+At the blockchain layer, a Holder has a $SOLUM balance.
 
 Inside Zipvilization, that balance represents a territorial holding.
 
@@ -325,11 +338,11 @@ Again:
 >
 > **Territorial holding → Zipvilization**
 
-The amount and organization of Solum determine what territorial structures can exist.
+The amount and organization of $SOLUM determine what territorial structures can exist.
 
 But possession and development are deliberately separated.
 
-A Colonist may hold enough Solum to satisfy a territorial threshold.
+A Holder becomes a Colonist when at least 8,000,000 $SOLUM can form one complete Farm. A Colonist may then hold enough $SOLUM to satisfy larger territorial thresholds.
 
 That does not mean the corresponding territory has instantly completed its development.
 
@@ -350,7 +363,7 @@ And therefore:
 
 # From land to structure
 
-As Solum becomes organized, a Colonist's relationship with the world can take progressively larger territorial forms.
+As $SOLUM becomes organized territorially, a Colonist's relationship with the world can take progressively larger territorial forms.
 
 The core hierarchy is:
 
@@ -364,23 +377,25 @@ A Farm establishes the smallest meaningful territorial unit.
 
 Cities introduce a larger human and territorial structure.
 
-States introduce a political and macroeconomic scale.
+States introduce a scale at which broader political or macroeconomic relationships may eventually emerge.
 
-Kingdoms introduce a scale where alliances, competition, conflict, and power can become increasingly meaningful.
+Kingdoms introduce a scale where alliances, competition, conflict, power, or other forms of organization may become increasingly meaningful.
+
+None of those outcomes is automatic.
+
+A City does not automatically create government.
+
+A State does not automatically create political authority.
+
+A Kingdom does not automatically create monarchy or control over other Colonists.
 
 These later dimensions are not decorations attached to larger balances.
 
-They are possibilities created by scale, structure, population, and interaction.
+They are possibilities that may emerge from larger territorial structures, population, history, interaction, and time.
 
-The larger the system becomes, the less interesting it is to ask only:
+The hierarchy therefore creates **conditions for complexity**.
 
-> How much Solum does this Holder have?
-
-The more interesting question becomes:
-
-> **What is happening inside and between these Colonists and their territories?**
-
-That is where blockchain state begins acquiring civilizational meaning.
+It does not predetermine what that complexity becomes.
 
 → **[Explore Territories](/world/territories/)**  
 → **[Explore Civilization](/world/civilization/)**
@@ -389,79 +404,91 @@ That is where blockchain state begins acquiring civilizational meaning.
 
 # Colonists do not create mature life instantly
 
-Territory is only one layer.
+A Colonist can create the territorial conditions from which development may begin.
 
-Zipvilization also has population.
+But development itself is not instantaneous.
 
-**Zips** are the native population of the world.
+Territory does not become mature merely because a balance exists.
 
-Their existence prevents us from treating territorial possession as equivalent to a fully developed society.
+Zips do not appear simply because someone acquires enough $SOLUM.
 
-A Colonist can establish territorial conditions.
+Cities do not become historically mature at the moment their territorial capacity becomes available.
 
-But biological maturation follows its own canonical rules.
+States and Kingdoms do not acquire a past they never lived.
 
-Zips emerge.
+Time matters.
 
-Territorial cores consolidate.
+Historical continuity matters.
 
-Higher levels develop.
+Valid territorial conditions matter.
 
-Time passes.
+This separation is fundamental:
 
-This creates an important limit on the power of the Colonist.
+> **The Colonist can initiate conditions.**
+>
+> **The system determines what those conditions have actually become.**
 
-A participant can act.
+A later acquisition can increase future capacity.
 
-A participant can acquire.
+It cannot manufacture elapsed history.
 
-A participant can organize.
+A transfer can change future territorial state.
 
-But a participant does not control time.
+It cannot erase valid history that already occurred.
 
-**The Colonist can initiate conditions.**
+This is how Zipvilization prevents financial state from becoming fictional historical state.
 
-**The system determines what those conditions have actually become.**
-
-→ **[Discover Zips](/world/zips/)**  
-→ **[Understand Time](/world/time/)**
+→ **[Understand Time](/world/time/)**  
+→ **[Explore Zips](/world/zips/)**
 
 ---
 
 # Colonists create history through action
 
-A civilization requires more than state.
+Colonists do not write history by declaring it.
 
-It requires change.
+History emerges from what actually happens.
 
-The actions of Colonists give the world a before and an after.
+A Holder reaches the Colonist threshold.
 
-A transfer can change territorial relationships.
+Territory becomes active.
 
-A territorial threshold can change structure.
+Time passes.
 
-A maturation event can change what a territory has become.
+Valid development occurs.
 
-Permanent Nature can change what will ever be possible on a piece of land again.
+Zips emerge.
 
-Future economic and political actions may change relationships between larger territories.
+Territorial structures mature.
 
-At the blockchain layer, many of these events can be described as transactions and state transitions.
+Balances change.
 
-Inside Zipvilization, their accumulated consequences become **history**.
+Land changes hands.
 
-That distinction is powerful.
+Permanent Nature may appear.
 
-We do not need to invent history through narrative.
+Relationships between Colonists may form.
 
-**History can emerge from what actually happened.**
+Some may persist.
 
-The event comes first.
+Others may disappear.
 
-The story comes after.
+The world accumulates consequence.
+
+This is why Zipvilization treats history as more than narrative decoration.
+
+**The event comes first.**
+
+**The story comes after.**
+
+A civilization becomes meaningful when its history can be reconstructed from what actually happened rather than invented retrospectively.
+
+Colonists are therefore not merely users of a system.
+
+Their valid actions can become part of the permanent history of the world.
 
 → **[Understand Time](/world/time/)**  
-→ **[Explore SolumWorld](/world/solumworld/)**
+→ **[Explore SolumTools](/world/solumtools/)**
 
 ---
 
@@ -469,111 +496,133 @@ The story comes after.
 
 Participation matters.
 
-But Zipvilization is not designed to make the Colonist omnipotent.
+Control is different.
 
-A Colonist acts inside a shared system.
+A Colonist can act inside the system.
 
-They do not define the fundamental rules whenever those rules become inconvenient.
+They can hold $SOLUM.
 
-They do not create additional world because territory becomes scarce.
+They can satisfy territorial thresholds.
 
-They do not instantly mature territory.
+They can transfer territory.
 
-They do not reclaim Permanent Nature.
+They can participate in the historical development of the world.
 
-They do not decide canonical world state simply by declaring it.
+But they cannot simply declare canonical reality.
 
-This constraint is essential.
+A Colonist cannot create additional Solum.
 
-If every participant could rewrite reality around themselves, there would be no shared world.
+A Colonist cannot rewrite elapsed time.
 
-There would only be individual preference.
+A Colonist cannot instantly mature territory.
 
-**Freedom exists inside the rules.**
+A Colonist cannot restore land that has become Permanent Nature.
 
-**The rules create the common reality in which that freedom has meaning.**
+A Colonist cannot redefine canonical rules merely because they hold more territory.
+
+And territorial scale does not automatically grant authority over other Colonists or over Civilization itself.
+
+> **Territory ≠ control of other Colonists**
+>
+> **Territory ≠ control of Civilization**
+
+The world is governed first by its canonical conditions.
+
+Human participation happens inside those conditions.
+
+What forms of social, political, economic, cooperative, or competitive organization may later emerge belong to the open development of Civilization.
+
+They are not automatically encoded into territorial ownership.
 
 → **[Read the Principles](/principles/)**  
-→ **[Explore the Canonical Rules](/smart-contract/canonical-rules/)**
+→ **[Explore Civilization](/world/civilization/)**
 
 ---
 
-# Colonists and Permanent Nature
+# Permanent Nature limits every Colonist
 
-Participation does not only mean expansion.
+Not all Solum remains available forever.
 
-Some Solum can leave economic circulation permanently.
+When $SOLUM is permanently removed from circulation through Burn, the corresponding land becomes **Permanent Nature** inside Zipvilization.
 
-At the blockchain layer, this is **Burn**.
+That land remains part of Solum.
 
-Inside Zipvilization, that same irreversible state becomes **Permanent Nature**.
-
-> **Burn → Blockchain**
->
-> **Permanent Nature → Zipvilization**
-
-This matters because a civilization is partly defined by what it cannot consume.
-
-Once Solum enters that state, future Colonists cannot simply decide they would prefer the land back.
-
-No future Holder can return those units to circulation.
+But it is permanently unavailable to Civilization.
 
 No future Colonist can reclaim that territory.
 
-The technical irreversibility of Burn becomes a permanent geographical boundary inside the world.
+No later balance can reactivate it.
 
-**The mechanism is Burn.**
+No political or economic development can reverse it.
 
-**The meaning is Nature.**
+This creates an irreversible limit shared by every participant.
 
-→ **[Discover Solum](/world/solum/)**  
-→ **[Understand Burn](/smart-contract/burn/)**
+At the blockchain layer:
+
+> **$SOLUM → Burn → permanently removed from circulation**
+
+Inside Zipvilization:
+
+> **Land → Permanent Nature → permanently unavailable to Civilization**
+
+Again:
+
+**mechanism and meaning.**
+
+The Burn is technical.
+
+Permanent Nature is territorial.
+
+The two remain connected.
+
+→ **[Explore Burn](/smart-contract/burn/)**  
+→ **[Discover Permanent Nature](/world/solum/)**
 
 ---
 
 # Many Colonists, one world
 
-Zipvilization becomes more interesting as participation becomes plural.
+Zipvilization is not designed around a single participant.
 
-One Holder can possess Solum.
+The world becomes more interesting when many independent humans enter it.
 
-One Colonist can have territory.
+Different Colonists can hold different territories.
 
-But civilization requires relationships.
+They can arrive at different times.
 
-Many Colonists can exchange.
+They can make different decisions.
 
-Cooperate.
+Their territories can develop differently.
 
-Compete.
+Their histories can diverge.
 
-Develop neighboring territories.
+Their interests may align.
 
-Build different interests.
+Or they may not.
 
-Accumulate different resources.
+This plurality creates the conditions from which relationships can emerge.
 
-Form alliances.
+Cooperation may emerge.
 
-Disagree.
+Competition may emerge.
 
-Coordinate.
+Trade may emerge.
 
-Eventually, larger territorial structures may make those relationships economic and political.
+Alliances may emerge.
 
-This is where emergence becomes possible.
+Conflict may emerge.
 
-We cannot meaningfully predict the social behavior of a civilization before enough independent participants exist to produce it.
+Institutions may emerge.
 
-And we should not fake that complexity.
+Other structures we have not anticipated may emerge.
 
-If cooperation appears, it should be because Colonists cooperate.
+None of these outcomes should be treated as predetermined.
 
-If competition appears, it should emerge from competing interests.
+The canonical system can create the conditions in which relationships become meaningful.
 
-If alliances appear, there should be something real to align around.
+It should not tell participants that they are allies.
 
-If conflict appears, it should emerge from the system rather than from a script telling participants that they are enemies.
+It should not tell participants that they are enemies.
 
 **The civilization should discover its relationships.**
 
@@ -585,7 +634,7 @@ We should not write them in advance.
 
 # Distribution matters
 
-If emergence requires many independent participants, then the initial distribution of Solum matters.
+If emergence requires many independent participants, then the initial distribution of $SOLUM matters.
 
 A world dominated from the beginning by a very small number of Holders could still function technically.
 
@@ -638,7 +687,7 @@ Challenge it.
 
 Help it improve.
 
-Support its development before Solum can formally make them Holders.
+Support its development before $SOLUM can formally make them Holders.
 
 We call them **Founding Colonists**.
 
@@ -650,9 +699,13 @@ It recognizes something different:
 
 **participation can begin before possession.**
 
-The technical launch system can later provide a limited and time-bound preferred opportunity for those early supporters to become Holders when Solum launches.
+The technical launch system can later provide a limited and time-bound first-hour BUY opportunity for recognized pre-Genesis participants through the whitelist when $SOLUM launches.
 
-Inside Zipvilization, that means giving those who were already participating an opportunity to become among its first actual Colonists.
+That whitelist access is bounded by the applicable Smart Contract rules. It does not override MAX_TX, Max Wallet, fees, territorial thresholds, maturity rules, or any other canonical condition, and it does not create permanent privilege.
+
+Founding Colonist recognition is historical recognition. The whitelist is a technical Genesis mechanism. They are connected, but they are not the same concept.
+
+Inside Zipvilization, this gives people who were already participating an opportunity to become Holders from the beginning and, if they later reach the complete Farm threshold, actual Colonists in the canonical territorial sense.
 
 Their significance begins earlier.
 
@@ -752,13 +805,23 @@ They should not be confused.
 
 At the blockchain layer, the beginning can look remarkably simple:
 
-an address acquires Solum.
+an address acquires $SOLUM.
 
 A Holder exists.
 
-But inside Zipvilization, that same event opens a much larger chain of possibilities.
+But a Holder is not automatically a Colonist.
 
-**Holder**
+The first canonical transition requires enough territorial capacity to form one complete Farm:
+
+> **8,000,000 $SOLUM**
+
+Inside Zipvilization, that threshold opens a much larger chain of possibilities.
+
+**$SOLUM Holder**
+
+↓
+
+**Complete Farm threshold**
 
 ↓
 
@@ -766,7 +829,7 @@ But inside Zipvilization, that same event opens a much larger chain of possibili
 
 ↓
 
-**Territorial relationship**
+**Active territorial relationship**
 
 ↓
 
@@ -786,7 +849,7 @@ But inside Zipvilization, that same event opens a much larger chain of possibili
 
 ↓
 
-**Economy · Politics · Cooperation · Competition**
+**Possible economy · politics · cooperation · competition · other emergent systems**
 
 ↓
 
@@ -800,9 +863,9 @@ This progression is not guaranteed.
 
 It is a space of possibility.
 
-The Smart Contract can establish the conditions.
+The Smart Contract and canonical rules can establish the conditions.
 
-Only participation can determine what eventually happens inside them.
+Only valid history, time, participation, and interaction can determine what eventually happens inside them.
 
 ---
 
@@ -812,7 +875,7 @@ The relationship can now be summarized clearly.
 
 ## Blockchain
 
-An address holds Solum.
+An address holds $SOLUM.
 
 The participant is a **Holder**.
 
@@ -822,17 +885,19 @@ The Smart Contract applies deterministic rules.
 
 State changes are verifiable.
 
+A balance below 8,000,000 $SOLUM remains a Holder state without a complete Farm or active Colonist Territory.
+
 → **[Explore the Smart Contract](/smart-contract/)**
 
 ## Zipvilization
 
-The same human enters the world as a **Colonist**.
+When the same Holder reaches at least one complete Farm of territorial capacity, the human becomes a **Colonist** in the canonical territorial sense.
 
-Solum becomes territory.
+$SOLUM can then correspond to active Territory according to canonical and historical rules.
 
 Actions acquire geographical and historical meaning.
 
-Other Colonists become neighbors, participants, competitors, collaborators, or something the civilization has yet to define.
+Other Colonists may become neighbors, participants, competitors, collaborators, or something the civilization has yet to define.
 
 The technical state becomes part of a shared world.
 
@@ -860,11 +925,11 @@ The Colonist connects almost every major part of Zipvilization.
 
 → **[Solum Token](/smart-contract/solum-token/)**
 
-### What does that Solum mean inside the world?
+### What does that $SOLUM mean inside the world?
 
 → **[Solum](/world/solum/)**
 
-### Where does dormant Solum begin?
+### Where does Dormant Land begin?
 
 → **[Pool](/smart-contract/pool/)**
 
@@ -949,13 +1014,13 @@ It cannot be generated by an interface.
 
 It requires independent humans entering the same world and creating consequences together.
 
-Blockchain calls them **Holders**.
+Blockchain records **Holders**.
 
-Zipvilization calls them **Colonists**.
+Zipvilization recognizes **Colonists** when the complete Farm threshold is reached.
 
-And that difference in language tells us exactly what we are trying to build.
+That distinction tells us exactly what we are trying to build.
 
-We do not merely need people to hold Solum.
+We do not merely need people to hold $SOLUM.
 
 **We need people to participate.**
 
