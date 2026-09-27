@@ -4,9 +4,9 @@ title: Solum
 parent: The World
 nav_order: 1
 description: >
-  Solum is the finite territorial substrate of Zipvilization. One Solum
-  represents one square meter of the world and can become part of civilization,
-  remain dormant, or become Permanent Nature.
+  Solum is the planet and land of Zipvilization. Its finite territorial
+  substrate is represented on-chain by $SOLUM, where 1 $SOLUM corresponds
+  to 1 square meter of Solum.
 permalink: /world/solum/
 ---
 
@@ -14,641 +14,1159 @@ permalink: /world/solum/
 
 Every civilization needs somewhere to exist.
 
-Zipvilization begins with that place.
+Zipvilization has:
 
-**Solum is the territorial substrate of the world.**
+> **Solum**
 
-Its fundamental relationship is intentionally simple:
+Solum is the planet.
 
-> **1 Solum = 1 m²**
+Solum is also the land that forms that planet.
 
-One Solum represents one square meter of Zipvilization.
+Its finite territorial substrate is represented on-chain through:
 
-Not a share of the world.
+> **$SOLUM**
 
-Not an abstract point.
+The canonical relationship is:
 
-Not merely a unit of account.
+> **1 $SOLUM = 1 m² of Solum**
 
-**A square meter of territory.**
+This relationship connects a blockchain system to a finite world.
 
-That relationship connects the blockchain system to the geography of the world and provides the foundation from which everything else can emerge.
+But the concepts must remain distinct.
+
+> **Solum is the planet.**
+>
+> **Solum is the land.**
+>
+> **$SOLUM is the token that measures that land.**
+
+Everything that happens in Zipvilization begins with this relationship.
 
 → **[Explore The World](/world/)**
 
 ---
 
-# The soil before civilization
+# Solum — The Planet
 
-The name matters.
+Solum is the world where Zipvilization exists.
 
-**Solum means soil.**
+It is not a visualization.
 
-Before there are Colonists, Territories, Zips, Cities, States, or Kingdoms, there is land.
+It is not SolumWorld.
 
-At Genesis, the world is overwhelmingly Solum in its most primitive state:
+And it is not another name for the $SOLUM token.
 
-barren,
+Within the architecture of Zipvilization:
 
-inert,
+> **Solum is the planet itself.**
 
-uncivilized,
+Its surface provides the finite space within which:
 
-waiting.
+- Territory can develop,
+- Colonists can participate,
+- Zips can emerge,
+- Permanent Nature can form,
+- Time can produce history,
+- and Civilization may eventually appear.
 
-This is the initial landscape of Zipvilization.
+There is only one Solum.
 
-A world that already exists but has not yet come alive.
+Everyone participates in the same planet.
 
-We call this state **Dormant Land**.
-
-Dormant does not mean absent.
-
-It does not mean destroyed.
-
-It means that the potential of that territory has not yet been realized.
-
-No Colonists.
-
-No Zips.
-
-No civilization.
-
-Just soil.
-
-**Solum waiting for life.**
-
-→ **[Explore The World](/world/)**  
-→ **[Understand the Pool](/smart-contract/pool/)**
+> **One planet.**
+>
+> **One history.**
+>
+> **An open outcome.**
 
 ---
 
-# A finite world
+# Solum — The Land
+
+The same word also describes the land of the planet.
+
+This is intentional.
+
+Solum is the world.
+
+And Solum is its soil, ground and territorial substrate.
+
+Before there are:
+
+- Colonists,
+- Farms,
+- Cities,
+- States,
+- Kingdoms,
+- Zips,
+- or Civilization,
+
+there is land.
+
+That land already exists.
+
+What changes is its state.
+
+Some can remain dormant.
+
+Some can become part of active Territory.
+
+Some can become Permanent Nature.
+
+> **The planet does not need to be created.**
+>
+> **Its history needs to happen.**
+
+---
+
+# $SOLUM — The Token
+
+The land of Solum is connected to the blockchain through **$SOLUM**.
+
+$SOLUM is the on-chain token.
+
+Its canonical territorial relationship is:
+
+> **1 $SOLUM = 1 m² of Solum**
+
+This means that a $SOLUM balance can be translated into territorial quantity.
+
+For example:
+
+    1 $SOLUM
+    =
+    1 m² of Solum
+
+    1,000,000 $SOLUM
+    =
+    1,000,000 m²
+    =
+    1 km² of Solum
+    =
+    1 Tile
+
+The token does not create another world.
+
+It provides the deterministic on-chain unit through which the land of the existing world can be measured and tracked.
+
+> **$SOLUM measures Solum.**
+
+→ **[Explore the $SOLUM Token](/smart-contract/solum-token/)**
+
+---
+
+# One Name, Three Related Meanings
+
+The terminology can now be stated precisely.
+
+## Solum — Planet
+
+The physical world of Zipvilization.
+
+## Solum — Land
+
+The territorial substrate that forms the planet.
+
+## $SOLUM — Token
+
+The on-chain unit associated with that land.
+
+And the bridge between them is:
+
+> **1 $SOLUM = 1 m² of Solum**
+
+This distinction should remain visible throughout the Atlas.
+
+When discussing:
+
+- the planet → **Solum**
+- the land → **Solum**
+- the token → **$SOLUM**
+
+Context determines whether Solum refers to the whole planet or its land.
+
+The `$` distinguishes the token.
+
+---
+
+# Why Solum?
+
+The name is not arbitrary.
+
+**Solum means soil or ground.**
+
+That makes it appropriate for a world whose civilization begins not with buildings, governments or inhabitants, but with:
+
+> **land**
+
+The first question in Zipvilization is not:
+
+> Who rules the world?
+
+It is more fundamental:
+
+> **What happens to the land?**
+
+Because before Civilization can emerge, there must be somewhere for it to happen.
+
+That place is Solum.
+
+---
+
+# A Finite Planet
 
 Solum is finite.
 
-That is not an incidental economic property.
+This is not merely an economic property of $SOLUM.
 
-It is part of the geography of Zipvilization.
+It is a property of the world.
 
-If territory could be created indefinitely, expansion would have little consequence.
+The total supply of $SOLUM is:
 
-Scarcity would become temporary.
+> **100,000,000,000,000 $SOLUM**
 
-Boundaries would lose meaning.
+Because:
 
-A civilization could always solve territorial pressure by creating more world.
+> **1 $SOLUM = 1 m² of Solum**
 
-Zipvilization does not work that way.
+the token supply defines the finite territorial substrate represented by the system.
 
-The world begins with a fixed amount of Solum.
+No post-deployment minting means Civilization cannot solve territorial pressure simply by creating unlimited new land.
 
-What changes over time is not the amount of world.
+The planet does not expand whenever more space is desired.
 
-It is **what happens to the world that already exists**.
+Instead:
 
-This gives us one of the fundamental rules of Zipvilization:
+> **the state of existing Solum changes**
 
-> **The world does not grow. It transforms.**
+This gives the world consequence.
 
-→ **[Explore Supply](/smart-contract/supply/)**  
-→ **[Read the Principles](/principles/)**
+> **Solum does not grow.**
+>
+> **Solum transforms.**
+
+→ **[Explore Supply](/smart-contract/supply/)**
 
 ---
 
-# Solum can change state
+# The Land Can Change State
 
-A square meter of Solum begins as part of the same underlying world, but it does not need to remain in the same condition forever.
+Not every part of Solum has the same relationship with Civilization.
 
-As Zipvilization develops, Solum can participate in very different states of the world.
+At the highest conceptual level, its land can be understood through three fundamental states or roles:
 
-At the highest conceptual level:
+> **Dormant Land**
 
-**Dormant Land**
+> **Active Territory**
 
-Solum waiting outside active civilization.
+> **Permanent Nature**
 
-**Civilized Territory**
+These are not three independently created worlds.
 
-Solum participating in the territorial structures created through Colonists.
+They are different conditions of the same finite Solum.
 
-**Permanent Nature**
+Conceptually:
 
-Solum removed permanently from economic circulation and preserved beyond future colonization.
+    SOLUM
+    ├── DORMANT LAND
+    ├── ACTIVE TERRITORY
+    └── PERMANENT NATURE
 
-These are not three different kinds of soil created independently.
+But their histories are different.
 
-They are different states and roles of the same finite territorial substrate.
+Dormant Land remains outside active colonization.
 
-That distinction is important.
+Active Territory participates in territorial development.
 
-Zipvilization does not create civilization by creating more land.
+Permanent Nature has been made permanently unavailable to Civilization through Burn.
 
-**It creates the possibility for existing land to become something.**
+> **Same planet.**
+>
+> **Different states.**
+>
+> **Different consequences.**
 
 ---
 
 # Dormant Land
 
-At Genesis, Dormant Land dominates the world.
+Before active colonization, land can remain:
 
-This is Solum before civilization reaches it.
+> **Dormant Land**
 
-Its visual identity is deliberately barren.
+The land exists.
 
-Brown.
+Its territorial potential exists.
 
-Dry.
+But active territorial development has not begun there.
 
-Raw.
+Dormant does not mean absent.
 
-The planet begins looking unfinished because, in a meaningful sense, it is.
+It does not mean destroyed.
 
-Its territory exists.
+It does not mean Nature.
 
-Its future does not.
+It means:
 
-On the blockchain, the mechanism associated with this reserve of available Solum is called the **Pool**.
+> **available land outside active Civilization**
 
-That is the correct technical term.
+At Genesis, most of Solum begins in this condition.
 
-But Pool alone does not explain what that territory represents inside Zipvilization.
+The planet exists before its Civilization does.
 
-Inside the world:
+That distinction matters.
 
-> **Pool → Dormant Land**
+> **Solum is not created by colonization.**
+>
+> **Colonization changes the state of Solum.**
 
-Technically available.
+---
 
-Conceptually inert.
+# Pool and Dormant Land
 
-Waiting for transformation.
+Dormant Land has a technical relationship with the blockchain.
+
+The principal on-chain reserve associated with it is the:
+
+> **Pool**
+
+But the two terms belong to different explanatory layers.
+
+### Blockchain language
+
+> **Pool**
+
+### World language
+
+> **Dormant Land**
+
+The Pool is a technical mechanism.
+
+Dormant Land is the territorial meaning associated with the $SOLUM that remains there.
+
+Therefore:
+
+> **Pool ≠ planet**
+>
+> **Pool ≠ land itself**
+>
+> **Pool-held $SOLUM → Dormant Land meaning**
+
+The distinction keeps the world auditable.
+
+World meaning remains connected to blockchain state.
 
 → **[Understand the Pool](/smart-contract/pool/)**
 
 ---
 
-# Colonists bring transformation
+# A Wallet Can Hold $SOLUM
 
-Solum cannot build a civilization by itself.
+$SOLUM can move from the Pool to a wallet.
 
-Participation is the catalyst.
+When that happens, the address becomes a:
 
-The human participants in Zipvilization are the **Colonists**.
+> **Holder**
 
-As Colonists establish relationships with Solum, the world begins to change.
+But holding $SOLUM does not automatically activate Territory.
 
-Dormant Land can become active territory.
+This distinction is fundamental.
 
-Territory can become organized.
+The territorial architecture uses:
 
-Territorial structures can develop.
+> **Tiles**
 
-Zips can emerge.
+with:
 
-Time can accumulate.
+> **1 Tile = 1,000,000 $SOLUM = 1 km² of Solum**
 
-History can begin.
+A Tile provides capacity for:
 
-This is why we distinguish a Colonist from a passive holder.
+> **1 Zip**
 
-Blockchain can record possession.
+But the Tile is not the minimum independently active Colonist Territory.
 
-Zipvilization is interested in what participation can eventually produce from it.
+That threshold is:
 
-**Solum provides the possibility.**
-
-**Colonists introduce action.**
-
-→ **[Discover Colonists](/world/colonists/)**
+> **1 Farm**
 
 ---
 
-# From Solum to Territory
+# The Farm Threshold
 
-A square meter alone is land.
+A complete Farm requires:
 
-Organized land can become territory.
+> **8 Tiles**
 
-Zipvilization uses Solum as the quantitative foundation from which progressively larger territorial structures can emerge.
+Therefore:
 
-The canonical hierarchy begins with:
+> **1 Farm = 8,000,000 $SOLUM = 8 km² of Solum**
 
-**Farm → City → State → Kingdom**
+Below that threshold:
 
-These structures are not simply labels attached to increasingly large balances.
+    $SOLUM
+    ↓
+    HOLDER
+    ↓
+    LAND CAPACITY
+    ↓
+    NO COMPLETE FARM
+    ↓
+    NO ACTIVE COLONIST TERRITORY
 
-Territory has rules.
+At the threshold:
 
-Territory has thresholds.
+    8,000,000 $SOLUM
+    ↓
+    8 TILES
+    ↓
+    1 COMPLETE FARM
+    ↓
+    COLONIST
+    ↓
+    ACTIVE TERRITORY
 
-Territory has inherited structure.
+This is where the relationship with Solum changes.
 
-Territory has time.
+The land already existed.
 
-And territory can acquire population.
+The $SOLUM was already valid.
 
-Solum answers:
+But now enough territorial capacity exists to activate the first complete territorial structure.
 
-> **How much land exists here?**
+> **Holding land capacity is not the same as colonizing it.**
 
-Territories begin answering a much larger question:
+→ **[Discover Colonists](/world/colonists/)**  
+→ **[Explore Territories](/world/territories/)**
 
-> **What has that land become?**
+---
+
+# From Land to Territory
+
+Solum is land.
+
+Territory is structured land.
+
+This distinction prevents two concepts from collapsing into one another.
+
+A balance can represent a quantity of Solum.
+
+But territorial development follows canonical structures.
+
+The hierarchy is:
+
+> **Farm → City → State → Kingdom**
+
+The first complete structure is the Farm.
+
+From there, progressively larger territorial structures can develop according to their own canonical composition.
+
+Solum therefore answers:
+
+> **How much land is represented here?**
+
+Territory answers:
+
+> **How is that land structured within Zipvilization?**
+
+And history eventually answers:
+
+> **What has actually happened there?**
 
 → **[Explore Territories](/world/territories/)**
 
 ---
 
-# Solum is not life
+# Territory Is Not Population
 
-This distinction is essential.
+Land provides space.
 
-**Land is not population.**
+Territory provides structure and capacity.
 
-Acquiring Solum does not instantly create a mature civilization.
+Neither automatically creates population.
 
-Zipvilization separates territory from life through **Zips**.
+Each Tile provides capacity for:
 
-Zips are the native population of the world.
+> **1 Zip**
 
-Their emergence is connected to territorial structure and time.
+But:
 
-This means a Colonist may possess enough Solum for a particular territorial structure while that territory is still developing biologically.
+> **capacity ≠ population**
 
-Capital can acquire land.
+A Colonist can have enough $SOLUM for a particular territorial capacity without instantly possessing the mature population associated with that capacity.
 
-It cannot simply purchase elapsed time.
+Population requires valid development through Time.
 
-And it cannot declare life into existence.
+This creates a fundamental separation:
+
+> **Solum defines land.**
+>
+> **Territory defines capacity.**
+>
+> **Time allows development.**
+>
+> **Bloch produces individual Zip emergence.**
+>
+> **History determines what actually occurred.**
 
 → **[Discover Zips](/world/zips/)**  
 → **[Understand Time](/world/time/)**
 
 ---
 
-# Solum is not civilization
+# Solum Is Not Civilization
 
-This distinction is even more important.
+A planet is not a Civilization.
 
-Solum makes civilization possible.
+Land is not a Civilization.
 
-It does not constitute civilization by itself.
+A large $SOLUM balance is not a Civilization.
 
-A civilization requires relationships between many things:
+Even Territory and population alone do not fully define one.
 
-territory,
+Civilization may emerge through relationships between:
 
-population,
+- Territory,
+- Zips,
+- Time,
+- history,
+- Humans,
+- interaction,
+- behavior,
+- organization,
+- and systems that do not yet exist.
 
-time,
+This is why the objective of Zipvilization is not simply to distribute $SOLUM.
 
-resources,
+$SOLUM makes territorial participation possible.
 
-participants,
+Solum provides the world.
 
-rules,
+But:
 
-organization,
-
-cooperation,
-
-competition,
-
-and eventually forms of social behavior that cannot be reduced to a token balance.
-
-This is why Zipvilization is not a project about accumulating Solum.
-
-A world in which one wallet controlled enormous amounts of soil but nothing meaningful happened on that soil would not be a successful civilization.
-
-The experiment begins with territory.
-
-**Its success depends on what emerges from it.**
+> **Civilization must emerge from what happens on that world.**
 
 → **[Explore Civilization](/world/civilization/)**
 
 ---
 
-# Solum can become Nature
+# Permanent Nature
 
-Civilization is not the only meaningful destination for land.
+Civilization is not the only possible state of Solum.
 
-Some Solum can permanently leave economic circulation.
+Some $SOLUM can leave circulation permanently.
 
-On-chain, this is **Burn**.
+On-chain, this mechanism is:
 
-In conventional token language, burning means removing tokens from circulation.
+> **Burn**
 
-That description remains technically correct.
+Inside the world, the corresponding territorial meaning is:
 
-But inside Zipvilization, we interpret the resulting territory differently.
+> **Permanent Nature**
 
-It becomes **Permanent Nature**.
+Conceptually:
 
-Land beyond future ownership.
+    $SOLUM
+    ↓
+    BURN
+    ↓
+    PERMANENT NATURE
 
-Beyond future colonization.
+This land remains conceptually part of Solum.
 
-Beyond future economic reclamation.
+But it is no longer available for future Civilization.
 
-Forest.
+It cannot later become active Colonist Territory simply because more land is desired.
 
-Mountain.
+This transformation is irreversible.
 
-River.
-
-Wilderness.
-
-The exact representation belongs to the world, but the underlying principle is permanent:
-
-**civilization cannot consume everything.**
-
-This creates one of Zipvilization's deliberate inversions of conventional crypto language.
-
-> **Pool is available, but represents barren land waiting for life.**
+> **Permanent Nature is still Solum.**
 >
-> **Burn is unavailable forever, but represents permanent Nature.**
+> **But it is Solum beyond future colonization.**
 
-Technically:
-
-**Pool and Burn.**
-
-Inside the world:
-
-**Dormant Land and Permanent Nature.**
-
-Both descriptions matter.
-
-→ **[Understand Burn](/smart-contract/burn/)**  
-→ **[Read the Principles](/principles/)**
+→ **[Understand Burn](/smart-contract/burn/)**
 
 ---
 
-# A world painted by participation
+# Dormant Land Is Not Permanent Nature
 
-Because Solum can change state, the visual world can change with it.
+The distinction is important.
 
-At Genesis, the planet is overwhelmingly barren.
+### Dormant Land
 
-The color of raw Solum dominates the surface.
+Exists outside active Civilization but remains potentially available.
 
-Then participation begins.
+### Permanent Nature
 
-Some areas become civilization.
+Has become permanently unavailable to Civilization.
 
-Some areas become Permanent Nature.
+Therefore:
 
-The barren world starts to recede.
+> **Dormant ≠ Permanent**
 
-Not because we are decorating a map.
+and:
 
-Not because an artist decided where a forest or City should appear.
+> **Available ≠ Irreversible**
 
-But because the underlying state of Solum has changed.
+This gives a finite planet two very different forms of land outside active Territory.
 
-This is crucial to the visual identity of Zipvilization.
+One may still participate in future colonization.
 
-If we succeed, the planet itself can become a record of its own history.
+The other never will again.
 
-A Colonist looking at the world should eventually be able to perceive:
+---
 
-**what remains dormant,**
+# Nature Is Part of the Planet
 
-**where civilization has emerged,**
+Permanent Nature is not removed from the concept of Solum.
 
-and
+$SOLUM is removed from circulation.
 
-**what has become Nature forever.**
+The land meaning remains part of the planet.
 
-The world is painted by participation, rules, and time.
+This allows Burn to have two simultaneous descriptions.
 
-→ **[Explore SolumView](/world/solumview/)**  
+### On-chain
+
+> $SOLUM is permanently removed from circulation.
+
+### On Solum
+
+> Land becomes Permanent Nature.
+
+Both descriptions are necessary.
+
+One explains mechanism.
+
+The other explains world meaning.
+
+Neither should silently replace the other.
+
+---
+
+# Solum Through Time
+
+Solum is not merely a static quantity.
+
+Its state has history.
+
+A square meter may be associated with different relationships at different points in Time.
+
+A wallet may acquire $SOLUM.
+
+A Holder may cross the Farm threshold.
+
+A Colonist may gain or transfer territorial capacity.
+
+Territory may develop.
+
+$SOLUM may be burned.
+
+Permanent Nature may increase.
+
+Therefore the present state of Solum is only one layer of information.
+
+The other is:
+
+> **how it reached that state**
+
+This is why current balances alone cannot reconstruct the world.
+
+> **Current state is a snapshot.**
+>
+> **Solum has a history.**
+
+---
+
+# State Does Not Rewrite History
+
+Suppose a Holder remains below the Farm threshold for a period of Time.
+
+Those blocks occurred.
+
+But they did not constitute active territorial biological development.
+
+If the Holder later crosses the Farm threshold, development begins from the valid historical condition created at that point.
+
+Earlier blocks do not become retroactive biological Time.
+
+Likewise, if a Colonist later transfers $SOLUM and changes territorial capacity, valid development that already occurred is not erased.
+
+> **A transfer changes future conditions.**
+>
+> **It does not rewrite the past.**
+
+Solum therefore has both:
+
+> **state**
+
+and:
+
+> **history**
+
+The two must remain distinguishable.
+
+---
+
+# The Planet Can Become a Record of Its History
+
+Because the state of Solum changes through actual activity, the appearance of the planet can eventually reflect that history.
+
+At Genesis, Solum may be overwhelmingly dormant.
+
+Later, the planet may contain different visible relationships between:
+
+- Dormant Land,
+- active Territory,
+- developed structures,
+- population,
+- Permanent Nature.
+
+But those changes should not appear because someone manually decided where Civilization or Nature belongs.
+
+They should follow canonical state.
+
+> **The visible planet should become a consequence of what actually happened.**
+
+That is where:
+
+> **SolumWorld**
+
+becomes important.
+
+---
+
+# SolumWorld Represents Solum
+
+SolumWorld is not the planet.
+
+> **Solum is the planet.**
+
+SolumWorld is the system that represents the canonical state of that planet at world scale.
+
+The direction is:
+
+    SOLUM
+    ↓
+    CANONICAL STATE + HISTORY
+    ↓
+    DATA
+    ↓
+    SOLUMWORLD
+    ↓
+    PLANETARY REPRESENTATION
+
+SolumWorld can make visible concepts such as:
+
+- Dormant Land,
+- active Territory,
+- Permanent Nature,
+- territorial development,
+- population,
+- historical change.
+
+But it does not create those states.
+
+> **Canonical state determines what is true on Solum.**
+>
+> **SolumWorld determines how that truth is represented at planetary scale.**
+
 → **[Explore SolumWorld](/world/solumworld/)**
 
 ---
 
-# One Solum, two languages
+# SolumView Goes Inside Territory
 
-Solum sits directly between the conceptual and technical layers of Zipvilization.
+SolumWorld looks at the planet.
 
-That makes terminology especially important.
+SolumView moves closer.
 
-## In blockchain
+Its focus is not the whole of Solum.
 
-Solum is an on-chain token governed by a Smart Contract.
+Its focus is:
 
-Its technical documentation includes:
+> **individual Territory**
 
-- token behavior,
-- total supply,
-- transfers,
-- Pool mechanics,
-- Burn mechanics,
-- Taxes,
-- Fair Access,
-- security,
-- and canonical contract rules.
+The conceptual transition is:
+
+    SOLUMWORLD
+    ↓
+    PLANET
+
+    SOLUMVIEW
+    ↓
+    TERRITORY
+    ↓
+    LIFE
+
+SolumView can provide a dynamic interpretation of what exists inside a Colonist Territory.
+
+It may represent:
+
+- Farms,
+- Zips,
+- development,
+- activity,
+- relationships,
+- maturity,
+- historical consequences.
+
+Its visual life can be interpretative.
+
+Its canonical facts cannot be invented.
+
+> **Visual life may be simulated.**
+>
+> **Canonical truth may not.**
+
+→ **[Explore SolumView](/world/solumview/)**
+
+---
+
+# SolumTools Makes Solum Readable
+
+Before the planet can be represented reliably, its state must be reconstructed and interpreted.
+
+That is the role of:
+
+> **SolumTools**
+
+The chain is:
+
+    BLOCKCHAIN STATE + HISTORY
+    ↓
+    CANONICAL RULES
+    ↓
+    SOLUMTOOLS
+    ↓
+    READABLE STATE OF ZIPVILIZATION
+
+SolumTools can expose the information required to understand Solum:
+
+- $SOLUM distribution,
+- Holders,
+- Colonists,
+- Territory,
+- Dormant Land,
+- Permanent Nature,
+- Farms,
+- higher territorial structures,
+- Time,
+- maturity,
+- population,
+- historical activity.
+
+This creates the larger experiential architecture:
+
+    SOLUMTOOLS
+    ↓
+    DATA
+
+    SOLUMWORLD
+    ↓
+    PLANET
+
+    SOLUMVIEW
+    ↓
+    LIFE
+
+> **Data makes the world readable.**
+>
+> **SolumWorld makes the planet visible.**
+>
+> **SolumView lets us enter its Territories.**
+
+→ **[Explore SolumTools](/world/solumtools/)**
+
+---
+
+# Representation Is Not Solum
+
+A representation of Solum is not Solum itself.
+
+A map can show Territory.
+
+It cannot create Territory.
+
+A visual forest can represent Permanent Nature.
+
+It cannot Burn $SOLUM.
+
+A rendered Farm can show canonical development.
+
+It cannot create historical maturity.
+
+An animated Zip can represent an inhabitant.
+
+It cannot create a canonical Zip.
+
+Therefore:
+
+    BLOCKCHAIN STATE + HISTORY
+    ↓
+    CANONICAL RULES
+    ↓
+    STATE OF SOLUM
+    ↓
+    REPRESENTATION
+
+Never the reverse.
+
+> **Representation interprets Solum.**
+>
+> **It does not determine its truth.**
+
+---
+
+# Two Languages, One Planet
+
+Solum sits at the intersection between technical state and world meaning.
+
+This makes the relationship between both languages especially important.
+
+| Blockchain | Solum / Zipvilization |
+|:-----------|:-----------------------|
+| $SOLUM | Unit associated with Solum land |
+| 1 $SOLUM | 1 m² of Solum |
+| Total Supply | Finite territorial substrate |
+| Pool-held $SOLUM | Dormant Land |
+| Holder balance | Potential territorial capacity |
+| Farm threshold | Beginning of active Colonist Territory |
+| Burn | Permanent Nature |
+| Transfers | Changes in territorial relationships |
+| Blocks | Canonical Time |
+| Blockchain history | Historical state of the world |
+
+The World does not replace the blockchain explanation.
+
+The blockchain explanation does not replace the World.
+
+> **Mechanism explains how state exists.**
+>
+> **The World explains what that state means.**
+
+Both must remain connected and auditable.
 
 → **[Explore the Smart Contract](/smart-contract/)**
 
-## In Zipvilization
+---
 
-Solum is territory.
+# What $SOLUM Does Not Mean
 
-Its state contributes to:
+Holding $SOLUM does not automatically mean:
 
-- Dormant Land,
-- Colonist territory,
-- territorial organization,
-- Permanent Nature,
-- world state,
-- and eventually civilization.
+- being a Colonist,
+- having an active Farm,
+- having a mature Farm,
+- having a City,
+- having Zips,
+- possessing historical maturity,
+- having Civilization,
+- receiving a promise of economic value,
+- receiving guaranteed political power,
+- or controlling the future of Solum.
 
-→ **[Explore The World](/world/)**
+$SOLUM measures land.
 
-Neither description should replace the other.
+It does not measure Civilization.
 
-If we describe Solum only as a token, we lose the world.
+> **$SOLUM ≠ Civilization**
 
-If we describe Solum only as soil, we hide the mechanism that makes its rules verifiable.
+And:
 
-**Zipvilization needs both languages to remain connected.**
+> **Territory ≠ yield**
+>
+> **$SOLUM ≠ promise of profit**
+
+Zipvilization is built around participation and observation.
+
+Not an investment promise.
 
 ---
 
-# What Solum does not mean
+# Solum at Genesis
 
-To understand Solum correctly, it also helps to define what it does **not** imply.
+Before Genesis:
 
-Owning Solum does not automatically mean owning a mature City.
+- Solum is defined,
+- the finite territorial architecture is defined,
+- the official $SOLUM token is not deployed,
+- there is no official $SOLUM circulation,
+- there is no official $SOLUM/ETH Pool,
+- no active Colonist Territory exists,
+- no canonical post-Genesis Zip population exists,
+- the canonical history of Solum has not begun.
 
-It does not automatically create Zips.
+The planet exists as a defined system.
 
-It does not eliminate the passage of time.
+Its history is waiting.
 
-It does not guarantee economic value.
+At Genesis:
 
-It does not guarantee political power beyond the rules of the system.
+    $SOLUM
+    ↓
+    POOL
+    ↓
+    PARTICIPATION
+    ↓
+    HOLDERS
+    ↓
+    COLONISTS
+    ↓
+    ACTIVE TERRITORY
+    ↓
+    BLOCH
+    ↓
+    ZIPS
+    ↓
+    HISTORY
+    ↓
+    CIVILIZATION
+    ↓
+    ?
 
-And it does not guarantee that every square meter of the world will eventually become civilization.
+The final symbol is intentional.
 
-Solum is the substrate.
+Solum has rules.
 
-What develops from it depends on the rest of the system.
+Its future is not a script.
 
-This distinction prevents one of the easiest misunderstandings of Zipvilization:
-
-> **Solum measures land. It does not measure civilization.**
-
----
-
-# Solum in the system
-
-The relationships can be summarized like this:
-
-**Solum**  
-provides the finite territorial substrate.
-
-↓
-
-**Dormant Land**  
-is Solum waiting outside active civilization.
-
-↓
-
-**Colonists**  
-introduce participation.
-
-↓
-
-**Territories**  
-organize Solum into meaningful structures.
-
-↓
-
-**Zips + Time**  
-allow those structures to develop biologically.
-
-↓
-
-**Civilization**  
-may emerge from the interaction of territory, population, rules, and participants.
-
-At the same time, another path remains possible:
-
-**Solum**
-
-↓
-
-**Burn**
-
-↓
-
-**Permanent Nature**
-
-↓
-
-**land that remains part of the world but can never again become Colonist territory.**
-
-Together, these transformations progressively replace the barren Genesis world with something alive.
+→ **[Explore Genesis](/genesis/)**
 
 ---
 
-# Follow Solum through the Atlas
+# Solum at a Glance
 
-Solum touches almost every major part of Zipvilization.
+### Solum
 
-### Where does Solum come from?
+> **The planet of Zipvilization.**
 
-Understand the fixed territorial quantity of the world.
+### Solum
 
-→ **[Supply](/smart-contract/supply/)**
+> **The land that forms that planet.**
 
-### What is Solum technically?
+### $SOLUM
 
-See its blockchain implementation.
+> **The on-chain token used to measure that land.**
 
-→ **[Solum Token](/smart-contract/solum-token/)**
+### Canonical relationship
 
-### Where is uncolonized Solum?
+> **1 $SOLUM = 1 m² of Solum**
 
-Understand the technical Pool and its meaning as Dormant Land.
+### Tile
 
-→ **[Pool](/smart-contract/pool/)**
+> **1 Tile = 1,000,000 $SOLUM = 1 km² of Solum**
 
-### What happens when Solum leaves circulation forever?
+### Farm
 
-Understand Burn and Permanent Nature.
+> **8 Tiles = 8,000,000 $SOLUM = 8 km² of Solum**
 
-→ **[Burn](/smart-contract/burn/)**
+The Farm is the minimum active Colonist territorial structure.
 
-### Who transforms the world?
+### Dormant Land
 
-Meet the participants.
+Solum outside active colonization and still potentially available.
 
-→ **[Colonists](/world/colonists/)**
+### Active Territory
 
-### How does land become organized?
+Structured Solum participating in valid Colonist development.
 
-Follow the territorial hierarchy.
+### Permanent Nature
+
+Solum made permanently unavailable to Civilization through Burn.
+
+### SolumTools
+
+Makes the state and history of Solum readable.
+
+### SolumWorld
+
+Represents Solum at planetary scale.
+
+### SolumView
+
+Makes individual Territory experienceable.
+
+---
+
+# Follow Solum Through the Atlas
+
+To understand how Solum becomes structured:
 
 → **[Territories](/world/territories/)**
 
-### How does life emerge?
+To understand the transition from Holder to Colonist:
 
-Follow population and maturation.
+→ **[Colonists](/world/colonists/)**
 
-→ **[Zips](/world/zips/)**  
+To understand how population emerges:
+
+→ **[Zips](/world/zips/)**
+
+To understand biological development:
+
 → **[Time](/world/time/)**
 
-### What can eventually emerge from all of this?
+To understand what may emerge above these foundations:
 
 → **[Civilization](/world/civilization/)**
 
-### How is the state of Solum interpreted?
+To read the state of the system:
+
+→ **[SolumTools](/world/solumtools/)**
+
+To see the planet:
 
 → **[SolumWorld](/world/solumworld/)**
 
-### How does that state become visible?
+To enter individual Territory:
 
 → **[SolumView](/world/solumview/)**
 
-### Where are the underlying technical rules?
+For the underlying on-chain mechanisms:
 
-→ **[Smart Contract](/smart-contract/)**  
-→ **[Repository](/repository/)**
-
----
-
-# The first piece
-
-Before the first Colonist, there is Solum.
-
-Before the first Zip, there is Solum.
-
-Before the first Farm, City, State, or Kingdom, there is Solum.
-
-Before history, politics, economics, alliances, conflict, or culture, there is Solum.
-
-It is the simplest piece in Zipvilization.
-
-And almost everything else depends on it.
-
-At Genesis, it is a barren world waiting for life.
-
-If the experiment succeeds, that same world will progressively become something else.
-
-Not because more world was created.
-
-Not because we decided what it should look like.
-
-But because people participated in it.
-
-**Solum is where Zipvilization begins.**
-
-**What grows from that soil is the experiment.**
+→ **[Smart Contract](/smart-contract/)**
 
 ---
 
-→ **[Return to The World](/world/)**  
-→ **[Continue to Colonists](/world/colonists/)**
+# Solum
+
+Solum is the planet.
+
+Solum is the land.
+
+$SOLUM measures that land.
+
+Its quantity is finite.
+
+Its state can change.
+
+Some remains dormant.
+
+Some becomes Territory.
+
+Some becomes Permanent Nature.
+
+Colonists participate in it.
+
+Zips inhabit it.
+
+Time changes it.
+
+History remembers it.
+
+SolumWorld makes its planetary state visible.
+
+SolumView lets us look inside its Territories.
+
+And Civilization may eventually emerge from everything that happens there.
+
+> **Solum exists before Civilization.**
+>
+> **Civilization must emerge from Solum.**
+
+**One planet.**
+
+**One history.**
+
+**An open future.**
