@@ -99,7 +99,7 @@ Given the same blockchain state and the same canonical rules, the same derived Z
 
 Questions such as these require objective answers:
 
-- How much SOLUM exists?
+- How much $SOLUM exists?
 - Where is it?
 - How much remains in the Pool?
 - How much has been burned?
@@ -149,7 +149,7 @@ The architecture can be understood as two connected domains.
 
 ## What Zipvilization Defines
 
-- SOLUM
+- $SOLUM
 - finite supply
 - territorial capacity
 - territorial thresholds
@@ -200,21 +200,31 @@ That distinction matters.
 
 A Zip belongs to the native population architecture of Zipvilization.
 
-A Colonist is the world interpretation of a blockchain Holder participating through SOLUM.
+A Holder is an address participating through $SOLUM at the blockchain layer.
 
-At blockchain level:
+A Colonist is a Holder who has reached at least one complete Farm of territorial capacity.
+
+The canonical transition is:
 
 > **Holder**
-
-Inside Zipvilization:
-
+>
+> **↓**
+>
+> **8,000,000 $SOLUM = 8 Tiles = 1 complete Farm = 8 km²**
+>
+> **↓**
+>
 > **Colonist**
+
+Below that threshold, the participant remains a Holder.
+
+At or above it, the Holder reaches the Colonist threshold and active territorial development may begin according to valid historical state.
 
 The Colonist introduces something that deterministic population mechanics cannot provide:
 
 > **agency**
 
-A Zip does not decide whether a Human acquires SOLUM.
+A Zip does not decide whether a Human acquires $SOLUM.
 
 A Zip does not decide whether a Human transfers it.
 
@@ -253,7 +263,7 @@ A State is not automatically a government.
 
 A Kingdom is not automatically a monarchy.
 
-Those are possible civilizational directions, not automatic consequences of crossing a SOLUM threshold.
+Those are possible civilizational directions, not automatic consequences of crossing a $SOLUM threshold.
 
 ---
 
@@ -263,7 +273,11 @@ The Farm is the foundational territorial scale.
 
 Its canonical territorial requirement is:
 
-> **8 SOLUM**
+> **8 Tiles**
+>
+> **8,000,000 $SOLUM**
+>
+> **8 km²**
 
 Its mature biological core establishes the first complete relationship between:
 
@@ -287,11 +301,17 @@ But those mechanics must be explicitly introduced before they can be treated as 
 
 The City represents:
 
-> **256 SOLUM**
+> **256 Tiles**
+>
+> **256,000,000 $SOLUM**
+>
+> **256 km²**
 
-or:
+Its canonical composition is:
 
-> **32 Farms of territorial capacity**
+> **16 complete Farms + 128 Tiles of City Territory**
+
+The total mathematical scale grows by ×32 from Farm to City, but that does not mean a City contains 32 Farms. Half of its 256 Tiles belong to 16 complete Farms; the other half is Territory native to City scale.
 
 Its larger scale creates the possibility of concentration.
 
@@ -316,11 +336,17 @@ But a City does not receive those properties merely because it reaches City scal
 
 The State represents:
 
-> **8,192 SOLUM**
+> **8,192 Tiles**
+>
+> **8,192,000,000 $SOLUM**
+>
+> **8,192 km²**
 
-or:
+Its canonical composition is:
 
-> **32 Cities**
+> **16 complete Cities + 4,096 Tiles of State Territory**
+
+The total mathematical scale again grows by ×32, but a State does not contain 32 Cities. Half of its Territory belongs to 16 complete Cities; the other half is Territory native to State scale.
 
 At this scale, collective organization may eventually become increasingly meaningful.
 
@@ -348,11 +374,17 @@ The territorial structure exists independently of whatever political system part
 
 The Kingdom represents:
 
-> **262,144 SOLUM**
+> **262,144 Tiles**
+>
+> **262,144,000,000 $SOLUM**
+>
+> **262,144 km²**
 
-or:
+Its canonical composition is:
 
-> **32 States**
+> **16 complete States + 131,072 Tiles of Kingdom Territory**
+
+The total mathematical scale grows by ×32 from State to Kingdom, but a Kingdom does not contain 32 States. Half of its Territory belongs to 16 complete States; the other half is Territory native to Kingdom scale.
 
 At this scale, relationships between large territorial structures may eventually become significant.
 
@@ -388,55 +420,72 @@ A Kingdom is not automatically powerful.
 
 A State is not automatically well governed.
 
-A City is not automatically productive.
+A City is not automatically prosperous.
 
-A Farm is not automatically efficient.
+A Farm is not automatically productive.
 
-Those outcomes belong to civilization.
+Territory creates the physical and structural conditions in which those outcomes may become possible.
 
-This distinction prevents the territorial hierarchy from becoming a simple leaderboard.
+It does not manufacture the outcomes themselves.
 
-A smaller Colonist may become important.
+This is important because otherwise the system would confuse ownership with achievement.
 
-Several smaller Territories may cooperate.
+Holding enough $SOLUM to satisfy a territorial threshold can establish capacity.
 
-A large Territory may make poor decisions.
+It cannot automatically create:
 
-A State may depend on relationships beyond its boundaries.
+- economic productivity,
+- political legitimacy,
+- social cohesion,
+- military power,
+- cultural influence,
+- cooperation,
+- stability,
+- or historical importance.
 
-A Kingdom may possess scale without possessing influence.
+Those things require something more.
 
-> **Territory creates capacity.**
+They require what happens inside the Territory.
+
+> **Territory establishes capacity.**
 >
-> **Participation creates consequence.**
+> **Civilization determines what that capacity becomes.**
 
 ---
 
 # Time Prevents Civilization From Being Instant
 
-Territorial capacity can be acquired.
+Territory alone is not enough.
 
-Elapsed Time cannot.
+Time is the second major constraint.
 
-This prevents a Colonist from purchasing a complete civilizational past.
+A Colonist may acquire enough $SOLUM for Kingdom-scale Territory.
 
-A Colonist may acquire enough SOLUM for Kingdom-scale Territory.
+That does not mean a mature Kingdom instantly exists.
 
-That does not instantly create:
+Development must still occur through canonical Time.
 
-- a Mature Kingdom,
-- a history,
-- institutions,
-- economic relationships,
-- political legitimacy,
-- alliances,
-- or culture.
+Zips must still emerge according to valid biological cycles.
 
-Those things require development or interaction.
+Territorial structures must still mature.
 
-Time therefore introduces something that ownership alone cannot provide:
+History must still accumulate.
 
-> **a past**
+This prevents capital from purchasing an instant past.
+
+A participant can acquire capacity.
+
+They cannot acquire elapsed history.
+
+> **Money can change state.**
+>
+> **Money cannot buy time already lived.**
+
+This distinction becomes increasingly important as Civilization develops.
+
+A newly created large Territory and an old large Territory may have similar current capacity.
+
+They do not necessarily have the same history.
 
 → **[Understand Time](/world/time/)**
 
@@ -444,23 +493,33 @@ Time therefore introduces something that ownership alone cannot provide:
 
 # Zips Provide Native Population
 
-Civilization also requires a distinction between participants and native population.
+Territory without population is capacity without inhabitants.
 
-Colonists bring Human agency into the system.
+Zips provide the native population layer of Zipvilization.
 
-Zips belong to the biological structure of the world.
+They are not simply decorative units attached to territorial thresholds.
 
-They emerge through canonical development.
+They emerge through Bloch under valid territorial and temporal conditions.
 
-Their existence can make Territory inhabited without pretending that population itself determines civilization.
+Each Zip is unique.
 
-This gives Zipvilization two fundamentally different forms of presence:
+Each Zip belongs to the evolving history of the world.
 
-> **Colonists participate.**
+As population grows, Civilization gains another dimension.
+
+Colonists introduce Human agency.
+
+Zips introduce native life.
+
+Those two forms of participation are not the same.
+
+Their interaction may eventually become one of the most important dimensions of Zipvilization.
+
+But we should not decide in advance what that relationship must become.
+
+> **Population creates presence.**
 >
-> **Zips inhabit.**
-
-How those two dimensions eventually interact can develop through future Chapters.
+> **Interaction may create society.**
 
 → **[Discover Zips](/world/zips/)**
 
@@ -468,239 +527,297 @@ How those two dimensions eventually interact can develop through future Chapters
 
 # Economics Must Have Something Real to Act Upon
 
-An economy does not become meaningful merely because something is called a resource.
+An economy should not exist merely because we write the word economy.
 
-Economic behavior becomes meaningful when there are constraints, alternatives, consequences, and participants making decisions.
+Economic behavior requires constraints.
 
-Zipvilization already establishes foundational constraints.
+Scarcity.
 
-SOLUM is finite.
+Resources.
 
-Territorial thresholds require quantity.
+Territory.
 
-Time cannot be purchased retroactively.
+Production.
 
-Permanent Nature permanently removes Territory from future circulation.
+Demand.
 
-Dormant Land remains outside active Colonist-controlled Territory.
+Exchange.
 
-Territorial structures operate at different scales.
+Different interests.
 
-Future Chapters may introduce additional productive or economic mechanics on top of those foundations.
+Different capacities.
 
-But they should become canonical only when actually defined and implemented.
+Different decisions.
 
-> **We do not invent an economy by describing one.**
+Zipvilization already establishes some of the foundations from which economic relationships may eventually emerge.
+
+$SOLUM is finite.
+
+Territory is finite.
+
+Permanent Nature can permanently reduce land available to Civilization.
+
+Territorial scales create different structural capacities.
+
+Time limits development.
+
+Population creates needs and activity.
+
+But these conditions do not automatically constitute a complete economy.
+
+Specific economic mechanics must either be implemented or emerge from actual interaction.
+
+> **Scarcity can be designed.**
 >
-> **We create conditions under which economic behavior can become meaningful.**
+> **Economic behavior should emerge from what participants do with it.**
 
 ---
 
 # Politics Should Have Something to Govern
 
-Politics should not exist because Zipvilization adds a button labeled `Governance`.
+The same principle applies to politics.
 
-It should become meaningful when participants face questions that cannot be reduced to individual ownership.
+We could invent governments now.
+
+Define constitutions.
+
+Assign offices.
+
+Create voting systems.
+
+Name rulers.
+
+Draw borders of authority.
+
+But political vocabulary without meaningful political problems would be superficial.
+
+Politics becomes interesting when there are real questions to resolve.
 
 Shared resources.
 
-Territorial relationships.
+Conflicting interests.
 
-Competing interests.
+Collective decisions.
 
-Economic flows.
+Territorial coordination.
 
-Collective consequences.
+Rules participants may want to influence.
 
-Strategic decisions.
+Relationships between large structures.
 
 At that point, coordination may become necessary.
 
 And coordination may become political.
 
-This is why State-scale Territory provides a natural conceptual space for political and macroeconomic development.
-
-Not because the word *State* automatically creates politics.
-
-Because that scale may eventually support problems requiring collective organization.
-
 > **Political structure should emerge from actual needs and implemented mechanisms — not vocabulary.**
+
+A State may create a natural territorial scale at which such questions become meaningful.
+
+But State-scale Territory does not itself create a government.
 
 ---
 
 # Governance Is Not Civilization
 
-Governance may eventually become one mechanism inside Zipvilization.
+Governance may eventually become part of Civilization.
 
-It is not civilization itself.
+It should not be confused with Civilization itself.
 
 A civilization can contain:
 
-- markets,
-- informal agreements,
-- traditions,
-- alliances,
-- rivalries,
-- institutions,
-- cultural behavior,
-- decentralized coordination,
-- and formal governance.
+- formal governance,
+- informal coordination,
+- competing institutions,
+- decentralized structures,
+- temporary alliances,
+- cultural norms,
+- economic influence,
+- social relationships,
+- and many other forms of organization.
 
-Reducing civilization to voting would miss most of what makes civilization interesting.
+Reducing Civilization to governance would narrow the experiment too early.
 
-Governance is therefore one possible tool for collective decision-making.
+Governance is one possible response to complexity.
 
-It should not become a substitute for emergence.
+It is not the definition of complexity.
+
+> **Civilization is larger than the mechanisms used to coordinate it.**
 
 ---
 
 # Conflict Must Not Be Invented
 
-The same principle applies to conflict.
+Conflict is often treated as an easy way to make a world interesting.
 
-Kingdoms do not need enemies because they are Kingdoms.
+Create factions.
 
-States do not need wars because they are States.
+Create enemies.
 
-Competition may emerge.
+Create scarcity.
 
-Conflicting interests may emerge.
+Create war.
 
-Scarcity may create strategic pressure.
+But predetermined conflict would undermine the experiment.
 
-Alliances may create opposing structures.
+If Colonists eventually develop competing interests, conflict may emerge.
 
-Future mechanics may make conflict possible.
+If territorial structures create strategic relationships, competition may emerge.
 
-But conflict should not be manufactured simply to make the world appear dramatic.
+If resources become meaningful, disputes may emerge.
 
-> **If conflict emerges, it should have a cause inside the system.**
+If alliances form, opposing alliances may eventually form.
 
-The same applies to cooperation.
+But none of those outcomes should be fabricated merely to create drama.
 
-An alliance should mean something because participants created it or because a future mechanic recognizes it.
+> **Conflict is meaningful only when something real is in conflict.**
 
-Not because the interface decided that two neighboring Territories looked good together.
+The same is true of cooperation.
+
+We should not script harmony either.
+
+Both should arise from actual conditions and participant behavior.
 
 ---
 
 # Culture Cannot Be Hard-Coded
 
-Culture is even less suitable for deterministic specification.
+Culture is even harder to define in advance.
 
-We can define:
+It may emerge from:
 
+- shared history,
+- repeated behavior,
+- language,
 - symbols,
-- structures,
-- constraints,
-- terminology,
-- and mechanisms.
+- Zips,
+- territorial identity,
+- relationships,
+- events,
+- institutions,
+- conflicts,
+- cooperation,
+- rituals,
+- or things we have not anticipated.
 
-But culture is what participants do with them over time.
+We can provide a world with enough continuity for culture to become possible.
 
-Shared expressions may emerge.
+We cannot credibly manufacture an authentic culture before the participants and history that would produce it exist.
 
-Communities may develop their own customs.
+> **Culture is remembered behavior that acquires meaning.**
 
-Zips may acquire stories.
+If Zipvilization develops culture, it should be discoverable in what actually happened.
 
-Territories may develop identities.
-
-Historical events may become references.
-
-GEN may become part of the shared mythology of the world.
-
-But those things become meaningful through repetition, recognition, and history.
-
-> **Culture can be supported.**
->
-> **It cannot be manufactured by specification alone.**
+Not merely written into a lore document before Genesis.
 
 ---
 
 # History Must Come From Events
 
-Zipvilization should not need fictional history to appear alive.
+Civilization requires memory.
 
-History begins when actual events begin accumulating.
+Not fictional memory.
 
-A Colonist arrives.
+Actual history.
 
-Territory becomes colonized.
-
-A biological cycle completes.
-
-A Zip emerges.
+A Colonist reaches a territorial threshold.
 
 A Farm matures.
 
-SOLUM becomes Permanent Nature.
+A City becomes possible.
 
-A transfer changes territorial capacity.
+A Zip emerges.
 
-A City develops.
+A transfer changes territorial distribution.
 
-Colonists cooperate.
+$SOLUM becomes Permanent Nature.
 
-An institution appears.
+A relationship begins.
 
-An alliance forms.
+An institution forms.
 
-A conflict occurs.
+An alliance survives.
 
-The important sequence is:
+A conflict ends.
 
-> **event → state change → memory → history**
+A structure disappears.
 
-Not:
+These events can accumulate.
 
-> **story → invented event → fictional state**
+Their sequence matters.
 
-This is why Genesis matters.
+Their timing matters.
 
-Before Genesis, Zipvilization can possess architecture, rules, documentation and identity.
+Their consequences matter.
 
-After Genesis, it can begin accumulating actual history.
+History is therefore not a decorative timeline.
 
-> **Zipvilization exists.**
+It is the accumulated result of valid state transitions and meaningful interaction.
+
+> **The event comes first.**
 >
-> **Its history begins at Genesis.**
+> **The story comes after.**
 
-→ **[Explore Genesis](/genesis/)**
+This is why the historical architecture of Zipvilization matters so much.
+
+Without persistent history, Civilization would repeatedly forget itself.
+
+→ **[Understand Time](/world/time/)**
 
 ---
 
 # Chapters Expand Possibility
 
-Zipvilization does not need every future civilizational mechanic at Genesis.
+The Chapters provide a way to expand Zipvilization without pretending the entire future can be specified today.
 
-That is one of the purposes of Chapters.
+They are not a script for Civilization.
 
-A Chapter can introduce a new structural possibility.
+They are progressive layers of possibility.
 
-Economic.
+**Chapter 0 — Genesis**
 
-Political.
+> **EXIST**
 
-Social.
+The world begins.
 
-Productive.
+**Chapter 1 — Observability**
 
-Strategic.
+> **OBSERVE**
 
-Observational.
+The world becomes readable.
 
-Or something not yet anticipated.
+**Chapter 2 — Territory & World**
 
-But a Chapter should not rewrite the past merely to justify a new idea.
+> **WORLD**
 
-New functionality should extend the world coherently from the state and history that already exist.
+Territory becomes spatially meaningful.
 
-> **Chapters expand what can happen.**
->
-> **They do not predetermine what will happen.**
+**Chapter 3 — Colonists & Roles**
 
-→ **[Explore the Chapters](/chapters/)**
+> **ACT**
+
+Participation gains deeper forms.
+
+**Chapter 4 — Time & History**
+
+> **REMEMBER**
+
+The world accumulates a past.
+
+**Chapter 5 — Emergence**
+
+> **EMERGE**
+
+Complex relationships become increasingly possible.
+
+And then:
+
+> **?**
+
+The Chapters establish the DNA.
+
+They do not write the ending.
+
+→ **[Explore Chapters](/chapters/)**
 
 ---
 
@@ -708,125 +825,108 @@ New functionality should extend the world coherently from the state and history 
 
 Emergence does not mean absence of structure.
 
-Without constraints, almost anything can be claimed and very little has meaning.
+In fact, open outcomes require strong foundations.
 
-Zipvilization therefore needs strong foundations.
+Without stable rules, it becomes impossible to distinguish emergence from inconsistency.
 
-Finite supply.
+Zipvilization therefore needs hard constraints beneath soft possibilities.
 
-Defined territorial thresholds.
+Examples include:
 
-Deterministic Time.
+- finite $SOLUM supply,
+- no arbitrary minting,
+- canonical territorial thresholds,
+- deterministic Time,
+- irreversible Permanent Nature,
+- historical validity,
+- deterministic state translation,
+- and explicit boundaries between truth and representation.
 
-Canonical biological rules.
+These constraints create the environment in which open behavior can remain meaningful.
 
-Permanent consequences.
+A chessboard has strict rules.
 
-Explicit mechanics.
+The games are not predetermined.
 
-Verifiable state.
+Zipvilization follows a similar principle at a much larger conceptual scale.
 
-But above those foundations, outcomes should remain increasingly open.
-
-The objective is neither:
-
-> an empty sandbox where nothing matters
-
-nor:
-
-> a scripted universe where everything has already been decided
-
-It lies between them:
-
-> **strong rules**
->
-> **real constraints**
->
-> **open outcomes**
+> **Strong foundations make genuine uncertainty possible.**
 
 ---
 
 # Determinism Below, Emergence Above
 
-This is one of the central architectural principles of Civilization.
+The architecture can be understood as a vertical transition.
 
-At the foundational layers:
+At the bottom:
 
-**supply**
+> **deterministic blockchain state**
 
-**balances**
+Above it:
 
-**Pool state**
+> **deterministic canonical interpretation**
 
-**Burn**
+Above that:
 
-**territorial thresholds**
+> **world state**
 
-**blocks**
+Above that:
 
-**cycles**
+> **representation**
 
-**maturity rules**
+And above those foundations:
 
-**canonical relationships**
+> **Human and native interaction**
 
-These should be deterministic.
+From interaction may emerge:
 
-At higher civilizational layers:
+> **Civilization**
 
-**economics**
+This gives us a critical architectural rule:
 
-**politics**
+**Emergence must never rewrite the deterministic layers beneath it.**
 
-**alliances**
+If participants form an alliance, the alliance cannot alter historical blockchain state.
 
-**competition**
+If a political institution emerges, it cannot retroactively change territorial history.
 
-**institutions**
+If a culture interprets an event differently, the underlying event remains what actually happened.
 
-**culture**
+Civilization can add meaning.
 
-**power**
-
-**history**
-
-These can become increasingly emergent.
-
-The deterministic layer gives participants something real to act upon.
-
-Participation gives those foundations consequences that mathematics alone does not need to predetermine.
+It cannot falsify its substrate.
 
 ---
 
 # SolumTools Provides the Data Foundation
 
-Civilization cannot be observed reliably if its underlying state is ambiguous.
+As Civilization becomes more complex, raw blockchain data becomes increasingly difficult to interpret directly.
 
-SolumTools reads blockchain, contract and Pool state and combines it with the canonical rules of Zipvilization.
+SolumTools provides the translation layer.
 
-It translates technical data into world data.
+It can expose relationships such as:
 
-For example:
+**$SOLUM balance → Territory**
 
-**Holder → Colonist**
+**Pool-held $SOLUM → Dormant Land**
 
-**SOLUM balance → Territory**
+**burned $SOLUM → Permanent Nature**
 
-**Pool-held SOLUM → Dormant Land**
+**block history → Time**
 
-**burned SOLUM → Permanent Nature**
+**territorial history → development**
 
-**block progression → Time**
+**valid cycles → Zip emergence**
 
-**Territory + Time → developmental state**
+**current state + historical state → maturity**
 
-This provides the factual foundation upon which increasingly complex civilizational observation can be built.
+This translation is essential because Civilization depends on knowing what is actually true.
 
-SolumTools does not decide what civilization becomes.
+If the data layer is wrong, every representation above it becomes unreliable.
 
-It tells us what the underlying world state supports.
-
-> **SolumTools translates the data.**
+> **Canonical rules define the meaning.**
+>
+> **SolumTools applies those rules to translate and expose the data.**
 
 → **[Explore SolumTools](/world/solumtools/)**
 
@@ -834,43 +934,39 @@ It tells us what the underlying world state supports.
 
 # SolumWorld Shows Civilization at World Scale
 
-SolumWorld takes valid Zipvilization state and gives it graphical world-scale expression.
+SolumWorld does not create Civilization.
 
-It allows Humans to explore the world from a broad perspective.
+It makes the state of Solum visible at planetary scale.
 
-Dormant Land.
+It can show:
 
-Permanent Nature.
+- Dormant Land,
+- Active Territory,
+- Permanent Nature,
+- territorial structures,
+- development,
+- population,
+- maturity,
+- historical change,
+- and eventually civilizational relationships that have valid underlying state.
 
-Colonized Territory.
+This distinction is critical.
 
-Farms.
+A map can display an alliance.
 
-Cities.
+It cannot create one.
 
-States.
+A map can display a conflict.
 
-Kingdoms.
+It cannot invent one.
 
-Developmental differences.
+A map can show economic activity.
 
-And, as future Chapters introduce new valid structures, their consequences may also become visible.
+It cannot pretend economic activity exists if no valid data supports it.
 
-SolumWorld can therefore become increasingly rich as civilization develops.
-
-But it does not write that civilization.
-
-If no alliance exists, SolumWorld should not fabricate one.
-
-If no political structure exists, it should not invent one.
-
-If no conflict occurred, it should not draw a war.
-
-If a mechanic has not been implemented, it should not represent it as fact.
-
-> **Civilization changes first.**
+> **Canonical state determines what is true on Solum.**
 >
-> **SolumWorld shows what those changes have made visible at world scale.**
+> **SolumWorld determines how that truth is represented at planetary scale.**
 
 → **[Explore SolumWorld](/world/solumworld/)**
 
@@ -878,43 +974,53 @@ If a mechanic has not been implemented, it should not represent it as fact.
 
 # SolumView Lets Us Enter Civilization
 
-SolumView moves from the broad world into local detail.
+SolumView moves from planetary observation toward individual territorial experience.
 
-A Human can enter the Territory of a Colonist and progressively observe what exists inside it.
+A Colonist can move from:
 
-Conceptually:
+**wallet**
 
-**WORLD**  
-↓  
-**COLONIST**  
-↓  
-**TERRITORY**  
-↓  
-**INTERNAL STRUCTURE**  
-↓  
-**FARMS**  
-↓  
-**ZIPS**
+↓
 
-As Zipvilization develops, SolumView can expose increasingly detailed local consequences of civilization.
+**Holder**
 
-A Territory may eventually contain:
+↓
 
-- mature and developing structures,
-- Farms,
-- Zips,
-- productive activity,
-- local relationships,
-- future Chapter mechanics,
-- and other valid state.
+**Farm threshold**
 
-At its maximum development, SolumView can become a live window into the internal life of a Colonist's Territory.
+↓
 
-But the same rule always applies:
+**Colonist**
 
-> **SolumView reveals what exists.**
->
-> **It does not create what it shows.**
+↓
+
+**Territory**
+
+↓
+
+**SolumView**
+
+At that point, Territory is no longer only a number.
+
+It becomes an experience.
+
+Structures can become visible.
+
+Zips can become observable.
+
+Time can become perceptible.
+
+History can leave traces.
+
+Relationships can acquire context.
+
+But SolumView remains a representation layer.
+
+Its visual life may be simulated.
+
+Its canonical truth may not.
+
+> **SolumView is where Territory becomes an experience.**
 
 → **[Explore SolumView](/world/solumview/)**
 
@@ -922,39 +1028,53 @@ But the same rule always applies:
 
 # Data → World → Inside
 
-The relationship between the three frontend layers becomes especially important as civilization becomes more complex.
+The three major observational layers form a continuous progression.
 
-**SOLUMTOOLS — DATA**
+**SolumTools**
 
-Translates blockchain state and canonical rules into Zipvilization data.
-
-↓
-
-**SOLUMWORLD — WORLD**
-
-Turns that valid state into a navigable graphical representation of Zipvilization at broad scale.
+> **DATA**
 
 ↓
 
-**SOLUMVIEW — INSIDE**
+**SolumWorld**
 
-Lets Humans enter individual Territories and explore increasingly detailed local state.
+> **WORLD**
 
-The richer civilization becomes, the more these layers may have to represent.
+↓
 
-But their responsibilities remain different.
+**SolumView**
 
-> **SolumTools translates the data.**
->
-> **SolumWorld shows the world.**
->
-> **SolumView lets us enter it.**
+> **INSIDE**
+
+Or from the participant's perspective:
+
+> **READ → SEE → ENTER**
+
+And eventually:
+
+> **EXPERIENCE → INTERACT → ?**
+
+The final question mark matters.
+
+It belongs to Civilization.
+
+The architecture can expose state.
+
+Represent the world.
+
+Let us enter Territory.
+
+But what participants eventually do there cannot be completely specified in advance.
+
+That is where Horizonte begins.
 
 ---
 
 # Representation Follows Reality
 
-This rule becomes increasingly important as the world becomes visually richer.
+As Civilization becomes visually richer, the temptation to let representation imply reality will increase.
+
+We must resist it.
 
 A rendered alliance does not create an alliance.
 
@@ -966,61 +1086,83 @@ A prosperous-looking City does not prove economic prosperity.
 
 A political-looking State does not prove governance exists.
 
-The direction must remain:
+Representation must follow valid state.
 
-**VALID STATE**  
-↓  
-**TRANSLATED DATA**  
-↓  
-**WORLD REPRESENTATION**  
-↓  
+The direction of authority remains:
+
+**VALID STATE**
+
+↓
+
+**TRANSLATED DATA**
+
+↓
+
+**WORLD REPRESENTATION**
+
+↓
+
 **DETAILED OBSERVATION**
 
-Never:
+Never the reverse.
 
-**DESIRED IMAGE**  
-↓  
-**INVENTED REALITY**
-
-> **The world may become visually extraordinary without becoming canonically fictional.**
+> **Representation interprets the world.**
+>
+> **It does not create its truth.**
 
 ---
 
 # Artificial Intelligence Must Respect the Boundary
 
-Artificial Intelligence has a particularly important responsibility here.
+Artificial Intelligence can become extremely useful as Civilization grows.
 
-AI is extremely capable of filling gaps.
+It can:
 
-That is useful in many contexts.
+- analyze history,
+- compare Territories,
+- detect patterns,
+- explain relationships,
+- reconstruct events,
+- follow individual Zips,
+- identify anomalies,
+- connect distant parts of the system,
+- and help Humans navigate complexity.
 
-It is dangerous in a canonical world.
+But AI must not confuse possibility with fact.
 
 If Zipvilization has not defined a political mechanic, AI must not infer that one exists.
 
-If no alliance is recorded, AI must not invent one.
+If a visual representation suggests prosperity, AI must not treat prosperity as canonical unless supported by data.
 
-If a future Chapter remains conceptual, AI must not describe it as implemented.
+If two Territories repeatedly interact, AI may identify a pattern.
 
-If an outcome depends on Colonists, AI must not present that outcome as predetermined.
+It must not invent an alliance unless the system contains evidence that such an alliance exists.
 
-The correct reasoning sequence is:
+The cognitive sequence should remain:
 
-**What is canonical?**  
-↓  
-**What is implemented?**  
-↓  
-**What is current state?**  
-↓  
-**What can be deterministically derived?**  
-↓  
-**What is represented?**  
-↓  
+**What is canonical?**
+
+↓
+
+**What is implemented?**
+
+↓
+
+**What is current state?**
+
+↓
+
+**What can be deterministically derived?**
+
+↓
+
+**What is represented?**
+
+↓
+
 **What remains possible but unknown?**
 
-That final category matters enormously.
-
-A civilization must contain questions that even its creators cannot answer in advance.
+That discipline becomes increasingly important as Civilization becomes more complex.
 
 → **[Explore Artificial Intelligence](/trinomial/artificial-intelligence/)**
 
@@ -1028,147 +1170,167 @@ A civilization must contain questions that even its creators cannot answer in ad
 
 # The Human Does Not Rule the Civilization
 
-The Human component of the Trinomial helps create Zipvilization.
+The Human begins the project.
 
-It establishes architecture.
+Defines initial architecture.
 
-Makes decisions.
+Builds infrastructure.
 
-Protects principles.
+Makes foundational decisions.
 
-Builds.
+Accepts responsibility for them.
 
-But the Human should not become an invisible emperor deciding every future outcome.
+But the objective is not permanent authorship of every outcome.
 
-The project requires authorship without requiring permanent narrative control.
+If every major event requires the creator to decide what happens, Zipvilization remains a controlled narrative.
 
-The Human helps build conditions.
+The long-term direction is different.
 
-Artificial Intelligence helps structure, interpret and operate knowledge.
+Build the conditions.
 
-Horizonte preserves the boundary and direction beyond immediate convenience.
+Protect the Principles.
 
-Colonists participate within the world those foundations make possible.
+Maintain coherence.
 
-> **Creating the system is not the same as controlling its future history.**
+Preserve the Horizon.
 
-→ **[Explore The Trinomial](/trinomial/)**
+And progressively allow the system and its participants to produce more of the story themselves.
+
+> **The Human begins the experiment.**
+>
+> **The Human should not have to write its entire history.**
+
+→ **[Meet the Human](/trinomial/human/)**
 
 ---
 
 # Horizonte Protects the Unknown
 
-If every future outcome were already written, Horizonte would be unnecessary.
+Horizonte exists because not everything should be resolved.
 
-But Zipvilization is intended to evolve.
+Some uncertainty is not a documentation failure.
 
-New Chapters may appear.
+It is structural.
 
-New pressures may appear.
+We know the foundational architecture.
 
-Participants may discover behaviors we did not anticipate.
+We know the Principles.
 
-Technology will change.
+We know the canonical rules.
 
-Artificial Intelligence will change.
+We know the world model.
 
-The world may develop in directions that are impossible to describe today.
+We know the territorial mathematics.
 
-Horizonte does not resolve those unknowns.
+We know the Time architecture.
 
-It protects the boundary within which they can remain open.
+We know the initial mechanisms.
 
-> **Horizonte is fixed precisely because the future is not.**
+What we do not know is what Civilization will ultimately become.
 
-→ **[Explore Horizonte](/trinomial/horizonte/)**
+And that is intentional.
+
+> **The foundation is defined.**
+>
+> **The possibilities are not.**
+
+Horizonte protects that distinction.
+
+It prevents current design from colonizing the entire future.
+
+→ **[Discover Horizonte](/trinomial/horizonte/)**
 
 ---
 
 # We Do Not Know What Will Happen
 
-This is not missing information.
+This may be the most important statement on this page.
 
-It is part of the architecture.
+We do not know whether Colonists will cooperate more than they compete.
 
-We can know:
+We do not know whether large territorial structures will dominate smaller ones.
 
-- the supply rules,
-- territorial thresholds,
-- biological cycles,
-- maturity requirements,
-- current blockchain state,
-- deterministic derivations,
-- implemented mechanics,
-- and actual historical events.
+We do not know whether political organization will become important.
 
-But we do not know in advance:
+We do not know whether economic specialization will emerge strongly.
 
-- which Colonists will cooperate,
-- which Territories will become important,
-- what economic relationships may dominate,
-- whether alliances will appear,
-- what institutions participants may create,
-- where conflicts may arise,
-- what cultures may emerge,
-- or what the world may look like after years of accumulated decisions.
+We do not know whether alliances will persist.
 
-If all of that were already known, Zipvilization would already have an ending.
+We do not know whether conflict will become meaningful.
 
-There would be little left to discover.
+We do not know which Zips will become important.
 
-> **Unknown outcome is not an architectural gap.**
+We do not know which events future participants will remember.
+
+We do not know which institutions may appear.
+
+We do not know which assumptions will prove irrelevant.
+
+And we should not pretend otherwise.
+
+The purpose of defining the foundation carefully is not to eliminate uncertainty.
+
+It is to make future uncertainty meaningful.
+
+> **A world with no rules is arbitrary.**
 >
-> **It is Horizonte.**
+> **A world with no uncertainty is already finished.**
+
+Zipvilization needs neither.
+
+It needs structure below and possibility above.
 
 ---
 
 # Civilization Is the Result, Not the Product
 
-Zipvilization can build infrastructure for civilization.
+This distinction changes how Zipvilization should be built.
 
-It cannot package civilization itself.
+If Civilization were the product, we would design it directly.
 
-Civilization is what may emerge from:
+Create the governments.
 
-**FINITE LAND**
+Create the economy.
 
-+
+Create the factions.
 
-**PARTICIPANTS**
+Create the culture.
 
-+
+Create the conflicts.
 
-**POPULATION**
+Create the winners.
 
-+
+Then invite people to experience what we had already decided.
 
-**TIME**
+But Civilization is not the product.
 
-+
+The product is closer to:
 
-**CONSTRAINTS**
+- the world,
+- the rules,
+- the infrastructure,
+- the observational tools,
+- the interfaces,
+- the canonical architecture,
+- and the conditions for participation.
 
-+
+Civilization is what may emerge from people using those things over time.
 
-**INTERACTION**
+> **We build the conditions.**
+>
+> **Civilization is the result.**
 
-+
+That result may be impressive.
 
-**MEMORY**
+It may be chaotic.
 
-The infrastructure can be designed.
+It may be quiet.
 
-The mathematics can be tested.
+It may surprise us.
 
-The rules can be documented.
+It may fail.
 
-The interfaces can be built.
-
-The world can be represented.
-
-But the civilizational result belongs to interaction.
-
-That is the experiment.
+All of those possibilities are more honest than pretending we already know the ending.
 
 ---
 
@@ -1195,6 +1357,7 @@ Blockchain provides:
 
 Canonical rules can translate those foundations into:
 
+- Holders,
 - Colonists,
 - Territory,
 - Dormant Land,
@@ -1203,6 +1366,10 @@ Canonical rules can translate those foundations into:
 - Zips,
 - development,
 - and maturity.
+
+The distinction between Holder and Colonist remains canonical:
+
+> **Holder → complete Farm threshold → Colonist**
 
 ## Civilization
 
@@ -1233,15 +1400,27 @@ Therefore:
 
 The progression can now be seen as a whole.
 
-**SOLUM**
+**$SOLUM**
 
 creates finite territorial possibility.
 
 ↓
 
+**HOLDERS**
+
+hold $SOLUM on blockchain.
+
+↓
+
+**COMPLETE FARM THRESHOLD**
+
+8,000,000 $SOLUM creates the minimum complete territorial structure.
+
+↓
+
 **COLONISTS**
 
-introduce Human participation.
+introduce Human participation at the active territorial threshold.
 
 ↓
 
@@ -1327,7 +1506,9 @@ Genesis introduces the missing ingredient:
 
 > **real participation**
 
-Colonists begin interacting with SOLUM.
+Humans can begin interacting with $SOLUM as Holders.
+
+Holders who reach the complete Farm threshold can become Colonists.
 
 Territorial distribution begins changing.
 
@@ -1360,7 +1541,11 @@ The higher layer:
 
 > **Emergent**
 
-The participants:
+The participant transition:
+
+> **Holder → complete Farm threshold → Colonist**
+
+The active participants:
 
 > **Colonists introduce agency.**
 
@@ -1448,59 +1633,47 @@ The canonical answer:
 
 # We Build the Conditions
 
-Zipvilization does not need to promise a civilization.
+Zipvilization does not need to know its final civilization before Genesis.
 
-It needs to create conditions strong enough that one could emerge.
+It needs something more difficult.
 
-A finite world.
+A foundation coherent enough that whatever emerges can be understood.
 
-Real constraints.
+Territory must mean something.
 
-Deterministic foundations.
+Time must mean something.
 
-Participants with agency.
+Population must mean something.
 
-Territories with scale.
+History must mean something.
 
-Population with development.
+Constraints must matter.
 
-Time with consequence.
+Actions must have consequences.
 
-Mechanisms capable of becoming economically meaningful.
+Representations must remain tied to truth.
 
-Structures capable of supporting political organization.
+And the future must remain open enough for participation to matter.
 
-Relationships capable of becoming strategic.
+That is the balance.
 
-A history that cannot simply be purchased in advance.
+Too little structure and nothing means anything.
 
-And enough openness for the result to remain unknown.
+Too much structure and nothing can genuinely emerge.
 
-We build the foundations.
-
-We define the rules.
-
-We build the tools.
-
-We make the world observable.
-
-Then something has to happen that no specification can do alone:
-
-> **people have to participate.**
-
-What eventually emerges from that participation should not be a line we already wrote in the original specification.
-
-It should be the history of Zipvilization.
-
-And from that history,
-
-civilization may emerge.
+Between those extremes lies the experiment.
 
 > **We define the conditions.**
 >
-> **We do not define the outcome.**
+> **We observe what happens.**
+>
+> **We preserve what becomes history.**
+>
+> **We leave the ending open.**
+
+That is where Civilization begins.
 
 ---
 
 → **[Return to The World](/world/)**  
-→ **[Continue to SolumTools](/world/solumtools/)**
+→ **[Explore Time](/world/time/)**
