@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Aster — Decisions
 
 ## Local Buffering
