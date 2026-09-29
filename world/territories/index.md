@@ -4,137 +4,217 @@ title: Territories
 parent: The World
 nav_order: 3
 description: >
-  Territories are the spatial structures of Zipvilization. A complete Farm is the
-  minimum active Territory, connecting SOLUM, Tiles, Colonists, Bloch, Time and
-  the emergence of Zips.
+  Territory in Zipvilization is deterministic spatial capacity derived from
+  SOLUM. Farms are the minimum active territorial structure and remain the
+  primary reference for population, maturity and historical reconstruction.
 permalink: /world/territories/
 ---
 
 # Territories
 
-SOLUM gives Zipvilization space.
+Territory is the spatial structure of Zipvilization.
 
-Territories give that space structure.
+It begins with SOLUM.
 
-The foundational relationship is:
+Every unit of SOLUM represents:
 
 > **1 SOLUM = 1 m²**
 
-But holding SOLUM does not automatically create an active Territory.
+But holding SOLUM does not automatically mean that active Territory exists.
 
-Before Territory can become part of the living structure of Zipvilization, a minimum territorial unit must exist.
+Territory becomes active only when enough SOLUM exists to form the minimum territorial structure:
 
-That unit is the:
-
-> **Farm**
+> **1 Farm**
 
 A Farm requires:
 
-> **8 Tiles = 8,000,000 SOLUM = 8 km²**
+> **8 Tiles**
 
-It is the minimum active territorial structure of Zipvilization.
+and each Tile requires:
 
-It is also the threshold at which a Holder becomes a Colonist.
-
-And because each Tile provides capacity for one Zip:
-
-> **1 Farm = capacity for 8 Zips**
-
-Since:
-
-> **1 Zip = 1 bit**
-
-then:
-
-> **8 Zips = 8 bits = 1 byte**
-
-Therefore:
-
-> **1 Farm = 1 byte**
-
-This is where Territory, information, population and Time begin to connect.
-
-> **SOLUM provides space.**
->
-> **The Farm activates Territory.**
->
-> **Territory defines capacity.**
->
-> **Farms generate population.**
->
-> **Bloch gives that population form.**
->
-> **Time determines when generation can occur.**
->
-> **History determines what actually occurred.**
-
-→ **[Explore Solum](/world/solum/)**  
-→ **[Understand Time](/world/time/)**  
-→ **[Discover Zips](/world/zips/)**
-
----
-
-# From SOLUM to Territory
-
-At blockchain level, an address can hold SOLUM.
-
-Inside Zipvilization, that balance has spatial potential.
-
-The translation begins with:
-
-> **1 SOLUM = 1 m²**
-
-The next spatial unit is the Tile:
-
-> **1 Tile = 1,000,000 SOLUM**
-
-Therefore:
-
-> **1 Tile = 1,000,000 m² = 1 km²**
-
-But a Tile alone is not the minimum active Territory.
-
-Eight Tiles are required to form the first complete territorial structure:
-
-> **1 Farm = 8 Tiles**
+> **1,000,000 SOLUM**
 
 Therefore:
 
 > **1 Farm = 8,000,000 SOLUM = 8 km²**
 
-The complete progression begins:
+This threshold separates simple SOLUM ownership from active territorial participation.
 
-    ADDRESS
-    ↓
-    SOLUM
-    ↓
-    HOLDER
-    ↓
-    TILES
-    ↓
-    FARM THRESHOLD
-    ↓
-    COLONIST
-    ↓
-    ACTIVE TERRITORY
-
-This distinction is fundamental.
-
-> **Holding SOLUM does not automatically make an address a Colonist.**
-
----
-
-# Holder and Colonist Are Not the Same
-
-Any address holding SOLUM is a:
+Below it:
 
 > **Holder**
 
-But a Holder becomes a Colonist only when enough SOLUM exists to form at least one complete Farm.
+At or above it:
 
-The threshold is:
+> **Colonist**
+
+Territory is therefore not merely balance.
+
+It is balance interpreted through canonical spatial rules.
+
+→ **[Discover SOLUM](/world/solum/)**  
+→ **[Discover Colonists](/world/colonists/)**
+
+---
+
+# From SOLUM to Territory
+
+The spatial hierarchy begins with the smallest canonical unit:
+
+> **1 SOLUM = 1 m²**
+
+From there:
+
+    1,000,000 SOLUM
+    ↓
+    1 TILE
+    ↓
+    1 km²
+
+A Tile provides capacity for:
+
+> **1 Zip**
+
+But a Tile is not independently active Colonist Territory.
+
+The minimum active territorial structure is:
+
+> **1 Farm**
+
+which contains:
+
+> **8 Tiles**
+
+Therefore:
+
+    8,000,000 SOLUM
+    ↓
+    8 TILES
+    ↓
+    8 km²
+    ↓
+    1 FARM
+    ↓
+    MAXIMUM CAPACITY: 8 ZIPS
+
+This is the first complete territorial structure of Zipvilization.
+
+---
+
+# The Territorial Levels
+
+Zipvilization has four canonical territorial levels:
+
+| Territory | Tiles | SOLUM | Area | Maximum Zip Capacity |
+|:----------|------:|------:|-----:|---------------------:|
+| Farm | 8 | 8,000,000 | 8 km² | 8 |
+| City | 256 | 256,000,000 | 256 km² | 256 |
+| State | 8,192 | 8,192,000,000 | 8,192 km² | 8,192 |
+| Kingdom | 262,144 | 262,144,000,000 | 262,144 km² | 262,144 |
+
+Each level has:
+
+> **32× the total territorial capacity of the previous level**
+
+But that does **not** mean that each level structurally contains 32 units of the previous level.
+
+This distinction is fundamental.
+
+> **Scale is not composition.**
+
+---
+
+# Territorial Scale
+
+The total capacity progression is:
+
+    FARM
+    8 Tiles
+
+    ×32
+
+    CITY
+    256 Tiles
+
+    ×32
+
+    STATE
+    8,192 Tiles
+
+    ×32
+
+    KINGDOM
+    262,144 Tiles
+
+This tells us how total territorial capacity grows.
+
+It does not tell us how each Territory is internally composed.
+
+For that, Zipvilization uses a different rule.
+
+---
+
+# Territorial Composition
+
+Every higher territorial level is composed of:
+
+> **16 complete Territories of the immediately preceding level**
+
+plus:
+
+> **an equal amount of new Territory belonging to the higher level itself**
+
+This creates a 50 / 50 structure:
+
+> **50% inherited lower-level Territory**
+>
+> **50% new higher-level Territory**
+
+That rule produces the complete hierarchy.
+
+---
+
+# Farm
+
+The Farm is the first active territorial structure.
+
+It contains:
+
+> **8 Tiles**
+
+Equivalent SOLUM:
 
 > **8,000,000 SOLUM**
+
+Area:
+
+> **8 km²**
+
+Maximum population:
+
+> **8 Zips**
+
+The Farm is simultaneously:
+
+- the minimum active territorial structure,
+- the threshold for becoming a Colonist,
+- the primary population-generating territorial unit,
+- the primary maturity reference,
+- and the primary historical reference for territorial development.
+
+This makes the Farm much more than the smallest item in a hierarchy.
+
+It is the basic living unit from which higher territorial development grows.
+
+---
+
+# The Farm Threshold
+
+An address holding less than:
+
+> **8,000,000 SOLUM**
+
+does not have one complete Farm.
 
 Therefore:
 
@@ -144,77 +224,41 @@ Therefore:
     ↓
     NO COMPLETE FARM
     ↓
-    NO ACTIVE COLONIST TERRITORY
+    NO ACTIVE TERRITORY
+    ↓
+    NO BLOCH ACTIVATION
 
-At the threshold:
+At:
+
+> **8,000,000 SOLUM**
+
+the first complete Farm becomes possible.
+
+Then:
 
     SOLUM ≥ 8,000,000
     ↓
-    8 TILES
-    ↓
-    1 COMPLETE FARM
+    COMPLETE FARM CAPACITY
     ↓
     COLONIST
     ↓
-    ACTIVE TERRITORIAL DEVELOPMENT CAN BEGIN
+    ACTIVE TERRITORY
+    ↓
+    BLOCH CAN ACTIVATE
+    ↓
+    BIOLOGICAL DEVELOPMENT CAN BEGIN
 
-This means a wallet can contain SOLUM without yet being represented as an active Colonist Territory.
+This threshold is one of the most important boundaries in Zipvilization.
 
-For example:
-
-    7,000,000 SOLUM
-    =
-    HOLDER
-    ≠
-    COLONIST
-
-while:
-
-    8,000,000 SOLUM
-    =
-    1 FARM
-    =
-    COLONIST THRESHOLD
-
-The blockchain balance exists in both cases.
-
-The Zipvilization territorial state is different.
-
-> **Holder ≠ Colonist**
+> **Holding SOLUM is not the same as colonizing Territory.**
 
 ---
 
-# The Tile
+# Farm Population
 
-The **Tile** is the foundational spatial and population-capacity unit.
-
-Canonical relationship:
-
-> **1 Tile = 1,000,000 SOLUM = 1 km²**
-
-Each Tile provides capacity for:
+Every Tile provides capacity for:
 
 > **1 Zip**
-
-Therefore:
-
-> **1 Tile = capacity for 1 Zip**
-
-But this does not mean that a single Tile independently becomes active Colonist Territory.
-
-The Tile is a component.
-
-The Farm is the minimum complete active structure.
-
-> **Tile = spatial and Zip-capacity unit**
->
-> **Farm = minimum active territorial unit**
-
-This distinction prevents territorial capacity from being confused with territorial activation.
-
----
-
-# The Farm Is the First Complete Unit
 
 A Farm contains:
 
@@ -222,301 +266,280 @@ A Farm contains:
 
 Therefore:
 
-> **8,000,000 SOLUM**
+> **1 Farm = capacity for 8 Zips**
 
-and:
+But capacity does not mean those Zips already exist.
 
-> **8 km²**
+Population must emerge through valid biological development.
 
-Its maximum population capacity is:
+A valid active/generating Farm can support:
 
-> **8 Zips**
+> **1 Zip-generation process per biological cycle**
 
-The informational relationship is equally important:
+while valid unoccupied territorial capacity exists.
 
-    1 Zip
-    =
-    1 bit
+A Farm does not need to be mature before generation begins.
 
-    8 Zips
-    =
-    8 bits
+Its first eight valid biological cycles generate its initial eight-Zip population.
 
-    8 bits
-    =
-    1 byte
+At the end of those eight valid cycles, when its eight-Zip capacity has been populated under valid historical conditions:
+
+> **the Farm reaches maturity**
 
 Therefore:
 
-> **1 complete populated Farm = 1 byte of Zip population**
-
-The Farm is simultaneously:
-
-- the minimum active territorial structure,
-- the minimum Colonist threshold,
-- the primary maturity reference,
-- the primary historical territorial reference,
-- the primary population-generating unit,
-- and the first complete informational structure of Zipvilization.
-
-This is why the Farm remains fundamental even when much larger Territories emerge.
-
----
-
-# Territory Activates Bloch
-
-The Farm threshold also marks the beginning of biological development.
-
-Below one complete Farm:
-
-    HOLDER
-    ↓
-    NO ACTIVE TERRITORY
-    ↓
-    NO BLOCH ACTIVATION
-    ↓
-    NO ZIP GENERATION
-
-Once the minimum active Territory exists:
-
-    COLONIST
-    ↓
-    FARM
-    ↓
-    ACTIVE TERRITORY
-    ↓
+    VALID ACTIVE / GENERATING FARM
+    +
     BLOCH
-    ↓
+    +
     BIOLOGICAL TIME
+    +
+    AVAILABLE CAPACITY
+    +
+    VALID HISTORY
     ↓
-    ZIP EMERGENCE
+    ZIP GENERATION
 
-Bloch is the digital-genetic mechanism through which a Zip emerges.
+The Farm is the generator.
 
-It generates, configures and compresses digital genetic information into a unique individual.
+Bloch is the digital-genetic emergence mechanism.
 
-But Bloch does not create an independent population-generation rate.
+Time determines the duration of each generation cycle.
 
-The Farm determines the rate.
+Territory determines capacity.
 
-Territorial capacity determines the maximum population.
+History determines what actually happened.
 
-Time determines when the process can complete.
-
-> **Territory defines capacity.**
->
-> **Farm defines generation rate.**
->
-> **Bloch gives each Zip its unique form.**
->
-> **Time gives the process duration.**
-
-→ **[Discover Zips](/world/zips/)**  
-→ **[Understand Time](/world/time/)**
+→ **[Explore Time](/world/time/)**  
+→ **[Discover Zips](/world/zips/)**
 
 ---
 
-# The Territorial Hierarchy
+# Farm as Information
 
-Zipvilization uses four foundational territorial scales:
+A Zip represents:
 
-| Territory | Tiles | SOLUM | Area | Maximum Zip Capacity |
-|:----------|------:|------:|-----:|---------------------:|
-| Farm | 8 | 8,000,000 | 8 km² | 8 |
-| City | 256 | 256,000,000 | 256 km² | 256 |
-| State | 8,192 | 8,192,000,000 | 8,192 km² | 8,192 |
-| Kingdom | 262,144 | 262,144,000,000 | 262,144 km² | 262,144 |
+> **1 bit**
 
-The total territorial capacity increases by:
-
-> **×32**
-
-between consecutive levels.
-
-Therefore:
-
-    8 Tiles
-    × 32
-    ↓
-    256 Tiles
-    × 32
-    ↓
-    8,192 Tiles
-    × 32
-    ↓
-    262,144 Tiles
-
-But ×32 describes total territorial scale.
-
-It does not describe the number of complete lower-level Territories contained inside the next level.
-
----
-
-# Total Scale Is Not Structural Composition
-
-A City has the same total area as 32 Farms:
-
-    256 Tiles
-    ÷
-    8 Tiles
-    =
-    32
-
-But a City does not structurally contain 32 Farms.
-
-It contains:
-
-> **16 Farms + City Territory**
-
-The remaining half belongs to the City level itself.
-
-The same architecture continues upward.
-
-A State contains:
-
-> **16 Cities + State Territory**
-
-A Kingdom contains:
-
-> **16 States + Kingdom Territory**
-
-Therefore:
-
-> **Total mathematical scale ≠ actual hierarchical composition**
-
-The ×32 progression describes total capacity.
-
-The hierarchy describes how that capacity is organized.
-
----
-
-# The Structural Rule
-
-Each higher territorial level contains two equal components:
-
-1. **16 complete Territories of the immediately preceding level**
-2. **an equal amount of Territory native to the new level**
-
-Therefore:
-
-> **50% inherited lower-level structure**
->
-> **50% new higher-level Territory**
-
-This pattern connects territorial expansion with continued biological development.
-
----
-
-# Farm
-
-The first active Territory is the:
-
-> **Farm**
-
-Canonical requirement:
-
-> **8 Tiles**
-
-Therefore:
-
-> **8,000,000 SOLUM = 8 km²**
-
-Maximum population capacity:
+A Farm can contain:
 
 > **8 Zips**
 
-Information capacity:
+Therefore a complete populated Farm represents:
 
-> **8 Zips = 8 bits = 1 byte**
+> **8 bits**
 
-The Farm is the primary reference for:
+or:
 
-- Colonist status,
-- active Territory,
-- maturity,
-- population generation,
-- historical reconstruction,
-- and Bloch activation.
+> **1 byte**
 
-A Farm can establish territorial capacity as soon as the threshold exists.
+This creates a direct relationship between spatial structure and informational structure:
 
-Its population does not appear instantly.
+    1 TILE
+    =
+    CAPACITY FOR 1 ZIP
+    =
+    CAPACITY FOR 1 BIT
 
-That requires Time.
+    8 TILES
+    =
+    1 FARM
+    =
+    CAPACITY FOR 8 ZIPS
+    =
+    CAPACITY FOR 8 BITS
+    =
+    1 BYTE
+
+The Farm is therefore both a territorial structure and a foundational informational structure.
 
 ---
 
 # City
 
-A City has total territorial capacity of:
+A City has total capacity of:
 
 > **256 Tiles**
 
-Therefore:
+Equivalent SOLUM:
 
-> **256,000,000 SOLUM = 256 km²**
+> **256,000,000 SOLUM**
 
-Its structure is:
+Area:
 
-    16 Farms
+> **256 km²**
+
+Maximum population:
+
+> **256 Zips**
+
+But a City is not structurally composed of 32 Farms.
+
+Its canonical composition is:
+
+> **16 Farms + 128 City-level Tiles**
+
+The 16 Farms contain:
+
+    16 × 8
     =
     128 Tiles
 
+The City then adds:
+
+> **128 new City-level Tiles**
+
+Therefore:
+
+    128 FARM TILES
     +
-
-    128 City-level Tiles
-
+    128 CITY TILES
     =
+    256 TOTAL TILES
+
+This produces the canonical 50 / 50 territorial structure.
+
+---
+
+# Why a City Is Not 32 Farms
+
+Mathematically:
 
     256 Tiles
+    ÷
+    8 Tiles per Farm
+    =
+    32
 
-So:
+So a City has the same total area as:
 
-> **City = 16 Farms + City Territory**
+> **32 Farms**
 
-The 16 Farms account for half of the City's capacity.
+But this is only a surface equivalence.
 
-The other half belongs to the City level.
+It is not the structural composition of a City.
 
-At maximum maturity:
+The actual City structure is:
 
-> **City capacity = 256 Zips**
+> **16 Farms + 128 City-level Tiles**
 
-Crossing the City territorial threshold does not instantly create a mature City.
+Therefore:
 
-Territorial capacity and biological maturity remain separate.
+> **32 Farms = mathematical surface equivalence**
+>
+> **16 Farms + 128 City Tiles = canonical structural composition**
+
+These two statements must never be confused.
+
+---
+
+# City Population
+
+Sixteen mature Farms contain:
+
+> **128 existing Zips**
+
+The City adds capacity for:
+
+> **128 additional Zips**
+
+The 16 mature Farms remain generating units.
+
+Their combined rate is:
+
+> **16 Zips per biological cycle**
+
+Therefore the 128 additional City positions require:
+
+    128
+    ÷
+    16
+    =
+    8 additional cycles
+
+The Farm stage required:
+
+> **8 cycles**
+
+The City stage adds:
+
+> **8 more**
+
+Therefore:
+
+> **Mature City = 16 cumulative biological cycles**
+
+Maximum population:
+
+> **256 Zips**
+
+Higher Territory provides capacity.
+
+The Farms continue providing the population-generation rate.
+
+> **The City does not independently generate Zips.**
 
 ---
 
 # State
 
-A State has total territorial capacity of:
+A State has total capacity of:
 
 > **8,192 Tiles**
 
-Therefore:
+Equivalent SOLUM:
 
-> **8,192,000,000 SOLUM = 8,192 km²**
+> **8,192,000,000 SOLUM**
 
-Its structure is:
+Area:
 
-    16 Cities
+> **8,192 km²**
+
+Maximum population:
+
+> **8,192 Zips**
+
+Its canonical composition is:
+
+> **16 Cities + 4,096 State-level Tiles**
+
+Sixteen Cities contain:
+
+    16 × 256
     =
     4,096 Tiles
 
+The State then adds:
+
+> **4,096 new State-level Tiles**
+
+Therefore:
+
+    4,096 LOWER-LEVEL TILES
     +
-
-    4,096 State-level Tiles
-
+    4,096 STATE TILES
     =
+    8,192 TOTAL TILES
 
-    8,192 Tiles
+Again:
 
-So:
+> **50% inherited territorial structure**
+>
+> **50% new State-level Territory**
 
-> **State = 16 Cities + State Territory**
+---
 
-Because each City contains 16 Farms:
+# Farms Inside a State
+
+Each City contains:
+
+> **16 Farms**
+
+A State contains:
+
+> **16 Cities**
+
+Therefore:
 
     16 Cities
     ×
@@ -524,869 +547,1106 @@ Because each City contains 16 Farms:
     =
     256 Farms
 
-A complete State hierarchy therefore contains:
+So a State contains:
 
-- 16 Cities,
-- 256 Farms,
-- 4,096 Tiles inside those Cities,
-- 4,096 State-level Tiles,
-- 8,192 Tiles in total.
+> **256 structurally contained Farms**
 
-Maximum population capacity:
+This is different from dividing its total surface by Farm size:
+
+    8,192
+    ÷
+    8
+    =
+    1,024
+
+The number:
+
+> **1,024 Farms**
+
+is only a total-area equivalence.
+
+It is not the canonical structural composition.
+
+The actual structure contains:
+
+> **256 Farms**
+
+inside:
+
+> **16 Cities**
+
+plus:
+
+> **4,096 State-level Tiles**
+
+---
+
+# State Population
+
+Sixteen mature Cities contain:
+
+> **4,096 existing Zips**
+
+They also contain:
+
+> **256 mature generating Farms**
+
+Those Farms remain the population generators.
+
+Their combined generation rate is:
+
+> **256 Zips per biological cycle**
+
+The State adds capacity for:
+
+> **4,096 additional Zips**
+
+Therefore:
+
+    4,096
+    ÷
+    256
+    =
+    16 additional cycles
+
+A mature City represents:
+
+> **16 cumulative cycles**
+
+The State adds:
+
+> **16 more**
+
+Therefore:
+
+> **Mature State = 32 cumulative biological cycles**
+
+Maximum population:
 
 > **8,192 Zips**
 
-The term **State** defines territorial scale.
+Again:
 
-It does not automatically create:
-
-- government,
-- taxation,
-- laws,
-- political institutions,
-- macroeconomic systems,
-- or authority over other Colonists.
-
-> **Territorial scale does not automatically create political structure.**
+> **The State provides additional capacity.**
+>
+> **The Farms provide the population-generation rate.**
 
 ---
 
 # Kingdom
 
-A Kingdom has total territorial capacity of:
+A Kingdom has total capacity of:
 
 > **262,144 Tiles**
 
-Therefore:
+Equivalent SOLUM:
 
-> **262,144,000,000 SOLUM = 262,144 km²**
+> **262,144,000,000 SOLUM**
 
-Its structure is:
+Area:
 
-    16 States
-    =
-    131,072 Tiles
+> **262,144 km²**
 
-    +
-
-    131,072 Kingdom-level Tiles
-
-    =
-
-    262,144 Tiles
-
-So:
-
-> **Kingdom = 16 States + Kingdom Territory**
-
-Because every State contains 16 Cities and every City contains 16 Farms:
-
-    16 States
-    ×
-    16 Cities
-    =
-    256 Cities
-
-and:
-
-    256 Cities
-    ×
-    16 Farms
-    =
-    4,096 Farms
-
-A complete Kingdom hierarchy therefore contains:
-
-- 16 States,
-- 256 Cities,
-- 4,096 Farms,
-- 131,072 Tiles inside those States,
-- 131,072 Kingdom-level Tiles,
-- 262,144 Tiles in total.
-
-Maximum population capacity:
+Maximum population:
 
 > **262,144 Zips**
 
-Again, the name defines territorial scale.
+Its canonical composition is:
 
-It does not predetermine civilization.
+> **16 States + 131,072 Kingdom-level Tiles**
 
-> **KINGDOM-SCALE TERRITORY ≠ KINGDOM GOVERNANCE**
+Sixteen States contain:
 
-→ **[Explore Civilization](/world/civilization/)**
-
----
-
-# The 50 / 50 Pattern
-
-The higher territorial architecture can be summarized as:
-
-| Level | Lower-Level Structure | New Level Territory | Total |
-|:------|----------------------:|--------------------:|------:|
-| City | 16 Farms = 128 Tiles | 128 City Tiles | 256 Tiles |
-| State | 16 Cities = 4,096 Tiles | 4,096 State Tiles | 8,192 Tiles |
-| Kingdom | 16 States = 131,072 Tiles | 131,072 Kingdom Tiles | 262,144 Tiles |
-
-The recurring pattern is:
-
-    LOWER-LEVEL STRUCTURE
-    50%
-
-    +
-
-    NEW LEVEL TERRITORY
-    50%
-
+    16 × 8,192
     =
+    131,072 Tiles
 
-    HIGHER TERRITORIAL LEVEL
-    100%
+The Kingdom adds:
 
-This architecture determines not only spatial organization.
+> **131,072 new Kingdom-level Tiles**
 
-It also determines how the number of mature generating Farms increases through the hierarchy.
+Therefore:
+
+    131,072 LOWER-LEVEL TILES
+    +
+    131,072 KINGDOM TILES
+    =
+    262,144 TOTAL TILES
+
+The same 50 / 50 rule remains intact.
 
 ---
 
-# Territory Is Capacity
+# Farms Inside a Kingdom
 
-Crossing a territorial threshold establishes capacity.
+Each State contains:
 
-It does not automatically establish maturity or population.
+> **256 Farms**
 
-A Colonist holding enough SOLUM for a City has:
+A Kingdom contains:
 
-> **City-scale territorial capacity**
+> **16 States**
 
-That does not necessarily mean:
+Therefore:
 
-> **Mature City**
+    16 States
+    ×
+    256 Farms
+    =
+    4,096 Farms
 
-The same applies to State and Kingdom.
+So a Kingdom structurally contains:
 
-> **TERRITORIAL CAPACITY ≠ TERRITORIAL MATURITY**
+> **4,096 Farms**
+
+It also contains:
+
+> **256 Cities**
+
+and:
+
+> **16 States**
+
+This is different from dividing total Kingdom area by Farm size:
+
+    262,144
+    ÷
+    8
+    =
+    32,768
+
+Again:
+
+> **32,768 Farms = surface equivalence**
 >
+> **4,096 Farms = canonical contained Farm structure**
+
+Never substitute one for the other.
+
+---
+
+# Kingdom Population
+
+Sixteen mature States contain:
+
+> **131,072 existing Zips**
+
+They collectively contain:
+
+> **4,096 mature generating Farms**
+
+Those Farms provide a combined generation rate of:
+
+> **4,096 Zips per biological cycle**
+
+The Kingdom adds capacity for:
+
+> **131,072 additional Zips**
+
+Therefore:
+
+    131,072
+    ÷
+    4,096
+    =
+    32 additional cycles
+
+A mature State represents:
+
+> **32 cumulative cycles**
+
+The Kingdom adds:
+
+> **32 more**
+
+Therefore:
+
+> **Mature Kingdom = 64 cumulative biological cycles**
+
+Maximum population:
+
+> **262,144 Zips**
+
+The Kingdom does not independently create population.
+
+Its Farms continue generating into the available higher territorial capacity.
+
+---
+
+# The Complete Territorial Structure
+
+The hierarchy can be summarized as:
+
+| Level | Total Tiles | Contained Previous-Level Territories | Own-Level Tiles | Contained Farms |
+|:------|------------:|---------------------------------------:|----------------:|----------------:|
+| Farm | 8 | — | 8 | 1 |
+| City | 256 | 16 Farms | 128 | 16 |
+| State | 8,192 | 16 Cities | 4,096 | 256 |
+| Kingdom | 262,144 | 16 States | 131,072 | 4,096 |
+
+The pattern is:
+
+> **16 previous-level Territories + equal own-level capacity**
+
+This is the structural rule.
+
+The separate scale rule is:
+
+> **×32 total capacity**
+
+Both are true.
+
+They describe different properties.
+
+---
+
+# Capacity and Structure Are Different
+
+Consider a City.
+
+Its total capacity is:
+
+> **256 Tiles**
+
+This is equivalent in area to:
+
+> **32 Farms**
+
+But its structure contains:
+
+> **16 Farms**
+
+The remaining capacity is:
+
+> **128 City-level Tiles**
+
+Therefore:
+
+    TOTAL CAPACITY
+    !=
+    NUMBER OF CONTAINED LOWER-LEVEL TERRITORIES
+
+The same distinction applies to every higher level.
+
+This matters because:
+
+- maturity depends on the contained generating Farms,
+- population generation depends on those Farms,
+- historical reconstruction depends on those Farms,
+- while total capacity determines how many Zips can ultimately exist.
+
+> **Capacity determines the ceiling.**
+>
+> **Structure determines the territorial architecture.**
+
+---
+
+# Territory and Population Are Different
+
+Territory defines:
+
+> **how much population can exist**
+
+It does not automatically define:
+
+> **how much population already exists**
+
+A Colonist may have City-scale capacity.
+
+That does not mean 256 Zips already exist.
+
+A Colonist may have State-scale capacity.
+
+That does not mean 8,192 Zips already exist.
+
+A Colonist may have Kingdom-scale capacity.
+
+That does not mean 262,144 Zips already exist.
+
+Population must emerge through:
+
+- valid generating Farms,
+- Bloch,
+- biological Time,
+- available capacity,
+- and valid historical conditions.
+
+Therefore:
+
 > **TERRITORIAL CAPACITY ≠ ZIP POPULATION**
 
-And below the first threshold:
-
-> **SOLUM HOLDING ≠ ACTIVE TERRITORY**
-
-These distinctions allow technical state and biological state to remain connected without becoming the same thing.
-
 ---
 
-# Farms Generate Population
+# Territory and Maturity Are Different
 
-Once active territorial development exists, the Farm is the persistent population-generating unit.
+Current Territory tells us what can exist now.
 
-A valid mature Farm can support:
+Maturity tells us what has developed through Time.
 
-> **1 Zip-generation process per biological cycle**
+These are not the same thing.
 
-while valid unoccupied territorial capacity exists.
+For example, two Colonists may both currently hold:
+
+> **256,000,000 SOLUM**
+
+Both therefore have City-scale capacity.
+
+But one may have held and developed that Territory over sufficient valid biological Time.
+
+The other may have acquired it moments ago.
+
+Their current capacity is the same.
+
+Their historical maturity may be different.
 
 Therefore:
 
-    MATURE FARMS
-    +
-    AVAILABLE TERRITORIAL CAPACITY
-    +
-    BIOLOGICAL TIME
-    +
-    HISTORICAL STATE
-    =
-    VALID ZIP GENERATION
+> **CURRENT CAPACITY ≠ HISTORICAL MATURITY**
 
-Higher Territory does not independently generate Zips.
-
-It provides additional capacity.
-
-The mature Farms beneath it provide the generation rate.
+This is why Territory must be interpreted through History.
 
 ---
 
-# Bloch Gives the Zip Form
+# Territory Exists Through Time
 
-The population-generation rate tells us how many Zip-generation processes may validly complete.
+Territorial state changes.
 
-Bloch explains what happens within each process.
+A Holder can acquire SOLUM.
 
-A Bloch:
+A Holder can cross the Farm threshold.
 
-1. generates digital genetic information,
-2. configures that information,
-3. compresses it,
-4. produces one unique Zip.
+A Colonist can acquire more Territory.
 
-Therefore:
+A Colonist can transfer Territory.
 
-    FARM
-    ↓
-    GENERATION CAPABILITY
-    ↓
-    BLOCH PROCESS
-    ↓
-    DIGITAL GENETICS
-    ↓
-    COMPRESSION
-    ↓
-    UNIQUE ZIP
+A Colonist can fall below a territorial threshold.
 
-Bloch does not override territorial mathematics.
+Therefore the canonical territorial model cannot rely only on current balances.
 
-It operates inside them.
+It must also understand:
 
-And it cannot continue producing population indefinitely.
+> **when each territorial condition existed**
 
-When the valid Territory reaches its maximum Zip population:
-
-> **Bloch generation stops.**
-
-Territory therefore provides both the possibility and the limit of population.
-
----
-
-# Time Gives Bloch Duration
-
-The canonical biological cycle is:
-
-> **65,536 blockchain blocks**
-
-This is the canonical block-Time required for a valid Bloch generation process to generate, configure and compress digital genetic information into one unique Zip.
-
-Therefore:
-
-    65,536 BLOCKS
-    ↓
-    1 BIOLOGICAL CYCLE
-    ↓
-    1 VALID BLOCH GENERATION PROCESS
-    ↓
-    1 ZIP MAY EMERGE
-
-But elapsed blocks alone do not create Zips.
-
-Valid emergence also requires:
-
-- active Colonist Territory,
-- valid generating Farm,
-- available Zip capacity,
-- and valid historical territorial state.
-
-> **Time enables development.**
->
-> **It does not bypass its conditions.**
-
-→ **[Understand Time](/world/time/)**
-
----
-
-# Time Creates Maturity
-
-Territorial capacity can change immediately with SOLUM ownership.
-
-Maturity cannot.
-
-Development accumulates through valid historical biological cycles.
-
-The canonical maturity sequence is:
-
-| Territory | Generating Farms | Zips / Cycle | Cumulative Cycles | Cumulative Blocks |
-|:----------|-----------------:|-------------:|------------------:|------------------:|
-| Farm | 1 | 1 | 8 | 524,288 |
-| City | 16 | 16 | 16 | 1,048,576 |
-| State | 256 | 256 | 32 | 2,097,152 |
-| Kingdom | 4,096 | 4,096 | 64 | 4,194,304 |
-
-Therefore:
-
-    FARM
-    8 cycles
-
-    ↓
-
-    CITY
-    16 cumulative cycles
-
-    ↓
-
-    STATE
-    32 cumulative cycles
-
-    ↓
-
-    KINGDOM
-    64 cumulative cycles
-
-Development is cumulative.
-
-The lower structures remain part of the higher structures.
-
-Their mature Farms remain generators while additional valid capacity exists.
-
----
-
-# Why Population Generation Accelerates
-
-The rate increases because the number of mature Farms increases.
-
-At Farm scale:
-
-    1 mature Farm
-    →
-    1 Zip / cycle
-
-At City scale:
-
-    16 mature Farms
-    →
-    16 Zips / cycle
-
-At State scale:
-
-    256 mature Farms
-    →
-    256 Zips / cycle
-
-At Kingdom scale:
-
-    4,096 mature Farms
-    →
-    4,096 Zips / cycle
-
-City, State and Kingdom do not receive independent generation parameters.
-
-Their rates emerge from their contained mature Farms.
-
-> **Higher Territory provides capacity.**
->
-> **Mature Farms provide generation.**
->
-> **Bloch produces the individual Zip.**
-
----
-
-# Acquiring SOLUM Does Not Create a Past
-
-Suppose a Holder owns less than one complete Farm.
-
-No active Colonist Territory exists yet.
-
-Later, that Holder reaches:
-
-> **8,000,000 SOLUM**
-
-The Holder now reaches the Colonist threshold.
-
-The first Farm can become active.
-
-But the previous blocks do not become biological history retroactively.
-
-Therefore:
-
-> **Reaching the Farm threshold starts a new territorial condition.**
->
-> **It does not create a fictional past.**
-
-The same principle applies to later territorial expansion.
-
-Additional SOLUM can create new future capacity.
-
-It cannot create biological cycles that never occurred under valid previous conditions.
-
----
-
-# Falling Below the Farm Threshold
-
-Territorial state can also move in the opposite direction.
-
-Because SOLUM is transferable, a Colonist may later reduce their balance below:
-
-> **8,000,000 SOLUM**
-
-At that point the address no longer has enough current territorial capacity for one complete active Farm.
-
-Future territorial and biological conditions must therefore reflect that new state.
-
-But history is not erased.
-
-Any valid:
-
-- previous Colonist state,
-- previous Farm maturity,
-- previous Zip emergence,
-- and previous historical events
-
-remain part of canonical history.
-
-> **Current state can change.**
->
-> **History cannot be rewritten.**
-
----
-
-# Current State Is Not Historical State
-
-Two addresses can currently hold the same amount of SOLUM.
-
-That does not mean they share the same history.
-
-One may have crossed the Farm threshold millions of blocks ago.
-
-Another may have crossed it moments ago.
-
-Therefore:
-
-> **CURRENT BALANCE ≠ HISTORICAL MATURITY**
->
-> **CURRENT TERRITORIAL CAPACITY ≠ HISTORICAL ZIP POPULATION**
-
-And:
-
-> **CURRENT COLONIST STATUS ≠ RETROACTIVE COLONIST STATUS**
-
-Historical reconstruction is required.
-
----
-
-# Historical Reconstruction
-
-The developmental chain is:
+The historical chain is:
 
     BLOCKCHAIN HISTORY
     ↓
     SOLUM THROUGH TIME
     ↓
+    TILES THROUGH TIME
+    ↓
     FARM THRESHOLD THROUGH TIME
     ↓
-    HOLDER / COLONIST STATE THROUGH TIME
-    ↓
-    TILES THROUGH TIME
+    COLONIST STATE THROUGH TIME
     ↓
     FARMS THROUGH TIME
     ↓
     MATURE GENERATING FARMS
     ↓
-    AVAILABLE TERRITORIAL CAPACITY
+    HIGHER TERRITORIAL CAPACITY
     ↓
-    VALID BLOCH CYCLES
-    ↓
-    ZIP EMERGENCE
+    ZIP GENERATION
     ↓
     MATURITY
     ↓
-    HIGHER TERRITORIAL STATE
+    TERRITORIAL HISTORY
 
-This is why current balance alone cannot reconstruct Zipvilization.
+This makes Territory a historical structure, not just a current balance calculation.
 
-History matters.
+---
 
-→ **[Understand Time](/world/time/)**
+# Acquiring Territory
+
+Suppose a Holder begins below the Farm threshold.
+
+No active Territory exists.
+
+Later, the Holder acquires enough SOLUM to reach:
+
+> **8,000,000 SOLUM**
+
+At that moment:
+
+- one complete Farm becomes possible,
+- Colonist status begins,
+- active Territory begins,
+- Bloch can activate,
+- biological development can begin.
+
+The earlier blocks do not become Farm-development Time retroactively.
+
+> **Territory begins when the valid territorial condition begins.**
+
+---
+
+# Expanding Territory
+
+Suppose a Colonist already has one Farm.
+
+Later, additional SOLUM is acquired.
+
+The new balance may provide:
+
+- additional Tiles,
+- additional Farms,
+- City-scale capacity,
+- State-scale capacity,
+- or Kingdom-scale capacity.
+
+That new capacity becomes available from the historical point at which it validly exists.
+
+It does not rewrite the earlier territorial state.
+
+Therefore:
+
+> **New Territory expands future possibility.**
+>
+> **It does not manufacture past development.**
+
+---
+
+# Transferring Territory
+
+Territory can also decrease.
+
+A Colonist may transfer or sell SOLUM.
+
+That can change:
+
+- current territorial capacity,
+- current Farm count,
+- future Zip-generation conditions,
+- future territorial development.
+
+But it does not erase valid prior history.
+
+If a Farm previously matured under valid conditions, that event remains part of history.
+
+If Zips previously emerged validly, those events remain historical events.
+
+> **Territorial state can change.**
+>
+> **History cannot be rewritten by a later transfer.**
+
+---
+
+# Falling Below the Farm Threshold
+
+If a Colonist falls below:
+
+> **8,000,000 SOLUM**
+
+the address no longer has current capacity for one complete Farm.
+
+Therefore:
+
+    CURRENT BALANCE < 8,000,000
+    ↓
+    HOLDER
+    ↓
+    NO COMPLETE ACTIVE FARM
+    ↓
+    NO CURRENT BLOCH GENERATION
+
+But historical development remains historical.
+
+This distinction between:
+
+> **current state**
+
+and:
+
+> **historical state**
+
+is essential.
+
+A snapshot cannot replace history.
 
 ---
 
 # Dormant Land
 
-SOLUM held by the Pool has a specific world meaning:
+Not all SOLUM is active Territory.
+
+SOLUM held in the Pool represents:
 
 > **Dormant Land**
 
-Dormant Land remains part of the finite territorial substrate.
+Dormant Land is part of Solum.
 
-It has not entered active Colonist Territory.
+But it is not currently active Colonist Territory.
 
-The relationship is:
+It may potentially become active if acquired and if the canonical territorial conditions are satisfied.
 
-    SOLUM IN THE POOL
-    ↓
-    DORMANT LAND
+Therefore:
 
-As SOLUM moves from the Pool toward Holders, it may leave Dormant Land state.
+> **Dormant Land is available territorial possibility.**
 
-But Holder ownership alone does not necessarily produce an active Territory.
+It is not Permanent Nature.
 
-The Farm threshold must still be reached.
+And it is not active Territory.
 
-This creates an important distinction between:
+---
 
-- SOLUM distribution,
-- Holder balances,
-- and active Colonist Territory.
+# Active Territory
 
-→ **[Explore the Pool](/smart-contract/pool/)**
+Active Territory is SOLUM held by a valid Colonist at or above the Farm threshold according to canonical and historical rules.
+
+The minimum is:
+
+> **1 Farm**
+
+Therefore:
+
+> **8,000,000 SOLUM**
+
+is the minimum balance required for active Colonist Territory.
+
+Active Territory can develop through Time.
+
+It can support:
+
+- Farms,
+- Bloch activation,
+- Zip emergence,
+- maturity,
+- higher territorial structures,
+- and eventually deeper experiential interpretation.
+
+But active Territory does not imply that all possible development has already occurred.
+
+> **Active means capable of development.**
+>
+> **It does not mean mature.**
 
 ---
 
 # Permanent Nature
 
-When SOLUM is permanently removed from circulation through Burn:
+Burned SOLUM becomes:
 
-> **that Territory becomes Permanent Nature**
+> **Permanent Nature**
+
+Burn removes SOLUM from circulating territorial possibility.
+
+Therefore Permanent Nature cannot return to:
+
+- the Pool,
+- a Holder,
+- a Colonist,
+- or active Territory.
+
+The world therefore has three major territorial states:
+
+    DORMANT LAND
+    Pool-held SOLUM
+
+    ACTIVE TERRITORY
+    valid Colonist-held SOLUM at/above Farm threshold
+
+    PERMANENT NATURE
+    Burned SOLUM
+
+These states describe fundamentally different relationships between SOLUM and the world.
+
+→ **[Explore SOLUM](/world/solum/)**
+
+---
+
+# Dormant Land Can Wake
+
+Dormant Land is not destroyed.
+
+It is inactive.
+
+When SOLUM leaves the Pool and enters a Holder wallet, its state changes.
+
+But active Territory still requires the Farm threshold.
 
 Therefore:
 
-    BURNED SOLUM
+    POOL
     ↓
-    PERMANENT NATURE
+    DORMANT LAND
 
-Permanent Nature cannot return to circulating territorial state.
-
-> **Dormant Land is potential.**
->
-> **Permanent Nature is irreversible.**
-
-→ **[Understand Burn](/smart-contract/burn/)**
-
----
-
-# World State Has More Than One Layer
-
-At SOLUM level, the world can contain:
-
-- Pool-held SOLUM,
-- Holder-held SOLUM,
-- Colonist-held SOLUM,
-- burned SOLUM.
-
-At active territorial level, the fundamental visible conditions include:
-
-- Dormant Land,
-- Colonized Territory,
-- Permanent Nature.
-
-Sub-Farm Holder balances require special treatment.
-
-They exist technically.
-
-They represent SOLUM outside the Pool.
-
-But they do not form a complete active Colonist Territory.
-
-Therefore they must not be falsely represented as Farms or active Zip-producing Territory.
-
-This distinction must be preserved by the data and visual layers.
-
----
-
-# Territory and Colonists
-
-The complete identity progression is:
-
-    ADDRESS
-    ↓
-    SOLUM
+    ACQUISITION
     ↓
     HOLDER
+
+    HOLDER < 8M
     ↓
-    8,000,000 SOLUM THRESHOLD
-    ↓
-    FARM
+    NO ACTIVE TERRITORY
+
+    HOLDER ≥ 8M
     ↓
     COLONIST
     ↓
     ACTIVE TERRITORY
-    ↓
-    BLOCH
-    ↓
-    TIME
-    ↓
-    ZIPS
 
-This gives Colonist a precise meaning.
+The transition is therefore not simply:
 
-A Colonist is not merely another name for any token holder.
+> Pool → Active Territory
 
-Colonization begins when the first complete territorial unit can exist.
-
-→ **[Discover Colonists](/world/colonists/)**
+There is an important threshold in between.
 
 ---
 
-# Territory Is Not Ownership of Civilization
+# Permanent Nature Cannot Wake
 
-A Colonist can control SOLUM and active Territory.
+Burn is different.
 
-That does not give ownership of Zipvilization itself.
+Burned SOLUM cannot return to circulation.
 
-A large Territory does not automatically create authority over smaller Territories.
+Therefore:
 
-A Kingdom-scale Colonist does not automatically govern other Colonists.
+    SOLUM
+    ↓
+    BURN
+    ↓
+    PERMANENT NATURE
+    ↓
+    NO RETURN TO CIRCULATING TERRITORY
 
-A State does not automatically legislate.
+This makes Permanent Nature structurally different from Dormant Land.
 
-A City does not automatically control Farms belonging to others.
+Dormant Land is inactive possibility.
 
-Territorial scale provides structure.
-
-Relationships between participants belong to civilization.
-
-> **Territory creates possibility.**
->
-> **It does not predetermine social order.**
+Permanent Nature is permanent removal from circulating territorial capacity.
 
 ---
 
-# SolumTools Translates Territory
+# Territory and Burn
 
-[SolumTools](/world/solumtools/) must distinguish the technical and civilizational states correctly.
+Because:
 
-For example:
+> **1 SOLUM = 1 m²**
 
-    SOLUM balance
-    ↓
-    HOLDER
+burn has a spatial interpretation.
 
-Then:
+When SOLUM is burned, circulating territorial possibility decreases.
 
-    balance < 8,000,000
-    ↓
-    HOLDER
-    ↓
-    NO ACTIVE FARM
+That territory becomes:
 
-or:
+> **Permanent Nature**
 
-    balance ≥ 8,000,000
-    ↓
-    COLONIST
-    ↓
-    ACTIVE TERRITORIAL CAPACITY
+Therefore the world can evolve not only through colonization but also through irreversible territorial withdrawal from circulation.
 
-From there, historical analysis can derive:
+This creates a permanent relationship between economic activity and world structure.
 
-    historical SOLUM
-    ↓
-    historical Farm threshold
-    ↓
-    Farms through Time
-    ↓
-    mature Farms
-    ↓
-    valid Bloch cycles
-    ↓
-    Zip population
-    ↓
-    maturity
+But:
 
-SolumTools does not create this meaning.
-
-It applies the canonical rules to technical state and history.
-
-> **The blockchain preserves the events.**
+> **Burn does not create active Territory.**
 >
-> **Canonical Rules define their meaning.**
->
-> **SolumTools makes that meaning readable.**
+> **Burn creates Permanent Nature.**
 
 ---
 
-# SolumWorld Shows Active Territory
+# Territory and the Pool
 
-[SolumWorld](/world/solumworld/) gives grounded territorial state graphical form.
+At Genesis, the intended initial Pool contains:
+
+> **100 trillion SOLUM**
+
+That means the initial territorial substrate begins overwhelmingly as:
+
+> **Dormant Land**
+
+The world therefore begins largely uncolonized.
+
+As SOLUM moves from the Pool to Holders:
+
+- Dormant Land decreases,
+- Holder balances appear,
+- some Holders may cross the Farm threshold,
+- Active Territory may begin.
+
+As SOLUM is burned:
+
+- circulating territorial possibility decreases,
+- Permanent Nature increases.
+
+This means the territorial map can evolve from actual on-chain state.
+
+---
+
+# Territory Is Not a Game Board
+
+Territory is not a collection of game levels.
+
+A Farm is not a level to complete.
+
+A City is not a level to unlock.
+
+A State is not a rank.
+
+A Kingdom is not a victory condition.
+
+These are territorial structures.
+
+They describe:
+
+- capacity,
+- composition,
+- population potential,
+- maturity,
+- and historical development.
+
+Therefore:
+
+> **TERRITORY ≠ GAME BOARD**
+
+and:
+
+> **TERRITORIAL SCALE ≠ PLAYER RANK**
+
+---
+
+# A Kingdom Does Not Make a King
+
+The name:
+
+> **Kingdom**
+
+describes territorial scale.
+
+It does not automatically create:
+
+- a monarch,
+- political authority,
+- control over other Colonists,
+- governance rights,
+- social hierarchy.
+
+Likewise:
+
+- a City does not automatically create a mayor,
+- a State does not automatically create a government,
+- a Kingdom does not automatically create a king.
+
+Any future social or political structures would need to emerge through valid behavior, interaction, Time and History.
+
+> **Territorial structure does not predetermine social structure.**
+
+---
+
+# Territory Does Not Control Zips
+
+A Colonist can hold Territory.
+
+That does not mean the Colonist directly controls every Zip within it.
+
+Zips are individuals.
+
+Territory provides the conditions in which they can emerge and exist.
+
+Future interaction may allow Colonists to influence aspects of their Territory.
+
+But:
+
+> **PARTICIPATION ≠ CONTROL**
+
+and:
+
+> **ZIP ≠ PLAYER UNIT**
+
+The final relationship between Colonists, Territory and Zip autonomy remains open.
+
+→ **[Discover Zips](/world/zips/)**  
+→ **[Explore Interaction](/dapp/interaction/)**
+
+---
+
+# Territory Can Develop Identity
+
+Two Territories with identical capacity do not necessarily need to become experientially identical.
+
+Their histories may differ.
+
+Their Zips may differ.
+
+Their interactions may differ.
+
+Their development may differ.
+
+Their future may differ.
+
+Therefore Territory can potentially acquire identity through:
+
+> **Territory + Zips + Time + History + valid participation**
+
+This does not establish a deterministic identity formula.
+
+It establishes a possibility:
+
+> **Equivalent capacity does not require equivalent lived Territory.**
+
+That distinction becomes especially important for [SolumView](/world/solumview/).
+
+---
+
+# Natural Territorial Development
+
+Territorial development is not only a numerical increase in capacity.
+
+As population emerges, the Territory can also gain visual and experiential structure.
+
+At Farm scale, the first Zips inhabit the first active Territory.
+
+As higher territorial capacity becomes populated, the world can represent increasingly developed environments.
+
+Conceptually:
+
+    POPULATION
+    ↓
+    CAPACITY OCCUPATION
+    ↓
+    TERRITORIAL DEVELOPMENT
+    ↓
+    CONSTRUCTION
+    ↓
+    MATURE TERRITORY
+
+This does not mean every building, profession or visual event is already canonically predetermined.
+
+It means that population and territorial maturity can provide grounded conditions for increasingly developed representation.
+
+> **A mature Territory should be able to look more developed than an empty one.**
+
+Representation can interpret that development.
+
+It cannot invent canonical history.
+
+---
+
+# Territory and Specialization
+
+Once a Territory contains population, Zips may eventually display increasingly differentiated behavior.
+
+Possible examples include:
+
+- farming,
+- construction,
+- trade,
+- art,
+- science,
+- philosophy,
+- politics,
+- and other forms of specialization.
+
+These examples are not a fixed profession sequence.
+
+They are not guaranteed roles.
+
+They are not a predetermined civilization tree.
+
+They illustrate a broader principle:
+
+> **Population creates the possibility of specialization.**
+
+What actually emerges must remain grounded in the evolving model, valid interaction and History.
+
+---
+
+# Territory and SolumTools
+
+[SolumTools](/world/solumtools/) is the principal deterministic observation layer for territorial data.
+
+It can interpret:
+
+- SOLUM balances,
+- Farm thresholds,
+- Holder / Colonist status,
+- Dormant Land,
+- Active Territory,
+- Permanent Nature,
+- territorial capacity,
+- territorial levels,
+- historical state,
+- maturity,
+- Zip population.
+
+But SolumTools does not create Territory.
+
+It observes and derives it from canonical evidence.
+
+Conceptually:
+
+    BLOCKCHAIN STATE + HISTORY
+    ↓
+    CANONICAL TERRITORIAL RULES
+    ↓
+    DETERMINISTIC TERRITORIAL STATE
+    ↓
+    SOLUMTOOLS
+    ↓
+    HUMAN / AI OBSERVATION
+
+> **SolumTools translates territorial truth.**
+>
+> **It does not define it.**
+
+---
+
+# Territory and SolumWorld
+
+[SolumWorld](/world/solumworld/) gives territorial data spatial form.
 
 It can represent:
 
+- the planet,
 - Dormant Land,
-- Colonized Territory,
+- Active Territory,
 - Permanent Nature,
 - Farms,
 - Cities,
 - States,
 - Kingdoms,
-- and valid developmental differences.
+- population,
+- maturity.
 
-But a sub-Farm Holder balance must not appear as a complete active Farm simply because SOLUM exists in that address.
+But the map does not create those states.
 
-The minimum active territorial representation remains:
+Canonical data determines what exists.
 
-> **1 Farm**
+SolumWorld determines how that truth is represented visually.
 
-SolumWorld answers:
-
-> **What does Zipvilization look like?**
-
-But canonical state determines what is actually true.
-
-> **Canonical state determines what is true.**
+> **The world is represented.**
 >
-> **SolumWorld determines what that truth looks like as a world.**
+> **The representation does not create the world.**
 
 ---
 
-# SolumView Begins With a Colonist
+# Territory and SolumView
 
-[SolumView](/world/solumview/) begins once there is an active Colonist Territory to enter.
+[SolumView](/world/solumview/) moves deeper.
 
-The progression is:
+Instead of asking:
 
-    WALLET
-    ↓
-    HOLDER
-    ↓
-    FARM THRESHOLD
-    ↓
-    COLONIST
-    ↓
-    TERRITORY
-    ↓
-    SOLUMVIEW
+> **Where is this Territory?**
 
-Inside that Territory, deeper representation may reveal:
+it asks:
 
-- internal structure,
-- Farms,
-- Zips,
+> **What is it like inside this Territory?**
+
+That experience may eventually interpret:
+
+- local population,
 - maturity,
-- history,
-- and future experiential systems.
+- development,
+- Zip activity,
+- territorial identity,
+- historical consequences.
 
-A sub-Farm Holder balance does not create an active Territory for SolumView.
+But SolumView remains downstream of canonical territorial truth.
 
-> **SolumWorld lets us explore Zipvilization.**
+A beautiful representation cannot manufacture a Farm.
+
+An animation cannot create a Zip.
+
+A visual building cannot rewrite History.
+
+> **Experience interprets Territory.**
 >
-> **SolumView lets us enter a Colonist's Territory.**
+> **It does not create canonical Territory.**
 
 ---
 
-# Data → World → Inside
+# Territory and Metrics
 
-The territorial experience therefore follows three connected layers:
+[Metrics](/metrics/) can expose territorial state at world scale.
 
-**SOLUMTOOLS — DATA**
+Examples may include:
 
-Translates blockchain state and history into Zipvilization data.
-
-↓
-
-**SOLUMWORLD — WORLD**
-
-Represents grounded active territorial state across the world.
-
-↓
-
-**SOLUMVIEW — INSIDE**
-
-Creates deeper experience inside individual Colonist Territory.
-
-The architecture is modular.
-
-The experience is unified.
-
-> **SolumTools translates the data.**
->
-> **SolumWorld shows the world.**
->
-> **SolumView lets us enter it.**
-
-→ **[Explore the dApp](/dapp/)**
-
----
-
-# Representation Does Not Create Territory
-
-This boundary remains essential.
-
-A graphical Farm does not create a Farm.
-
-A visible City does not create City-scale capacity.
-
-A map does not create ownership.
-
-A rendered Kingdom does not create governance.
-
-A visible Zip does not create canonical population.
-
-And a wallet containing less than one Farm of SOLUM does not become active Territory because an interface draws it.
-
-The direction is always:
-
-    VALID STATE
-    ↓
-    CANONICAL INTERPRETATION
-    ↓
-    REPRESENTATION
-
-Never:
-
-    REPRESENTATION
-    ↓
-    INVENTED STATE
-
-> **The world can become visually rich without becoming canonically fictional.**
-
----
-
-# Territory and Artificial Intelligence
-
-Territory must be explicit enough for machines to distinguish:
-
-- address,
-- Holder,
-- Colonist,
-- SOLUM balance,
-- Farm threshold,
-- Tiles,
-- active Territory,
-- territorial scale,
-- Bloch activation,
-- biological Time,
-- mature Farms,
-- Zip population,
-- historical state,
+- Colonists,
+- Active Territory,
+- Farms,
+- Cities,
+- States,
+- Kingdoms,
 - Dormant Land,
-- Permanent Nature.
+- Permanent Nature,
+- Zip population,
+- maturity.
 
-An AI should be able to answer different questions independently:
+But a metric is a presentation of deterministic state.
 
-> Does this address hold SOLUM?
+It is not an authority.
 
-> Is this Holder a Colonist?
+The relationship remains:
 
-> Does this address currently have an active Farm?
+    EVIDENCE
+    ↓
+    CANONICAL RULES
+    ↓
+    DETERMINISTIC TERRITORIAL STATE
+    ↓
+    METRIC
+    ↓
+    PRESENTATION
 
-> What territorial capacity exists?
-
-> When was the Farm threshold historically crossed?
-
-> Which Farms became mature?
-
-> How many valid Bloch cycles completed?
-
-> How many Zips emerged?
-
-> What higher territorial structure became mature?
-
-These are related questions.
-
-They are not the same question.
-
-→ **[Explore Artificial Intelligence](/trinomial/artificial-intelligence/)**
+> **Metrics observe Territory.**
+>
+> **They do not define it.**
 
 ---
 
-# Territory Does Not Define Civilization
+# Territory and History
 
-Territory provides space.
+Territory becomes increasingly meaningful because it accumulates history.
 
-It does not determine what civilization becomes.
+A Territory can have:
 
-A State does not have to become a particular political system.
+- an origin,
+- a first Farm,
+- a first Zip,
+- maturity transitions,
+- expansion,
+- contraction,
+- population development,
+- interaction,
+- changing identity.
 
-A Kingdom does not have to produce monarchy.
+These events make two otherwise equivalent Territories historically different.
 
-A large Colonist does not have to dominate smaller Colonists.
+This is one reason Zipvilization cannot be reduced to a static token balance.
 
-Territorial concentration does not automatically produce conflict.
-
-Territorial distribution does not automatically produce cooperation.
-
-Those outcomes belong to interaction, history, future mechanics and emergence.
-
-> **We define the territorial conditions.**
+> **Territory is spatial.**
 >
-> **We do not define the civilizational outcome.**
+> **But lived Territory is historical.**
+
+---
+
+# Territory and Civilization
+
+Territory creates the spatial conditions in which civilization can emerge.
+
+But Territory alone is not civilization.
+
+A large empty Territory is still not a civilization.
+
+The deeper relationship is:
+
+    TERRITORY
+    +
+    ZIPS
+    +
+    TIME
+    +
+    HISTORY
+    +
+    HUMAN PARTICIPATION
+    +
+    VALID INTERACTION
+    ↓
+    EMERGENT CIVILIZATIONAL POSSIBILITY
+
+This is not a deterministic formula.
+
+It is a dependency relationship.
+
+Territory gives civilization somewhere to exist.
+
+It does not determine what civilization will become.
 
 → **[Explore Civilization](/world/civilization/)**
 
@@ -1394,47 +1654,37 @@ Those outcomes belong to interaction, history, future mechanics and emergence.
 
 # Territory at Genesis
 
-At Genesis, Solum begins with a finite SOLUM substrate.
+Before Genesis:
 
-Much of it may initially remain Dormant Land.
+- no official SOLUM is circulating,
+- no official Pool is live,
+- no active Colonist Territory exists,
+- no canonical Farms exist,
+- no canonical territorial History has begun.
 
-Humans begin interacting with SOLUM.
+At Genesis, the initial Pool is intended to contain:
 
-Some addresses may become Holders.
+> **100 trillion SOLUM**
 
-Some Holders may cross the first Farm threshold and become Colonists.
+representing the world's initial Dormant Land.
 
-When that happens:
+From there, territorial history can begin.
 
-    SOLUM
-    ↓
-    FARM
-    ↓
-    COLONIST
-    ↓
-    ACTIVE TERRITORY
-    ↓
-    BLOCH
-    ↓
-    TIME
-    ↓
-    ZIPS
+SOLUM can move.
 
-Biological history begins under actual blockchain conditions.
+Holders can appear.
 
-Farms can mature.
+Some may reach the Farm threshold.
 
-Zips can emerge.
+Colonists can emerge.
 
-Higher territorial structures can develop.
+Active Territory can begin.
 
-The world does not begin complete.
+Burn can create Permanent Nature.
 
-It begins capable of becoming something.
+For the first time:
 
-> **Genesis does not reveal a finished world.**
->
-> **It starts one.**
+> **the territorial state of Solum becomes historical**
 
 → **[Explore Genesis](/genesis/)**
 
@@ -1442,76 +1692,58 @@ It begins capable of becoming something.
 
 # Territory at a Glance
 
-The foundational spatial relationships:
+The spatial unit:
 
 > **1 SOLUM = 1 m²**
->
-> **1 Tile = 1,000,000 SOLUM = 1 km²**
->
-> **1 Tile = capacity for 1 Zip**
 
-The activation threshold:
+The Tile:
+
+> **1 Tile = 1,000,000 SOLUM = 1 km² = capacity for 1 Zip**
+
+The minimum active Territory:
 
 > **1 Farm = 8 Tiles = 8,000,000 SOLUM = 8 km²**
->
-> **1 Farm = minimum active Territory**
->
-> **1 Farm = Colonist threshold**
 
-The informational relationship:
+The Colonist threshold:
 
-> **1 Zip = 1 bit**
->
-> **8 Zips = 8 bits = 1 byte**
->
-> **1 complete populated Farm = 1 byte**
+> **8,000,000 SOLUM**
 
-The identity distinction:
+The territorial levels:
 
-> **< 8,000,000 SOLUM → Holder**
->
-> **≥ 8,000,000 SOLUM → Colonist threshold**
+| Level | Tiles | Area | Maximum Zips |
+|:------|------:|-----:|-------------:|
+| Farm | 8 | 8 km² | 8 |
+| City | 256 | 256 km² | 256 |
+| State | 8,192 | 8,192 km² | 8,192 |
+| Kingdom | 262,144 | 262,144 km² | 262,144 |
 
-The territorial hierarchy:
+The scale rule:
 
-| Territory | Tiles | SOLUM | Area | Maximum Zips |
-|:----------|------:|------:|-----:|-------------:|
-| Farm | 8 | 8,000,000 | 8 km² | 8 |
-| City | 256 | 256,000,000 | 256 km² | 256 |
-| State | 8,192 | 8,192,000,000 | 8,192 km² | 8,192 |
-| Kingdom | 262,144 | 262,144,000,000 | 262,144 km² | 262,144 |
+> **Each level = 32× the total capacity of the previous level**
 
-The structural relationship:
+The composition rule:
 
-> **City = 16 Farms + City Territory**
->
-> **State = 16 Cities + State Territory**
->
-> **Kingdom = 16 States + Kingdom Territory**
+> **Each higher level = 16 complete previous-level Territories + equal own-level capacity**
 
-The developmental relationship:
+The population rule:
 
-> **Territory defines capacity.**
+> **Valid active/generating Farms generate population.**
 >
-> **Farm defines generation rate.**
+> **Higher territorial levels provide additional capacity.**
 >
-> **Bloch generates, configures and compresses digital genetics into a unique Zip.**
->
-> **1 biological cycle = 65,536 blocks.**
->
-> **History determines what validly occurred.**
+> **Higher territorial levels do not independently generate Zips.**
 
-And the fundamental distinctions:
+The world states:
 
-> **Holder ≠ Colonist**
->
-> **Holding SOLUM ≠ active Territory**
->
-> **Capacity ≠ Maturity**
->
-> **Capacity ≠ Population**
->
-> **Current State ≠ Historical State**
+> **Pool-held SOLUM = Dormant Land**
+
+> **Valid Colonist-held SOLUM at/above Farm threshold = Active Territory**
+
+> **Burned SOLUM = Permanent Nature**
+
+The historical rule:
+
+> **Current Territory does not create past maturity.**
 
 ---
 
@@ -1519,45 +1751,37 @@ And the fundamental distinctions:
 
 ### What gives Territory its spatial value?
 
-→ **[Solum](/world/solum/)**
+→ **[SOLUM](/world/solum/)**
 
-### When does a Holder become a Colonist?
+### Who activates Territory?
 
 → **[Colonists](/world/colonists/)**
 
-### What gives Territory biological development?
-
-→ **[Time](/world/time/)**
-
-### What emerges from Bloch?
+### What can emerge inside Territory?
 
 → **[Zips](/world/zips/)**
 
-### What remains outside active colonization?
+### How does Territory develop?
 
-→ **[Pool — Dormant Land](/smart-contract/pool/)**
+→ **[Time](/world/time/)**
 
-### What becomes permanently unavailable?
-
-→ **[Burn — Permanent Nature](/smart-contract/burn/)**
-
-### Where is blockchain state translated into world data?
+### Where is territorial state reconstructed?
 
 → **[SolumTools](/world/solumtools/)**
 
-### Where can active Territory be explored from above?
+### Where is Territory represented at world scale?
 
 → **[SolumWorld](/world/solumworld/)**
 
-### Where can a Colonist's Territory be entered?
+### Where can Territory become experiential?
 
 → **[SolumView](/world/solumview/)**
 
-### What can eventually emerge from Territory and interaction?
+### What may eventually emerge from Territory, population and History?
 
 → **[Civilization](/world/civilization/)**
 
-### Where are the deeper canonical rules documented?
+### Where are deterministic territorial rules documented?
 
 → **[Canonical Rules](/smart-contract/canonical-rules/)**
 
@@ -1567,61 +1791,51 @@ And the fundamental distinctions:
 
 ---
 
-# Somewhere to Exist
+# A World Made of Territory
 
-SOLUM gives Solum finite space.
+SOLUM gives Solum measurable space.
 
-Tiles make that space measurable.
+Tiles give that space structure.
 
-But not every fragment of SOLUM is already an active Territory.
+Farms make colonization possible.
 
-The first complete territorial structure is the Farm.
+Higher Territories expand capacity.
 
-Eight Tiles.
+Bloch allows Zips to emerge.
 
-Eight million SOLUM.
+Time allows Territory to mature.
 
-Eight square kilometers.
+History records what actually happened.
 
-Capacity for eight Zips.
+The hierarchy is deterministic.
 
-Eight bits.
+The outcome is not.
 
-One byte.
+> **Farm → City → State → Kingdom**
 
-At that threshold, a Holder can become a Colonist.
+describes territorial architecture.
 
-Territory becomes active.
+It does not describe a predetermined civilization.
 
-Bloch can begin its work.
+The same Territory can accumulate different:
 
-Time begins to matter biologically.
+- Zips,
+- histories,
+- interactions,
+- identities,
+- consequences.
 
-Unique Zips can emerge.
+That is why Territory is both simple and deep.
 
-Mature Farms can continue generating population when larger territorial capacity becomes available.
+Its mathematics can be defined precisely.
 
-Cities, States and Kingdoms can grow from that same foundation.
+Its future cannot.
 
-And every valid change becomes part of history.
-
-> **SOLUM provides space.**
+> **Territory defines where civilization can exist.**
 >
-> **The Farm begins colonization.**
->
-> **Territory provides capacity.**
->
-> **Farms provide generation.**
->
-> **Bloch creates the individual.**
->
-> **Time gives the process duration.**
->
-> **History makes it real.**
->
-> **Civilization remains open.**
+> **It does not define what civilization must become.**
 
 ---
 
 → **[Return to The World](/world/)**  
-→ **[Continue to Colonists](/world/colonists/)**
+→ **[Continue to Zips](/world/zips/)**
