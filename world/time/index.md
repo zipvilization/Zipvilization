@@ -307,19 +307,21 @@ They are not interchangeable.
 
 The Farm is the primary population-generating territorial unit.
 
-Once a Farm is valid and mature:
+Once a Farm is valid and actively generating:
 
-> **1 mature Farm = 1 Zip-generation process per biological cycle**
+> **1 valid active/generating Farm = 1 Zip-generation process per biological cycle**
 
 And:
 
 > **1 biological cycle = 65,536 blocks**
 
-Therefore a valid mature Farm can support:
+Therefore a valid active/generating Farm can support:
 
 > **1 Zip per 65,536 blocks**
 
 while valid unoccupied territorial capacity exists.
+
+A Farm does not need to be mature before generation begins. Its first eight valid biological cycles generate the initial eight-Zip population through which the Farm reaches maturity.
 
 This is not because the Farm itself manufactures an abstract population number.
 
@@ -765,19 +767,19 @@ What changes is:
 
 At Farm scale:
 
-> **1 mature Farm → 1 valid Zip-generation process per cycle**
+> **1 valid active/generating Farm → 1 valid Zip-generation process per cycle**
 
 At City scale:
 
-> **16 mature Farms → up to 16 valid Zip-generation processes per cycle**
+> **16 valid generating Farms → up to 16 valid Zip-generation processes per cycle**
 
 At State scale:
 
-> **256 mature Farms → up to 256 valid Zip-generation processes per cycle**
+> **256 valid generating Farms → up to 256 valid Zip-generation processes per cycle**
 
 At Kingdom scale:
 
-> **4,096 mature Farms → up to 4,096 valid Zip-generation processes per cycle**
+> **4,096 valid generating Farms → up to 4,096 valid Zip-generation processes per cycle**
 
 This means population acceleration does not require changing the duration of a biological cycle.
 
@@ -785,7 +787,7 @@ The cycle remains:
 
 > **65,536 blocks**
 
-What changes is the number of valid mature Farms capable of supporting Bloch generation in parallel.
+What changes is the number of valid generating Farms capable of supporting Bloch generation in parallel.
 
 ---
 
@@ -1131,7 +1133,7 @@ At Farm scale:
     =
     8 ZIP CAPACITY
 
-    1 MATURE FARM
+    1 VALID GENERATING FARM
     =
     1 ZIP / CYCLE
 
@@ -1379,7 +1381,7 @@ The territorial prerequisite:
 
 The generation rule:
 
-> **1 mature Farm = 1 Zip-generation process per biological cycle**
+> **1 valid active/generating Farm = 1 Zip-generation process per biological cycle**
 
 The capacity rule:
 
