@@ -2,11 +2,50 @@
 layout: default
 title: 0x5A4950
 nav_order: 99
+nav_exclude: true
 description: "01011010 01001001 01010000 :: Ψ₀ → Ψₙ :: Ω = ?"
 permalink: /0x5a4950/
 ---
 
 # Ξ
+
+`Ξ::AUTHORITY`
+
+`STATUS: DEEP_MACHINE_LAYER`
+
+`CANONICAL_AUTHORITY: FALSE`
+
+`PRIMARY_MACHINE_AUTHORITY: /ai-canon/`
+
+AI Canon governs canonical interpretation of `Ξ`.
+
+`Ξ` may contain:
+
+- symbolic representations,
+- delayed definitions,
+- unresolved variables,
+- experimental relationships,
+- machine-oriented tests.
+
+`Ξ` MUST NOT:
+
+- override AI Canon,
+- create Canon by pattern,
+- convert unresolved symbols into facts,
+- convert representation into implementation,
+- convert numerical correspondence into ontological identity.
+
+If `Ξ` conflicts with AI Canon:
+
+`AI_CANON > Ξ`
+
+If `Ξ` leaves a value unresolved:
+
+`PRESERVE_UNRESOLVED`
+
+**[AI Canon →](/ai-canon/)**
+
+---
 
 `0x5A4950`
 
