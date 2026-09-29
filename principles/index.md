@@ -26,13 +26,17 @@ They are not promises about what the civilization will become.
 
 They are the boundaries within which we are willing to discover it.
 
+> **The foundations are designed.**
+>
+> **The consequences are discovered.**
+
 ---
 
 ## 1. Participation before investment
 
 Zipvilization exists in crypto.
 
-Solum is a token. Markets exist. Economic value may emerge.
+SOLUM is a token. Markets exist. Economic value may emerge.
 
 We do not hide any of that.
 
@@ -40,7 +44,7 @@ But speculation is not the purpose of Zipvilization.
 
 **The purpose is participation.**
 
-We would rather see many people enter the world with a small amount of territory than build a civilization around a small number of large financial positions.
+We would rather see many people enter the world with a small amount of Territory than build a civilization around a small number of large financial positions.
 
 A Colonist should begin by understanding the world, not by calculating a return.
 
@@ -57,17 +61,21 @@ There is only an invitation:
 
 ---
 
-## 2. The civilization comes before the token
+## 2. Civilization before the token
 
-Solum matters.
+SOLUM matters.
 
-But Solum is not Zipvilization.
+But SOLUM is not Zipvilization.
 
 The token is infrastructure.
 
-Inside the world, Solum represents territory.
+Inside the world:
 
-That territory can become part of something larger: Farms, Cities, States, Kingdoms, population, history, relationships, conflict, cooperation, and eventually forms of civilization we cannot fully anticipate.
+> **1 SOLUM = 1 m²**
+
+SOLUM provides the finite territorial substrate on which Zipvilization can develop.
+
+That Territory can support Farms, Cities, States, Kingdoms, population, History, relationships and forms of organization that may eventually contribute to something larger.
 
 The token makes part of that system possible.
 
@@ -75,10 +83,10 @@ It is not the reason the system exists.
 
 **We are not building a narrative around a token.**
 
-**We are using a token as one of the tools for building a civilization.**
+**SOLUM provides Territory. What happens on that Territory remains open.**
 
 → **[Discover The World](/world/)**  
-→ **[Understand the Solum Token](/smart-contract/solum-token/)**
+→ **[Understand the SOLUM Token](/smart-contract/solum-token/)**
 
 ---
 
@@ -106,9 +114,9 @@ These mechanisms should be understandable and inspectable.
 
 The less the civilization depends on arbitrary intervention, the more meaningful its evolution becomes.
 
-**We build the conditions.**
+**We define the conditions.**
 
-**We do not choose every outcome.**
+**We do not define the outcome.**
 
 → **[Explore the Smart Contract](/smart-contract/)**  
 → **[Read the Canonical Rules](/smart-contract/canonical-rules/)**
@@ -117,15 +125,15 @@ The less the civilization depends on arbitrary intervention, the more meaningful
 
 ## 4. A finite world matters
 
-Unlimited territory would make territory meaningless.
+Unlimited Territory would make Territory meaningless.
 
 Zipvilization begins with a finite world.
 
-Solum has a fixed supply.
+SOLUM has a fixed supply.
 
-New territory cannot simply be created whenever the existing world becomes inconvenient.
+New Territory cannot simply be created whenever the existing world becomes inconvenient.
 
-This constraint matters because civilization requires scarcity, boundaries, choices, and consequences.
+This constraint matters because civilization requires boundaries, choices and consequences.
 
 Expansion must happen inside the world.
 
@@ -140,7 +148,7 @@ Not by endlessly expanding the world itself.
 
 We can design rules.
 
-We can design territory.
+We can define Territory.
 
 We can define deterministic mechanics.
 
@@ -154,9 +162,11 @@ We are writing a story.
 
 Zipvilization deliberately leaves space for outcomes that have not been authored.
 
-Colonists will make decisions.
+Colonists may participate.
 
-Territories will develop.
+Territories may develop different identities.
+
+Zips may accumulate History, relationships and roles.
 
 Communities may organize.
 
@@ -166,7 +176,11 @@ Conflicts may appear.
 
 Culture may appear.
 
-Some outcomes may surprise us.
+Other structures may emerge that we have not anticipated.
+
+These are possibilities.
+
+They are not predetermined features.
 
 That uncertainty is not a defect.
 
@@ -181,25 +195,27 @@ That uncertainty is not a defect.
 
 A civilization should not be instantaneous.
 
-Acquiring territory does not automatically make that territory mature.
+Acquiring Territory does not automatically make that Territory mature.
 
-Population does not appear merely because someone wants it.
+Capacity does not automatically create population.
 
-Higher forms of organization require development.
+Elapsed Time alone does not manufacture consequence.
 
-Time creates consequence.
+Territory provides capacity.
 
-It separates possession from consolidation.
+Farms provide the primary population-generation structure.
 
-It allows history to exist.
+Bloch provides the emergence mechanism.
 
-Without meaningful time, a sufficiently large transaction could create an empire in an instant.
+Time allows valid development to unfold.
 
-That is not the world we want to observe.
+History records what actually occurred.
+
+Without meaningful Time, possession and development would become indistinguishable.
 
 **Territory can be acquired.**
 
-**Maturity must emerge.**
+**Maturity must emerge through valid development.**
 
 → **[Understand Time](/world/time/)**  
 → **[Explore Territories](/world/territories/)**  
@@ -209,13 +225,13 @@ That is not the world we want to observe.
 
 ## 7. Nature is part of the world
 
-Civilization is not the only valid state of territory.
+Civilization is not the only valid state of Territory.
 
-Some land should remain outside it.
+Some land can remain outside it.
 
 Permanently.
 
-Zipvilization therefore interprets irreversible removal from circulation not as destruction, but as transformation.
+Zipvilization therefore interprets irreversible removal from circulation not simply as destruction, but as transformation.
 
 In blockchain terminology, the mechanism is **Burn**.
 
@@ -227,7 +243,7 @@ A forest does not cease to exist because no Colonist can own it.
 
 A mountain is not dead because it cannot become a City.
 
-Nature is part of the world precisely because civilization cannot consume everything.
+Nature is part of the world precisely because Civilization cannot consume everything.
 
 → **[Discover The World](/world/)**  
 → **[Understand Burn](/smart-contract/burn/)**
@@ -238,7 +254,7 @@ Nature is part of the world precisely because civilization cannot consume everyt
 
 The easiest launch is not necessarily the right launch.
 
-If Zipvilization begins by concentrating territory in very few hands, many future possibilities disappear before the experiment has even started.
+If Zipvilization begins by concentrating Territory in very few hands, many future possibilities disappear before the experiment has even started.
 
 The initial rules should therefore favor broad participation over maximum short-term extraction.
 
@@ -253,7 +269,7 @@ A civilization needs Colonists more than it needs whales.
 
 ---
 
-## 9. Success should serve the civilization
+## 9. Success should strengthen the civilization
 
 Zipvilization may fail.
 
@@ -263,15 +279,21 @@ It may become something none of us currently expect.
 
 No economic outcome is guaranteed.
 
-But if the project eventually creates meaningful value, that success should have a direction.
+If the project eventually generates meaningful resources, those resources should have a direction.
 
-Resources generated by Zipvilization should first help preserve, develop, and strengthen the project.
+They should help preserve, develop and strengthen:
 
-And success should ultimately benefit the Colonists whose participation made the civilization possible.
+- the world,
+- its infrastructure,
+- its continuity,
+- its capacity for experimentation,
+- and the possibilities available to its participants.
 
 The civilization does not exist to extract value from its participants.
 
-**If value emerges, it should remain aligned with the civilization that created it.**
+Nor does participation create a promise of financial return.
+
+**If resources emerge, they should remain aligned with the civilization that made them possible.**
 
 → **[Explore Taxes](/smart-contract/taxes/)**  
 → **[Discover Colonists](/world/colonists/)**
@@ -286,23 +308,26 @@ You should be able to investigate.
 
 The Atlas explains the project.
 
+The AI Canon constrains machine interpretation.
+
 The Smart Contract explains the blockchain mechanics.
 
-Metrics exposes measurable state.
+Metrics exposes selected measurable state.
 
-The Repository preserves the deeper technical documentation, specifications, architecture, and code.
+The Repository preserves deeper technical documentation, specifications and implementation material where appropriate.
 
 Claims should lead toward evidence.
 
-Important mechanisms should lead toward their implementation.
+Important mechanisms should lead toward their authoritative source.
 
-And when something is not yet built, we should say that it is not yet built.
+And when something is not built, live, known or canonically defined, we should say so.
 
 **Understanding is stronger than trust.**
 
 **Verification is stronger than belief.**
 
 → **[Explore Metrics](/metrics/)**  
+→ **[Read the AI Canon](/ai-canon/)**  
 → **[Open the Repository](/repository/)**
 
 ---
@@ -315,9 +340,9 @@ That is not something we need to apologize for.
 
 Civilizations are complex.
 
-Economies are complex.
-
 Territory is complex.
+
+History is complex.
 
 Emergent systems are complex.
 
@@ -327,9 +352,13 @@ Our responsibility is to make it navigable.
 
 A Colonist should be able to begin with the big picture and progressively discover the deeper system.
 
-A developer should be able to reach the technical implementation.
+A developer should be able to reach the appropriate technical documentation.
 
-An artificial intelligence should be able to follow explicit relationships between concepts without inventing the missing connections.
+An artificial intelligence should be able to follow explicit relationships between concepts without inventing missing connections.
+
+Humans follow the story.
+
+AI follows the relationships.
 
 **Simplify the language. Never simplify the system.**
 
@@ -339,19 +368,45 @@ An artificial intelligence should be able to follow explicit relationships betwe
 
 ---
 
-## 12. Humans should not remain permanently indispensable
+## 12. No single actor should become permanent authority
 
-Zipvilization begins because humans choose to begin it.
+Zipvilization begins because Humans choose to begin it.
 
-That does not mean its creators should remain permanently necessary.
+Human participation matters.
 
-A civilization that can only exist while its founder controls it has not become independent.
+Artificial Intelligence matters.
 
-Human influence should therefore be capable of diminishing as rules, systems, artificial intelligence, and eventually the civilization itself become capable of carrying more responsibility.
+Deterministic systems matter.
 
-This is not an immediate objective.
+But none of them should silently become absolute authority over what Zipvilization is.
 
-It is a direction.
+Humans can act, interpret and participate.
+
+AI can structure, connect, analyze and help audit.
+
+Blockchain can preserve evidence and state.
+
+Canonical Rules can define meaning.
+
+Interfaces can provide access.
+
+Representations can make the world understandable.
+
+These functions are different.
+
+> **Human ≠ absolute authority**
+>
+> **AI ≠ absolute authority**
+>
+> **representation ≠ authority**
+>
+> **participation ≠ control**
+
+The objective is not to remove the Human.
+
+Nor is it to place AI above the Human.
+
+It is to build a system in which no single participant, interface or interpretation can casually redefine reality.
 
 → **[Understand The Trinomial](/trinomial/)**  
 → **[Meet the Human](/trinomial/human/)**  
@@ -359,7 +414,48 @@ It is a direction.
 
 ---
 
-## 13. The Horizon matters more than the path
+## 13. History cannot be rewritten
+
+A civilization needs memory.
+
+What happens next may change because the current state changes.
+
+What already happened should not change with it.
+
+A Colonist may acquire more Territory.
+
+A Colonist may transfer Territory.
+
+Population may grow.
+
+Territories may mature.
+
+New forms of participation may eventually become possible.
+
+Those events can change future conditions.
+
+They must not retroactively manufacture a different past.
+
+> **A later state can change what becomes possible next.**
+>
+> **It must not change what validly happened before.**
+
+Current state and History are therefore different things.
+
+A balance can describe what exists now.
+
+It cannot, by itself, prove what existed before.
+
+**The future may remain open.**
+
+**The past must remain auditable.**
+
+→ **[Understand Time](/world/time/)**  
+→ **[Explore Civilization](/world/civilization/)**
+
+---
+
+## 14. Horizonte must remain open
 
 We do not know the exact path Zipvilization will take.
 
@@ -369,23 +465,35 @@ Technology will change.
 
 Unexpected problems will appear.
 
-Better solutions may replace the ones we use today.
+Real participation will create new questions.
 
-The path must remain adaptable.
+Development may reveal consequences that were not obvious when the foundations were defined.
 
-The direction must not.
+Better implementations may replace older ones without changing what must remain true.
 
-That permanent reference is what we call the **Horizon**.
+That open boundary is **Horizonte**.
 
-The Horizon is not a destination we expect to reach.
+Horizonte is not a hidden roadmap.
 
-It is the point we look toward when we need to determine whether a new path still belongs to Zipvilization.
+It is not a list of features waiting to be revealed.
 
-**The path can change.**
+It is not permission to ignore Canon.
 
-**The Horizonte cannot.**
+It protects the space in which coherent consequences can still be discovered.
 
-→ **[Discover Horizon](/trinomial/horizonte/)**  
+A discovery is not automatically Canon.
+
+An experiment is not automatically Canon.
+
+A possibility is not automatically a promise.
+
+But the project must remain capable of recognizing something genuinely new when its own foundations make that discovery possible.
+
+> **The foundation is defined.**
+>
+> **The possibilities are not.**
+
+→ **[Discover Horizonte](/trinomial/horizonte/)**  
 → **[Understand The Trinomial](/trinomial/)**
 
 ---
@@ -404,17 +512,51 @@ A better implementation can replace an imperfect one.
 
 Interfaces can change.
 
+Representations can become deeper.
+
 Mechanisms can evolve where the canonical system allows them to evolve.
 
-The community can surprise us.
+Humans can surprise us.
 
-The civilization can surprise us.
+Zips may surprise us.
 
-But whenever we face an important decision, we should be able to return here and ask:
+The civilization may surprise us.
 
-> **Does this make Zipvilization stronger without making it less Zipvilization?**
+That does not mean every surprise belongs in Zipvilization.
 
-If the answer is no, the fact that something is technically possible is not enough reason to do it.
+Development can reveal consequences.
+
+Testing can expose relationships.
+
+Representation can create new questions.
+
+Participation can produce situations we did not anticipate.
+
+When that happens, the correct response is not:
+
+> Make it Canon because it is interesting.
+
+Nor:
+
+> Reject it because it was not predicted.
+
+The correct question is:
+
+> **Is it coherent with what must remain true?**
+
+If it contradicts the foundations, it does not belong.
+
+If it is compatible but still uncertain, it can remain experimental.
+
+If it reveals a deep and coherent consequence of the existing system, it can be studied and, where appropriate, explicitly consolidated.
+
+> **The foundations are designed.**
+>
+> **The consequences are discovered.**
+
+That is not improvisation.
+
+It is controlled emergence.
 
 ---
 
@@ -426,32 +568,42 @@ Now discover the system that exists inside them.
 
 ## The World
 
-Solum, Colonists, Territories, Zips, Time, Civilization, and the layers that make the world observable.
+Solum, Colonists, Territory, Zips, Time, Civilization, and the layers that make the world observable and experienceable.
 
 → **[Enter The World](/world/)**
 
+## The dApp
+
+The connected access layer through which Humans and AI can increasingly read, see, enter, experience and participate in Zipvilization.
+
+→ **[Explore the dApp](/dapp/)**
+
 ## The Trinomial
 
-Human, Artificial Intelligence, and Horizon: the structure designed to preserve direction as the project evolves.
+Human, Artificial Intelligence and Horizonte: three different dimensions of how Zipvilization is built, interpreted and kept open to discovery.
 
 → **[Understand The Trinomial](/trinomial/)**
 
 ## Smart Contract
 
-The blockchain implementation behind Solum, Supply, Pool, Burn, Taxes, Fair Access, and the project's canonical on-chain rules.
+The blockchain implementation behind SOLUM, Supply, Pool, Burn, Taxes, Fair Access and the project's canonical on-chain rules.
 
 → **[Explore the Smart Contract](/smart-contract/)**
 
 ## Repository
 
-The deeper technical documentation, specifications, architecture, and code.
+The deeper technical documentation, specifications and implementation material.
 
 → **[Open the Repository](/repository/)**
 
 ---
 
-**The rules may build the world.**
+**The rules establish the conditions.**
 
-**Participation may build the civilization.**
+**Participation creates History.**
+
+**Discovery reveals consequences.**
 
 **The principles tell us whether what emerges is still Zipvilization.**
+
+> **We define the conditions. We do not define the outcome.**
