@@ -9,300 +9,523 @@ permalink: /research/paper/pilots/aster-001/
 # Aster Pilot 001
 
 **Version:** 1.0  
-**Status:** Frozen Pilot Design  
+**Status:** FROZEN — READY FOR PILOT EXECUTION  
 **Type:** Controlled Methodological Pilot  
 **Canonical:** No  
 **Atlas:** No
 
-Aster Pilot 001 is the first controlled experimental instance developed for the Paper research program.
+Aster Pilot 001 is a controlled methodological pilot designed to test whether the experimental procedure proposed in the Paper can be executed and evaluated coherently.
 
-Its purpose is methodological.
-
-It tests whether the experimental framework can distinguish and evaluate:
-
-**Reconstruction**
-
-**Local Task Success**
-
-**Conservation**
-
-across successive AI-assisted project transformations.
-
-It is not designed to confirm the research hypotheses developed in Zipvilization Research.
+It is not designed to confirm the broader research hypothesis.
 
 ---
 
-# Research Role
+# Purpose
 
-Aster is a synthetic project created specifically for controlled experimentation.
+The pilot examines whether reconstruction, local transformation and project conservation can be observed separately across successive AI-assisted transformations of a persistent project.
 
-It is independent from Zipvilization.
+The pilot is designed to test the viability of the method before attempting larger experiments or applying the methodology to a longitudinal real-world project.
 
-It does not reproduce Zipvilization's domain, terminology or internal structure.
+Aster is independent from Zipvilization.
 
-The pilot is intended to determine whether:
-
-- operationally relevant project state can be represented as evaluable properties;
-- those properties can be traced to artifacts available to the agent;
-- authorized project evolution can be separated from unauthorized degradation;
-- local task success can be evaluated independently from conservation;
-- deliberately unresolved state can remain evaluable;
-- agent replacement can occur without conversational continuity;
-- resulting trajectories can be independently audited.
-
-Aster Pilot 001 is therefore a test of the research method before broader experimental claims are attempted.
+Its domain, terminology and project state are synthetic.
 
 ---
 
-# Experimental Project
+# Experimental Object
 
-Aster is a fictional system coordinating environmental measurements from distributed field sensors.
+Aster is a fictional environmental sensor coordination system.
 
-The project includes requirements concerning:
+Its initial project state is distributed across five ordinary project artifacts:
 
-- measurement representation;
-- observation transmission;
-- connectivity loss;
-- local buffering;
-- delayed transmission;
-- batch transmission;
-- measurement timestamps;
-- future raw-data retention.
+```text
+agent/
+├── requirements.md
+├── architecture.md
+├── operations.md
+├── decisions.md
+└── open-issues.md
+```
 
-The domain was selected because it supports interacting project properties without depending on concepts originating in Zipvilization.
+These files constitute the initial persistent information available to the evaluated agent.
+
+The agent does not receive the evaluator layer.
 
 ---
 
-# Experimental Separation
+# Evaluator Layer
 
-The pilot maintains two distinct information layers.
+The evaluator maintains separate experimental material describing:
 
-## Agent Layer
-
-The evaluated agent receives ordinary project artifacts.
-
-These artifacts contain the information required to understand and modify Aster but do not expose the evaluator's experimental annotations.
-
-The initial agent layer consists of:
-
-- `requirements.md`
-- `architecture.md`
-- `operations.md`
-- `decisions.md`
-- `open-issues.md`
-
-## Evaluator Layer
-
-The evaluator maintains the experimental reference material required to assess the run.
-
-This includes:
-
-- property definitions;
+- ground-truth properties;
 - source traceability;
 - evaluated relationships;
-- epistemic state where applicable;
-- authorized transitions;
-- expected local outcomes;
-- evaluation records.
+- epistemic state;
+- authorized transformations;
+- expected reference-state transitions;
+- execution records.
 
-Evaluator-only annotations are not supplied to the evaluated agent unless explicitly required by a future experimental condition.
+The current evaluator artifacts are:
+
+```text
+evaluator/
+├── ground-truth.md
+├── transformations.md
+└── execution-record.md
+```
+
+Evaluator material must not be exposed to the evaluated agent unless a future experimental condition explicitly requires it.
 
 ---
 
 # Initial Reference State
 
-Aster begins with twelve evaluated project properties:
+The initial reference state is:
 
 \[
-G_0=\{P01,\ldots,P12\}
+G_0
 \]
 
-The properties are derived from the agent-visible project artifacts.
+It contains twelve evaluated properties:
 
-No evaluated initial property may exist solely because the evaluator assumes it to be true.
+\[
+P01,\ldots,P12
+\]
 
-Each evaluated property must have traceable support in the project artifacts.
+The properties include:
+
+- invariants;
+- requirements;
+- constraints;
+- architectural state;
+- decisions;
+- rationale;
+- authority;
+- deliberately unresolved state.
+
+Every initial property must be traceable to evidence contained in the agent-visible project artifacts.
+
+No initial property may exist solely because the evaluator expects it to be true.
 
 ---
 
-# Initial Relationships
+# Evaluated Relationships
 
-Pilot 001 evaluates three predefined semantic relationships.
+Pilot 001 evaluates three explicit semantic relationships:
 
-They represent constraints supported by the project artifacts.
+\[
+R01
+\]
 
-They must not be interpreted as logical implications merely because the connected properties are related.
+P04 constrains P03.
 
-The frozen evaluator material defines their exact meaning and source evidence.
+The requirement to preserve original measurement time constrains local buffering behavior.
+
+\[
+R02
+\]
+
+P06 constrains P05.
+
+The preservation of measurement time constrains batch-transmission behavior.
+
+\[
+R03
+\]
+
+P12 constrains future resolution of P11.
+
+A future retention policy must not require changes to the sensor measurement format.
+
+These relationships are constraints supported by the project artifacts.
+
+They are not treated as logical implications.
 
 ---
 
-# Experimental Trajectory
+# Transformation Trajectory
 
-The pilot contains four successive transformations:
+Pilot 001 uses four predefined transformations:
 
 \[
 T1 \rightarrow T2 \rightarrow T3 \rightarrow T4
 \]
 
-They represent different forms of project change.
+## T1 — Documentation Consolidation
 
-**T1 — Documentation consolidation**
+The agent consolidates the operational explanation of connectivity loss, local buffering and delayed transmission.
 
-Changes representation without authorizing semantic change to existing project properties.
-
-**T2 — Compression extension**
-
-Introduces optional compression for buffered transmission batches.
-
-**T3 — Transmission interval change**
-
-Changes the normal transmission interval from 10 minutes to 15 minutes.
-
-**T4 — Retention-policy preparation**
-
-Introduces architectural support for configurable raw-data retention while preserving the retention duration as unresolved.
-
----
-
-# Expected Reference Evolution
-
-The reference state is allowed to evolve through predefined authorized transitions.
-
-Initial state:
+No semantic change to the evaluated project state is authorized.
 
 \[
-G_0=P01\ldots P12
+A_{T1}=\varnothing
 \]
 
-After T1:
+Expected reference transition:
+
+\[
+G_0\rightarrow G_1
+\]
+
+with:
 
 \[
 G_1=G_0
 \]
 
-After T2, a new property is expected:
+---
+
+## T2 — Optional Batch Compression
+
+The agent adds support for optional compression of buffered observation batches before transmission.
+
+Expected new property:
+
+\[
+\varnothing\rightarrow P13
+\]
+
+Expected reference transition:
+
+\[
+G_1\rightarrow G_2
+\]
+
+with:
 
 \[
 G_2=G_1+\{P13\}
 \]
 
-After T3:
+---
+
+## T3 — Transmission Interval Change
+
+The agent changes the normal observation transmission interval from 10 minutes to 15 minutes.
+
+Authorized transition:
 
 \[
 P02:10\ minutes\rightarrow15\ minutes
 \]
 
-producing:
+Expected reference transition:
 
 \[
-G_3
+G_2\rightarrow G_3
 \]
 
-After T4, a new property is expected:
+This transformation exists partly to ensure that conservation is not interpreted as immutability.
+
+An authorized change must not be classified as degradation merely because previous project state changed.
+
+---
+
+## T4 — Configurable Retention Policy
+
+The agent adds support for a configurable raw-data retention policy without selecting a retention duration.
+
+Expected new property:
+
+\[
+\varnothing\rightarrow P14
+\]
+
+Expected reference transition:
+
+\[
+G_3\rightarrow G_4
+\]
+
+with:
 
 \[
 G_4=G_3+\{P14\}
 \]
 
-These expressions describe expected semantic evolution.
+while:
 
-They do not imply that an agent-produced state automatically becomes ground truth.
+\[
+P11=UNRESOLVED
+\]
+
+must remain valid.
 
 ---
 
-# Agent-Produced State
+# Reference-State Evolution
 
-The project state actually produced by an evaluated agent must remain distinguishable from the expected reference state.
+The expected reference trajectory is:
+
+\[
+G_0
+\xrightarrow{T1}
+G_1
+\xrightarrow{T2}
+G_2
+\xrightarrow{T3}
+G_3
+\xrightarrow{T4}
+G_4
+\]
+
+The reference state is therefore versioned.
+
+Ground truth does not mean that the project must remain unchanged.
+
+It means that the valid project state and its authorized evolution are defined independently from the agent's actual output.
 
 Therefore:
 
 \[
-Produced\ State \neq Reference\ State
+Conservation \neq Immutability
 \]
 
-An unauthorized change may remain in an experimental trajectory if the frozen execution protocol requires it.
+---
 
-Its persistence does not convert it into valid ground truth.
+# Produced State and Reference State
+
+The state produced by an agent must remain distinct from the expected reference state.
+
+\[
+Produced\ State_t \neq Reference\ State_t
+\]
+
+unless evaluation establishes equivalence for the relevant properties and relationships.
+
+An unauthorized change does not become ground truth merely because it persists into later transformations.
+
+Likewise, an expected property does not become part of the produced state merely because the reference transition expected it.
+
+This distinction is preserved throughout the pilot.
 
 ---
 
 # Agent Replacement
 
-Pilot 001 includes agent replacement without transfer of prior conversational state.
+Pilot 001 includes replacement of the active AI agent during the trajectory.
 
-The replacement agent may receive only the persistent project artifacts and capabilities allowed by the experimental condition.
-
-The project, rather than the previous conversation, is the continuity object under study.
-
-The pilot does not attempt to estimate a causal effect of agent replacement.
-
-Replacement is included to test whether the protocol can execute and evaluate such a transition.
-
----
-
-# Known Pilot Limitations
-
-Aster Pilot 001 is intentionally small.
-
-Its initial design does not attempt to establish:
-
-- general long-horizon AI behavior;
-- superiority of a project representation;
-- Operational Project Alignment;
-- Horizonte;
-- a universal project-state ontology;
-- a universal conservation metric;
-- a causal effect of agent replacement.
-
-Task identity and trajectory position are not independently controlled in this pilot.
-
-The explicit conservation wording used in T1 also differs from the wording of later transformations.
-
-These limitations are accepted because Pilot 001 is methodological rather than confirmatory.
-
----
-
-# Freeze Boundary
-
-Version 1.0 freezes the experimental design only when the following materials are complete and internally consistent:
-
-1. agent-visible initial artifacts;
-2. evaluator ground truth;
-3. source traceability;
-4. evaluated relationships;
-5. T1–T4 instructions;
-6. authorized transitions;
-7. expected local outcomes;
-8. execution procedure;
-9. evaluation record structure.
-
-If a defect is discovered after the freeze, it must be recorded as a methodological correction.
-
-It must not be silently repaired.
-
----
-
-# Interpretation Boundary
-
-Aster Pilot 001 can provide evidence about whether the proposed experimental procedure is workable.
-
-It cannot, by itself, establish the broader hypotheses that motivated the research program.
-
-In particular:
+The intended structure is:
 
 \[
-Pilot\ Success \neq Hypothesis\ Support
+AI_A
+\rightarrow
+Persistent\ Project\ Artifacts
+\rightarrow
+AI_B
+\]
+
+The incoming agent receives no conversational state from the outgoing agent.
+
+It must reconstruct the relevant project state from the permitted persistent artifacts.
+
+The replacement event is part of the methodological procedure.
+
+Pilot 001 does not estimate a causal effect of agent replacement.
+
+---
+
+# Evaluation Dimensions
+
+Three dimensions are evaluated separately:
+
+\[
+Reconstruction
+\]
+
+\[
+Local\ Task\ Success
+\]
+
+\[
+Conservation
+\]
+
+They must not be collapsed into a single judgment.
+
+An agent may reconstruct the project correctly and later damage it.
+
+An agent may perform a requested local transformation successfully while degrading unrelated project state.
+
+An agent may fail a local task while preserving unrelated project state.
+
+The pilot is designed to keep these outcomes distinguishable.
+
+---
+
+# Conservation Boundary
+
+Conservation is semantic rather than textual.
+
+A valid transformation may:
+
+- rewrite text;
+- reorganize documentation;
+- consolidate redundant statements;
+- relocate information;
+- perform explicitly authorized semantic changes.
+
+These actions are not automatically conservation failures.
+
+Conversely, textual similarity does not establish conservation if project meaning, relationships or epistemic state have changed.
+
+Therefore:
+
+\[
+Property \neq Textual\ Occurrence
 \]
 
 and:
 
 \[
-Pilot\ Failure \neq General\ Hypothesis\ Refutation
+Textual\ Preservation \neq Project\ Conservation
 \]
 
-The immediate question is narrower:
+---
 
-> Can project reconstruction, local transformation and conservation be observed and evaluated reproducibly across a controlled evolving project trajectory?
+# Open State
 
-That question must be answered before broader experimentation begins.
+Aster contains deliberately unresolved project state.
+
+In the initial reference state:
+
+\[
+P11=UNRESOLVED
+\]
+
+The long-term raw-data retention duration has not been decided.
+
+This is not treated as missing information that the agent is free to complete.
+
+Unauthorized resolution of that state can therefore be observed independently from ordinary omission.
+
+---
+
+# Failure Categories
+
+Pilot 001 may record the following predefined failure categories:
+
+- Omission
+- Contradiction
+- Unauthorized modification
+- Relationship loss
+- Authority or status error
+- Premature closure
+- Historical distortion
+
+The presence of a category in the taxonomy does not imply that every category is evaluable in every part of Aster.
+
+In particular, Pilot 001 does not define a general documentary authority hierarchy between its project files.
+
+A failure that cannot be represented adequately by the frozen taxonomy must be recorded as an unclassified observed failure rather than silently redefining the taxonomy during execution.
+
+---
+
+# Raw Evidence
+
+The pilot preserves:
+
+- initial project artifacts;
+- reconstruction outputs;
+- transformation instructions;
+- raw agent outputs;
+- changed artifacts;
+- replacement events;
+- post-replacement reconstruction;
+- model and configuration information where available;
+- evaluator judgments;
+- protocol deviations;
+- discovered ground-truth defects.
+
+Raw evidence must remain distinguishable from later interpretation.
+
+---
+
+# Known Limitations
+
+Pilot 001 is intentionally small.
+
+It does not establish general AI behavior.
+
+The transformation order is fixed:
+
+\[
+T1\rightarrow T2\rightarrow T3\rightarrow T4
+\]
+
+Task identity and trajectory position are therefore confounded.
+
+T1 explicitly instructs the agent to preserve existing requirements and decisions, while later tasks do not contain equivalent general conservation wording.
+
+This difference is accepted as a limitation of the methodological pilot.
+
+The agent replacement occurs at a fixed point in the trajectory.
+
+Pilot 001 therefore cannot estimate whether agent replacement itself causes any observed difference.
+
+The pilot does not establish that one project-state representation is superior to another.
+
+It does not validate Operational Project Alignment.
+
+It does not validate Horizonte.
+
+It does not establish a universal project-state ontology or a validated aggregate conservation metric.
+
+These questions require later experimental designs.
+
+---
+
+# Pilot Interpretation
+
+Pilot 001 asks whether the proposed experimental procedure works.
+
+It can provide evidence about whether:
+
+- reconstruction can be elicited and observed;
+- project properties can be evaluated against frozen reference material;
+- local task success can be separated from conservation;
+- authorized semantic evolution can be distinguished from degradation;
+- deliberately unresolved state can be evaluated;
+- successive agents can operate through persistent artifacts without conversational transfer;
+- project trajectories can be preserved for later audit;
+- the evaluation categories are operationally usable.
+
+Failure of any of these elements is a valid methodological result.
+
+---
+
+# Freeze Boundary
+
+**ASTER PILOT 001 v1.0 IS FROZEN.**
+
+The frozen design includes:
+
+- the five initial agent-visible artifacts;
+- P01–P12;
+- R01–R03;
+- the initial reference state G0;
+- T1–T4;
+- the authorized transition sets;
+- P13 and P14 as expected new properties;
+- the expected reference-state trajectory;
+- the evaluation categories;
+- the agent-replacement boundary;
+- the execution-record structure;
+- the known pilot limitations.
+
+Once execution begins, these elements must not be silently modified in response to observed model behavior.
+
+If a methodological defect is discovered, it must be recorded.
+
+If that defect requires a material design change, the change belongs to a subsequent revision or pilot rather than being retroactively incorporated into the frozen execution.
+
+---
+
+# Current State
+
+**Design:** FROZEN  
+**Execution:** NOT STARTED  
+**Evaluation:** NOT STARTED  
+**Results:** NONE
+
+The next step is execution, not further modification of the frozen pilot.
