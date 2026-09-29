@@ -257,15 +257,17 @@ T008 PRIMARY_REFERENCE:
 primary_territorial_reference = Farm
 primary_maturity_reference = Farm
 primary_history_reference = Farm
-primary_population_generator = mature Farm
+primary_population_generator = valid active/generating Farm
 
 T009 PERSISTENCE:
-A mature Farm remains a population-generating unit inside City, State or Kingdom.
+A valid active/generating Farm generates population while developing toward maturity.
+A mature Farm remains a population-generating unit inside City, State or Kingdom while valid unoccupied capacity exists.
 Higher levels organize Territory and provide additional capacity.
 Higher levels do NOT replace Farm reference or independently generate Zips.
 
 T010 HIGHER_RATE:
-higher_level_generation_rate = valid mature generating Farms × 1 Zip/Farm/biological_cycle
+population_generation_rate = valid active/generating Farms × 1 Zip/Farm/biological_cycle
+Higher-level population-generation capacity derives from the valid generating Farms contained within that territorial structure.
 
 T011 MINIMUM_ACTIVE_TERRITORY:
 minimum_active_territory = 1 Farm = 8 Tiles = 8,000,000 SOLUM = 8 km²
@@ -1233,11 +1235,12 @@ CC004 ACTIVE:
 Farm = primary territorial/maturity/history reference and persists through higher development.
 
 CC005 ACTIVE:
-1 valid mature Farm = 1 Zip/biological cycle while valid capacity exists.
+1 valid active/generating Farm = 1 Zip/biological cycle while valid capacity exists.
+A Farm generates its initial 8-Zip population during its 8-cycle development from zero and reaches maturity after those 8 valid cycles / 8 Zips.
 
 CC006 ACTIVE:
-Higher generation derived from contained mature Farms:
-City 16; State 256; Kingdom 4,096 Zips/cycle.
+Higher-level population-generation capacity derives from valid generating Farms contained within the territorial structure.
+Higher territorial levels provide additional capacity but do NOT independently generate Zips.
 
 CC007 ACTIVE:
 Maturity corrected to 8/16/32/64 cumulative cycles = 524,288/1,048,576/2,097,152/4,194,304 blocks.
