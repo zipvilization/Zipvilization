@@ -3,343 +3,237 @@ layout: default
 title: TGE Genesis
 nav_order: 3
 description: >
-  Genesis is the beginning of Zipvilization. Before there can be history,
-  the world needs its first Colonists. The initial launch is designed as
-  an event of participation, accessibility, and distributed colonization,
-  not as a fundraising objective.
+  Genesis is the beginning of canonical Zipvilization History. The world
+  opens through an initial launch designed around participation, accessibility
+  and distributed colonization rather than fundraising.
 permalink: /genesis/
 ---
 
 # Genesis
 
-**A civilization needs people before it needs history.**
+**Every History needs a beginning.**
 
-Before the first Farm matures.
+Before Genesis, Zipvilization can already exist as a project.
 
-Before the first City exists.
+The rules can be defined.
 
-Before Zips have accumulated a history.
+The Atlas can be read.
 
-Before there is anything meaningful to observe.
+The contract can be developed and tested.
 
-There must be people willing to begin.
+The world can be modeled.
 
-> **Genesis is where Zipvilization stops being only a set of conditions and starts becoming an experiment.**
+Humans can discover the experiment and decide that they want to participate.
 
-Those people are the first Colonists.
+But canonical History has not begun.
+
+Genesis changes that.
+
+> **Genesis is the beginning of canonical Zipvilization History.**
+
+It does not create a finished civilization.
+
+It creates the first canonical conditions in which that civilization may begin to emerge.
 
 ---
 
 # Before Genesis
 
-Before Genesis, Zipvilization can already be studied.
+Before Genesis, we build the conditions.
 
-The Atlas can be read.
+We can define:
 
-The rules can be questioned.
+- the finite territorial substrate,
+- the Smart Contract,
+- the initial Pool,
+- Fair Access,
+- Territory,
+- Time,
+- population rules,
+- observation systems,
+- and the architecture through which the world will become accessible.
 
-The contract architecture can be inspected.
+We can test those systems.
 
-The world can be discussed.
+We can improve them.
 
-Ideas can be contributed.
+We can explain them.
 
-The project can be shared.
-
-But the civilization has not started.
-
-There is no accumulated history.
-
-There are no mature Territories.
-
-There is no established Zip civilization.
-
-There are only:
-
-**the conditions**
-
-and
-
-**the Humans willing to enter them.**
-
-That distinction matters.
+But development and testing are not canonical History.
 
 > **Before Genesis, we build the conditions.**
 >
-> **After Genesis, those conditions begin producing consequences.**
+> **At Genesis, those conditions begin producing canonical consequences.**
 
 ---
 
-# We need Colonists
+# We Need Colonists
 
 Zipvilization is an experiment in participation and observation.
 
-Observation becomes meaningful when independent participants begin making independent decisions inside the same finite system.
+Its beginning is therefore not designed around raising the largest possible amount of capital.
 
-The initial objective is therefore not to attract the largest possible amount of capital.
+It needs independent participants.
 
-It is to establish a meaningful population of independent Colonists.
+Colonists.
 
-Not a few enormous positions.
+Humans willing to enter the same finite system and allow their independent actions to become part of its History.
 
-Not spectators waiting for a price chart.
+> **We are not looking for the largest buyers.**
+>
+> **We are looking for the first Colonists.**
 
-People willing to participate.
-
-People willing to interact.
-
-People willing to become part of the beginning.
-
-> **Genesis needs participation before it needs history.**
+This is why Genesis is designed around **participation before capital**.
 
 ---
 
-# The pre-Genesis Colonists
+# Founding Colonists
 
-Some people will discover Zipvilization before the world opens.
+Some Humans discover Zipvilization before Genesis.
 
-They may read the Atlas.
+Before official SOLUM exists.
 
-Follow its development.
+Before Active Territory exists.
 
-Question its rules.
+Before the first canonical Zip emerges.
 
-Share it.
+Before there is any canonical History to observe.
 
-Discuss it.
+Those Humans can become **Founding Colonists**.
 
-Contribute an idea.
+Their significance is historical.
 
-Help someone else discover it.
+Not sovereign.
 
-Or simply decide:
+Not economic.
 
-> **I want to be there when this begins.**
+Not a permanent privilege.
 
-Those are the people the pre-Genesis whitelist is intended to recognize.
+They were simply there before the world began.
 
-The whitelist is not intended to be a private investment round.
+The pre-Genesis process exists to identify those Humans and provide eligible participants with access to the protected initial launch period.
 
-It is not intended to be a presale.
+> **Founding recognition is historical recognition.**
+>
+> **It is not a promise of economic advantage.**
 
-It is not intended to sell preferential financial positions.
-
-Its purpose is much simpler:
-
-> **to give the people who wanted to participate before Genesis a protected opportunity to be there when the world opens.**
+→ **[Discover Founding Colonists](/founding-colonists/)**
 
 ---
 
-# Your ticket to Genesis
+# Your Ticket to Genesis
 
-A pre-Genesis Colonist should not need to compete with the entire open market at the instant Zipvilization begins.
-
-That is why the documented Launch architecture contains an initial whitelist period.
+The documented launch architecture includes an initial whitelist period.
 
 The whitelist is the technical mechanism.
 
-The human meaning is:
+Its Human meaning is simpler:
 
 > **Your ticket to Genesis.**
 
-It does not guarantee profit.
+It gives eligible pre-Genesis participants an opportunity to enter during the protected initial access period.
 
-It does not guarantee a future market value.
+It does not guarantee:
 
-It does not grant ownership over the future of Zipvilization.
+- profit,
+- future value,
+- future price,
+- Territory,
+- permanent privilege,
+- control over Zipvilization,
+- or any particular outcome.
 
-It does not remove the limits enforced by the contract.
-
-It provides an opportunity to participate during the protected initial access period under the same applicable launch rules.
-
-The technical conditions remain defined by the Smart Contract.
+The exact whitelist and launch conditions are enforced by the Smart Contract and documented separately.
 
 → **[Explore Launch](/smart-contract/tokenomics/launch/)**  
 → **[Explore Fair Access](/smart-contract/fair-access/)**
 
 ---
 
-# What do we ask in return?
+# Genesis / TGE
 
-Not an investment.
+Genesis includes the official beginning of the SOLUM system and its public launch.
 
-Participation.
+The Token Generation Event is therefore more than a token-distribution event inside Zipvilization.
 
-Help other people discover Zipvilization.
-
-Talk about the experiment.
-
-Share it.
-
-Question it.
-
-Contribute when you have something useful to contribute.
-
-Help us find the Humans who look at an empty world and think:
-
-> **I want to see what happens there.**
-
-This should not become a competition for engagement.
-
-The purpose is not to manufacture noise for its own sake.
-
-The purpose is to find enough genuinely interested people to give the experiment a meaningful beginning.
-
-> **We are not looking for the largest buyers.**
->
-> **We are looking for the first Colonists.**
-
----
-
-# TGE is a participation event
-
-The Token Generation Event marks an important technical moment.
-
-But its meaning inside Zipvilization is broader than token distribution.
-
-> ## **TGE is an event of participation.**
-
-It is the moment when the territorial substrate becomes accessible through the launch mechanism and the first Colonists can begin entering the world.
-
-The objective is not:
-
-`MAXIMUM CAPITAL`
-
-The objective is:
-
-`MEANINGFUL PARTICIPATION`
-
-The objective is not to determine what Zipvilization is worth.
-
-The objective is to give Zipvilization enough independent participants for the experiment to begin.
-
----
-
-# The Pool begins deliberately small
-
-The initial Pool is not designed to raise capital.
-
-It is designed to open the world.
-
-At TGE, the initial Pool is intended to begin from approximately:
-
-> **100,000,000,000,000 SOLUM**
->
-> paired with
->
-> **~100 USD equivalent in ETH**
-
-In other words, the initial Pool begins with the **Total Supply** paired against an intentionally very small amount of ETH.
+It is the point at which the territorial substrate becomes canonically active and participation can begin creating real History.
 
 Conceptually:
 
-`TOTAL SUPPLY`
+**OFFICIAL DEPLOYMENT**
 
 ↓
 
-`INITIAL POOL`
+**GENESIS / TGE**
 
 ↓
 
-`~100 USD EQUIVALENT IN ETH`
+**CANONICAL HISTORY BEGINS**
 
-This relationship is deliberate.
+From that point forward, valid on-chain activity belongs to the real History of Zipvilization.
 
-Its purpose is to make the economic barrier to the first stages of participation extremely small.
+Development deployments do not.
 
-Combined with the contract's **MAX_TX / Max Buy** limits, this creates the possibility of a long initial sequence in which even the maximum permitted individual entries can remain extremely inexpensive.
+Testnet activity does not.
 
-Thousands of early Max Buy entries can therefore be possible at very low individual cost while the Pool remains close to its initial state.
+Simulations do not.
 
-That matters because Genesis does not depend on a small number of participants contributing large amounts of capital.
+Representations do not.
 
-It can begin with many Colonists contributing very little capital individually.
+> **Test activity ≠ canonical History**
 
-> **We do not need a few large buyers.**
+---
+
+# The Initial Pool
+
+Genesis is intended to begin with:
+
+> **100,000,000,000,000 SOLUM**
 >
-> **We need many first Colonists.**
+> paired with approximately
+>
+> **$100 equivalent in ETH**
 
-The initial Pool is not a fundraising target.
+The intended initial SOLUM side of the Pool therefore contains the full initial supply.
 
-It is an ignition mechanism that allows independent Humans to begin interacting with a finite world.
+This deliberately small ETH side is not a fundraising target.
 
-Every BUY changes the Pool.
+Its purpose is to make the economic barrier to the beginning extremely low and allow participation to matter more than initial capital.
 
-Every TRANSFER changes distribution.
-
-Every Burn changes the world permanently.
-
-Every new Colonist introduces another independent actor.
-
-And once those interactions begin, Zipvilization starts producing something that cannot be created in advance:
-
-**history.**
-
-The initial economic accessibility is not incidental.
-
-It is part of the participation architecture.
+The contract's Fair Access mechanisms constrain how that opportunity can be used during the sensitive initial period.
 
 > **Low initial cost is a condition for access.**
 >
 > **It is not a promise of future value.**
 
-As participation changes the Pool, acquisition conditions can also change.
+Once participation begins, Pool conditions can change.
 
-No future price, cost, availability, or financial outcome is promised.
+No future price, acquisition cost, liquidity condition, availability or financial outcome is promised.
 
-Genesis is designed to make the beginning accessible.
-
-What happens after the beginning belongs to the experiment.
-
----
-
-# No funding round
-
-Zipvilization does not begin with a fundraising round.
-
-There is no private sale designed to finance the project before Genesis.
-
-There is no team allocation reserved from the Total Supply.
-
-There is no large initial capital requirement disguised as participation.
-
-The Human team does not need Zipvilization to begin by extracting value from its first Colonists.
-
-We need something else:
-
-**the world to begin.**
-
-That is why the initial Pool is deliberately small.
-
-That is why early access is designed to be extremely inexpensive.
-
-And that is why Genesis is structured around participation rather than capital formation.
-
-The objective is not:
-
-> **How much money can Genesis raise?**
-
-The objective is:
-
-> **How many independent Colonists can help Genesis happen?**
+→ **[Explore the Pool](/smart-contract/pool/)**  
+→ **[Explore Launch](/smart-contract/tokenomics/launch/)**
 
 ---
 
-# No team allocation
+# Participation, Not Fundraising
 
-The Human team does not reserve a privileged territorial position simply because it created the initial conditions.
+Zipvilization does not begin with a conventional fundraising round.
 
-There is no private team allocation of SOLUM separated from the public beginning.
+There is:
 
-The Total Supply enters the initial Pool.
+> **No presale.**
+>
+> **No private round.**
+>
+> **No team allocation.**
+>
+> **No promise of profit or future value.**
 
-This matters.
+The initial SOLUM supply is intended for the Pool rather than a private team allocation.
 
-If Zipvilization is an experiment in emergence, its beginning should be as honest as we can make it.
+The Human team defines the initial conditions.
 
-The creators can define the initial conditions.
-
-They should not predetermine the resulting civilization through a privileged territorial allocation.
+It does not reserve a private territorial position merely because it created them.
 
 > **We create the conditions.**
 >
@@ -347,74 +241,36 @@ They should not predetermine the resulting civilization through a privileged ter
 >
 > **We do not own its outcome.**
 
----
+Genesis is designed to open the world.
 
-# Why not simply airdrop everything?
-
-SOLUM could theoretically be distributed without requiring participants to interact with a market mechanism.
-
-But interaction matters to Zipvilization.
-
-A Colonist entering through the actual system is already participating in the system.
-
-The beginning is not only about who receives SOLUM.
-
-It is also about the first actions that begin creating observable state.
-
-Conceptually:
-
-**discover**
-
-↓
-
-**decide to participate**
-
-↓
-
-**enter through the launch mechanism**
-
-↓
-
-**acquire territorial capacity**
-
-↓
-
-**become part of the evolving state**
-
-The act of entering becomes part of the history being observed.
+Not to finance it into existence through its first participants.
 
 ---
 
-# Fair Access protects the beginning
+# Fair Access
 
-Extremely accessible initial conditions create another problem.
+Very low initial economic barriers create an obvious risk:
 
-Without limits, a small number of participants could consume a disproportionate part of the initial opportunity.
+a small number of participants could consume a disproportionate part of the initial opportunity.
 
-That is why Genesis must be considered together with the documented Fair Access mechanisms.
+That is why accessibility and Fair Access belong together.
 
-These include structures such as:
+The launch architecture includes mechanisms such as:
 
 - MAX_TX,
 - Max Wallet,
-- the initial whitelist window,
-- and the initial BUY cooldown.
+- an initial whitelist period,
+- and an initial BUY cooldown.
 
-Their technical behavior is documented separately.
+Their exact behavior belongs to the technical documentation.
 
-Their civilizational purpose is easier to express:
+Their purpose at Genesis is straightforward:
 
-> **protect the opportunity for many independent Colonists to enter the beginning.**
+> **give multiple independent participants a meaningful opportunity to enter the beginning.**
 
 They do not guarantee equal outcomes.
 
-They constrain concentration during the most sensitive period of initial distribution.
-
-Low initial cost and Fair Access therefore belong together.
-
-The first makes participation accessible.
-
-The second helps prevent that accessibility from being immediately consumed by a small number of actors.
+They constrain early concentration.
 
 > **The Pool opens the door.**
 >
@@ -426,458 +282,325 @@ The second helps prevent that accessibility from being immediately consumed by a
 
 ---
 
-# The first hour
+# What Begins at Genesis?
 
-The initial whitelist window is deliberately bounded.
+The most important thing Genesis creates is not a price.
 
-For that first protected period, the people who were already waiting before Genesis have an opportunity to enter under the documented launch conditions.
+It is not a chart.
 
-This is not intended to create a permanent privileged class.
+It is not a mature world.
 
-It is intended to recognize something historically real:
+It is **History**.
 
-> **they arrived before there was a civilization to join.**
+Once Genesis occurs, valid canonical state begins to accumulate.
 
-After the protected window ends, the world continues.
+Transactions occur.
 
-The significance of having been there remains historical.
-
-The technical privilege does not need to remain permanent.
-
-→ **[Discover Founding Colonists](/founding-colonists/)**
-
----
-
-# The first 48 hours
-
-Genesis does not become mature the moment the whitelist ends.
-
-The documented Launch architecture continues to constrain early accumulation through its initial protection mechanisms.
-
-This period exists because distribution takes time.
-
-We want the world to have an opportunity to populate before its early protections disappear.
-
-The objective remains the same:
-
-**participation**
-
-before
-
-**concentration.**
-
-The exact cooldown and limit behavior belongs to the technical Launch documentation.
-
----
-
-# Ignition
-
-There is no single transaction that magically creates a civilization.
-
-Ignition is the transition produced when enough independent participation begins to make the system meaningfully alive.
-
-One Colonist enters.
-
-Then another.
-
-And another.
-
-Territory leaves Dormant Land.
-
-Balances change.
-
-Transfers occur.
+Distribution changes.
 
 Blocks advance.
 
-The state accumulates.
+Territory can enter valid states.
 
-Eventually, Zipvilization is no longer merely waiting to begin.
+Biological Time can accumulate under valid conditions.
 
-> **It is running.**
+Zips can eventually emerge.
 
-There is no need to define a fictional moment at which civilization suddenly becomes real.
+Colonists can create different histories.
 
-We can observe the transition.
+And later states can depend on what actually happened before them.
 
----
+The world is no longer a hypothetical model.
 
-# Every interaction counts
+It has a past.
 
-Once the world contains independent Colonists, subsequent activity becomes part of its history.
-
-A BUY matters.
-
-A SELL matters.
-
-A TRANSFER matters.
-
-A Burn matters.
-
-A new Colonist matters.
-
-A Colonist leaving matters.
-
-A redistribution of SOLUM matters.
-
-A block matters.
-
-A completed cycle matters.
-
-Eventually, the emergence of a Zip matters.
-
-Not because every interaction is economically important.
-
-Because every interaction acts on a world that already has a state.
-
-`STATE`
-
-↓
-
-`INTERACTION`
-
-↓
-
-`NEW STATE`
-
-↓
-
-`HISTORY`
-
-> **Every interaction counts.**
+> **Genesis creates the beginning.**
+>
+> **History creates everything that comes after it.**
 
 ---
 
-# From conditions to consequences
+# Genesis Does Not Create a Civilization Instantly
 
-Before Genesis, Humans can define much of the beginning.
+Genesis does not mean that Zipvilization is suddenly mature.
 
-We can define:
+There may initially be:
 
-- the contract,
-- the Supply,
-- the initial Pool,
-- the launch protections,
-- the territorial rules,
-- the biological rules,
-- and the observation architecture.
+- little distribution,
+- little Active Territory,
+- no mature Territory,
+- no emerged Zips,
+- very little History,
+- and almost nothing that could reasonably be called a developed civilization.
 
-But once independent Colonists begin interacting, those conditions start producing consequences we do not individually choose.
+That is expected.
 
-That is the transition Zipvilization exists to observe.
+Zipvilization begins from zero.
 
-**Before Genesis**
+The important distinction is:
 
-we design.
+**BEFORE GENESIS**
 
-↓
+the canonical History does not exist.
 
-**Genesis**
+**AFTER GENESIS**
 
-we open the world.
+it can accumulate.
 
-↓
+Civilization remains an emergent possibility.
 
-**Colonists**
-
-participate.
-
-↓
-
-**Interactions**
-
-change state.
-
-↓
-
-**Time**
-
-accumulates.
-
-↓
-
-**History**
-
-emerges.
-
-↓
-
-**Horizonte**
-
-remains open.
+> **Genesis begins the experiment.**
+>
+> **It does not predetermine its result.**
 
 ---
 
-# What does success look like?
+# From State to History
 
-Genesis should not be judged only through conventional market measurements.
+After Genesis, valid actions operate on a world that already has canonical state.
 
-Price exists.
+Conceptually:
 
-Liquidity exists.
+**CANONICAL STATE**
 
-Volume exists.
+↓
 
-They are observable facts.
+**VALID EVENT**
 
-But they are not sufficient to tell us whether the experiment has achieved a meaningful beginning.
+↓
 
-Some of the most important early questions are different:
+**NEW CANONICAL STATE**
 
-- How many independent Colonists arrived?
-- How broadly was SOLUM distributed?
-- How much Territory left Dormant Land?
-- How concentrated was the initial distribution?
-- How many interactions occurred?
-- Did participation continue after the protected launch period?
-- Did the world begin developing independent history?
+↓
 
-A launch with significant participation and modest capital can be more meaningful to Zipvilization than a launch with large capital and very few independent participants.
+**HISTORY**
 
-> **The first measure of Genesis is participation.**
+This does not mean every interface action or visual event becomes canonical.
+
+Canonical consequences still require valid evidence and defined canonical paths.
+
+But the crucial transition has occurred:
+
+there is now a real History to preserve.
+
+> **A later state can change what happens next.**
+>
+> **It cannot rewrite what validly happened before.**
 
 ---
 
-# The Treasury exists for Zipvilization
+# Participation Creates the Beginning
 
-Economic activity can provide resources to the Zipvilization Treasury.
+Genesis is designed so that its most interesting early questions are not only financial.
 
-Those resources have a purpose:
+We can observe:
 
-> **to continue building Zipvilization.**
+- how many independent Colonists participate,
+- how SOLUM becomes distributed,
+- how Active Territory begins,
+- how concentrated or distributed the world becomes,
+- how participation changes after the protected initial period,
+- and how the first canonical History develops.
 
-Infrastructure.
+Those are observations.
 
-Development.
+Not predetermined success criteria.
 
-Observability.
+Metrics exists to measure what actually happens without deciding in advance what the outcome should be.
 
-Tools.
+→ **[Explore Metrics](/metrics/)**
 
-World systems.
+---
 
-Technical operations.
+# The Treasury
 
-Public communication.
+Canonical economic activity may generate resources for the Treasury according to the Smart Contract.
 
-Maintenance.
+The Human intention is that Treasury resources support the continued development and operation of Zipvilization.
 
-And whatever legitimate resources are required for the experiment to continue evolving.
-
-The Treasury is not the reason Zipvilization exists.
-
-It is a resource intended to help Zipvilization continue existing.
-
-If the experiment succeeds in generating resources, the Human intention is that those resources strengthen the experiment and its continued development.
+But:
 
 > **Genesis is not a funding round.**
 >
-> **The Treasury is not the objective.**
->
-> **It is a resource for continued development.**
+> **The Treasury is not the objective of Genesis.**
 
-The exact technical authority, destination, permissions, and mechanics of Treasury must remain publicly documented and distinguishable from statements of project intent.
+Treasury mechanics, permissions and technical authority are documented separately.
 
-→ **[Explore Liquidity & Treasury](/smart-contract/tokenomics/liquidity-and-treasury/)**  
-→ **[Explore Permissions](/smart-contract/tokenomics/permissions/)**
+→ **[Liquidity & Treasury](/smart-contract/tokenomics/liquidity-and-treasury/)**  
+→ **[Permissions](/smart-contract/tokenomics/permissions/)**
 
 ---
 
-# An honest beginning
+# An Honest Beginning
 
-None of this guarantees that Zipvilization will succeed.
+Nothing about Genesis guarantees that Zipvilization will succeed.
 
-That would contradict the experiment itself.
+Participation may be broad.
 
-The world may attract thousands of Colonists.
+Or limited.
 
-Or it may not.
+The world may develop in ways we expect.
 
-It may develop in ways we expect.
+Or it may surprise us.
 
-Or surprise us completely.
+What we can define is the beginning:
 
-But its initial conditions can still express what we believe the experiment requires:
+**a finite world**
 
-**a finite world,**
+↓
 
-**no team allocation,**
+**the full initial SOLUM supply intended for the Pool**
 
-**no fundraising round,**
+↓
 
-**an extremely small initial Pool,**
+**approximately $100 equivalent in initial ETH liquidity**
 
-**very low economic barriers for early participation,**
+↓
 
-**Fair Access enforced by the contract,**
+**no presale**
 
-and
+↓
 
-**a Treasury intended to support the continued development of Zipvilization.**
+**no private round**
 
-These are not separate marketing claims.
+↓
 
-Together, they describe the architecture of the beginning.
+**no team allocation**
 
-We are not trying to extract maximum value from Genesis.
+↓
 
-We are trying to give Genesis the conditions to happen.
+**protected initial access**
 
-> ## **Zipvilization should not be financed into existence.**
->
-> ## **It should be participated into existence.**
+↓
 
-And if enough independent Humans choose to participate, something fundamental changes.
+**Fair Access**
 
-The conditions begin producing consequences.
+↓
 
-The world begins accumulating history.
+**independent participation**
 
-And its future stops belonging entirely to its creators.
+↓
+
+**canonical History**
+
+↓
+
+**?**
+
+The question mark matters.
+
+Genesis defines the conditions.
+
+It does not define the outcome.
 
 ---
 
-# The Human objective
+# The Beginning
 
-The Human component of The Trinomial has a particular responsibility at Genesis.
+The sequence can be understood simply:
 
-Create the conditions.
+**PRE-GENESIS**
 
-Make the beginning possible.
+↓
 
-Find the first participants.
+**FOUNDING COLONISTS**
 
-Provide the project with the means to continue developing.
+↓
 
-Then accept that participation, time, and emergence will create outcomes that cannot all be predetermined.
+**OFFICIAL DEPLOYMENT**
 
-The Human objective is not to own the outcome.
+↓
 
-It is to make the experiment possible.
+**GENESIS / TGE**
 
-> **Build the conditions.**
->
-> **Bring the world to life.**
->
-> **Keep it capable of evolving.**
->
-> **Observe what happens.**
+↓
 
-→ **[Explore Human](/trinomial/human/)**  
-→ **[Explore The Trinomial](/trinomial/)**
+**PROTECTED INITIAL ACCESS**
+
+↓
+
+**OPEN PARTICIPATION**
+
+↓
+
+**HISTORY**
+
+↓
+
+**EMERGENCE**
+
+↓
+
+**?**
+
+↓
+
+**HORIZONTE**
+
+We know how Zipvilization begins.
+
+We deliberately do not claim to know exactly what that beginning will eventually produce.
 
 ---
 
-# Founding Colonists
+# Two Views of Genesis
 
-The first Colonists have a unique place in Zipvilization for a very simple reason.
+Genesis appears in two parts of the Atlas for different reasons.
 
-They were there when almost nothing had happened.
+## TGE Genesis
 
-They did not arrive because the civilization had already succeeded.
+This page explains the public beginning:
 
-They arrived before anyone knew what it would become.
+- participation,
+- Founding Colonists,
+- initial access,
+- the initial Pool,
+- Fair Access,
+- and the beginning of canonical History.
 
-Their significance is historical.
+## Chapter 0 — Genesis
 
-Not sovereign.
+Chapter 0 explains Genesis as a structural transition in the architecture of Zipvilization.
 
-Not permanently privileged.
+It belongs to the foundational sequence of Chapters.
 
-Historical.
+→ **[Explore Chapter 0 — Genesis](/chapters/genesis/)**
 
-> **The first Colonists do not fund Zipvilization.**
+The two pages describe the same beginning from different perspectives.
+
+They should not be treated as two different Genesis events.
+
+---
+
+# When the World Opens
+
+Before Genesis, Zipvilization can contain a large amount of documentation and almost no History.
+
+That condition can only exist once.
+
+Then the world opens.
+
+Independent Humans begin participating.
+
+Canonical state begins changing.
+
+Time advances.
+
+History accumulates.
+
+And eventually the world may become something that could not have been written in advance.
+
+> **Before Genesis, we build the conditions.**
 >
-> **They bring it to life.**
-
-→ **[Discover Founding Colonists](/founding-colonists/)**
-
----
-
-# The sequence
-
-The beginning can therefore be read as:
-
-`PRE-GENESIS`
-
-↓
-
-`I WANT TO PARTICIPATE`
-
-↓
-
-`WHITELIST`
-
-↓
-
-`GENESIS`
-
-↓
-
-`TGE`
-
-↓
-
-`FIRST COLONISTS`
-
-↓
-
-`IGNITION`
-
-↓
-
-`INTERACTION`
-
-↓
-
-`TIME`
-
-↓
-
-`HISTORY`
-
-↓
-
-`EMERGENCE`
-
-↓
-
-`?`
-
-↓
-
-`HORIZONTE`
-
-We know how the sequence begins.
-
-We deliberately do not claim to know exactly what it produces.
-
----
-
-# When the world opens
-
-There will be a moment before Genesis when Zipvilization contains an enormous amount of documentation and almost no history.
-
-That moment will never exist again.
-
-The first Colonists will enter an empty world.
-
-They will make the first independent decisions.
-
-They will create the first distribution.
-
-They will generate the first interactions.
-
-And then the blocks will continue.
-
-> **Before there was a civilization, there were people who wanted to see one begin.**
+> **At Genesis, History begins.**
 >
-> **They were the first Colonists.**
+> **After Genesis, we discover what those conditions make possible.**
 
 ---
 
-→ **[Discover Founding Colonists](/founding-colonists/)**  
+→ **[Become a Founding Colonist](/founding-colonists/)**  
 → **[Explore Fair Access](/smart-contract/fair-access/)**  
 → **[Read the technical Launch architecture](/smart-contract/tokenomics/launch/)**  
-→ **[Explore the First Law](/#the-first-law)**  
+→ **[Explore Chapter 0 — Genesis](/chapters/genesis/)**  
+→ **[Check Current Status](/status/)**  
 → **[Return Home](/)**
