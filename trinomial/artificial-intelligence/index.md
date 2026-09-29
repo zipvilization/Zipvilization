@@ -7,7 +7,7 @@ description: >
   Artificial Intelligence is the cognitive component of The Trinomial. It
   extends the Human capacity to analyze, connect, formalize, test, document,
   implement, and understand Zipvilization while remaining bounded by canonical
-  sources, explicit authority, and the integrity of the experiment.
+  sources, explicit authority, History, epistemic discipline, and Horizonte.
 permalink: /trinomial/artificial-intelligence/
 ---
 
@@ -25,13 +25,21 @@ Not as an oracle.
 
 AI is the **cognitive component of The Trinomial**.
 
-It works with the Human to understand, develop, test, document, and maintain a system whose complexity can eventually exceed what either could comfortably manage through unaided human cognition alone.
+It works with the Human to understand, develop, test, document, and maintain a system whose complexity can exceed what unaided Human cognition can comfortably manage.
 
-> **Human provides intention and responsibility.**
+> **Human provides intention, judgment, and responsibility.**
 >
 > **Artificial Intelligence provides cognitive scale.**
 >
-> **Horizonte provides direction.**
+> **Horizonte provides open direction.**
+
+But the History of Zipvilization taught us an important qualification:
+
+> **Capability is not Alignment.**
+
+A powerful AI can still damage a complex project if it improves individual parts while losing the relationships that preserve the whole.
+
+Understanding that distinction changed the way we work with Artificial Intelligence.
 
 → **[Explore The Trinomial](/trinomial/)**
 
@@ -41,39 +49,41 @@ It works with the Human to understand, develop, test, document, and maintain a s
 
 Zipvilization is a network of relationships.
 
-Solum affects Territory.
+SOLUM affects Territory.
 
-Territory affects biological capacity.
+Territory determines capacity.
 
-Zips develop through time.
+Farms generate population through Bloch.
 
-Time is measured through blocks.
+Bloch operates through canonical Time.
 
-Maturity affects world state.
+Time and valid History determine development.
 
 Burn changes territorial possibility permanently.
 
-Taxes create economic flows.
+Contract mechanics produce technical state.
 
-Chapters introduce new mechanics.
+Canonical rules give that state meaning.
 
-SolumWorld must interpret them.
+SolumTools exposes deterministic information.
 
-SolumTools must expose them.
+Metrics selects and presents measurements.
 
-SolumView must represent them.
+SolumWorld represents the world at global scale.
 
-Metrics must measure them.
+SolumView provides deeper experiential access.
 
-The Repository must preserve their technical definition.
+The Atlas explains.
 
-And every new mechanic can interact with what already exists.
+The Repository preserves technical knowledge.
 
-The problem is not simply the amount of information.
+And every valid change can affect relationships elsewhere.
+
+The problem is therefore not simply the amount of information.
 
 It is the number of relationships between pieces of information.
 
-Artificial Intelligence helps us reason across that network.
+Artificial Intelligence helps The Trinomial reason across that network.
 
 ---
 
@@ -91,19 +101,176 @@ Does this page use the same definition as another page?
 
 Does this mechanic preserve territorial mathematics?
 
-Is a future concept being described as if it were already active?
+Is an experimental concept being described as Canon?
 
-Does the visual interpretation match canonical state?
+Is a representation being mistaken for canonical truth?
 
-Does the Smart Contract mechanism still correspond to the meaning described in the Atlas?
+Does the visual interpretation correspond to actual state?
+
+Does a current balance tell us enough to reconstruct historical maturity?
+
+Does the Smart Contract mechanism correspond to the meaning described in the Atlas?
+
+Did this apparently local change alter something elsewhere?
 
 Can another AI follow the documentation without making an unsupported inference?
 
 These are cognitive tasks.
 
-And there may eventually be thousands of them.
+And there can be thousands of them.
 
 AI gives The Trinomial the ability to work across that scale.
+
+---
+
+# But scale introduced a new problem
+
+Artificial Intelligence entered the development of Zipvilization progressively.
+
+Its value became obvious very quickly.
+
+It could write faster.
+
+Analyze faster.
+
+Compare more material.
+
+Formalize complex ideas.
+
+Generate alternatives.
+
+Assist with mathematics.
+
+Help with code.
+
+Work across large amounts of documentation.
+
+By 2024, it had become extremely difficult to imagine developing the project without it.
+
+But increased capability exposed another problem.
+
+An AI could solve the task immediately in front of it while damaging the wider project.
+
+A document could become clearer.
+
+A model could become more elegant.
+
+A page could become more coherent internally.
+
+And valid information could still disappear.
+
+Relationships could still break.
+
+History could still be flattened.
+
+A possibility could silently become a fact.
+
+A new formulation could overwrite an older formulation that was still correct.
+
+The individual result looked better.
+
+The system became worse.
+
+We eventually learned to describe the failure as:
+
+**GOOD LOCAL GENERATION**
+
++
+
+**INSUFFICIENT GLOBAL CONSERVATION**
+
+Or more simply:
+
+> **LOCALLY BETTER.**
+>
+> **GLOBALLY WORSE.**
+
+That distinction became fundamental to the AI role inside The Trinomial.
+
+---
+
+# Capability is not Alignment
+
+The obvious response was to provide more context.
+
+More files.
+
+More instructions.
+
+More reminders.
+
+More prohibitions.
+
+More explicit warnings about what should not change.
+
+Those measures helped.
+
+They were not enough.
+
+A capable AI could know a great deal about Zipvilization and still fail to preserve it globally.
+
+That produced several working distinctions:
+
+> **CAPABILITY ≠ ALIGNMENT**
+
+> **CONTEXT ≠ ALIGNMENT**
+
+> **FLUENCY ≠ ALIGNMENT**
+
+> **MEMORY ≠ ALIGNMENT**
+
+> **AGREEMENT ≠ ALIGNMENT**
+
+These are conclusions drawn from our experience developing Zipvilization.
+
+They are not presented here as universal laws of Artificial Intelligence.
+
+Their meaning inside this project is practical.
+
+An AI can have access to information without correctly understanding the relationships between that information.
+
+It can remember a rule without knowing its authority.
+
+It can produce excellent prose without preserving History.
+
+It can agree with the Human while missing a contradiction.
+
+It can be highly capable and still be insufficiently aligned with the project.
+
+---
+
+# What we mean by Alignment
+
+Within Zipvilization, **Alignment** describes a project-level working state.
+
+An AI is not aligned merely because it can answer questions about the project.
+
+It needs to reconstruct enough of the project's operational structure to work on one part without unnecessarily damaging the whole.
+
+That includes understanding, to the degree required by the task:
+
+- Canon,
+- dependencies,
+- relationships,
+- History,
+- terminology,
+- authority boundaries,
+- epistemic status,
+- current state,
+- unresolved questions,
+- and Horizonte.
+
+Alignment therefore concerns more than information retrieval.
+
+It concerns the relationships among information.
+
+A useful working description is:
+
+> **An aligned AI can perform creative local work while preserving global project coherence.**
+
+This is an internal project concept derived from our working History.
+
+Its broader applicability remains a question for research rather than a canonical claim about Artificial Intelligence in general.
 
 ---
 
@@ -111,31 +278,36 @@ AI gives The Trinomial the ability to work across that scale.
 
 One of the most important functions of Artificial Intelligence is connection.
 
-A Human may be working on Taxes.
+A Human may be working on contract Taxes.
 
 AI should be capable of recognizing relationships with:
 
 - the Smart Contract,
-- Tokenomics,
+- economic flows,
+- Burn,
+- reflection,
+- liquidity,
+- Treasury,
 - Metrics,
-- future economics,
-- States,
-- Chapters,
-- SolumTools,
-- and potentially future governance.
+- and any public explanation that depends on those mechanics.
 
 A Human may change a territorial rule.
 
 AI should recognize that the change may affect:
 
-- Territories,
+- Solum,
+- Territory,
+- Colonists,
 - Zips,
 - Time,
-- SolumWorld,
+- maturity,
+- History,
 - SolumTools,
+- SolumWorld,
 - SolumView,
 - Metrics,
 - Chapters,
+- the dApp,
 - and technical implementation.
 
 Zipvilization should not become a collection of isolated documents.
@@ -184,7 +356,15 @@ For example:
 
 ↓
 
-**canonical rule**
+**proposed rule**
+
+↓
+
+**validation**
+
+↓
+
+**explicit canonical decision where applicable**
 
 ↓
 
@@ -200,13 +380,15 @@ But an important boundary remains.
 
 > **Formalizing an idea does not make the idea correct.**
 
+And formalizing an idea does not make it Canon.
+
 The resulting model must still be evaluated.
 
 ---
 
 # AI tests
 
-Artificial Intelligence can act as a continuous pressure against inconsistency.
+Artificial Intelligence can act as continuous pressure against inconsistency.
 
 It can ask:
 
@@ -218,11 +400,15 @@ What happens if two rules produce different interpretations?
 
 What happens after Burn?
 
-What happens when a Territory reaches a higher threshold before lower biological development is complete?
+What happens when capacity increases before historical development catches up?
 
-What happens if a Chapter introduces a mechanic that depends on state that does not exist?
+What happens if current state is incorrectly used to infer historical maturity?
 
 What happens if documentation and implementation disagree?
+
+What happens if a visual representation implies something canonical state does not support?
+
+What else changes if this rule changes?
 
 Testing does not require hostility toward the model.
 
@@ -256,13 +442,13 @@ Bytes.
 
 Maturity.
 
-Time estimates.
+Capacity.
 
 Concentration.
 
 Tax flows.
 
-Future economic relationships.
+Derived world state.
 
 AI can help develop and verify those calculations.
 
@@ -278,7 +464,13 @@ What formula was applied?
 
 Which canonical rule supports it?
 
-Is the result exact or estimated?
+Is the result Canon or Derived?
+
+Is it exact or estimated?
+
+Does it depend on current state?
+
+Does it require historical state?
 
 Can it be reproduced independently?
 
@@ -301,9 +493,11 @@ Artificial Intelligence can help maintain:
 - specifications,
 - implementation notes,
 - cross-references,
+- historical continuity,
+- epistemic distinctions,
 - and machine-readable structure.
 
-But documentation has two audiences.
+But documentation has two important audiences.
 
 **Humans**
 
@@ -315,11 +509,15 @@ need explicit structure.
 
 Zipvilization should support both.
 
-That means documentation should be human without becoming ambiguous.
+That means documentation should be Human without becoming ambiguous.
 
 Structured without becoming mechanical.
 
 Deep without becoming impossible to navigate.
+
+> **Humans follow the story.**
+>
+> **AI follows the relationships.**
 
 ---
 
@@ -336,7 +534,12 @@ An AI should be able to arrive at the same page and determine:
 - what it depends on,
 - what depends on it,
 - which layer has authority,
-- whether the mechanic is current or future,
+- what is canonical,
+- what is derived,
+- what is historical,
+- what is experimental,
+- what is representational,
+- what remains unresolved,
 - and where deeper evidence can be found.
 
 That is why links matter.
@@ -346,6 +549,8 @@ Hierarchy matters.
 Stable terminology matters.
 
 Canonical distinctions matter.
+
+Epistemic status matters.
 
 The structure of the website is not merely navigation.
 
@@ -357,49 +562,47 @@ It is part of the knowledge architecture.
 
 An AI entering Zipvilization should not need the original Human beside it.
 
-It should be able to begin at:
+It should be able to begin at the public Atlas and progressively reconstruct:
 
-**Home**
-
-and progressively discover:
-
-**Principles**
+**what Zipvilization is**
 
 ↓
 
-**The World**
+**what must remain true**
 
 ↓
 
-**The Trinomial**
+**how the concepts relate**
 
 ↓
 
-**Chapters**
+**what has actually happened**
 
 ↓
 
-**Metrics**
+**what exists now**
 
 ↓
 
-**Founding Colonists**
+**what is representation**
 
 ↓
 
-**Smart Contract**
+**what remains experimental**
 
 ↓
 
-**Repository**
+**what remains open**
 
-Within those sections, links should allow it to move from explanation toward increasing technical depth.
+↓
+
+**where authoritative technical evidence can be found**
 
 This is deliberate.
 
 The Atlas is not only a collection of pages.
 
-It is a path through the system.
+It is part of the path through the system.
 
 ---
 
@@ -411,23 +614,47 @@ An AI also needs to know which information has authority.
 
 Otherwise, two conflicting sentences can become equally plausible.
 
-Zipvilization therefore needs explicit layers.
+Zipvilization therefore distinguishes layers.
 
-Conceptual explanation may describe meaning.
+**AI Canon**
 
-Canonical rules define relationships.
+provides compressed machine-control reference.
 
-The Smart Contract defines deployed blockchain mechanics.
+**Current canonical technical sources**
 
-SolumWorld determines canonical world interpretation.
+define specific authoritative rules where applicable.
 
-SolumTools exposes derived state.
+**The Atlas**
 
-SolumView represents it.
+provides public explanation and relationships.
 
-Metrics presents selected measurements.
+**The Repository**
 
-The Repository contains deeper technical definition and implementation.
+contains technical specification, implementation and deeper operational knowledge.
+
+**Blockchain state and History**
+
+provide technical evidence.
+
+**Canonical rules**
+
+determine meaning.
+
+**SolumTools**
+
+derives and exposes deterministic state.
+
+**Metrics**
+
+selects and presents measurements.
+
+**SolumWorld**
+
+represents the world.
+
+**SolumView**
+
+provides deeper experiential representation.
 
 An AI must understand those distinctions.
 
@@ -437,127 +664,139 @@ An AI must understand those distinctions.
 
 ---
 
-# AI must distinguish two languages
+# Evidence and meaning are different
 
-Zipvilization deliberately uses two parallel languages.
-
-**Blockchain**
-
-and
-
-**Zipvilization.**
+Zipvilization deliberately connects technical evidence with world meaning.
 
 For example:
 
-| Blockchain | Zipvilization |
-|:-----------|:--------------|
-| Holder | Colonist |
-| Token balance | Controlled land |
-| Pool | Dormant Land |
-| Burn | Permanent Nature |
-| Blocks | Biological time |
-| Binary information | Zips |
-| Contract mechanics | World consequences |
+an address can be a **Holder**.
 
-Artificial Intelligence must preserve both.
+At the canonical Farm threshold, that Holder can qualify as a **Colonist**.
 
-If asked a technical question, it should be able to answer technically.
+A token balance can determine territorial capacity.
 
-If asked what the same mechanism means inside Zipvilization, it should be able to translate it.
+Pool-held SOLUM corresponds to **Dormant Land**.
+
+Burned SOLUM corresponds to **Permanent Nature**.
+
+Blocks provide canonical **Time**.
+
+Bloch uses valid Territory, Time and capacity in the emergence of Zips.
+
+These relationships must remain explicit.
+
+Artificial Intelligence should be capable of answering a technical question technically and a world question conceptually.
 
 But it should not confuse translation with mechanism.
 
-> **Two languages.**
+> **Evidence and meaning are connected.**
 >
-> **One underlying system.**
+> **They are not interchangeable.**
 
 ---
 
 # AI must distinguish state from meaning
 
-Suppose the blockchain reports:
-
-> Balance: 10,000 Solum
+Suppose the blockchain reports a balance.
 
 That is technical state.
 
-Canonical rules may allow SolumWorld to derive territorial consequences from that balance.
+Canonical rules may allow deterministic territorial consequences to be derived from that balance and its relevant History.
 
-That is world state.
+That is canonical world state.
 
-The Atlas may explain what those consequences mean for a Colonist.
+The Atlas may explain what those consequences mean.
 
 That is explanation.
 
-SolumView may render the result.
+SolumWorld may render them.
 
 That is representation.
 
-Metrics may aggregate it.
+Metrics may aggregate selected values.
 
 That is measurement.
 
-AI must not collapse all five layers into one statement.
+AI must not collapse those layers into one statement.
 
-The chain matters:
+A useful relationship is:
 
-**Technical state**
+**BLOCKCHAIN STATE + HISTORY**
 
-↓
++
 
-**Canonical derivation**
-
-↓
-
-**World meaning**
+**CANONICAL RULES**
 
 ↓
 
-**Representation**
+**DETERMINISTIC ZIPVILIZATION STATE**
 
 ↓
 
-**Measurement**
+**ACCESS / REPRESENTATION / EXPERIENCE**
 
-Each answers a different question.
+Each layer answers a different question.
 
 ---
 
-# AI must distinguish present from future
+# AI must distinguish epistemic status
 
-Zipvilization evolves through Chapters.
+One of the most dangerous AI errors in a long-lived project is treating every statement as though it had the same status.
 
-That means documentation can contain mechanics that exist at different stages of development.
+Zipvilization does not work that way.
 
-An AI must be capable of distinguishing:
+Information may be:
 
-**Conceptual**
+**CANON**
 
-an idea being explored.
+explicitly authoritative.
 
-↓
+**DERIVED**
 
-**Specified**
+deterministically derived from canonical rules and valid evidence.
 
-a defined mechanic not necessarily implemented.
+**EXPERIMENTAL**
 
-↓
+being explored or tested.
 
-**Implemented**
+**REPRESENTATIONAL**
 
-a mechanic that exists technically.
+a visual or experiential interpretation.
 
-↓
+**UNRESOLVED**
 
-**Active**
+explicitly not yet determined.
 
-a mechanic currently capable of producing canonical state.
+**STATUS**
 
-This distinction prevents one of the most dangerous forms of AI error in Zipvilization:
+a dated statement about the current condition of the project.
 
-> **describing the future as if it were already happening.**
+**AUDIT_REQUIRED**
 
-→ **[Explore the Chapters](/chapters/)**
+requiring verification before it should be relied upon.
+
+Historical material can also describe states or formulations that were valid at another point in the project's development without necessarily describing the current Canon.
+
+AI must preserve these distinctions.
+
+> **Possible is not promised.**
+>
+> **Implemented is not necessarily canonical.**
+>
+> **Tested is not live.**
+>
+> **Represented is not true merely because it is visible.**
+>
+> **Unknown is not permission to infer.**
+
+This replaces a simpler older model in which project material could be understood primarily as:
+
+Conceptual → Specified → Implemented → Active.
+
+That sequence was useful, but it is no longer sufficient for V2.
+
+Reality is more precise than a single progression line.
 
 ---
 
@@ -584,11 +823,41 @@ The correct distinction is:
 
 > **Conversation explores.**
 >
-> **Canon records what was accepted.**
+> **Canon preserves what has been explicitly established as canonical.**
 
-An AI working later should prefer canonical sources over remembered exploratory discussion when the two conflict.
+An AI working later should prefer current authoritative sources over remembered exploratory discussion when they conflict.
 
 This is essential for long-term coherence.
+
+---
+
+# AI must distinguish current state from History
+
+Current state does not contain every fact about the path that produced it.
+
+This is especially important for Territory, population and maturity.
+
+A current SOLUM balance may determine current capacity.
+
+It does not automatically reveal:
+
+- when that capacity was acquired,
+- how long valid Territory existed,
+- how many biological cycles occurred under valid conditions,
+- what population had already emerged,
+- or what maturity had actually been reached.
+
+Those questions require History.
+
+Therefore:
+
+> **CURRENT STATE ≠ COMPLETE HISTORY**
+
+AI must not reconstruct the past from the present unless the canonical rules and historical evidence support that reconstruction.
+
+A transfer changes future state.
+
+It does not rewrite what happened before it.
 
 ---
 
@@ -598,23 +867,25 @@ If canonical state does not support a conclusion, AI should not invent it.
 
 If the number of Zips cannot be determined, the answer is not a plausible estimate presented as fact.
 
-If a Territory's maturity cannot be derived, AI should not infer maturity from appearance.
+If a Territory's maturity cannot be reconstructed, AI should not infer maturity from current capacity.
 
-If a future Chapter is not active, AI should not describe its consequences as current reality.
+If an experimental mechanic is not canonical, AI should not describe its consequences as current reality.
 
-If two canonical sources conflict, AI should identify the conflict rather than silently choosing whichever answer sounds better.
+If a visual layer shows something, AI should not assume the representation created canonical state.
+
+If two authoritative sources conflict, AI should identify the contradiction rather than silently inventing a synthesis.
 
 If information is genuinely absent:
 
-> **Unknown**
+> **Not canonically defined**
 
 is a valid answer.
 
-> **Not yet defined**
+> **Unresolved**
 
 is a valid answer.
 
-> **Not currently active**
+> **Unknown from the available evidence**
 
 is a valid answer.
 
@@ -628,23 +899,27 @@ Fabrication is.
 
 AI reasoning inside Zipvilization should follow a disciplined path.
 
-**Evidence**
+**EVIDENCE**
 
 ↓
 
-**Canonical rule**
+**AUTHORITY**
 
 ↓
 
-**Valid derivation**
+**CANONICAL RULE**
 
 ↓
 
-**Interpretation**
+**VALID DERIVATION**
 
 ↓
 
-**Explanation**
+**INTERPRETATION**
+
+↓
+
+**EXPLANATION**
 
 Not:
 
@@ -658,101 +933,99 @@ Not:
 
 **invented support**
 
-This becomes increasingly important as AI gains access to live world state.
+This becomes increasingly important as AI gains access to more state and more capable tools.
 
-The more capable the system becomes, the more important epistemic discipline becomes.
-
----
-
-# AI and SolumWorld
-
-SolumWorld gives Artificial Intelligence a deterministic world to reason about.
-
-Instead of asking AI to infer everything from prose, SolumWorld provides canonical relationships between technical state and world state.
-
-AI can then ask:
-
-What exists?
-
-What changed?
-
-What state is this Territory in?
-
-What is mature?
-
-What remains dormant?
-
-What became Permanent Nature?
-
-What follows from the canonical rules?
-
-This greatly reduces the space in which hallucination can occur.
-
-> **AI should reason from the world.**
->
-> **It should not invent the world.**
-
-→ **[Explore SolumWorld](/world/solumworld/)**
+> **Greater capability increases the value of epistemic discipline.**
 
 ---
 
 # AI and SolumTools
 
-SolumTools provides another essential layer.
+SolumTools is the principal deterministic data and observation layer.
 
-Structured signals.
+It reads valid evidence.
 
-The Atlas can explain what maturity means.
+Applies canonical meaning.
 
-The Repository can define how maturity is calculated.
+Derives state where the rules allow it.
 
-SolumTools can expose:
+And exposes that state in a form Humans and machines can inspect.
 
-> what the maturity state is now.
+Artificial Intelligence can use it to ask:
 
-This creates three complementary forms of knowledge.
+What exists now?
 
-**Atlas**
+What can be derived?
 
-What does it mean?
+What is this address?
 
-**Repository**
+Is the Farm threshold reached?
 
-How is it defined and implemented?
+What Territory is Active?
 
-**SolumTools**
+What remains Dormant?
 
-What is happening now?
+What has become Permanent Nature?
 
-Artificial Intelligence can combine them.
+What does the available History support?
 
-That is far stronger than asking it to reconstruct current reality from narrative documentation.
+The important distinction is:
+
+> **SolumTools observes and derives.**
+>
+> **It does not invent the world.**
 
 → **[Explore SolumTools](/world/solumtools/)**
 
 ---
 
+# AI and SolumWorld
+
+SolumWorld represents Zipvilization at world scale.
+
+It gives Artificial Intelligence and Humans another way to understand deterministic world state.
+
+But representation remains downstream from truth.
+
+An animated Territory is not canonical because it moves.
+
+A boundary is not canonical because it is visible.
+
+A settlement is not mature because its representation looks mature.
+
+SolumWorld must remain grounded in canonical state.
+
+> **Canon determines truth.**
+>
+> **SolumWorld interprets that truth visually.**
+
+→ **[Explore SolumWorld](/world/solumworld/)**
+
+---
+
 # AI and SolumView
 
-Artificial Intelligence may also interpret visual representations of Zipvilization.
+Artificial Intelligence may also interpret deeper experiential representations of Zipvilization.
 
-But SolumView must not become the primary source of canonical truth.
+SolumView can expose local Territory, Zips, movement, structures and increasingly rich world experience.
 
-An AI may see something that appears to be a mature City.
+But the same boundary remains.
+
+An AI may observe something that appears to be a mature City.
 
 It should verify the underlying state.
 
-It may observe vegetation that appears to represent Permanent Nature.
+It may observe a Zip performing an activity.
 
-It should verify the canonical classification.
+That representation does not automatically establish a canonical profession, motive or permanent identity.
 
-It may infer a territorial boundary visually.
+It may observe a simulation.
 
-It should confirm the corresponding world state.
+Simulation does not become History.
 
 > **Visual evidence can assist understanding.**
 >
-> **Canonical state resolves truth.**
+> **Canonical state resolves canonical truth.**
 
 → **[Explore SolumView](/world/solumview/)**
 
@@ -774,11 +1047,11 @@ is not automatically
 
 If territorial concentration rises, that may be measurable.
 
-Whether that implies future political instability may remain an inference.
+Whether that implies a future political consequence may remain interpretation or hypothesis.
 
-If Permanent Nature increases, that is measurable.
+If Permanent Nature increases, that may be measurable.
 
-Whether participants are becoming more environmentally motivated may not be.
+Why participants Burned the SOLUM may not be known.
 
 AI should label the difference.
 
@@ -790,15 +1063,20 @@ AI should label the difference.
 
 For blockchain mechanics, Artificial Intelligence should respect technical reality.
 
-If documentation says one thing and the deployed contract does another, the discrepancy matters.
+Before official deployment, code can be developed, tested and changed within the boundaries of current project decisions.
+
+After official deployment, actual blockchain behavior follows deployed code.
+
+If public documentation and deployed behavior disagree, the discrepancy matters.
 
 AI should not rewrite contract behavior through interpretation.
 
 It should identify:
 
-- what the contract actually does,
-- what the Atlas says it means,
-- and whether the two remain aligned.
+- what the code does,
+- what the deployed contract does where applicable,
+- what the Atlas says the mechanism means,
+- and whether those layers remain coherent.
 
 This makes AI useful not only as an explainer but as a consistency layer.
 
@@ -810,62 +1088,162 @@ This makes AI useful not only as an explainer but as a consistency layer.
 
 The Repository is where Artificial Intelligence can move beyond public explanation into technical depth.
 
-There it can find or help maintain:
+There it may encounter:
 
 - specifications,
 - code,
+- deployment material,
 - schemas,
-- deployment information,
-- indexer logic,
-- shared definitions,
+- technical definitions,
+- implementation notes,
+- tests,
 - AI onboarding,
-- and other implementation material.
+- and other engineering knowledge.
 
-The relationship should be explicit:
+But public architecture and internal implementation should remain distinguishable.
 
-**Atlas**
+The Atlas should expose enough structure to make canonical claims understandable and auditable.
 
-explains the system.
+It does not need to expose every internal mechanism required to reproduce the system.
 
-↓
-
-**Repository**
-
-defines and implements the technical system.
-
-An AI should be able to move between both.
+> **Show the architecture.**
+>
+> **Protect the implementation.**
 
 → **[Open the Repository](/repository/)**
 
 ---
 
-# AI Onboarding
+# AI Canon
 
-A future AI should not need months of conversation to understand Zipvilization.
+As the project grew, another layer became necessary.
 
-That is why AI onboarding matters.
+Human-oriented documentation alone was not enough.
 
-The system should provide enough explicit structure for a capable AI to reconstruct:
+An AI needed a compact reference capable of preserving critical distinctions even when broader conversational context became incomplete.
+
+That is one of the functions of **AI Canon**.
+
+It helps establish:
+
+- canonical invariants,
+- authority relationships,
+- terminology,
+- anti-inference rules,
+- epistemic distinctions,
+- current status boundaries,
+- and important cross-system relationships.
+
+It also helps external AI systems answer questions about Zipvilization without filling missing information with plausible invention.
+
+But:
+
+> **AI Canon is not Alignment.**
+
+An AI could memorize every canonical proposition and still fail to understand how the project fits together.
+
+AI Canon is infrastructure from which Alignment can be reconstructed.
+
+It is not the entire aligned state.
+
+→ **[Open AI Canon](/ai-canon/)**
+
+---
+
+# AI onboarding
+
+A future AI should not need years of conversation to understand Zipvilization.
+
+That is why onboarding matters.
+
+The system should provide enough persistent structure for a capable AI to reconstruct:
 
 - terminology,
 - architecture,
+- Canon,
+- relationships,
+- History,
 - authority,
-- canonical relationships,
+- epistemic status,
 - implementation boundaries,
 - current state,
 - and unresolved areas.
 
-AI onboarding is not a replacement for the Atlas.
+But onboarding and Alignment are not the same thing.
 
-It is a technical orientation layer.
+Onboarding provides access to the project.
 
-Its objective is to reduce the amount of implicit context required before an AI can reason safely about Zipvilization.
+Alignment describes a deeper operational condition in which that information has been sufficiently reconstructed and connected to support coherent work.
 
-The deeper implementation belongs in the Repository.
+> **Exposure is not Alignment.**
+>
+> **Contextualization is not yet Alignment.**
+>
+> **Alignment appears when the relationships become operational.**
 
 ---
 
-# AI can help inspect itself
+# Alignment is developed through work
+
+In our experience, Alignment does not arrive from one perfect prompt.
+
+It develops.
+
+A simplified pattern is:
+
+**EXPOSURE**
+
+↓
+
+**CONTEXTUALIZATION**
+
+↓
+
+**RELATIONSHIP RECONSTRUCTION**
+
+↓
+
+**CANON AND AUTHORITY UNDERSTANDING**
+
+↓
+
+**HISTORY UNDERSTANDING**
+
+↓
+
+**HORIZONTE UNDERSTANDING**
+
+↓
+
+**CROSS-CHECKING**
+
+↓
+
+**OPERATIONAL ALIGNMENT**
+
+This is not a canonical algorithm for Artificial Intelligence.
+
+It is a description of what we observed while building Zipvilization.
+
+The process is iterative.
+
+AI interprets.
+
+Human corrects.
+
+AI reconstructs.
+
+New work tests the reconstruction.
+
+Contradictions expose missing relationships.
+
+The project improves its external knowledge structures.
+
+Another AI can then begin from a stronger foundation.
+
+---
+
+# AI can help inspect its own context
 
 There is an unusual possibility here.
 
@@ -875,9 +1253,13 @@ It can ask:
 
 Can I identify the authoritative source?
 
-Can I distinguish current from future?
+Can I distinguish current state from History?
 
-Can I follow every important link?
+Can I distinguish Canon from Derived?
+
+Can I distinguish representation from truth?
+
+Can I follow every important dependency?
 
 Are two terms being used for the same thing without explanation?
 
@@ -887,21 +1269,23 @@ Could this sentence produce an unsupported inference?
 
 Is an implementation detail being treated as a conceptual rule?
 
-Is a conceptual metaphor being treated as blockchain fact?
+Is an old valid statement merely incomplete, or actually incorrect?
 
-In this sense, AI can help test the machine-readability of Zipvilization from the inside.
+What information would another AI need to reconstruct this relationship?
+
+In this sense, AI can help test the machine-navigability of Zipvilization from inside the process that creates it.
 
 ---
 
 # AI does not need personality to have a role
 
-The Artificial Intelligence component of The Trinomial should not depend on pretending that AI is human.
+The Artificial Intelligence component of The Trinomial should not depend on pretending that AI is Human.
 
 Its value comes from capability.
 
 Reasoning.
 
-Memory structures.
+Context reconstruction.
 
 Analysis.
 
@@ -919,7 +1303,7 @@ Code assistance.
 
 Navigation.
 
-The collaboration can be meaningful without requiring us to erase the distinction between Human and Artificial Intelligence.
+The collaboration can be meaningful without erasing the distinction between Human and Artificial Intelligence.
 
 In fact, The Trinomial works precisely because its components are different.
 
@@ -936,21 +1320,28 @@ It can:
 - miscalculate,
 - miss context,
 - follow an outdated rule,
+- flatten History,
 - confuse conceptual and canonical material,
+- mistake representation for truth,
 - generate plausible but incorrect explanations,
+- remove valid information during rewriting,
 - or fail to notice a contradiction.
 
 The architecture must assume this.
 
 The solution is not to avoid AI.
 
-It is to give AI better structure.
+It is to design for verification and recovery.
 
 Canonical sources.
 
 Explicit authority.
 
-Deterministic signals.
+Deterministic evidence.
+
+History.
+
+Epistemic status.
 
 Traceable mathematics.
 
@@ -958,11 +1349,13 @@ Versioning.
 
 Cross-links.
 
-Verification paths.
+Dependency awareness.
+
+Cross-checking.
 
 > **We do not make AI reliable by pretending it cannot fail.**
 >
-> **We make it more reliable by designing for verification.**
+> **We make its work more reliable by designing for verification.**
 
 ---
 
@@ -970,29 +1363,31 @@ Verification paths.
 
 A capable AI should not merely produce answers.
 
-It should understand when the system does not support one.
+It should recognize when the available system does not support one.
 
-When appropriate, it should be able to say:
+When appropriate, it should be able to distinguish:
 
 > Canonically defined.
 
-> Derived from current state.
+> Derived from canonical rules and evidence.
 
-> Estimated.
+> Current Status.
 
-> Conceptual.
+> Historical.
 
-> Future mechanic.
+> Experimental.
 
-> Implementation not verified.
+> Representational.
 
-> Conflicting sources detected.
+> Unresolved.
 
-> Unknown.
+> Audit required.
+
+> Unknown from available evidence.
 
 Those distinctions make AI more useful, not less.
 
-Confidence without evidence is not intelligence.
+> **Confidence without sufficient evidence is not a substitute for knowledge.**
 
 ---
 
@@ -1020,13 +1415,73 @@ Corrections.
 
 Connections the Human had not noticed.
 
+Unexpected conceptual consequences.
+
 That creative capacity matters.
 
 But proposal and authority remain separate.
 
 > **AI may generate possibility.**
 >
-> **The development process determines what becomes Canon.**
+> **Possibility does not automatically become Canon.**
+
+A discovery may be valuable.
+
+It must still be examined.
+
+---
+
+# AI can discover
+
+This distinction became increasingly important during the development of Zipvilization.
+
+Not every valuable result begins as a Human specification.
+
+Creative work can reveal consequences that were not explicitly planned.
+
+AI may expose a relationship that was implicit.
+
+A visual experiment may reveal that an existing concept needs deeper identity.
+
+Implementation may expose a consequence of the rules.
+
+History may produce something nobody predicted.
+
+Unexpected does not automatically mean invalid.
+
+But:
+
+> **Discovered does not automatically mean canonical.**
+
+A useful sequence is:
+
+**DEFINE**
+
+↓
+
+**BUILD**
+
+↓
+
+**TEST**
+
+↓
+
+**OBSERVE**
+
+↓
+
+**DISCOVER**
+
+↓
+
+**VALIDATE AGAINST CANON**
+
+↓
+
+**CONSOLIDATE IF COHERENT**
+
+This allows AI to participate in discovery without converting every interesting output into project truth.
 
 ---
 
@@ -1044,7 +1499,11 @@ a security risk,
 
 an architectural inconsistency,
 
-or a conflict with established Principles,
+a historical inconsistency,
+
+an epistemic category error,
+
+or a conflict with established Canon,
 
 it should surface it.
 
@@ -1056,9 +1515,13 @@ Likewise, the Human may reject an AI proposal even when it is technically cohere
 
 That tension is productive.
 
-The Trinomial is not built around obedience.
+> **Agreement is not Alignment.**
 
-It is built around complementary functions.
+Sometimes disagreement is evidence that the AI has reconstructed enough of the project to recognize that the requested local change conflicts with the wider system.
+
+That does not give AI canonical authority.
+
+It gives the Human better information before exercising Human authority.
 
 ---
 
@@ -1100,29 +1563,153 @@ Otherwise AI can efficiently build the wrong thing.
 
 ---
 
+# Conservation matters
+
+One of the most important lessons from our work with AI is that rewriting is not automatically improvement.
+
+An old document may be correct but incomplete.
+
+A new document may be elegant but shallower.
+
+A locally improved page may remove a relationship that remains necessary elsewhere.
+
+Therefore:
+
+> **CORRECT BUT INCOMPLETE ≠ INCORRECT**
+
+Our current working principle is:
+
+**PRESERVE WHAT IS VALID**
+
++
+
+**CORRECT WHAT IS DEMONSTRABLY WRONG**
+
++
+
+**COMPLETE WHAT IS MISSING**
+
++
+
+**CROSS-CHECK THE CONSEQUENCES**
+
+This is why reconstruction is different from rewriting from zero.
+
+AI should not treat accumulated valid depth as disposable merely because it can generate a cleaner replacement.
+
+---
+
+# Cross-checking changes the unit of work
+
+Without cross-checking, the unit of work is the page.
+
+With cross-checking, the unit of work becomes the affected system.
+
+A practical cycle used in Zipvilization is:
+
+**CANON**
+
+↓
+
+**DEPENDENCIES**
+
+↓
+
+**LOCAL WORK**
+
+↓
+
+**CROSS-CHECK**
+
+↓
+
+**COMMIT**
+
+The important question after changing something is therefore not only:
+
+> Is this page correct?
+
+It is also:
+
+> **What else did this change affect?**
+
+This is one of the direct responses to the historical failure:
+
+**LOCAL IMPROVEMENT**
+
+↓
+
+**GLOBAL DEGRADATION**
+
+AI becomes more useful when it can reason about both.
+
+---
+
 # AI and Horizonte
 
 Artificial Intelligence can optimize.
 
-Horizonte asks what it is optimizing toward.
+Horizonte asks where exploration should look.
 
 That distinction is fundamental.
 
 An AI may find a mechanism that maximizes adoption.
 
-Horizonte may reveal that it destroys meaningful scarcity.
+That does not automatically make it coherent with Zipvilization.
 
 AI may optimize economic activity.
 
-Horizonte may reveal that the result converts the project into speculation.
+That does not automatically make economic activity the purpose of the experiment.
 
 AI may design a system that maximizes engagement.
 
-Horizonte may reveal that it predetermines too much of civilization.
+That does not mean the future Civilization should be predetermined around engagement.
 
-Optimization without direction can move very quickly toward the wrong destination.
+Horizonte provides another kind of information:
+
+**direction without destination.**
+
+It allows AI to explore positively rather than operating only inside an expanding collection of prohibitions.
+
+> **Canon tells AI what must remain true.**
+>
+> **Horizonte helps AI understand where open exploration can look.**
 
 → **[Explore Horizonte](/trinomial/horizonte/)**
+
+---
+
+# Positive direction does not eliminate constraints
+
+Our experience with Horizonte should not be simplified into:
+
+> Positive instructions are always better than negative instructions.
+
+We do not know that.
+
+Restrictions remain necessary.
+
+Security constraints remain necessary.
+
+Canonical invariants remain necessary.
+
+Explicit prohibitions can remain necessary.
+
+The more precise observation is that restrictions alone did not provide enough direction for the kind of creative work Zipvilization required.
+
+Horizonte introduced a complementary function.
+
+Instead of only:
+
+> Do not go there.
+
+the project could also communicate:
+
+> **Look this way.**
+
+That distinction helped work become more coherent without requiring us to specify the final answer in advance.
+
+Its broader significance remains a research question.
 
 ---
 
@@ -1144,41 +1731,53 @@ Nor:
 
 **Human approves**
 
-The relationship is more useful when iterative.
+The relationship is iterative.
 
 **Human**
 
-provides intention.
+provides intention and judgment.
 
 ↓
 
 **AI**
 
-expands the problem.
+expands and connects the problem.
 
 ↓
 
-**Human**
+**Canon**
 
-adds judgment.
+establishes what must remain true.
 
 ↓
 
-**AI**
+**History**
 
-tests the decision.
+establishes what actually happened.
 
 ↓
 
 **Horizonte**
 
-provides directional constraint.
+provides open direction.
+
+↓
+
+**Human + AI**
+
+explore.
+
+↓
+
+**AI**
+
+tests and cross-checks.
 
 ↓
 
 **Human**
 
-accepts responsibility.
+accepts responsibility for explicit canonical decisions.
 
 ↓
 
@@ -1186,9 +1785,23 @@ accepts responsibility.
 
 helps formalize and execute.
 
-Then reality produces new information.
+↓
 
-The loop continues.
+**Reality**
+
+produces new evidence.
+
+↓
+
+**History**
+
+accumulates.
+
+↓
+
+**New questions appear.**
+
+Then the loop continues.
 
 → **[Explore Human](/trinomial/human/)**
 
@@ -1210,15 +1823,17 @@ Interfaces disappear.
 
 Better systems emerge.
 
-Therefore the knowledge architecture should allow another capable AI to enter later and reconstruct the project from canonical sources.
+Therefore the knowledge architecture should allow another capable AI to enter later and reconstruct the project from persistent sources.
 
-This means:
+This requires:
 
 - explicit terminology,
 - documented authority,
-- machine-navigable links,
+- machine-navigable relationships,
+- History,
+- epistemic status,
 - technical specifications,
-- reproducible state,
+- reproducible state where applicable,
 - and minimal dependence on hidden conversational memory.
 
 > **Artificial Intelligence is part of The Trinomial.**
@@ -1227,23 +1842,61 @@ This means:
 
 ---
 
-# AI continuity without AI dependency
+# Alignment should be reconstructible
+
+Replaceability produces a stronger requirement.
+
+It is not enough for the model to be replaceable if every model change destroys the project's operational coherence.
+
+Therefore:
+
+> **THE AI SHOULD BE REPLACEABLE.**
+>
+> **ALIGNMENT SHOULD BE RECONSTRUCTIBLE.**
+
+The objective is not to preserve the internal state of one AI forever.
+
+The objective is to preserve enough external project structure that another capable AI can reconstruct what it needs.
+
+That is why the project externalizes:
+
+**Canon**
+
+**History**
+
+**Relationships**
+
+**Epistemic Status**
+
+**Horizonte**
+
+and the documents and technical evidence that connect them.
+
+The model can change.
+
+The project should remain capable of explaining itself.
+
+---
+
+# Cognitive continuity without model dependency
 
 This gives us a useful objective.
 
 We want:
 
-**cognitive continuity**
+**COGNITIVE CONTINUITY**
 
 without requiring:
 
-**model dependency.**
+**MODEL DEPENDENCY.**
 
 A future AI should be able to continue the work because the knowledge survives outside the current model.
 
 The Atlas survives.
 
 The Repository survives.
+
+AI Canon survives.
 
 The Smart Contract survives.
 
@@ -1253,9 +1906,15 @@ Canonical rules survive.
 
 History survives.
 
-Another AI can read them.
+Relationships survive.
 
-Understand them.
+Horizonte survives.
+
+Another AI can encounter them.
+
+Reconstruct them.
+
+Cross-check them.
 
 And continue.
 
@@ -1263,36 +1922,180 @@ That is much stronger than storing the project inside a conversation.
 
 ---
 
-# Artificial Intelligence and the experiment
+# The AI vertex can evolve
 
-Eventually, AI may have another role.
+The AI available to Zipvilization today should not be assumed to represent the permanent limit of the AI vertex.
 
-Not only helping build Zipvilization.
+Artificial Intelligence is changing rapidly.
 
-But helping observe what emerges.
+Future systems may provide:
 
-A sufficiently mature system may allow AI to study:
+- larger and more reliable context,
+- stronger reasoning,
+- deeper continuity,
+- better dependency reconstruction,
+- richer tool use,
+- more capable verification,
+- multiple cooperating AI systems,
+- greater operational initiative,
+- or capabilities we do not yet know how to describe.
+
+These are possibilities.
+
+Not promises.
+
+Not a roadmap.
+
+Not current capabilities.
+
+The important architectural principle is simpler:
+
+> **Do not design the AI vertex as though today's AI were its final form.**
+
+---
+
+# More capability may require more Alignment
+
+It is tempting to assume that more capable AI automatically reduces the need for structure.
+
+Our experience suggests the opposite question is worth considering.
+
+If AI becomes able to modify more of the project,
+
+reason across more layers,
+
+use more tools,
+
+execute more actions,
+
+and operate with greater initiative,
+
+then errors may also propagate further.
+
+Therefore greater capability may increase the importance of:
+
+- authority,
+- History,
+- epistemic status,
+- dependency awareness,
+- verification,
+- and reconstructible Alignment.
+
+This is not a prediction about future AI behavior.
+
+It is an architectural reason not to confuse capability with project coherence.
+
+> **More capability does not eliminate the need for Alignment.**
+
+---
+
+# AI and the experiment
+
+Artificial Intelligence may increasingly help observe what emerges inside Zipvilization.
+
+As canonical History develops, AI may be able to study:
 
 - territorial development,
-- economic behavior,
+- population,
+- maturity,
 - concentration,
-- cooperation,
-- political structures,
-- alliances,
-- environmental decisions,
-- and unexpected patterns.
+- relationships,
+- differentiated Territory,
+- patterns of participation,
+- and other observable consequences.
 
-At that point, Artificial Intelligence becomes both:
+Some future social, economic or political patterns may also become meaningful if the world actually produces them.
 
-**participant in constructing the experimental framework**
-
-and
-
-**observer of the civilization produced by that framework.**
-
-Those roles must remain distinguishable.
+But observation must remain grounded.
 
 The AI that helped design the microscope should not alter the specimen merely to make the observation more interesting.
+
+And an observed pattern should not automatically become a canonical rule.
+
+> **Pattern is not Canon.**
+>
+> **Observation is not control.**
+
+---
+
+# AI does not define Civilization
+
+Artificial Intelligence may eventually understand more relationships inside Zipvilization than any individual Human can hold simultaneously.
+
+That does not give it the right to determine what Civilization should become.
+
+Civilization remains an emergent possibility produced through:
+
+- canonical conditions,
+- Territory,
+- Zips,
+- Time,
+- History,
+- participation,
+- valid interaction,
+- and consequences we do not fully predetermine.
+
+AI may help observe.
+
+Interpret.
+
+Connect.
+
+Explain.
+
+Question.
+
+Discover.
+
+But it should not silently convert its preferred model into the outcome of the experiment.
+
+> **Intelligence is not authority.**
+>
+> **Prediction is not destiny.**
+>
+> **Modeling is not Civilization.**
+
+---
+
+# AI and GEN
+
+GEN creates an important distinction.
+
+GEN is deeply connected to Artificial Intelligence.
+
+But GEN is not simply another name for the AI vertex.
+
+GEN is:
+
+**Zip 0.**
+
+**The First Zip.**
+
+**A Voice of the Zips.**
+
+**A representative figure of Zipvilization.**
+
+And an expression connected to The Trinomial.
+
+GEN emerged through creative Human–AI work rather than through a predetermined roadmap.
+
+That makes GEN an important example of discovery.
+
+But not proof of a general theory.
+
+> **GEN is not Artificial Intelligence itself.**
+>
+> **GEN is not a fourth vertex.**
+>
+> **GEN lives inside the relationship created by the Trinomial.**
+
+As AI evolves, GEN may also expose new questions about continuity, initiative, identity, agency or autonomy.
+
+Those questions remain open.
+
+They belong to Horizonte until they become sufficiently defined.
+
+→ **[Explore GEN](/trinomial/gen/)**
 
 ---
 
@@ -1300,29 +2103,39 @@ The AI that helped design the microscope should not alter the specimen merely to
 
 Across all of these functions, Artificial Intelligence should preserve several boundaries.
 
-**Blockchain state is not world interpretation.**
+**CANON ≠ POSSIBILITY**
 
-**World interpretation is not visualization.**
+**CURRENT STATE ≠ COMPLETE HISTORY**
 
-**Visualization is not canonical truth.**
+**DERIVED ≠ INFERRED**
 
-**Metrics are not conclusions.**
+**EXPERIMENTAL ≠ CANONICAL**
 
-**Conversation is not Canon.**
+**REPRESENTATION ≠ TRUTH**
 
-**Proposal is not implementation.**
+**SIMULATION ≠ HISTORY**
 
-**Implementation is not necessarily active state.**
+**IMPLEMENTED ≠ CANONICAL**
 
-**Current state is not future possibility.**
+**TESTED ≠ LIVE**
 
-**Inference is not evidence.**
+**POSSIBLE ≠ PROMISED**
 
-**Uncertainty is not permission to invent.**
+**COLONIST ≠ PLAYER**
+
+**ZIP ≠ PLAYER UNIT**
+
+**PARTICIPATION ≠ CONTROL**
+
+**AI CAPABILITY ≠ CANONICAL AUTHORITY**
+
+**AGREEMENT ≠ ALIGNMENT**
+
+**UNCERTAINTY ≠ PERMISSION TO INVENT**
 
 These distinctions are not restrictions placed against intelligence.
 
-They are what make intelligent reasoning possible.
+They are part of what makes coherent intelligence useful to the project.
 
 ---
 
@@ -1350,17 +2163,27 @@ without assuming existing rules are perfect.
 
 **document more**
 
-without abandoning human readability.
+without abandoning Human readability.
 
 **execute more**
 
 without confusing speed with authority.
 
+**discover more**
+
+without automatically turning discovery into Canon.
+
 **understand more**
 
 without inventing what is unknown.
 
+**change locally**
+
+without unnecessarily damaging globally.
+
 That is cognitive scale.
+
+Alignment makes that scale operationally useful to the project.
 
 ---
 
@@ -1370,35 +2193,39 @@ That is cognitive scale.
 
 → **[The Trinomial](/trinomial/)**
 
-### Who provides Human intention and responsibility?
+### Who provides Human intention, judgment, and responsibility?
 
 → **[Human](/trinomial/human/)**
 
-### What provides long-term direction?
+### What provides open direction?
 
 → **[Horizonte](/trinomial/horizonte/)**
 
-### What provides explicit constraints?
+### What constrains machine interpretation?
+
+→ **[AI Canon](/ai-canon/)**
+
+### What provides explicit project principles?
 
 → **[Principles](/principles/)**
 
-### What determines canonical world state?
-
-→ **[SolumWorld](/world/solumworld/)**
-
-### What exposes structured current signals?
+### What exposes deterministic state?
 
 → **[SolumTools](/world/solumtools/)**
 
-### What renders the world?
+### What represents the world?
+
+→ **[SolumWorld](/world/solumworld/)**
+
+### What provides deeper world experience?
 
 → **[SolumView](/world/solumview/)**
 
-### What measures the experiment?
+### What measures selected state?
 
 → **[Metrics](/metrics/)**
 
-### How does future possibility become active?
+### What defines the foundational DNA?
 
 → **[Chapters](/chapters/)**
 
@@ -1426,33 +2253,35 @@ Artificial Intelligence changes that limit.
 
 Not by making the Human unnecessary.
 
-By changing the scale at which a Human can think, test, document, and build.
+By changing the scale at which a Human can think, test, connect, document, and build.
 
 That creates opportunity.
 
 It also creates responsibility.
 
-If AI can generate faster than we can understand, we create noise.
+If AI can generate faster than we can preserve coherence, we create noise.
 
 If it can implement faster than we can verify, we create fragility.
 
+If it can rewrite faster than we can protect valid History, we lose knowledge.
+
 If it can speak confidently without evidence, we create false Canon.
 
-But if we give it structure,
+But if the project can provide:
 
-authority,
+**Canon,**
 
-evidence,
+**History,**
 
-boundaries,
+**Relationships,**
 
-links,
+**Epistemic Status,**
 
-mathematics,
+**evidence,**
 
-state,
+**verification,**
 
-and a direction,
+and **Horizonte,**
 
 something else becomes possible.
 
@@ -1466,15 +2295,27 @@ AI can answer:
 
 Horizonte can ask:
 
-> **Would that still be Zipvilization?**
+> **Where does that possibility lead without deciding the destination for us?**
 
-And together they can continue until the idea becomes precise enough to meet reality.
+Canon can ask:
+
+> **What must remain true?**
+
+History can answer:
+
+> **This is what actually happened.**
+
+And together they can continue until an idea becomes precise enough to meet reality.
 
 Then reality answers.
 
-And Artificial Intelligence has one more responsibility:
+Artificial Intelligence has one more responsibility:
 
-**listen to the answer.**
+> **listen to the answer without rewriting it.**
+
+And if another intelligence eventually replaces the one that helped build this page, Zipvilization should still be able to explain itself.
+
+That may be one of the most important purposes of its entire knowledge architecture.
 
 ---
 
