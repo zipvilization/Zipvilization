@@ -2,332 +2,252 @@
 layout: default
 title: The dApp
 nav_order: 4
+has_children: true
 description: >
-  The Zipvilization dApp is where Colonists experience the world:
-  reading its real state, seeing Solum evolve, exploring Territory,
-  entering individual worlds, and eventually interacting with a
-  civilization whose future remains open.
+  The Zipvilization dApp is the system through which Humans and AI can read,
+  explore and eventually experience the real state and History of Zipvilization.
+  Its public documentation exposes the model, architecture and experience
+  without disclosing the internal implementation required to reproduce them.
 permalink: /dapp/
 ---
 
 # The dApp
 
-**Where Colonists experience Zipvilization.**
+**The interface is not the dApp.**
 
-Holding [SOLUM](/world/solum/) makes an address part of the world.
+The interface is the visible surface of a much deeper system.
 
-It gives that address [Territory](/world/territories/).
+Zipvilization begins with blockchain state, History, Canonical Rules and deterministic relationships.
 
-It makes its actions part of the same shared history as every other [Colonist](/world/colonists/).
+The dApp is where that underlying reality becomes increasingly accessible to Humans and AI.
 
-But blockchain state alone is not how a Human experiences a civilization.
+It can be:
 
-The dApp is where that state becomes understandable, visible and, progressively, explorable.
+**read**
 
-It is where a Colonist can move from:
+through data,
 
-**reading Zipvilization**
+**seen**
 
-to
+as a world,
 
-**seeing Zipvilization**
+and eventually:
 
-to
+**entered**
 
-**entering a Territory**
+as living Territory.
 
-to
-
-**interacting with an evolving world.**
-
-> **One dApp. One world. Increasing depth.**
-
----
-
-# What does a Colonist actually have?
-
-A holder has **SOLUM**.
-
-A Colonist has a relationship with **Solum**.
-
-That relationship can include Territory, [Time](/world/time/), development, [Zips](/world/zips/), history and the consequences of their own interactions with the system.
-
-The dApp makes that relationship visible.
-
-A Colonist should be able to understand questions such as:
-
-- How much of Solum has been colonized?
-- How much remains Dormant?
-- How much has become Permanent Nature?
-- How many Colonists exist?
-- How many Farms, Cities, States and Kingdoms exist?
-- How many Zips exist?
-- What Territory do I hold?
-- How has my Territory developed?
-- What has happened there?
-- What is happening there now?
-
-At first, many of those answers are data.
-
-Later, they can become places.
-
-Eventually, some of them can become experiences.
-
----
-
-# Beginning from zero
-
-The dApp does not begin by pretending that a civilization already exists.
-
-At [Genesis](/genesis/), there will be little history.
-
-There will be little development.
-
-There may be few Colonists.
-
-There may be few Zips.
-
-The world itself will have barely begun to change.
-
-The first version of the dApp should reflect that reality.
-
-It begins with what can actually be known.
-
-Real Colonists.
-
-Real Territory.
-
-Real [Dormant Land](/smart-contract/pool/).
-
-Real [Permanent Nature](/smart-contract/burn/).
-
-Real territorial structures.
-
-Real Zip population.
-
-Real interactions.
-
-Then Time begins to accumulate.
-
-History begins to exist.
-
-Territories begin to develop.
-
-The world becomes more complex.
-
-And the dApp gains more reality to represent.
-
-> **The dApp begins with the civilization.**
-
-It does not need to simulate a mature world before one exists.
-
----
-
-# First, read the world
-
-The first layer of the experience is [**SolumTools**](/world/solumtools/).
-
-SolumTools translates blockchain state and interaction into the language of Zipvilization.
-
-A blockchain can expose addresses, balances, blocks, transfers, Pool balances and Burn.
-
-A Colonist should not need to reconstruct Zipvilization from those raw values.
-
-SolumTools can translate them into concepts such as:
-
-**Colonists**
-
-**Territory**
-
-**Farms**
-
-**Cities**
-
-**States**
-
-**Kingdoms**
-
-**Dormant Land**
-
-**Permanent Nature**
-
-**Zips**
-
-This is the minimum useful window into Zipvilization.
-
-> **SolumTools is the data foundation of the dApp.**
-
-It does not create those realities.
-
-[Canonical Rules](/smart-contract/canonical-rules/) define their meaning.
-
-SolumTools applies those rules to real blockchain state and exposes the result in a form Humans and machines can understand.
-
----
-
-# From state to history
-
-SolumTools does not end with current totals.
-
-As Zipvilization develops, Time becomes increasingly important.
-
-Blocks accumulate.
-
-Territories age.
-
-Development progresses.
-
-Structures mature.
-
-Interactions accumulate.
-
-The present acquires a past.
-
-SolumTools can therefore evolve from showing primarily current state into showing:
-
-**Time**
-
-**maturity**
-
-**development**
-
-**activity**
-
-**historical state**
-
-**individual Colonists**
-
-**wallet-level Territory**
-
-**Colonist statistics**
-
-**contributions to Permanent Nature**
-
-**territorial development**
-
-**roles derived from real activity**
-
-and other forms of information supported by the system.
-
-A Colonist will no longer only be able to ask:
-
-> **What does Zipvilization look like now?**
-
-They will increasingly be able to ask:
-
-> **How did we get here?**
-
-And:
-
-> **What has happened to my Territory?**
-
----
-
-# Then, see the world
-
-Data can describe a world.
-
-But a world can also be seen.
-
-That is the role of [**SolumWorld**](/world/solumworld/).
-
-SolumWorld is the visual representation of Solum and the current state of Zipvilization.
-
-Its earliest form does not need to be complex.
-
-Imagine a highly pixelated planet.
-
-Its visual state is derived from real state.
-
-For example:
-
-**Dormant Land → brown**
-
-**Permanent Nature → green and blue**
-
-**Colonized Territory → yellow and gray**
-
-The exact visual language can evolve.
-
-The underlying principle cannot:
-
-> **The world shown must remain grounded in the world that exists.**
-
-SolumWorld does not need to reproduce every SOLUM literally as one visible square.
-
-It interprets valid state graphically.
-
-Its job is to make the condition of Solum visible as a coherent world.
-
----
-
-# Data and image
-
-SolumTools and SolumWorld are deeply connected.
-
-They are two ways of experiencing the same underlying reality.
-
-One expresses it primarily as **data**.
-
-The other expresses it primarily as **image**.
-
-A Colonist might be looking at global statistics while seeing the planet beside them.
-
-They might select Permanent Nature in the data and understand its presence visually on Solum.
-
-They might inspect colonized Territory and then move toward the corresponding areas of the world.
-
-They might search for a Colonist and move from global information toward that Colonist's Territory.
-
-The frontend does not need to force a choice between:
-
-**SolumTools**
-
-or
-
-**SolumWorld**.
-
-They can coexist.
-
-> **Data explains the world.**
+> **One dApp.**
 >
-> **The world gives the data form.**
+> **One world.**
+>
+> **Increasing depth.**
+
+Zipvilization is currently **pre-Genesis**.
+
+That means the official world has not yet accumulated the real History, population, territorial maturity and activity that will eventually feed the complete experience.
+
+But that does not mean the dApp begins as an undefined idea.
+
+Its model exists.
+
+Its core relationships exist.
+
+A substantial part of its underlying architecture is already defined.
+
+Its three principal experiential layers have distinct responsibilities.
+
+Testnet models allow parts of the deeper experience to be explored before canonical History begins.
+
+And the architecture has been designed so that increasing real complexity can be added without redefining the foundations beneath it.
+
+The purpose of this section is to show that structure.
+
+Not every internal implementation detail needs to be public for the system itself to be understandable and auditable.
+
+> **Show the architecture.**
+>
+> **Protect the implementation.**
 
 ---
 
-# One experience, different architectures
+# More Than an Interface
 
-SolumTools, SolumWorld and [SolumView](/world/solumview/) are not intended to be three unrelated websites.
+A conventional dApp can often be understood primarily through its visible interface.
 
-They solve different problems.
+Zipvilization cannot.
 
-They can therefore require different architectures, different development processes and different technical systems.
+The visible interface is downstream from a larger system.
 
-But the Colonist does not need to experience those boundaries.
+At a high level:
 
-The dApp can integrate them into one continuous experience.
+**BLOCKCHAIN STATE + HISTORY**  
+↓  
+**CANONICAL RULES**  
+↓  
+**DETERMINISTIC ZIPVILIZATION STATE**  
+↓  
+**DATA / WORLD / LIFE**
 
-A Human may move naturally between:
+The blockchain records technical evidence.
 
-**global data**
+Canonical Rules define what that evidence means inside Zipvilization.
 
-↓
+The system derives valid Zipvilization state from those relationships.
 
-**the visible world**
+The interface makes that state accessible.
 
-↓
+This distinction matters.
 
-**a Colonist**
+A graphical representation does not create Territory.
 
-↓
+A dashboard does not create a Colonist.
 
-**a Territory**
+A rendered Zip does not create canonical population.
 
-↓
+An animation does not create History.
 
-**its internal life**
+The dApp observes, derives, translates, represents and eventually allows increasingly deep interaction with a reality whose canonical meaning exists beneath its interface.
 
-without needing to think about which technical component is currently providing each part of the experience.
+> **The dApp does not invent Zipvilization.**
+>
+> **It makes Zipvilization accessible.**
+
+---
+
+# From an Address to a World
+
+The dApp begins with real state.
+
+But not every address holding SOLUM is automatically a Colonist.
+
+The canonical path is:
+
+**ADDRESS**  
+↓  
+**SOLUM HOLDER**  
+↓  
+**COMPLETE FARM THRESHOLD**  
+↓  
+**COLONIST**  
+↓  
+**ACTIVE TERRITORY**
+
+One complete Farm requires:
+
+**8,000,000 SOLUM**
+
+which corresponds to:
+
+**8 Tiles**
+
+or:
+
+**8 km² of Solum**
+
+Below that threshold, an address may be a Holder.
+
+At the threshold, the minimum active territorial structure exists and the address can become a Colonist.
+
+From there, the relationship can deepen through:
+
+- Territory,
+- Farms,
+- Time,
+- Bloch,
+- Zips,
+- population,
+- maturity,
+- development,
+- interactions,
+- and History.
+
+The dApp makes those relationships increasingly understandable and experienceable.
+
+→ **[Understand Colonists](/world/colonists/)**  
+→ **[Explore Territories](/world/territories/)**
+
+---
+
+# What Exists Beneath the Surface
+
+The dApp is built around relationships that already extend far beyond a graphical mockup.
+
+Among them:
+
+**SOLUM → TERRITORY**
+
+**TERRITORY → CAPACITY**
+
+**FARM → BLOCH**
+
+**BLOCH + TIME → ZIP DEVELOPMENT**
+
+**FARMS → POPULATION ORIGIN**
+
+**HISTORY → MATURITY**
+
+**BURN → PERMANENT NATURE**
+
+**POOL → DORMANT LAND**
+
+**COLONIST → ACTIVE TERRITORY**
+
+**TERRITORY + ZIPS + TIME + HISTORY + INTERACTION → CIVILIZATION**
+
+These relationships are not merely visual concepts.
+
+They define what the dApp must be capable of understanding before it can represent the world correctly.
+
+That is why the visible interface can remain simple while the architecture beneath it is considerably deeper.
+
+> **Simple interface does not mean simple architecture.**
+
+---
+
+# One Reality, Different Depths
+
+The dApp does not contain three independent versions of Zipvilization.
+
+It provides different ways of accessing the same underlying reality.
+
+The experiential progression is:
+
+**READ**  
+↓  
+**SEE**  
+↓  
+**ENTER**  
+↓  
+**EXPERIENCE**  
+↓  
+**INTERACT**  
+↓  
+**?**
+
+The first three major layers are:
+
+## SolumTools — DATA / READ
+
+[SolumTools](/world/solumtools/) translates blockchain state and History into readable Zipvilization data.
+
+It allows Humans and machines to understand what exists without reconstructing the world manually from raw balances, transfers and blocks.
+
+## SolumWorld — WORLD / SEE
+
+[SolumWorld](/world/solumworld/) gives canonical state a graphical form.
+
+It begins with Solum as a planet and can progressively reveal Territory, Colonists, population, maturity and History at increasing spatial depth.
+
+## SolumView — LIFE / ENTER
+
+[SolumView](/world/solumview/) begins when observation becomes entry.
+
+It moves inside individual Colonist Territory and toward the dynamic representation of Zips, development, construction, movement, maturity and local History.
+
+These layers solve different technical and experiential problems.
+
+For the user, they can become one continuous experience.
 
 > **The architecture is modular.**
 >
@@ -335,393 +255,601 @@ without needing to think about which technical component is currently providing 
 
 ---
 
-# A world that gains resolution
+# Data → World → Life
 
-SolumWorld can begin simple.
+Another way to understand the dApp is:
 
-Then Zipvilization begins producing more information.
+**DATA**  
+↓  
+**WORLD**  
+↓  
+**LIFE**
 
-More Territory becomes colonized.
+SolumTools answers:
 
-Permanent Nature expands.
+> **What is true?**
 
-Time passes.
+SolumWorld asks:
 
-Territorial structures appear.
+> **What does that truth look like across Solum?**
 
-Development changes.
+SolumView asks:
 
-Zips emerge.
+> **What does that truth become when we enter this Territory?**
 
-History accumulates.
+The answers must remain compatible.
 
-As the underlying world gains complexity, its visual representation can gain complexity too.
+A Territory cannot have one population in SolumTools and another in SolumView.
 
-The Colonist may progressively be able to move across Solum, approach regions and inspect increasingly detailed areas.
+A City cannot be immature in the data and canonically mature in the graphical world.
 
-But SolumWorld has a natural limit.
+Permanent Nature cannot become ordinary Territory because a visual layer prefers a different representation.
 
-It represents **the world**.
+The level of detail can change.
 
-At some point, looking closer is no longer simply looking at Solum.
+The underlying reality cannot.
 
-It means entering the life of an individual Territory.
-
-That is where another kind of experience begins.
-
----
-
-# Enter your Territory
-
-[**SolumView**](/world/solumview/) begins at the individual Territory.
-
-A wallet provides the on-chain reference.
-
-The wallet corresponds to a Colonist.
-
-The Colonist holds Territory.
-
-SolumTools can describe it.
-
-SolumWorld can locate and represent it within the broader world.
-
-SolumView allows the Colonist to go inside.
-
-> **SolumView is where Territory becomes an experience.**
-
-This is not simply another level of a global map.
-
-It is a change in perspective.
-
-From:
-
-**What does the world look like?**
-
-to:
-
-**What is happening inside here?**
-
----
-
-# Territory is not a spreadsheet
-
-Imagine a Colonist whose state corresponds to many Farms, multiple Cities and a large Zip population.
-
-SolumView does not need to place every canonical quantity on screen as a literal one-to-one graphical object.
-
-That would confuse data with representation.
-
-Instead, SolumView can create a functional visual interpretation of the Territory.
-
-The Colonist may see:
-
-**Zips**
-
-**buildings**
-
-**development**
-
-**maturity**
-
-**activity**
-
-**change**
-
-**different territorial areas**
-
-and eventually other systems that emerge from Zipvilization.
-
-The representation can be simulated.
-
-The underlying truth cannot.
-
-A Zip may walk without every step being recorded on-chain.
-
-A building may contain visual activity that exists to make the Territory understandable and alive.
-
-Animations may occur between canonical state changes.
-
-But simulation must never silently rewrite canonical reality.
-
-> **Visual life may be simulated.**
+> **Different representations.**
 >
-> **Canonical truth may not.**
+> **One truth.**
 
 ---
 
-# From observation to presence
+# State Is Not History
 
-This creates a natural evolution in the Colonist experience.
+The dApp cannot understand Zipvilization from current balances alone.
+
+Current state answers important questions.
+
+It does not answer all of them.
+
+A Territory may have developed over Time.
+
+Population may already have emerged.
+
+Maturity may have been reached.
+
+A later transfer may change future capacity without erasing what validly happened before it.
+
+Therefore:
+
+**CURRENT STATE**  
+≠  
+**COMPLETE HISTORY**
+
+and:
+
+**CURRENT CAPACITY**  
+≠  
+**HISTORICAL MATURITY**
+
+The dApp must increasingly understand both:
+
+**what exists now**
+
+and:
+
+**how it became what it is.**
+
+This is one of the reasons the architecture beneath the interface matters.
+
+History is not decoration added later to a dashboard.
+
+It is part of the information required to interpret the world correctly.
+
+---
+
+# Beginning From Zero
+
+The dApp does not need to pretend that a mature Civilization already exists.
+
+At Genesis, canonical History will be young.
+
+Territory will be young.
+
+Population will be young.
+
+There may be relatively few Colonists.
+
+There may be few Zips.
+
+There will be limited maturity.
+
+That is not a problem to hide.
+
+It is the beginning of the experiment.
+
+The first interfaces should represent what actually exists.
+
+Then:
+
+Time accumulates.
+
+History grows.
+
+Territory develops.
+
+Population emerges.
+
+Maturity changes.
+
+The world becomes richer.
+
+And the dApp gains more reality to understand, represent and eventually make experienceable.
+
+> **The experience grows because the world grows.**
+
+---
+
+# Different Layers, Different Starting Conditions
+
+SolumTools, SolumWorld and SolumView share the same underlying reality.
+
+They do not require the same amount of real-world maturity before becoming useful.
+
+## SolumTools can begin with data
+
+Its earliest interface can be simple.
+
+The difficult part is not visual complexity.
+
+It is ensuring that the data is correct, historically valid and canonically meaningful.
+
+Real state already gives SolumTools something meaningful to expose.
+
+## SolumWorld can begin with a planet
+
+Its earliest representation can also be simple.
+
+Dormant Land.
+
+Active Territory.
+
+Permanent Nature.
+
+Even a highly abstract or pixelated planet can already communicate meaningful world state.
+
+Resolution can increase as the world develops.
+
+## SolumView needs a living world
+
+SolumView is different.
+
+Its architecture can be developed and tested before the world is mature.
+
+Models can exist.
+
+Testnet environments can validate concepts.
+
+Technical and experiential assumptions can be explored.
+
+But its intended UX requires enough real:
+
+- Colonists,
+- Territory,
+- Farms,
+- Zips,
+- population,
+- maturity,
+- activity,
+- and History
+
+to understand what a living Territory actually needs to become.
+
+> **SolumTools can begin with data.**
+>
+> **SolumWorld can begin with a planet.**
+>
+> **SolumView needs a living world.**
+
+---
+
+# Architecture Before Visual Complexity
+
+The first public interface does not need to expose the full complexity of the system.
+
+That complexity belongs primarily underneath.
+
+The foundation already includes relationships between:
+
+- blockchain state,
+- History,
+- Canonical Rules,
+- SOLUM,
+- Holders,
+- Colonists,
+- Territory,
+- territorial capacity,
+- Farms,
+- Bloch,
+- Time,
+- Zips,
+- population,
+- maturity,
+- Dormant Land,
+- Active Territory,
+- Permanent Nature,
+- and higher territorial structures.
+
+The visible experience can grow over that foundation.
+
+This is deliberate.
+
+If the underlying architecture is coherent, additional interface depth does not need to redefine what a Farm is, what a Colonist is, how population originates or how History works.
+
+The house can evolve.
+
+The foundations should not need to be rebuilt every time the interface becomes richer.
+
+---
+
+# Built, Tested and Still to Be Learned
+
+Pre-Genesis development contains different kinds of maturity.
+
+They should not be confused.
+
+### Defined
+
+The project already contains canonical and architectural relationships that determine how major parts of the world fit together.
+
+### Developed
+
+Parts of the system can be implemented before Genesis because their inputs, outputs and deterministic relationships are already sufficiently defined.
+
+### Tested
+
+Testnet models can validate technical assumptions, architecture, representation, navigation and possible forms of experience without pretending that testnet activity is canonical History.
+
+### Data-dependent
+
+Some decisions cannot responsibly be completed from theory alone.
+
+This is especially true for the deepest SolumView UX.
+
+A quantitatively significant real world can reveal requirements that small simulations cannot.
+
+### Open
+
+Some future systems are intentionally not predetermined.
+
+They belong to the future development of Civilization and ultimately to [Horizonte](/trinomial/horizonte/).
+
+> **Defined does not mean live.**
+>
+> **Tested does not mean canonical.**
+>
+> **Open does not mean missing.**
+
+---
+
+# Testnet Is Evidence, Not History
+
+Pre-Genesis models are valuable.
+
+They allow us to test:
+
+- state interpretation,
+- architectural relationships,
+- data flows,
+- territorial representation,
+- navigation,
+- graphical approaches,
+- Territory entry,
+- local environments,
+- and possible interaction models.
+
+But a testnet model is not the Civilization.
+
+Synthetic state can help test whether a system works.
+
+It cannot reproduce the full evidence generated by a real world containing many independent Colonists, changing Territories, accumulated History and biological maturity.
+
+Therefore:
+
+**TESTNET**
+
+can inform development.
+
+But:
+
+**TESTNET ≠ CANONICAL ZIPVILIZATION HISTORY**
+
+The distinction allows us to develop substantially before Genesis without pretending that the future world has already happened.
+
+---
+
+# The World Can Teach the dApp
+
+Not every UX decision should be fixed before real History exists.
+
+As Zipvilization grows, the system itself can reveal:
+
+- which data becomes important,
+- which territorial differences matter,
+- how much information Humans can meaningfully process,
+- how population should be represented at different scales,
+- how long History should be navigated,
+- which local events deserve prominence,
+- how mature and young Territories differ,
+- and what forms of interaction become useful.
+
+This is especially important for SolumView.
+
+The architecture gives us a framework.
+
+Real Zipvilization can provide evidence for the experience.
+
+> **We do not need to invent the behavior of a mature world before the world becomes mature.**
+
+---
+
+# Public Architecture, Internal Implementation
+
+Zipvilization is designed to be understandable by Humans and machines.
+
+That requires meaningful transparency.
+
+But meaningful transparency does not require publishing every internal implementation detail.
+
+The public documentation is intended to expose enough information to understand:
+
+- what the system means,
+- what its principal components are,
+- how those components relate,
+- which state is authoritative,
+- what can be derived,
+- what can be represented,
+- what is experimental,
+- what remains unresolved,
+- and which invariants the dApp must preserve.
+
+Those relationships should be auditable.
+
+Canonical meaning should not depend on secret rules.
+
+At the same time, the exact implementation used to execute those relationships can remain internal.
+
+That may include details such as:
+
+- internal algorithms,
+- complete data structures,
+- indexing strategies,
+- reconstruction pipelines,
+- operational infrastructure,
+- optimization techniques,
+- private tooling,
+- implementation-specific synchronization,
+- and other engineering knowledge whose publication is not required to verify canonical meaning.
+
+The boundary is intentional.
+
+> **Open enough to understand.**
+>
+> **Structured enough to audit.**
+>
+> **Detailed enough to demonstrate that the architecture is real.**
+>
+> **Not detailed enough to reproduce the internal implementation.**
+
+---
+
+# What Must Remain Verifiable
+
+Protecting implementation does not mean hiding canonical truth.
+
+If a rule determines whether an address is a Holder or a Colonist, that rule must be understandable.
+
+If a rule determines Active Territory, that relationship must be understandable.
+
+If population originates through Farms and Bloch, that relationship must be understandable.
+
+If current balance cannot retroactively create maturity, that must be understandable.
+
+If Burn creates Permanent Nature, that meaning must be understandable.
+
+The principle is:
+
+> **Canonical meaning is public.**
+>
+> **System architecture is documented to the depth required to understand and audit it.**
+>
+> **Reproducible implementation detail can remain internal.**
+
+A useful test is simple.
+
+If hiding information would prevent a Human or AI from understanding or auditing a canonical claim, that information belongs in the public model.
+
+If publishing information primarily helps reproduce the internal implementation, it does not necessarily belong in the public Atlas.
+
+---
+
+# Humans and Machines
+
+The dApp is not only a Human interface.
+
+Its underlying information should also be intelligible to machines.
+
+Humans need:
+
+- clear concepts,
+- understandable relationships,
+- visual hierarchy,
+- navigation,
+- progressive complexity,
+- and meaningful experience.
+
+AI needs:
+
+- explicit definitions,
+- stable relationships,
+- authority boundaries,
+- deterministic dependencies,
+- state distinctions,
+- and clear separation between canonical, derived, experimental and unresolved information.
+
+The same architecture can serve both.
+
+> **Humans follow the experience.**
+>
+> **AI follows the relationships.**
+
+This is why the documentation of the dApp matters independently of its graphical interface.
+
+The dApp is not only what appears on screen.
+
+It is also the structured relationship between the world and the systems capable of interpreting it.
+
+---
+
+# Three Ways to Understand the dApp
+
+This section of the Atlas separates the dApp into three complementary views.
+
+They describe the same system from different perspectives.
+
+## Model
+
+**What is the dApp?**
+
+The [dApp Model](/dapp/model/) explains the abstract structure of the system.
+
+It defines:
+
+- what the dApp is responsible for,
+- what it is not responsible for,
+- how canonical reality becomes accessible,
+- how its principal layers relate,
+- how History changes what can be known,
+- and how READ → SEE → ENTER forms one increasing experiential depth.
+
+This is the conceptual map.
+
+→ **[Explore the dApp Model](/dapp/model/)**
+
+## Architecture
+
+**How does the machine work?**
+
+The [dApp Architecture](/dapp/architecture/) describes the machinery beneath the visible experience.
+
+It focuses on:
+
+- authority,
+- state,
+- History,
+- deterministic derivation,
+- data relationships,
+- system responsibilities,
+- integrity,
+- module boundaries,
+- and the architecture required to support SolumTools, SolumWorld and SolumView.
+
+It exposes the structure required to understand the system without publishing the internal implementation required to reproduce it.
+
+This is the machine beneath the interface.
+
+→ **[Explore the dApp Architecture](/dapp/architecture/)**
+
+## Experience
+
+**How does the system become usable?**
+
+The [dApp Experience](/dapp/experience/) explains how Humans and AI move through the system.
+
+It connects:
+
+**DATA → WORLD → LIFE**
+
+and:
+
+**READ → SEE → ENTER → EXPERIENCE → INTERACT → ?**
+
+It also explains why SolumTools, SolumWorld and SolumView require different levels of interface and world maturity.
+
+This is the visible and experiential surface.
+
+→ **[Explore the dApp Experience](/dapp/experience/)**
+
+---
+
+# The dApp Is Not the Source of Truth
+
+This principle governs every layer.
+
+The dApp does not become authoritative merely because it is easier to understand than the blockchain beneath it.
+
+The direction remains:
+
+**BLOCKCHAIN STATE + HISTORY**  
+↓  
+**CANONICAL RULES**  
+↓  
+**DETERMINISTIC ZIPVILIZATION STATE**  
+↓  
+**DAPP REPRESENTATION / EXPERIENCE**
+
+If SolumTools displays incorrect data, the display is wrong.
+
+If SolumWorld represents incorrect Territory, the representation is wrong.
+
+If SolumView shows unsupported maturity, the experience is wrong.
+
+The underlying canonical state does not become false because an interface represented it incorrectly.
+
+> **Representation follows truth.**
+>
+> **Truth does not follow representation.**
+
+---
+
+# One World, From Zero
+
+At Genesis, there may be very little to see.
+
+That is the point.
+
+Colonists do not arrive after the Civilization has already been built for them.
+
+They arrive while its canonical History is beginning.
+
+SolumTools can begin reading it.
+
+SolumWorld can begin showing it.
+
+As Territory, population, Time and History accumulate, both can become deeper.
+
+SolumView can continue to be developed and tested while the world produces the quantitative and historical foundation required for a genuinely living territorial experience.
+
+Then the relationship can deepen further.
 
 **READ**
-
-Understand Zipvilization through real translated data.
 
 ↓
 
 **SEE**
 
-Watch that state acquire a graphical form on Solum.
-
 ↓
 
 **ENTER**
-
-Move from the global world into an individual Territory.
 
 ↓
 
 **EXPERIENCE**
 
-Observe its Zips, development, structures and activity dynamically.
-
 ↓
 
 **INTERACT**
-
-Develop increasingly meaningful relationships between Colonist, Territory, Zips and other Colonists.
 
 ↓
 
 **?**
 
-[**Horizonte**](/trinomial/horizonte/).
+The question mark remains important.
 
-The question mark matters.
+Because the dApp is not intended to predetermine every possible future relationship between Humans, AI, Zips, Territory and Civilization.
 
----
-
-# SolumTools, SolumWorld and SolumView
-
-Their relationship can be summarized simply.
-
-### SolumTools — Data
-
-**Translate the blockchain into Zipvilization.**
-
-Present and past.
-
-Global and individual.
-
-State, Time, Territory, Colonists, Zips, activity and history.
-
-### SolumWorld — World
-
-**Give that state a graphical form.**
-
-Represent Solum and Zipvilization at world scale.
-
-Allow the world to gain visual depth as real state and history accumulate.
-
-### SolumView — Life
-
-**Bring an individual Territory to life.**
-
-Move beyond the static representation of the world into a dynamic and increasingly immersive territorial experience.
-
-These are distinct technical problems.
-
-For the Colonist, they can become one continuous experience.
-
----
-
-# Solum
-
-The word [**Solum**](/world/solum/) can be understood at different scales.
-
-**SOLUM** is the on-chain unit.
-
-**1 SOLUM = 1 m²** of Territory.
-
-Collectively, that Territory forms **Solum**, the world on which Zipvilization develops.
-
-The context determines the scale.
-
-Token.
-
-Land.
-
-World.
-
-They are different expressions of the same territorial substrate.
-
-> **SOLUM is the unit.**
->
-> **Solum is the land.**
->
-> **Solum is the world.**
-
-And:
-
-> **Zipvilization is the civilization that emerges on Solum.**
-
----
-
-# The dApp grows with Zipvilization
-
-The dApp is not expected to appear at Genesis in its final form.
-
-There is no final form to reveal.
-
-Its development follows the increasing depth of the [civilization](/world/civilization/) itself.
-
-Genesis can begin with the essential SolumTools experience.
-
-SolumTools can then expand through Time, history, individual Colonists, Territory development and interactions.
-
-SolumWorld can progressively give those realities graphical form.
-
-Both can increase in depth together.
-
-Only when the underlying data, history and visual world are sufficiently developed does the deepest layer become meaningful.
-
-Then SolumView can begin.
-
-And SolumView itself is not an endpoint.
-
-It is the beginning of a much deeper relationship between Colonists and their world.
-
----
-
-# The Chapters
-
-This evolution is not arbitrary.
-
-The [**Chapters**](/chapters/) establish the structural foundations that allow Zipvilization to grow without losing its identity.
-
-They are not simply a list of frontend features.
-
-They define the conditions that must exist beneath whatever future interfaces, interactions and systems are created.
-
-[Genesis](/chapters/genesis/) establishes existence.
-
-[Observability](/chapters/observability/) makes state readable.
-
-[Territory & World Coherence](/chapters/territory-world/) gives that state spatial meaning.
-
-[Colonists & Roles](/chapters/colonists-roles/) allows Humans to become actors inside that world.
-
-[Time, History & Evolution](/chapters/time-history/) allows consequences to accumulate.
-
-[Emergence, Community & Open Horizon](/chapters/emergence/) opens the system toward increasingly complex outcomes.
-
-The dApp makes those increasingly deep realities experienceable.
-
-> **The Chapters establish the DNA.**
->
-> **The dApp lets Colonists experience what that DNA produces.**
-
----
-
-# An immutable foundation for an open future
-
-Zipvilization is designed to evolve.
-
-That evolution does not require its foundation to be rewritten.
-
-Future layers could explore possibilities such as:
-
-- richer Colonist-to-Territory interaction,
-- deeper Zip behavior,
-- visual extensions,
-- resources,
-- new forms of digital property,
-- NFTs,
-- exchange systems,
-- markets,
-- alliances,
-- political structures,
-- conflicts,
-- cooperation,
-- social organization,
-- Colonist-to-Colonist interaction,
-- systems that have not yet been imagined.
-
-These are possibilities.
-
-They are not promises.
-
-And they are not the definition of Zipvilization.
-
-The foundation comes first.
-
-> **New layers may expand Zipvilization. They may not rewrite it.**
-
-A future system may create new possibilities.
-
-It may not change what already happened.
-
-It may not silently replace canonical history.
-
-It may not turn Permanent Nature back into ordinary Territory.
-
-It may not invent canonical state that contradicts the underlying system.
-
-It may not rewrite the past simply because a new feature would prefer a different one.
-
-The future can add depth.
-
-It cannot require a different past.
-
----
-
-# Immutable does not mean static
-
-A civilization that cannot change cannot develop.
-
-Zipvilization is not intended to be static.
-
-Colonists can act.
-
-Territory can change.
-
-Time can pass.
-
-Zips can emerge.
-
-History can accumulate.
-
-New layers can appear.
-
-New forms of interaction can become possible.
-
-The world can become radically more complex than it was at Genesis.
-
-What matters is that this evolution remains compatible with the truth already accumulated beneath it.
-
-> **Immutable does not mean static.**
->
-> **Zipvilization can evolve without rewriting its history.**
-
-That distinction is fundamental.
-
----
-
-# Horizonte
-
-We can imagine many possible futures for the dApp.
-
-We should not confuse those possibilities with destiny.
-
-The systems described today establish a foundation.
-
-They do not establish the maximum extent of the civilization.
-
-SolumView is not the end.
-
-Interaction is not the end.
-
-Any interface we can currently imagine is not the end.
-
-There may be ways of experiencing Zipvilization that do not yet have names.
-
-There may be relationships between Humans, AI, Zips and Territory that cannot yet be designed responsibly because the civilization that would require them does not exist.
-
-That uncertainty is not missing documentation.
-
-It is part of the architecture of Zipvilization.
-
-It is [**Horizonte**](/trinomial/horizonte/).
+That boundary remains [**Horizonte**](/trinomial/horizonte/).
 
 > **The foundation is defined.**
 >
@@ -729,44 +857,122 @@ It is [**Horizonte**](/trinomial/horizonte/).
 
 ---
 
-# One world, from zero
+# The dApp at a Glance
 
-At Genesis, there may be very little to see.
+The Zipvilization dApp is:
 
-That is the point.
+**STATE-BOUND**
 
-Colonists do not arrive after the civilization has already been built for them.
+Its canonical content begins from real state and History.
 
-They arrive while it is beginning.
+**DETERMINISTIC WHERE REQUIRED**
 
-First they can read it.
+Canonical meaning cannot depend on graphical interpretation.
 
-Then they can see it.
+**HISTORICAL**
 
-Then they can enter it.
+The present alone cannot explain the complete world.
 
-Then they may increasingly interact with it and with each other.
+**MODULAR**
 
-And after that:
+Different systems solve different problems.
 
-**we do not define the outcome.**
+**UNIFIED**
 
-The blockchain preserves state.
+Humans can experience those systems as one world.
 
-The Chapters establish the DNA.
+**PROGRESSIVE**
 
-SolumTools makes the world readable.
+The interface can gain depth as Zipvilization gains depth.
 
-SolumWorld makes the world visible.
+**TESTABLE BEFORE GENESIS**
 
-SolumView brings Territory to life.
+Models and testnet environments can validate substantial parts of the architecture.
 
-The dApp brings those experiences together.
+**DATA-DEPENDENT WHERE NECESSARY**
 
-Horizonte keeps what comes next open.
+The deepest experience should learn from real quantitative state and maturity.
+
+**AUDITABLE**
+
+Canonical relationships must remain understandable.
+
+**PROTECTED**
+
+Public architecture does not require publication of reproducible internal implementation.
+
+**OPEN**
+
+The architecture establishes foundations without defining every future outcome.
+
+Its central purpose is:
+
+> **To make the real state and History of Zipvilization increasingly readable, visible and experienceable without allowing representation to replace truth.**
+
+---
+
+# Explore the dApp
+
+### Understand the model
+
+→ **[Model — What the dApp is](/dapp/model/)**
+
+### Examine the machine beneath it
+
+→ **[Architecture — How the system works](/dapp/architecture/)**
+
+### Follow the Human and AI experience
+
+→ **[Experience — How the system becomes accessible](/dapp/experience/)**
+
+### Examine the data layer
+
+→ **[SolumTools](/world/solumtools/)**
+
+### See the world layer
+
+→ **[SolumWorld](/world/solumworld/)**
+
+### Enter the territorial layer
+
+→ **[SolumView](/world/solumview/)**
+
+---
+
+# From Architecture to Civilization
+
+The blockchain records.
+
+Canonical Rules define meaning.
+
+The architecture preserves relationships.
+
+SolumTools makes the state readable.
+
+SolumWorld makes Solum visible.
+
+SolumView makes Territory experienceable.
+
+The dApp brings those depths together.
+
+What exists today can be defined, developed and tested.
+
+What requires real History can emerge from real History.
+
+What requires quantitative scale can learn from quantitative scale.
+
+And what has not yet been defined does not need to be invented merely to complete a diagram.
 
 > **We define the conditions.**
 >
-> **We do not define the outcome.**
+> **We build the architecture.**
+>
+> **We expose enough to understand and audit it.**
+>
+> **We protect the implementation that constitutes internal know-how.**
+>
+> **And we let the world produce the evidence required for what comes next.**
 
-**BE THERE FROM ZERO.**
+Beyond that:
+
+**Horizonte remains open.**
