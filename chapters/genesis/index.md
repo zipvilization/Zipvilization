@@ -3,7 +3,7 @@ layout: default
 title: "Chapter 0 — Genesis"
 parent: Chapters
 nav_order: 1
-description: "Genesis is the first structural state of Zipvilization: Solum is deployed, the finite substrate exists on-chain, and the experiment begins with real executable state."
+description: "Genesis is the first foundational state of Zipvilization: the official system becomes canonical executable reality, the finite territorial substrate exists on-chain, and canonical History can begin."
 permalink: /chapters/genesis/
 ---
 
@@ -11,23 +11,31 @@ permalink: /chapters/genesis/
 
 Before there can be a world, something must exist.
 
-Before Territory.
+Before Active Territory.
 
 Before Zips.
 
-Before visualization.
+Before a living representation.
 
-Before history.
+Before accumulated History.
 
-Before civilization.
+Before Civilization.
 
-There is:
+There must be a canonical beginning.
 
-> **Solum**
+Chapter 0 is:
 
-Chapter 0 is Genesis.
+> **GENESIS**
 
-The moment Zipvilization stops existing only as a design and begins existing as executable state.
+Its primary meaning is:
+
+> **EXIST**
+
+Genesis is the boundary where Zipvilization stops existing only as specification, development, testing and representation and begins existing as canonical executable reality.
+
+And from that moment:
+
+> **History can begin.**
 
 ---
 
@@ -39,47 +47,123 @@ It does not need to look like a civilization.
 
 It does not need to simulate one.
 
-It does not need to pretend that systems exist before they have been built.
+It does not need mature Territory.
+
+It does not need Zips already walking through Cities.
+
+It does not need social structures, politics, markets or institutions.
+
+And it does not need to pretend that systems are live before they are live.
 
 Its first responsibility is simpler and more important:
 
-> **exist correctly on-chain**
+> **exist correctly**
 
 This is the foundation upon which every later Chapter depends.
 
 ---
 
-# Deployment
+# Before Genesis
 
-Genesis begins with the deployment of the Solum Smart Contract.
+A great deal can exist before canonical History begins.
 
-Deployment creates something fundamentally different from documentation.
+The Smart Contract can be developed.
 
-Before deployment:
+Canonical rules can be defined.
 
-`SPECIFICATION`
+The Atlas can exist.
 
-After deployment:
+SolumTools can be developed and tested.
 
-`EXECUTABLE STATE`
+SolumWorld can be developed and tested.
 
-The distinction matters.
+SolumView can be prototyped.
 
-A document can describe rules.
+Interfaces can be designed.
 
-A deployed contract can enforce the rules that actually exist in its code.
+Representations can be explored.
 
-From Genesis onward, Zipvilization has a technical source of observable blockchain state.
+Test deployments can operate.
+
+Models can be simulated.
+
+Artificial Intelligence can inspect and audit relationships.
+
+All of that can be real development.
+
+But:
+
+> **development ≠ canonical History**
+
+And:
+
+> **test deployment ≠ official Genesis**
+
+Before Genesis, we build and test the conditions.
+
+At Genesis, those conditions can begin producing canonical consequences.
 
 ---
 
-# Solum
+# Official deployment
 
-Solum is the territorial substrate of Zipvilization.
+Genesis requires an official canonical system.
 
-Its canonical relationship is:
+That distinction matters because deployment alone is not enough.
 
-> **1 SOLUM = 1 m²**
+Development contracts may be deployed.
+
+Testnet contracts may be deployed.
+
+Experimental environments may be deployed.
+
+None of those automatically creates Zipvilization History.
+
+The important transition is:
+
+`SPECIFICATION`
+
+↓
+
+`DEVELOPMENT`
+
+↓
+
+`TESTING`
+
+↓
+
+`OFFICIAL CANONICAL SYSTEM`
+
+↓
+
+`GENESIS`
+
+↓
+
+`CANONICAL STATE + HISTORY`
+
+A document can describe rules.
+
+Code can implement them.
+
+Testing can provide evidence that the implementation behaves as expected.
+
+But Genesis establishes which system is the official beginning of canonical Zipvilization.
+
+---
+
+# SOLUM and Solum
+
+The distinction between SOLUM and Solum is fundamental.
+
+**SOLUM** is the on-chain unit.
+
+**Solum** is the land, world and finite territorial substrate represented collectively through those units.
+
+Their canonical relationship is:
+
+> **1 SOLUM = 1 m² of Solum**
 
 Initial Supply:
 
@@ -93,15 +177,15 @@ No additional SOLUM can be created through a post-deployment mint function in th
 
 The original substrate is finite.
 
-That fact matters later.
+That fact will have consequences throughout Zipvilization.
 
-At Genesis, the important thing is that it becomes real.
+At Genesis, the important thing is that this finite substrate becomes part of the official executable system.
 
 ---
 
-# The first state
+# The first canonical state
 
-Once deployed, the contract can contain observable facts.
+Once the official system exists, it can contain independently observable facts.
 
 For example:
 
@@ -114,45 +198,86 @@ For example:
 - fee configuration,
 - Treasury configuration,
 - liquidity configuration,
-- Launch state.
+- trading state,
+- and valid transaction History.
 
-These are not world metaphors.
+These facts are evidence.
 
-They are blockchain state.
+But evidence and meaning must remain distinct.
 
-Chapter 0 protects that distinction.
+The blockchain can tell us that an address holds a particular amount of SOLUM.
 
-> **Blockchain truth comes before world interpretation.**
+Canonical rules determine what that amount means inside Zipvilization.
+
+The relationship is:
+
+**BLOCKCHAIN STATE + HISTORY**
+
++
+
+**CANONICAL RULES**
+
+↓
+
+**DETERMINISTIC ZIPVILIZATION STATE**
+
+That distinction will remain essential throughout every later Chapter.
+
+> **Canonical evidence comes before representation.**
+>
+> **Canonical rules determine what that evidence means inside Zipvilization.**
 
 ---
 
 # The Pool
 
-Genesis includes the initial distribution architecture of Solum.
+Genesis includes the initial Pool architecture.
 
-SOLUM can exist inside the Pool before entering broader circulation.
+The intended initial Pool begins with:
 
-Later, Zipvilization can interpret Pool-held SOLUM as:
+> **100,000,000,000,000 SOLUM**
+
+and approximately:
+
+> **$100 equivalent in ETH**
+
+The SOLUM side therefore begins with the intended full initial Supply.
+
+Within Zipvilization, SOLUM held by the Pool has a canonical territorial meaning:
 
 > **Dormant Land**
 
-But Genesis does not require that metaphor in order for the underlying state to exist.
+That meaning does not need to wait for a graphical world to exist.
 
-At blockchain level:
+The distinction is:
 
-> **the Pool holds SOLUM**
+`POOL HOLDS SOLUM`
 
-World meaning comes later.
+↓
+
+`CANONICAL RULES`
+
+↓
+
+`DORMANT LAND`
+
+↓
+
+`REPRESENTATION MAY FOLLOW`
+
+SolumWorld may later represent Dormant Land visually.
+
+That representation does not create Dormant Land.
+
+> **Meaning can already be canonical before its visual representation exists.**
 
 ---
 
 # Transactions
 
-A deployed token that never interacts with reality has demonstrated very little.
+A canonical executable system must be capable of changing state according to its rules.
 
-Genesis therefore includes the possibility of actual movement.
-
-SOLUM can move between valid participants according to the contract rules.
+SOLUM can move between valid participants under the contract mechanics.
 
 Transactions create observable consequences.
 
@@ -162,17 +287,23 @@ Fees can apply.
 
 Supply can change through Burn.
 
-Reflection can alter effective ownership.
+Reflection can alter balances.
 
-Liquidity and Treasury mechanisms can operate where applicable.
+Liquidity mechanisms can operate.
 
-The system begins producing state transitions.
+Treasury mechanisms can operate where applicable.
+
+Valid events accumulate.
+
+From Genesis onward, those valid state transitions are no longer merely test data.
+
+They can become part of canonical History.
 
 ---
 
-# Tokenomics are executable
+# Tokenomics become executable
 
-Solum does not begin with a blank economic model.
+SOLUM does not begin with a blank economic model.
 
 Its documented contract contains explicit Tokenomics.
 
@@ -196,57 +327,79 @@ These include mechanisms for:
 - timelocked changes,
 - ownership.
 
-Genesis is where those mechanisms stop being merely described architecture and can become executable behaviour.
+Before Genesis, these mechanisms can exist as specification, code and tested behavior.
 
-> **Tokenomics begin as code before they become history.**
+At Genesis, the official system can begin applying them to canonical state.
+
+> **Rules that were specifications before Genesis can become executable constraints after Genesis.**
+
+Their exact technical behavior belongs in the Smart Contract documentation and source.
+
+Chapter 0 establishes why their transition into official execution matters.
 
 ---
 
 # Burn
 
-Burn is particularly important because it creates irreversible state.
+Burn is particularly important because it creates irreversible consequences.
 
-When SOLUM is burned:
+When SOLUM is validly burned:
 
-> **current Supply decreases**
+> **circulating territorial substrate is permanently reduced**
 
-That is a blockchain fact.
-
-Later, Zipvilization interprets burned territorial substrate as:
+Within Zipvilization, burned SOLUM has a canonical meaning:
 
 > **Permanent Nature**
 
-But the order of authority remains important:
+The relationship is:
 
-`BURN`
-
-↓
-
-`ON-CHAIN STATE`
+`VALID BURN`
 
 ↓
 
-`WORLD INTERPRETATION`
+`ON-CHAIN EVIDENCE + HISTORY`
 
-The world meaning follows the valid state.
++
 
-It does not create it.
+`CANONICAL RULE`
+
+↓
+
+`PERMANENT NATURE`
+
+↓
+
+`REPRESENTATION`
+
+Permanent Nature does not begin when a map paints an area differently.
+
+The visual world represents a canonical consequence that already exists.
+
+> **Representation follows truth.**
+>
+> **It does not create it.**
 
 ---
 
 # Reflection
 
-Reflection redistributes economic value according to the contract mechanism.
+Reflection redistributes SOLUM according to the contract mechanism.
 
 It does not mint additional SOLUM.
 
 It does not expand the original territorial substrate.
 
-At Genesis, this distinction can already be verified through the contract.
+It can change balances.
 
-The world may later interpret the consequences of changing balances.
+Those changing balances may affect deterministic current state.
 
-But Genesis remains concerned with the underlying mechanism.
+But current state and complete History remain different things.
+
+Later Chapters will make that distinction increasingly important.
+
+At Genesis, the important point is simpler:
+
+> **the mechanism can produce real canonical state transitions without creating new Supply.**
 
 ---
 
@@ -261,15 +414,48 @@ Among the documented mechanisms are:
 - Launch whitelist,
 - initial BUY cooldown.
 
-These mechanisms are particularly relevant at the beginning because Genesis is the period in which initial distribution is most sensitive.
+These mechanisms are especially relevant at the beginning because initial distribution is highly sensitive to the conditions under which participation starts.
 
 They do not guarantee equal outcomes.
 
-They constrain the initial conditions.
+They do not assign Territory.
+
+They do not guarantee acquisition.
+
+They do not guarantee future value.
+
+They constrain initial conditions.
 
 > **Genesis can constrain the beginning.**
 >
 > **It cannot predetermine the final distribution.**
+
+---
+
+# Protected initial access
+
+The first stage of participation includes specific Launch protections.
+
+The whitelist is a technical mechanism controlling eligible BUY recipients during the protected initial period.
+
+It is not itself the definition of a Founding Colonist.
+
+It is not an allocation.
+
+It is not a promise that a wallet will successfully acquire SOLUM.
+
+It is part of the initial access architecture.
+
+Likewise, MAX_TX limits the size of a transaction.
+
+It does not create an entitlement to that amount.
+
+These distinctions matter because Genesis defines conditions.
+
+It does not predetermine individual outcomes.
+
+→ **[Explore Founding Colonists](/founding-colonists/)**  
+→ **[Explore Fair Access](/smart-contract/fair-access/)**
 
 ---
 
@@ -299,11 +485,56 @@ Zipvilization should not claim decentralization by hiding authority.
 
 Nor should it exaggerate authority beyond what the contract actually permits.
 
+The important principle is:
+
+> **authority must be described as it actually exists**
+
+Founding responsibility does not imply unlimited authority.
+
+And authority at Genesis does not imply that the Human team determines every future outcome of the world.
+
+---
+
+# Contract authority is not total authority
+
+The Smart Contract is authoritative for the executable behavior and state it governs.
+
+But the contract alone does not define every meaning in Zipvilization.
+
+For example, blockchain state may show a balance.
+
+Canonical rules determine whether that historical state corresponds to:
+
+- a Holder,
+- a Colonist,
+- Active Territory,
+- territorial capacity,
+- maturity,
+- or another deterministic Zipvilization condition.
+
+The authority model therefore cannot be reduced to:
+
+`CONTRACT = EVERYTHING`
+
+Instead:
+
+**BLOCKCHAIN / CONTRACT**
+
+preserve executable evidence and History.
+
+**CANONICAL RULES**
+
+define Zipvilization meaning.
+
+Together they allow deterministic state to be reconstructed.
+
+Later systems can then observe and represent that state.
+
 ---
 
 # Source before story
 
-The exact Solidity source is part of the public technical evidence for Genesis.
+The exact Solidity source is part of the technical evidence for Genesis.
 
 Documentation can explain the contract.
 
@@ -315,11 +546,13 @@ Therefore:
 
 Read the source.
 
-Inspect the deployment when available.
+Inspect the official deployment when available.
 
 Compare the state.
 
 Verify the claims.
+
+Then apply the canonical meaning defined by Zipvilization.
 
 This principle begins at Chapter 0 and should survive every later Chapter.
 
@@ -337,65 +570,170 @@ Therefore:
 
 but:
 
-`PUBLIC SOURCE ≠ PROFESSIONALLY AUDITED`
+`AUDITABLE ≠ AUDITED`
 
-If a professional audit exists in the future, its scope, version, findings and report should be identified explicitly.
+The contract has undergone internal review, AI-assisted review, automated testing and development/test deployments.
+
+That does not equal an independent professional third-party audit.
+
+If such an audit exists in the future, its scope, version, findings and report should be identified explicitly.
 
 Genesis should never borrow trust from an audit that has not occurred.
 
 ---
 
-# What does not exist yet
+# Testing comes before Genesis
 
-This boundary is essential.
+Genesis should not be the first time anyone discovers whether the system works.
 
-At Chapter 0, Solum can exist without pretending that the complete Zipvilization world already exists operationally.
+Questions such as:
 
-Genesis does not require:
+- Does Supply behave as specified?
+- Can SOLUM move correctly?
+- Does Burn behave correctly?
+- Do fees behave correctly?
+- Do limits operate?
+- Do permissions correspond to documented authority?
+- Do timelocks behave as intended?
+- Can state be independently inspected?
 
-- SolumTools,
-- complete world interpretation,
-- rendered Territory,
-- mature Colonists,
-- Zips,
-- Bloch development,
-- accumulated world history,
-- emergent civilization,
-- planetary governance.
+belong primarily to development and testing.
 
-Those concepts may already be specified elsewhere.
+The relationship is:
 
-But specification does not move them backward into Chapter 0.
+`DEFINE`
 
-> **Future architecture does not become Genesis state merely because we know about it.**
+↓
+
+`DEVELOP`
+
+↓
+
+`TEST`
+
+↓
+
+`REVIEW`
+
+↓
+
+`OFFICIAL GENESIS`
+
+Testing asks:
+
+> **Does the system appear ready to become canonical?**
+
+Genesis establishes:
+
+> **This is now the official system whose valid consequences can become History.**
+
+Genesis is not QA.
+
+It is the beginning after QA has provided enough confidence to proceed.
 
 ---
 
-# What Genesis proves
+# What Genesis does not require
 
-Genesis should establish that the foundational substrate can survive reality.
+Genesis does not require a mature Zipvilization world.
 
-The important questions are basic:
+At the moment History begins, there does not need to be:
 
-Does the contract exist?
+- Active Territory,
+- mature Territory,
+- a canonical Zip population,
+- mature Cities,
+- mature States,
+- mature Kingdoms,
+- deep SolumView life,
+- a final Interaction system,
+- social institutions,
+- political structures,
+- markets,
+- alliances,
+- conflicts,
+- or an emergent Civilization.
 
-Does Supply behave as specified?
+Some of the underlying concepts may already be canonically defined.
 
-Can SOLUM move?
+Some of the software required to observe or represent them may already be developed or tested.
 
-Do balances change correctly?
+That does not require their live canonical instances to exist at Genesis.
 
-Does Burn reduce Supply?
+This distinction is essential:
 
-Do fees behave correctly?
+> **DEFINED ≠ LIVE**
+>
+> **DEVELOPED ≠ LIVE**
+>
+> **TESTED ≠ LIVE**
 
-Do limits operate?
+Genesis begins with a world capable of producing History.
 
-Do permissions correspond to the documented authority?
+It does not begin with a fabricated mature History.
 
-Can the resulting state be independently inspected?
+---
 
-If the answer is no, there is no reason to build a civilization interpretation on top of it.
+# What may already exist before Genesis
+
+The opposite distinction matters just as much.
+
+Pre-Genesis does not mean technically empty.
+
+Systems such as:
+
+- SolumTools,
+- SolumWorld,
+- Atlas documentation,
+- Smart Contract infrastructure,
+- data models,
+- deterministic interpretation logic,
+- experimental representations,
+- and SolumView prototypes
+
+may already exist in development or testing.
+
+Their existence does not move canonical History backward.
+
+A SolumWorld test representation is not canonical planetary History.
+
+A SolumTools test dataset is not canonical world state.
+
+A simulated Zip is not automatically a canonical Zip.
+
+A development deployment is not Genesis.
+
+> **We can build ahead without pretending that History has already happened.**
+
+---
+
+# What Genesis establishes
+
+Genesis establishes a boundary.
+
+Before it:
+
+Zipvilization can be defined.
+
+It can be developed.
+
+It can be tested.
+
+It can be represented.
+
+It can be audited.
+
+It can be explained.
+
+At Genesis:
+
+the official executable system exists.
+
+After Genesis:
+
+valid events can accumulate as canonical History.
+
+That is the structural meaning of Chapter 0.
 
 ---
 
@@ -403,7 +741,7 @@ If the answer is no, there is no reason to build a civilization interpretation o
 
 It would be easy to begin with the attractive parts.
 
-A world.
+A planet.
 
 Maps.
 
@@ -411,66 +749,131 @@ Zips.
 
 Cities.
 
+Movement.
+
 Civilization.
 
 But doing so would reverse the architecture.
 
 Zipvilization begins from the bottom.
 
-`CONTRACT`
+**CANONICAL RULES**
+
++
+
+**OFFICIAL EXECUTABLE SYSTEM**
 
 ↓
+
+**GENESIS**
+
+↓
+
+**CANONICAL STATE + HISTORY**
+
+↓
+
+**OBSERVATION**
+
+↓
+
+**WORLD REPRESENTATION**
+
+↓
+
+**EXPERIENCE**
+
+↓
+
+**INTERACTION**
+
+↓
+
+**?**
+
+This is not a rigid software-release sequence.
+
+Some later systems can be developed before Genesis.
+
+It is a relationship of meaning and authority.
+
+The visible civilization must ultimately remain connected to the canonical reality beneath it.
+
+---
+
+# History begins here
+
+This is one of the most important consequences of Genesis.
+
+History does not wait for Chapter 4.
+
+Chapter 4 establishes **REMEMBER** as a foundational requirement and explains why current state cannot replace historical reconstruction.
+
+But History itself can begin at Genesis.
+
+The first valid canonical events already belong to the past as soon as later events follow them.
+
+From that point onward:
 
 `STATE`
 
-↓
+can change.
 
-`OBSERVATION`
+`EVENTS`
 
-↓
+can accumulate.
 
-`WORLD`
+`TIME`
 
-↓
+can pass.
 
 `HISTORY`
 
-↓
+can grow.
 
-`EMERGENCE`
+And later systems can reconstruct what actually happened.
 
-The visible civilization must ultimately remain connected to the substrate beneath it.
+> **Genesis does not begin with accumulated History.**
+>
+> **Genesis begins the accumulation of History.**
 
 ---
 
 # Human at Genesis
 
-The founding Human has substantial responsibility at this stage.
+The founding Human team has substantial responsibility at this stage.
 
-The Human can:
+Humans can:
 
 - design,
 - deploy,
 - configure,
 - document,
 - verify,
-- correct development errors,
+- correct development errors before canonical launch,
 - expose authority,
-- define the initial conditions.
+- define initial conditions,
+- and decide when the system is ready to cross the Genesis boundary.
 
-That power should not be hidden.
+That responsibility should not be hidden.
 
-Chapter 0 is necessarily close to the founding Human because the system has not yet developed the later structures through which responsibility may become distributed.
+But founding responsibility does not mean permanent control over every future consequence.
 
-But Human authority at Genesis does not imply that every future outcome should remain under founding control forever.
+Once canonical History begins, valid past events cannot simply be rewritten because the founders prefer a different outcome.
 
-That question belongs much later.
+And as participation becomes deeper:
+
+> **Human participation ≠ absolute control**
+
+The Humans establish conditions.
+
+They do not script the complete civilization that may eventually emerge from them.
 
 ---
 
 # Artificial Intelligence at Genesis
 
-Artificial Intelligence can already have a role.
+Artificial Intelligence can already have an important role.
 
 Not as governor.
 
@@ -478,7 +881,7 @@ Not as oracle.
 
 Not as source of blockchain truth.
 
-Its role is cognitive.
+Its role is cognitive, interpretive and connective.
 
 AI can:
 
@@ -488,51 +891,77 @@ AI can:
 - identify inconsistencies,
 - explain mechanisms,
 - navigate relationships,
-- help Humans understand the system.
+- audit conceptual dependencies,
+- distinguish current state from canonical meaning,
+- and help Humans understand the system.
 
-The contract remains the executable source.
+But AI must also respect its boundary.
+
+The AI Canon constrains canonical interpretation.
+
+AI must not invent missing rules.
+
+It must not convert experimental behavior into Canon.
+
+It must not treat representation as implementation.
+
+It must not resolve an intentionally open future.
 
 > **AI can inspect Genesis.**
 >
 > **AI does not create Genesis by describing it.**
 
+→ **[Read the AI Canon](/ai-canon/)**
+
 ---
 
-# SolumTools comes next
+# Genesis creates something to observe
 
-Once real state exists, a new problem appears.
+Once canonical reality exists, a fundamental requirement becomes unavoidable:
 
-The blockchain contains truth.
+> **Can we reliably observe it?**
 
-But raw truth is not necessarily easy to read.
+The blockchain may contain:
 
-Addresses.
+- addresses,
+- events,
+- balances,
+- transactions,
+- blocks,
+- Supply,
+- Burn,
+- configuration,
+- and History.
 
-Events.
+Canonical rules give those facts Zipvilization meaning.
 
-Balances.
+But Humans and AI still need a reliable way to read that meaning.
 
-Transactions.
+This establishes the importance of Chapter 1:
 
-Blocks.
+> **OBSERVABILITY**
 
-Supply.
+and its primary semantic:
 
-Burn.
+> **OBSERVE**
 
-Configuration.
+SolumTools is a principal system for making that deterministic reality legible.
 
-All of it exists.
+But this does not mean SolumTools must begin development only after Genesis.
 
-Now it must become legible.
+It can be developed and tested beforehand.
 
-That creates the condition for the next Chapter:
+The Chapter relationship is conceptual:
 
-> **Observability**
+`EXIST`
 
-And the layer designed to support it:
+creates something canonical worth observing.
 
-> **SolumTools**
+Then:
+
+`OBSERVE`
+
+ensures that reality can be read.
 
 ---
 
@@ -540,17 +969,57 @@ And the layer designed to support it:
 
 Chapter 0 asks:
 
-> **Does Zipvilization exist?**
+> **Does canonical Zipvilization exist?**
 
-Chapter 1 will ask:
+And:
 
-> **Can we reliably observe what exists?**
+> **Can its History now begin?**
+
+Chapter 1 asks:
+
+> **Can we reliably observe what exists and what has happened?**
 
 This boundary must remain clear.
 
-Genesis does not need to explain the world.
+Genesis does not need a mature world representation.
 
-It needs to give the world something real to stand on.
+It needs to give every later representation something real to stand on.
+
+---
+
+# Genesis is not Civilization
+
+Genesis begins Zipvilization.
+
+It does not complete it.
+
+At Genesis:
+
+there may be no Active Territory.
+
+There may be no canonical Zips.
+
+There may be no mature Farm.
+
+There may be no City.
+
+There may be no State.
+
+There may be no Kingdom.
+
+There may be no meaningful social structure.
+
+There may be almost nothing visually recognizable as a civilization.
+
+That is not a failure.
+
+It is the point.
+
+> **A civilization beginning from zero should not begin with a fabricated past.**
+
+Genesis creates the conditions.
+
+History determines what follows.
 
 ---
 
@@ -562,45 +1031,49 @@ It needs to give the world something real to stand on.
 
 `PRIMARY VERB ............. EXIST`
 
-`FOUNDATIONAL LAYER ....... SOLUM`
+`CANONICAL SYSTEM ......... OFFICIAL`
 
-`SOURCE ................... SMART CONTRACT`
+`SOLUM .................... FINITE`
 
-`STATE .................... ON-CHAIN`
+`STATE .................... EXECUTABLE`
 
-`SUPPLY ................... FINITE`
+`HISTORY .................. BEGINS AT GENESIS`
 
-`TRANSACTIONS ............. EXECUTABLE`
+`OBSERVABILITY ............ REQUIRED FOUNDATION`
 
-`TOKENOMICS ............... CONTRACT-DEFINED`
+`WORLD REPRESENTATION ..... NOT REQUIRED FOR GENESIS`
 
-`WORLD INTERPRETATION ..... NOT REQUIRED YET`
+`ACTIVE TERRITORY ......... NOT REQUIRED AT GENESIS`
 
-`VISUALIZATION ............ NOT REQUIRED YET`
+`CANONICAL ZIP POPULATION . NOT REQUIRED AT GENESIS`
 
-`HISTORY .................. NOT YET`
+`MATURE CIVILIZATION ...... NOT REQUIRED AT GENESIS`
 
-`EMERGENCE ................ NOT YET`
+`INTERACTION .............. NOT REQUIRED AT GENESIS`
 
-`HORIZON .................. OPEN`
+`FINAL OUTCOME ............ NOT PREDETERMINED`
+
+`HORIZONTE ................ OPEN`
 
 ---
 
 # Genesis
 
-There is no City.
+There is no need to begin with a City.
 
-There is no State.
+There is no need to begin with a State.
 
-There is no Kingdom.
+There is no need to begin with a Kingdom.
 
-There may not even be anything recognizable as a world yet.
+There does not even need to be anything recognizable as a living world yet.
 
 There is code.
 
-There are rules.
+There are canonical rules.
 
 There is a finite substrate.
+
+There is an official executable system.
 
 There is state.
 
@@ -608,20 +1081,27 @@ And for the first time:
 
 > **something exists that does not depend on us merely saying that it exists.**
 
+From that moment:
+
+> **what validly happens can become History.**
+
 That is enough.
 
 That is Genesis.
 
 ---
 
+→ **[Explore the public Genesis](/genesis/)**  
 → **[Explore Solum](/world/solum/)**  
-→ **[Explore the Solum Token](/smart-contract/solum-token/)**  
+→ **[Explore the SOLUM Token](/smart-contract/solum-token/)**  
 → **[Explore Tokenomics](/smart-contract/tokenomics/)**  
 → **[Open Contract Source](/smart-contract/tokenomics/contract-source/)**  
 → **[Continue to Chapter 1 — Observability](/chapters/observability/)**
 
 ---
 
-**Before meaning, state.**
+**Before representation, canonical reality.**
 
-**Before civilization, existence.**
+**Before Civilization, existence.**
+
+**At Genesis, History begins.**
