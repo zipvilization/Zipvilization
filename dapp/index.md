@@ -823,4 +823,666 @@ Zipvilization needs both stability and openness.
 
 Without stable foundations, every new idea could redefine the project.
 
-Without openness, the project would be forced to pretend
+Without openness, the project would be forced to pretend that its complete future can already be known.
+
+Neither is desirable.
+
+The distinction is:
+
+**CANON**
+
+protects what must remain true.
+
+**EXPERIMENTATION**
+
+explores what can be built around that truth.
+
+**OBSERVATION**
+
+reveals what actually happens.
+
+**DISCOVERY**
+
+identifies consequences that may not have been obvious at the beginning.
+
+**CONSOLIDATION**
+
+can preserve what proves coherent.
+
+**HORIZONTE**
+
+protects what remains unresolved.
+
+This is not a formal Canon-update protocol.
+
+It is a development principle.
+
+A new idea does not become canonical merely because it is interesting.
+
+A prototype does not become canonical merely because it works.
+
+And an unexpected consequence does not need to be rejected merely because it was not predicted.
+
+It must be evaluated against the foundations.
+
+> **Zipvilization does not need to evolve by abandoning its foundations.**
+>
+> **It can evolve by discovering what those foundations make possible.**
+
+---
+
+# Observation Before Participation
+
+The current structure deliberately gives observation a major role.
+
+That is not because the Colonist is intended to remain permanently passive.
+
+It is because meaningful participation requires something meaningful to participate in.
+
+The world first needs enough:
+
+**STATE**
+
+↓
+
+**TIME**
+
+↓
+
+**HISTORY**
+
+↓
+
+**POPULATION**
+
+↓
+
+**DEVELOPMENT**
+
+↓
+
+**PATTERNS**
+
+↓
+
+**OBSERVATION**
+
+Only then can some deeper questions be answered with evidence rather than imagination.
+
+What does Territory actually need from its Colonist?
+
+Which differences between Territories become meaningful?
+
+What kinds of Human participation strengthen the experiment?
+
+Which kinds of control would destroy it?
+
+What relationships emerge between Zips?
+
+What does a mature Territory actually feel like?
+
+The dApp should learn from those answers.
+
+Then interaction can become deeper.
+
+---
+
+# Participation Is Not Control
+
+The future of the dApp does not end with observation.
+
+Colonists should eventually be able to participate more deeply in the evolution of their Territories.
+
+But:
+
+**PARTICIPATION ≠ CONTROL**
+
+A Colonist is not intended to become the direct will of every Zip.
+
+Territory is not intended to become a game board.
+
+Zips are not intended to become player-controlled units.
+
+History is not intended to become a progression state that can be rewritten through interface choices.
+
+A useful distinction is:
+
+**HUMAN INTENTION**
+
+↓
+
+**VALID INTERACTION**
+
+↓
+
+**ZIPVILIZATION**
+
+↓
+
+**CONSEQUENCE**
+
+The middle matters.
+
+Human intention does not automatically become world outcome.
+
+The system, its rules, its state, its population and its History must remain relevant.
+
+This is the boundary explored in:
+
+→ **[Interaction](/dapp/interaction/)**
+
+---
+
+# Public Architecture, Internal Implementation
+
+The dApp must be understandable.
+
+That does not mean every part of its implementation should be public.
+
+There is an important distinction between:
+
+**understanding the system**
+
+and:
+
+**being able to reproduce its internal implementation.**
+
+The public Atlas can explain:
+
+- what exists,
+- what each component means,
+- which layer has authority,
+- which relationships are canonical,
+- what inputs matter,
+- what outputs can be derived,
+- how major systems relate,
+- which invariants must hold,
+- how History changes interpretation,
+- how representation remains subordinate to truth,
+- and what interaction must preserve.
+
+That is enough to make the architecture intelligible and auditable at the system level.
+
+It does not require publication of:
+
+- internal algorithms,
+- historical reconstruction methods,
+- indexing strategies,
+- complete data structures,
+- internal schemas,
+- query strategies,
+- synchronization logic,
+- cache design,
+- state-reduction methods,
+- recomputation strategies,
+- infrastructure topology,
+- private tooling,
+- unpublished behavioral systems,
+- autonomy mechanisms,
+- simulation internals,
+- or other implementation details that would materially reduce the work required to reproduce the system.
+
+> **Open enough to understand.**
+>
+> **Structured enough to audit.**
+>
+> **Detailed enough to demonstrate real architecture.**
+>
+> **Not detailed enough to reproduce the internal implementation.**
+
+---
+
+# What Must Remain Verifiable
+
+Protection of implementation cannot be used to hide canonical meaning.
+
+If a claim determines what is canonically true inside Zipvilization, Humans and AI need enough information to understand and audit that claim.
+
+That includes relationships such as:
+
+- what makes an address a Holder,
+- what makes a Holder a Colonist,
+- how Territory is measured,
+- what a Farm is,
+- where population originates,
+- how Time is measured,
+- how maturity depends on valid History,
+- what Dormant Land means,
+- what Permanent Nature means,
+- and which layer has authority when representations disagree.
+
+The rule is simple:
+
+> **Canonical meaning must remain auditable.**
+>
+> **Internal implementation can remain protected.**
+
+Interaction follows the same rule.
+
+If a future interaction changes canonical state, the meaning and validity of that change must be understandable.
+
+The implementation that processes it does not automatically need to be public.
+
+---
+
+# Humans and Machines
+
+The dApp has two important audiences.
+
+Humans need clarity.
+
+AI needs structure.
+
+Humans should be able to ask:
+
+> How much Territory exists?
+
+> Is this address a Colonist?
+
+> How mature is this Territory?
+
+> Where did these Zips come from?
+
+> What changed?
+
+> What happened here?
+
+> What can I observe?
+
+> What can I validly interact with?
+
+AI should be able to follow the relationships behind those answers.
+
+That means the dApp documentation must preserve distinctions such as:
+
+**CANONICAL**
+
+**DERIVED**
+
+**EXPERIMENTAL**
+
+**REPRESENTATIONAL**
+
+**UNRESOLVED**
+
+An AI should not need to guess whether a rendered building is canonical.
+
+It should not infer maturity from appearance.
+
+It should not turn a testnet interaction into a live rule.
+
+It should not assume that every visible action changed canonical state.
+
+And it should not resolve Horizonte merely because a future possibility appears plausible.
+
+> **Humans follow the experience.**
+>
+> **AI follows the relationships.**
+
+Both should arrive at the same underlying reality.
+
+---
+
+# Four Ways to Understand the dApp
+
+The dApp documentation is divided into four complementary views.
+
+They answer different questions.
+
+They should not be collapsed into one giant technical page.
+
+---
+
+## Model
+
+[**Model**](/dapp/model/) explains:
+
+> **What is the dApp?**
+
+It defines the conceptual relationship between:
+
+- blockchain evidence,
+- Canonical Rules,
+- deterministic state,
+- data,
+- representation,
+- experience,
+- Humans,
+- AI,
+- and Horizonte.
+
+It establishes the authority model.
+
+It explains why the dApp observes and represents canonical reality rather than creating truth through interface behavior.
+
+→ **[Read the dApp Model](/dapp/model/)**
+
+---
+
+## Architecture
+
+[**Architecture**](/dapp/architecture/) explains:
+
+> **How is the system organized underneath?**
+
+It describes the logical architecture connecting:
+
+- evidence,
+- canonical meaning,
+- deterministic derived state,
+- History,
+- access,
+- representation,
+- and experience.
+
+It explains responsibilities and boundaries without exposing the internal implementation required to reproduce the system.
+
+→ **[Explore the dApp Architecture](/dapp/architecture/)**
+
+---
+
+## Experience
+
+[**Experience**](/dapp/experience/) explains:
+
+> **How does the machine become understandable and experienceable?**
+
+It follows the progression from:
+
+**DATA**
+
+to:
+
+**WORLD**
+
+to:
+
+**LIFE**
+
+and explains how Humans and AI can move through increasing informational and spatial depth while remaining connected to the same canonical reality.
+
+→ **[Explore the dApp Experience](/dapp/experience/)**
+
+---
+
+## Interaction
+
+[**Interaction**](/dapp/interaction/) explains:
+
+> **How can observation eventually become participation without becoming control?**
+
+It establishes the known boundary between:
+
+- Colonist intention,
+- Territory,
+- Zips,
+- Time,
+- History,
+- valid interaction,
+- and canonical consequence.
+
+It does not publish a predetermined future feature set.
+
+It defines what deeper participation must preserve while leaving its complete future open to experimentation, real History and discovery.
+
+→ **[Explore dApp Interaction](/dapp/interaction/)**
+
+---
+
+# The dApp Is Not the Source of Truth
+
+This principle governs every layer.
+
+The dApp does not become authoritative merely because it is easier to understand than the blockchain beneath it.
+
+The direction remains:
+
+**BLOCKCHAIN STATE + HISTORY**  
+↓  
+**CANONICAL RULES**  
+↓  
+**DETERMINISTIC ZIPVILIZATION STATE**  
+↓  
+**DAPP REPRESENTATION / EXPERIENCE**
+
+If SolumTools displays incorrect data, the display is wrong.
+
+If SolumWorld represents incorrect Territory, the representation is wrong.
+
+If SolumView shows unsupported maturity, the experience is wrong.
+
+The underlying canonical state does not become false because an interface represented it incorrectly.
+
+When interaction is introduced, the reverse direction requires an explicit boundary:
+
+**HUMAN INTENTION**  
+↓  
+**VALID INTERACTION**  
+↓  
+**DEFINED CANONICAL PATH**  
+↓  
+**VALID CONSEQUENCE**
+
+Not every interaction needs to change canonical state.
+
+But where it does, that path must be defined.
+
+> **Representation follows truth.**
+>
+> **Truth does not follow representation.**
+
+---
+
+# One World, From Zero
+
+At Genesis, there may be very little to see.
+
+That is the point.
+
+Colonists do not arrive after the Civilization has already been built for them.
+
+They arrive while its canonical History is beginning.
+
+SolumTools can begin reading it.
+
+SolumWorld can begin showing it.
+
+As Territory, population, Time and History accumulate, both can become deeper.
+
+SolumView can continue to be developed and tested while the world produces the quantitative and historical foundation required for a genuinely living territorial experience.
+
+Then the relationship can deepen further.
+
+The Colonist can move from observing Territory toward participating in it.
+
+But that participation should grow from the world that actually exists.
+
+Not from a fictional mature Civilization designed in advance.
+
+The direction remains:
+
+**READ**
+
+↓
+
+**SEE**
+
+↓
+
+**ENTER**
+
+↓
+
+**EXPERIENCE**
+
+↓
+
+**INTERACT**
+
+↓
+
+**?**
+
+The question mark remains essential.
+
+Because the dApp is not intended to predetermine every possible future relationship between Humans, AI, Zips, Territory and Civilization.
+
+That boundary remains [**Horizonte**](/trinomial/horizonte/).
+
+> **The foundation is defined.**
+>
+> **The possibilities are not.**
+
+---
+
+# The dApp at a Glance
+
+The Zipvilization dApp is:
+
+**STATE-BOUND**
+
+Its canonical content begins from real state and History.
+
+**DETERMINISTIC WHERE REQUIRED**
+
+Canonical meaning cannot depend on graphical interpretation.
+
+**HISTORICAL**
+
+The present alone cannot explain the complete world.
+
+**MODULAR**
+
+Different systems solve different problems.
+
+**UNIFIED**
+
+Humans can experience those systems as one world.
+
+**PROGRESSIVE**
+
+The interface can gain depth as Zipvilization gains depth.
+
+**PARTICIPATORY IN DIRECTION**
+
+The intended progression does not stop permanently at observation.
+
+**NON-CONTROLLING BY PRINCIPLE**
+
+Participation should not collapse Zips, Territory or History into player-controlled state.
+
+**TESTABLE BEFORE GENESIS**
+
+Models and testnet environments can validate substantial parts of the architecture and experience.
+
+**DATA-DEPENDENT WHERE NECESSARY**
+
+The deepest experience and interaction should learn from real quantitative state, maturity and History.
+
+**AUDITABLE**
+
+Canonical relationships must remain understandable.
+
+**PROTECTED**
+
+Public architecture does not require publication of reproducible internal implementation.
+
+**DISCOVERABLE**
+
+Development can reveal deeper consequences without requiring the foundations to be abandoned.
+
+**OPEN**
+
+The architecture establishes foundations without defining every future outcome.
+
+Its central purpose is:
+
+> **To make the real state and History of Zipvilization increasingly readable, visible, experienceable and participatory without allowing representation or Human intention to replace canonical truth.**
+
+---
+
+# Explore the dApp
+
+### Understand the model
+
+→ **[Model — What the dApp is](/dapp/model/)**
+
+### Examine the machine beneath it
+
+→ **[Architecture — How the system works](/dapp/architecture/)**
+
+### Follow the Human and AI experience
+
+→ **[Experience — How the system becomes accessible](/dapp/experience/)**
+
+### Understand the transition from observation to participation
+
+→ **[Interaction — How Colonists can participate without controlling the world](/dapp/interaction/)**
+
+### Examine the data layer
+
+→ **[SolumTools](/world/solumtools/)**
+
+### See the world layer
+
+→ **[SolumWorld](/world/solumworld/)**
+
+### Enter the territorial layer
+
+→ **[SolumView](/world/solumview/)**
+
+---
+
+# From Architecture to Participation
+
+The blockchain records.
+
+Canonical Rules define meaning.
+
+The architecture preserves relationships.
+
+SolumTools makes the state readable.
+
+SolumWorld makes Solum visible.
+
+SolumView makes Territory experienceable.
+
+The dApp brings those depths together.
+
+Interaction can eventually allow the Colonist to participate more deeply in what happens next.
+
+But participation does not require the future to be prewritten.
+
+What exists today can be defined, developed and tested.
+
+What requires real History can emerge from real History.
+
+What requires quantitative scale can learn from quantitative scale.
+
+What can be explored can be tested without automatically becoming Canon.
+
+What the world reveals can be evaluated without automatically being rejected because it was not predicted.
+
+And what has not yet been defined does not need to be invented merely to complete a diagram.
+
+> **We define the conditions.**
+>
+> **We build the architecture.**
+>
+> **We expose enough to understand and audit it.**
+>
+> **We protect the implementation that constitutes internal know-how.**
+>
+> **We observe what the world actually produces.**
+>
+> **We consolidate what proves coherent.**
+>
+> **And we do not predetermine what belongs to Horizonte.**
+
+The foundations can remain stable.
+
+The consequences can become deeper.
+
+Beyond that:
+
+**Horizonte remains open.**
