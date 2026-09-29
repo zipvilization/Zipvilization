@@ -1,7 +1,8 @@
 ---
 layout: default
 title: AI Canon
-nav_exclude: true
+nav_order: 99
+nav_exclude: false 
 permalink: /ai-canon/
 ---
 
