@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Aster — Architecture
 
 Aster consists of field sensors and a gateway responsible for receiving and forwarding observations.
