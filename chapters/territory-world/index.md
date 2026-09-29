@@ -3,883 +3,1608 @@ layout: default
 title: "Chapter 2 — Territory & World Coherence"
 parent: Chapters
 nav_order: 3
-description: "Territory & World Coherence is the Chapter in which observable blockchain state acquires spatial meaning and can be represented as a coherent world."
+description: "Chapter 2 establishes WORLD: canonical Territory becomes a coherent finite world while preserving the distinction between territorial truth, capacity, History and visual representation."
 permalink: /chapters/territory-world/
 ---
 
 # Chapter 2 — Territory & World Coherence
 
-Genesis creates state.
+Genesis establishes canonical existence.
 
-Observability makes that state legible.
+Observability makes canonical reality legible.
 
-Chapter 2 asks a different question:
+Chapter 2 asks the next question:
 
-> **What does that state mean inside Zipvilization?**
+> **How does canonical Territory become coherent as a world?**
 
-A balance is a number.
+Chapter 2 is:
 
-A transaction is a state transition.
+> **TERRITORY & WORLD**
 
-Burn changes Supply.
+Its primary meaning is:
 
-The Pool holds SOLUM.
+> **WORLD**
 
-All of that can already be observed.
+This Chapter does not give Territory its canonical meaning.
 
-But none of it, by itself, looks like a world.
+That meaning already comes from canonical rules applied to valid evidence and History.
 
-Chapter 2 introduces:
-
-> **Territory & World Coherence**
-
-This is where observable state acquires spatial meaning and becomes capable of graphical representation as Zipvilization.
+Chapter 2 establishes how that deterministic territorial reality can become understandable as one coherent world.
 
 ---
 
-# From State to World
+# From Territory to world
 
-The transition can be expressed simply:
+Before Chapter 2, Zipvilization can already determine relationships such as:
 
-**BLOCKCHAIN STATE + CANONICAL RULES**  
-↓  
-**SOLUMTOOLS** — Observe, derive and expose  
-↓  
-**SOLUMWORLD** — Represent the world  
-↓  
-**SOLUMVIEW** — Explore it in detail
+> **1 SOLUM = 1 m² of Solum**
 
-The blockchain remains underneath.
-
-Canonical rules define the relationships.
-
-SolumTools makes the resulting information observable.
-
-SolumWorld makes the world visible.
-
-SolumView lets us look closer.
-
-> **Data first.**
->
-> **World representation second.**
-
----
-
-# The Foundational Relationship
-
-At the center of Chapter 2 is a simple relationship:
-
-> **1 SOLUM = 1 m²**
-
-This changes everything.
-
-A SOLUM balance can now be interpreted not merely as token quantity, but as territorial capacity.
-
-For example:
-
-**8 SOLUM → 8 m²**
-
-and:
-
-**256 SOLUM → 256 m²**
-
-The number has acquired spatial meaning.
-
-> **Solum becomes land.**
-
-→ **[Explore Solum](/world/solum/)**
-
----
-
-# A Finite World
-
-The initial documented Supply is:
-
-> **100,000,000,000,000 SOLUM**
-
-With:
-
-> **1 SOLUM = 1 m²**
-
-the original world therefore represents:
-
-> **100,000,000,000,000 m²**
-
-This gives Zipvilization a finite original territorial substrate.
-
-The world does not need infinite expansion to create complexity.
-
-Civilization can change.
-
-Population can grow.
-
-History can accumulate.
-
-Territorial organization can become increasingly complex.
-
-But the original substrate remains finite.
-
----
-
-# World Meaning Comes From Canonical Rules
-
-The blockchain does not contain a literal field saying:
-
-> **THIS IS A WORLD**
-
-Nor does a wallet necessarily contain a variable called:
-
-> **TERRITORY**
-
-The relationship exists because Zipvilization explicitly defines it.
-
-For example:
-
-**SOLUM balance**  
-↓  
-**Canonical relationship: 1 SOLUM = 1 m²**  
-↓  
-**Territorial capacity**
-
-The same principle applies throughout the world.
-
-World meaning must come from explicit relationships.
-
-Not from visual interpretation.
-
-Not from designer preference.
-
-Not from AI inference.
-
-> **Canonical rules define the meaning.**
->
-> **Interfaces reveal the consequences.**
-
----
-
-# Dormant Land
-
-Chapter 2 allows another observable state to acquire world meaning.
-
-At blockchain level:
-
-> **SOLUM held by the Pool**
-
-Inside Zipvilization:
+Pool-held SOLUM can already be identified canonically as:
 
 > **Dormant Land**
 
-Dormant Land remains part of the finite territorial substrate.
+Burned SOLUM can already be identified canonically as:
 
-But it has not entered active Colonist-controlled territorial state.
+> **Permanent Nature**
+
+A complete Farm threshold can already be determined.
+
+A Colonist threshold can already be determined.
+
+Active Territory can already be distinguished from SOLUM that does not satisfy its conditions.
+
+Chapter 2 does not invent those meanings.
+
+It asks:
+
+> **How can those meanings coexist spatially as one world?**
 
 The relationship is:
 
-**POOL-HELD SOLUM**  
-↓  
-**DORMANT LAND**
+`CANONICAL TERRITORIAL REALITY`
 
-The Pool does not need a literal variable named `Dormant Land`.
+↓
 
-The canonical relationship provides that meaning.
+`SPATIAL COHERENCE`
 
-SolumTools can measure it.
+↓
 
-SolumWorld can make it visible.
+`WORLD REPRESENTATION`
 
-→ **[Explore the Pool](/smart-contract/pool/)**
+This is the beginning of WORLD.
 
 ---
 
-# Permanent Nature
+# Solum is finite
 
-Burn produces another fundamental transition.
+Solum is not an infinitely expandable game board.
 
-At blockchain level:
+The original SOLUM Supply is:
 
-> **SOLUM is permanently removed from circulation**
+> **100,000,000,000,000 SOLUM**
 
-Inside Zipvilization:
+And:
 
-> **that substrate becomes Permanent Nature**
+> **1 SOLUM = 1 m² of Solum**
+
+Therefore the original territorial substrate is finite.
+
+No post-deployment mint function exists in the documented contract to create additional SOLUM.
+
+Burn can reduce circulating territorial substrate.
+
+It cannot create more.
+
+This finitude is not merely an economic property.
+
+It is a world property.
+
+> **Solum has limits.**
+
+Everything territorial happens inside those limits.
+
+---
+
+# SOLUM is not the world
+
+SOLUM and Solum are related, but they are not identical concepts.
+
+**SOLUM** is the on-chain unit.
+
+**Solum** is the land, world and territorial substrate understood collectively.
+
+Their canonical relationship is:
+
+`1 SOLUM`
+
+=
+
+`1 m² OF SOLUM`
+
+SOLUM provides measurable territorial substrate.
+
+But a world requires more than a number.
+
+It requires coherent territorial structure.
+
+---
+
+# The Tile
+
+The first important spatial aggregation is the Tile.
+
+> **1 Tile = 1,000,000 SOLUM**
 
 Therefore:
 
-**BURNED SOLUM**  
-↓  
-**PERMANENT NATURE**
+> **1 Tile = 1,000,000 m²**
 
-This creates something important.
+and:
 
-Economic activity can produce irreversible territorial consequences.
+> **1 Tile = 1 km²**
 
-Land that becomes Permanent Nature is not simply hidden from an interface.
+A Tile provides:
 
-Its underlying SOLUM has been removed from future circulation.
+> **capacity for 1 Zip**
 
-> **World history can inherit blockchain irreversibility.**
+So:
 
-→ **[Understand Burn](/smart-contract/burn/)**
+`1,000,000 SOLUM`
+
+=
+
+`1,000,000 m²`
+
+=
+
+`1 km²`
+
+=
+
+`1 TILE`
+
+=
+
+`CAPACITY FOR 1 ZIP`
+
+But this distinction is essential:
+
+> **1 Tile is not independently Active Territory.**
+
+A Tile is a unit of territorial capacity.
+
+The minimum complete Active Territory structure begins at Farm scale.
 
 ---
 
-# Three Territorial Conditions
+# The minimum Active Territory
 
-Chapter 2 therefore makes a fundamental distinction visible.
+The first complete territorial structure is:
+
+> **1 Farm**
+
+A Farm contains:
+
+> **8 Tiles**
+
+Therefore:
+
+> **1 Farm = 8,000,000 SOLUM**
+
+and:
+
+> **1 Farm = 8 km²**
+
+with maximum capacity for:
+
+> **8 Zips**
+
+This is also the minimum canonical threshold associated with Colonist status and Active Territory.
+
+Conceptually:
+
+`ADDRESS`
+
+↓
+
+`HOLDER`
+
+↓
+
+`8,000,000 SOLUM`
+
+↓
+
+`COMPLETE FARM CAPACITY`
+
+↓
+
+`COLONIST THRESHOLD`
+
+↓
+
+`ACTIVE TERRITORY`
+
+Below that threshold:
+
+`HOLDER`
+
+↓
+
+`NO COMPLETE FARM`
+
+↓
+
+`NO ACTIVE TERRITORY`
+
+↓
+
+`NO BLOCH ACTIVATION`
+
+Holding SOLUM and having Active Territory are therefore not the same condition.
+
+---
+
+# Three territorial states
+
+At the highest conceptual level, Solum can be understood through three canonical territorial states.
 
 ## Dormant Land
 
-Territory corresponding to SOLUM still held within the Pool.
+SOLUM held by the Pool.
 
-It remains potentially available for future colonization.
+It remains part of the finite territorial substrate.
 
-## Colonist-Controlled Territory
+It has not become Active Territory.
 
-Territory corresponding to SOLUM held outside that dormant condition by Colonists.
+It may later leave the Pool through valid participation.
+
+Dormant does not mean nonexistent.
+
+It means:
+
+> **territorial substrate not currently active through a Colonist Territory**
+
+---
+
+## Active Territory
+
+Territory satisfying the canonical conditions beginning at the complete Farm threshold.
+
+Active Territory is associated with valid Colonist territorial state.
+
+The preferred V2 term is:
+
+> **Active Territory**
+
+Legacy or alternate documentation may use:
+
+> **Colonized Territory**
+
+But:
+
+> **Active Territory ≠ controlled Territory**
+
+A Colonist participates through Territory.
+
+That does not establish arbitrary control over every consequence that may occur within it.
+
+---
 
 ## Permanent Nature
 
-Territory corresponding to burned SOLUM.
+SOLUM permanently removed from circulation through valid Burn.
 
-It can no longer return to future colonization.
+Within Zipvilization:
 
-These are not decorative map categories.
+> **Burned SOLUM = Permanent Nature**
 
-They derive from different underlying states.
+This territorial state is irreversible.
 
----
+Dormant Land may become Active Territory.
 
-# Conservation of Meaning
+Active Territory may change through later valid transfers and state transitions.
 
-World representation must remain coherent with its substrate.
+Permanent Nature cannot return to circulating territorial substrate.
 
-If ownership changes, territorial representation must be capable of reflecting it.
+Therefore:
 
-If SOLUM returns to the Pool, the corresponding state must be interpreted accordingly.
+`DORMANT LAND`
 
-If SOLUM is burned, no visual system can continue presenting that substrate as normally colonizable land.
+can potentially move toward:
 
-This creates a general principle:
+`ACTIVE TERRITORY`
 
-> **World representation cannot contradict authoritative underlying state and canonical rules.**
+while:
 
-Graphical systems add visibility.
+`PERMANENT NATURE`
 
-They do not acquire permission to rewrite reality.
-
----
-
-# Territory
-
-Once SOLUM has spatial meaning, territorial organization becomes possible.
-
-Zipvilization uses deterministic territorial scales.
-
-| Territory | Territorial scale |
-|:----------|------------------:|
-| Farm | 8 |
-| City | 256 |
-| State | 8,192 |
-| Kingdom | 262,144 |
-
-These values provide mathematical structure to Territory.
-
-They are not arbitrary visual labels.
-
-They establish increasingly large territorial scales from which more complex structures can emerge.
-
-→ **[Explore Territories](/world/territories/)**
+is permanent.
 
 ---
 
-# Deterministic Hierarchy
+# A finite world in motion
 
-The territorial scales follow a deliberate structure:
+The world is finite.
 
-**8**  
-↓  
-**256**  
-↓  
-**8,192**  
-↓  
-**262,144**
+Its state is not static.
 
-Each major step expands the territorial scale by:
+SOLUM can move.
+
+Balances can change.
+
+Dormant Land can become associated with active participation.
+
+Active Territory can change.
+
+Burn can create Permanent Nature.
+
+Population can emerge under valid conditions.
+
+History can accumulate.
+
+Therefore:
+
+> **IMMUTABLE ≠ STATIC**
+
+Canonical rules may remain stable while the world described by those rules changes continuously.
+
+Solum is finite.
+
+Zipvilization can still remain in motion.
+
+---
+
+# Territorial hierarchy
+
+Active Territory can reach several canonical scales.
+
+| Territorial scale | Tiles | SOLUM | Area | Maximum Zip capacity |
+|---|---:|---:|---:|---:|
+| Farm | 8 | 8,000,000 | 8 km² | 8 |
+| City | 256 | 256,000,000 | 256 km² | 256 |
+| State | 8,192 | 8,192,000,000 | 8,192 km² | 8,192 |
+| Kingdom | 262,144 | 262,144,000,000 | 262,144 km² | 262,144 |
+
+The total capacity progression is:
+
+`8`
+
+↓
+
+`256`
+
+↓
+
+`8,192`
+
+↓
+
+`262,144`
+
+Each major territorial scale increases total capacity by:
 
 > **×32**
 
-This gives Zipvilization a deterministic territorial hierarchy.
+But:
 
-The same mathematical structure can interact with population, information, maturity and later civilization.
+> **×32 capacity does not mean 32 complete Territories of the previous level.**
 
-But Chapter 2 first establishes the spatial foundation.
-
----
-
-# Scale Is Not Maturity
-
-Chapter 2 must preserve an important distinction:
-
-> **TERRITORIAL CAPACITY ≠ MATURITY**
-
-A balance may provide sufficient territorial capacity for a particular scale.
-
-That does not automatically mean that Territory has completed its developmental process.
-
-A Colonist may therefore have:
-
-> **City-scale Territory**
-
-while the corresponding City remains:
-
-> **Developing**
-
-Territory describes scale.
-
-Maturity describes development.
-
-The two must never be silently collapsed into one state.
-
-→ **[Understand Time](/world/time/)**
+That distinction is fundamental.
 
 ---
 
-# Farm
+# The 50 / 50 territorial structure
 
-The first territorial unit is:
+Higher territorial scales have a recursive structure.
 
-> **Farm**
+Each higher level combines:
 
-Canonical scale:
+- complete structures from the previous level,
+- and an equal amount of capacity belonging to the new level.
 
-> **8**
-
-The Farm establishes the smallest foundational territorial structure.
+This produces a 50 / 50 structure.
 
 ---
 
 # City
 
-The next scale is:
+A City has:
 
-> **City**
+> **256 Tiles**
 
-Canonical scale:
+Total:
 
-> **256**
+> **256 km²**
 
-A City represents a larger territorial structure capable of supporting increasingly complex development.
+Maximum capacity:
 
-But its name does not silently implement mechanics that do not yet exist.
+> **256 Zips**
+
+Its structure is:
+
+`16 COMPLETE FARMS`
+
+=
+
+`128 TILES`
+
+plus:
+
+`128 CITY-LEVEL TILES`
+
+Therefore:
+
+`128 + 128 = 256 TILES`
+
+A City is not:
+
+> **32 Farms**
+
+Its total capacity is equivalent to 32 Farms.
+
+Its structural composition is not 32 complete Farms.
+
+This distinction prevents capacity equivalence from being confused with territorial composition.
 
 ---
 
 # State
 
-The next scale is:
+A State has:
 
-> **State**
+> **8,192 Tiles**
 
-Canonical scale:
+Total:
 
-> **8,192**
+> **8,192 km²**
 
-The name anticipates a scale at which larger organizational structures may eventually become meaningful.
+Maximum capacity:
 
-But territorial scale alone does not automatically create:
+> **8,192 Zips**
 
-- government,
-- taxation,
-- politics,
-- macroeconomics,
-- or institutions.
+Its structure is:
 
-> **A territorial name does not silently implement a political system.**
+`16 COMPLETE CITIES`
+
+=
+
+`4,096 TILES`
+
+plus:
+
+`4,096 STATE-LEVEL TILES`
+
+Therefore:
+
+`4,096 + 4,096 = 8,192 TILES`
+
+Because each complete City contains 16 complete Farms, the contained lower-level structure includes:
+
+> **256 complete Farms**
+
+So a State contains:
+
+- 16 complete Cities,
+- 256 complete Farms,
+- and its own State-level territorial capacity.
 
 ---
 
 # Kingdom
 
-The larger foundational scale is:
+A Kingdom has:
 
-> **Kingdom**
+> **262,144 Tiles**
 
-Canonical scale:
+Total:
 
-> **262,144**
+> **262,144 km²**
 
-Kingdom-scale Territory creates the structural possibility for later large-scale relationships.
+Maximum capacity:
 
-But:
+> **262,144 Zips**
 
-> **KINGDOM-SCALE TERRITORY ≠ KINGDOM GOVERNANCE**
+Its structure is:
 
-Chapter 2 establishes the territorial scale.
+`16 COMPLETE STATES`
 
-Future development determines what civilization does with it.
+=
+
+`131,072 TILES`
+
+plus:
+
+`131,072 KINGDOM-LEVEL TILES`
+
+Therefore:
+
+`131,072 + 131,072 = 262,144 TILES`
+
+Its recursive lower-level structure includes:
+
+> **256 complete Cities**
+
+and:
+
+> **4,096 complete Farms**
+
+So a Kingdom contains:
+
+- 16 complete States,
+- 256 complete Cities,
+- 4,096 complete Farms,
+- and its own Kingdom-level territorial capacity.
 
 ---
 
-# From Territory to Geography
+# Capacity is not composition
 
-A coherent graphical world eventually requires more than quantities.
+This distinction deserves to remain explicit.
 
-Territory must be capable of occupying meaningful space.
+A City has total capacity equivalent to:
 
-That creates requirements for concepts such as:
+> **32 Farms**
 
-- placement,
-- spatial relationships,
-- coordinates,
+But it is not structurally composed of 32 Farms.
+
+A State has total capacity equivalent to:
+
+> **32 Cities**
+
+But it is not structurally composed of 32 complete Cities.
+
+A Kingdom has total capacity equivalent to:
+
+> **32 States**
+
+But it is not structurally composed of 32 complete States.
+
+Therefore:
+
+> **CAPACITY EQUIVALENCE ≠ STRUCTURAL COMPOSITION**
+
+The ×32 rule describes total territorial scale.
+
+The 50 / 50 rule describes how that scale is structured.
+
+---
+
+# Capacity is not population
+
+Territorial capacity defines how much population a Territory can support.
+
+It does not prove that population already exists.
+
+Therefore:
+
+`TERRITORIAL CAPACITY`
+
+≠
+
+`POPULATION`
+
+A wallet reaching City-scale capacity does not automatically create:
+
+> **256 Zips**
+
+Population depends on valid generation through:
+
+- Farms,
+- Bloch,
+- Time,
+- available capacity,
+- and History.
+
+The world must distinguish what can exist from what has actually emerged.
+
+---
+
+# Capacity is not maturity
+
+Territorial scale also does not prove maturity.
+
+Therefore:
+
+`TERRITORIAL CAPACITY`
+
+≠
+
+`MATURITY`
+
+A wallet may have enough SOLUM for City-scale capacity.
+
+That does not automatically mean:
+
+- the City is mature,
+- its valid population is complete,
+- sufficient biological cycles occurred,
+- or its historical development is complete.
+
+Maturity is historical.
+
+It must be reconstructed from what actually happened.
+
+---
+
+# Capacity, population and maturity
+
+The three concepts must remain separate:
+
+`CAPACITY`
+
+≠
+
+`POPULATION`
+
+≠
+
+`MATURITY`
+
+They interact.
+
+They are not synonyms.
+
+A world representation that collapses them would visually communicate something that canonical state does not support.
+
+Therefore SolumWorld must be capable of representing incomplete development.
+
+A Territory can have capacity without having completed its History.
+
+---
+
+# Why the Farm is special
+
+The Farm is not merely the smallest row in the territorial hierarchy.
+
+It has a foundational role.
+
+A Farm is:
+
+- 8 Tiles,
+- 8,000,000 SOLUM,
+- 8 km²,
+- the minimum complete Active Territory,
+- the Colonist threshold,
+- the primary territorial unit of development,
+- the primary population generator,
+- and a fundamental reference for maturity and History.
+
+A valid active/generating Farm can generate:
+
+> **1 Zip per biological cycle**
+
+while valid unoccupied capacity exists.
+
+Its initial development can generate its first eight Zips over eight valid biological cycles.
+
+A fully populated Farm therefore contains:
+
+> **8 Zips**
+
+And:
+
+> **1 Zip = 1 bit**
+
+so:
+
+> **8 Zips = 8 bits = 1 byte**
+
+A complete populated Farm therefore has a special relationship between Territory, population and information.
+
+But:
+
+> **Farm capacity alone does not prove those 8 Zips already exist.**
+
+History still matters.
+
+---
+
+# Higher Territory does not independently generate Zips
+
+City, State and Kingdom increase territorial capacity.
+
+They do not independently create a second population-generation mechanism.
+
+The primary population generator remains the Farm.
+
+Higher territorial scales provide additional capacity within which Farm-based generation can continue.
+
+Therefore:
+
+> **more capacity ≠ independent generation rate**
+
+This distinction prevents territorial scale from being confused with population creation.
+
+---
+
+# Territory has History
+
+Territory cannot be understood only from a current balance.
+
+Suppose a Colonist develops valid Territory and later transfers part of the underlying SOLUM.
+
+The transfer can change future territorial capacity.
+
+It does not automatically erase valid prior development.
+
+Therefore:
+
+> **CURRENT TERRITORY ≠ COMPLETE TERRITORIAL HISTORY**
+
+And:
+
+> **A transfer changes future state; it does not rewrite history.**
+
+SolumWorld may represent current state.
+
+Historical systems may reconstruct previous state.
+
+Neither should fabricate continuity that canonical History does not support.
+
+---
+
+# From Territory to geography
+
+Canonical Territory is quantitative.
+
+A world representation must also become spatially coherent.
+
+That introduces questions such as:
+
+- spatial placement,
 - boundaries,
-- territorial continuity,
-- and world-scale coherence.
+- continuity,
+- territorial adjacency,
+- scale,
+- world-level organization,
+- and persistent identity across representations.
 
-The exact technical implementation belongs to the evolving SolumWorld architecture.
+These are real architectural problems.
 
-The principle is more important:
+But the public Atlas does not need to expose every implementation mechanism used to solve them.
 
-> **The same valid underlying state must not become contradictory worlds simply because different observers render it.**
+The public requirement is:
+
+> **the same deterministic territorial state must produce a coherent representation of the same underlying world**
+
+Implementation details such as internal algorithms, indexing systems, schemas, reconstruction methods and private operational infrastructure may remain internal.
+
+> **Show the architecture. Protect the implementation.**
 
 ---
 
 # SolumWorld
 
-Chapter 2 is where **SolumWorld** becomes meaningful.
+The principal world-scale representation system is:
 
-SolumWorld is the world-scale graphical representation of Zipvilization.
+> **SolumWorld**
 
-It does not determine whether SOLUM is Territory.
+Its primary function is:
 
-It does not decide whether burned SOLUM is Permanent Nature.
+> **SEE**
 
-It does not decide territorial thresholds.
+Conceptually:
 
-Those relationships already come from canonical rules.
+`DETERMINISTIC ZIPVILIZATION STATE`
 
-SolumWorld takes valid world information and makes it visible.
+↓
 
-It can represent:
+`SOLUMWORLD`
 
-- Territory,
-- Dormant Land,
-- Permanent Nature,
-- Farms,
-- Cities,
-- States,
-- Kingdoms,
-- development,
-- and other valid world state.
+↓
 
-> **SolumWorld does not decide what the world is.**
+`WORLD REPRESENTATION`
+
+SolumWorld does not decide what Territory exists.
+
+It does not decide how much Permanent Nature exists.
+
+It does not decide whether a Holder is a Colonist.
+
+It does not create canonical population.
+
+It does not create History.
+
+It represents a world grounded in deterministic canonical state.
+
+> **Canonical state determines truth.**
 >
-> **It shows the world that the data and canonical rules describe.**
-
-→ **[Explore SolumWorld](/world/solumworld/)**
+> **SolumWorld interprets that truth visually.**
 
 ---
 
-# One World
+# Representation can be creative
 
-SolumWorld should not create a different reality for every interface.
+Deterministic truth does not require every visual property to be stored on-chain.
 
-Different observers may use different devices.
+A representation may use:
 
-Rendering technologies may change.
+- terrain,
+- vegetation,
+- buildings,
+- roads,
+- lighting,
+- atmospheric conditions,
+- animation,
+- movement,
+- scale transitions,
+- visual density,
+- and other graphical systems
 
-Graphical styles may evolve.
+to make the world understandable.
 
-Different scales may reveal different information.
+These can be interpretive.
 
-But they should remain representations of:
+But interpretation must not silently create canonical facts.
 
-> **the same underlying Zipvilization**
+A rendered tree does not necessarily mean:
 
-The renderer can change.
+> **this exact tree exists as an on-chain object**
 
-The world state underneath it cannot be rewritten by the renderer.
+A moving cloud does not create History.
 
----
+An animated building does not prove maturity.
 
-# Determinism Where It Matters
-
-Graphical representation inevitably contains creative choices.
-
-Lighting.
-
-Terrain style.
-
-Camera.
-
-Buildings.
-
-Vegetation.
-
-Animation.
-
-Atmosphere.
-
-Those elements do not all need to exist as blockchain variables.
-
-But whenever a visual element communicates canonical meaning, that meaning must remain consistent with real state.
-
-A City cannot appear canonically because it looks better on the map.
-
-Permanent Nature cannot appear colonizable.
-
-Dormant Land cannot appear permanently inaccessible.
-
-A developing Territory cannot be presented as mature if the visualization claims to represent maturity.
-
-> **Visual expression can be creative.**
->
-> **Canonical meaning cannot be invented.**
-
----
-
-# SolumView
-
-Once there is a graphical world, we need a way to look closer.
-
-That is the role of **SolumView**.
-
-SolumWorld operates at world scale.
-
-SolumView moves from that global representation toward individual Colonists and Territories.
-
-The progression is:
-
-**WORLD**  
-↓  
-**TERRITORY**  
-↓  
-**COLONIST**  
-↓  
-**DETAIL**
-
-SolumView can expose increasingly detailed information about:
-
-- territorial structure,
-- maturity,
-- Zips,
-- Time,
-- history,
-- and other valid state.
-
-> **SolumWorld shows the world.**
->
-> **SolumView lets us look closer.**
-
-→ **[Explore SolumView](/world/solumview/)**
-
----
-
-# Zoom Does Not Change Truth
-
-Different scales require different visual representations.
-
-A world overview cannot show every local detail.
-
-A Farm can be represented more closely than an entire Kingdom.
-
-A Colonist view can expose information invisible at global scale.
-
-But changing zoom must not change canonical state.
-
-> **ZOOM ≠ NEW REALITY**
-
-A Farm remains the same Farm.
-
-A mature Territory remains mature.
-
-Permanent Nature remains Permanent Nature.
-
-Dormant Land remains Dormant Land.
-
-The amount of visible detail changes.
-
-The underlying facts do not.
-
----
-
-# Representation Is Not Authority
-
-A graphical world can be beautiful and wrong.
-
-An interface can accidentally display a City where no valid City exists.
-
-It can place colonizable Territory where the underlying SOLUM has been burned.
-
-It can display an incorrect maturity state.
-
-None of those errors become canonical merely because they appear on screen.
+A visual crowd does not prove canonical population unless the representation is actually bound to that population.
 
 Therefore:
 
-> **RENDERED STATE ≠ AUTHORITATIVE STATE**
-
-The graphical layers follow the data and canonical rules.
-
-Not the other way around.
-
----
-
-# Human Interpretation
-
-Chapter 2 is also where Zipvilization becomes easier for Humans to understand intuitively.
-
-A number such as:
-
-> **256**
-
-is abstract.
-
-A City-scale Territory is spatial.
-
-A Pool balance is technical.
-
-Dormant Land is world meaning.
-
-Burn is a contract mechanism.
-
-Permanent Nature is a territorial consequence.
-
-The world language helps Humans understand the system.
-
-But that language remains disciplined by explicit relationships.
-
----
-
-# Machine Interpretation
-
-For Artificial Intelligence, Chapter 2 provides an explicit semantic structure.
-
-AI should be able to distinguish:
-
-**RAW BLOCKCHAIN STATE**
-
-from:
-
-**DERIVED DATA**
-
-from:
-
-**CANONICAL WORLD MEANING**
-
-from:
-
-**GRAPHICAL REPRESENTATION**
-
-That distinction reduces ambiguity.
-
-An AI should not need to guess whether Burn corresponds to Permanent Nature.
-
-The Atlas states the relationship.
-
-It should not need to infer whether an image creates canonical state.
-
-It does not.
-
-> **Meaning should be explicit enough that AI does not need to invent the missing relationship.**
-
----
-
-# SolumTools, SolumWorld and SolumView
-
-Chapter 2 makes the relationship between the three systems clear.
-
-## SolumTools
-
-**DATA**
-
-Reads blockchain state, applies canonical rules and exposes deterministic information.
-
-## SolumWorld
-
-**WORLD**
-
-Transforms valid information into the world-scale graphical representation of Zipvilization.
-
-## SolumView
-
-**ZOOM**
-
-Allows detailed exploration of Colonists and their Territories.
-
-Together:
-
-> **SolumTools makes the data understandable.**
+> **visual richness is allowed**
 >
-> **SolumWorld makes the world visible.**
+> **canonical fabrication is not**
+
+---
+
+# Representation is not authority
+
+This is one of the most important rules of Chapter 2.
+
+If SolumWorld shows something inconsistent with deterministic canonical state, SolumWorld is wrong.
+
+The world does not become true because it was rendered.
+
+Therefore:
+
+`REPRESENTATION ≠ AUTHORITY`
+
+and:
+
+`ANIMATION ≠ CANONICAL EVENT`
+
+and:
+
+`VISUAL STATE ≠ AUTOMATIC HISTORY`
+
+The direction remains:
+
+`EVIDENCE + CANON`
+
+↓
+
+`DETERMINISTIC STATE`
+
+↓
+
+`REPRESENTATION`
+
+Never the reverse.
+
+---
+
+# One world
+
+Zipvilization may eventually be represented through many interfaces.
+
+Different:
+
+- devices,
+- resolutions,
+- renderers,
+- graphical styles,
+- cameras,
+- levels of detail,
+- and future technologies
+
+may show Solum differently.
+
+That does not require multiple canonical worlds.
+
+The underlying reality remains one Zipvilization.
+
+Therefore:
+
+> **REPRESENTATION MAY VARY**
 >
-> **SolumView lets us look closer.**
+> **CANONICAL IDENTITY MUST NOT**
+
+A mobile interface and a high-detail spatial interface may look radically different.
+
+If both are correct, they should still describe the same canonical world.
 
 ---
 
-# What Chapter 2 Establishes
+# Scale
 
-Territory & World Coherence establishes that:
+A finite world contains radically different scales.
 
-- SOLUM has canonical spatial meaning,
-- **1 SOLUM = 1 m²**,
-- the original territorial substrate is finite,
-- Pool-held SOLUM corresponds to Dormant Land,
-- burned SOLUM corresponds to Permanent Nature,
-- SOLUM balances can support territorial capacity,
-- Territory follows deterministic scales,
-- territorial scale and maturity are different,
-- world representation must remain coherent with underlying state,
-- graphical systems cannot create canonical state,
-- SolumWorld represents Zipvilization at world scale,
-- SolumView allows closer exploration of Colonists and Territories,
-- and different visual scales must remain views of the same underlying reality.
+A Human may want to observe:
 
----
+- the whole planet,
+- global territorial distribution,
+- Permanent Nature,
+- Dormant Land,
+- Active Territory,
+- Kingdom-scale Territory,
+- State-scale Territory,
+- Cities,
+- Farms,
+- or local development.
 
-# What Chapter 2 Does Not Establish
+Moving between scales can change what information is useful.
 
-Chapter 2 does not automatically establish:
+It does not change canonical truth.
 
-- completed territorial maturity,
-- complete biological development,
-- future Zip behavior,
-- economic sectors,
-- State government,
-- Kingdom governance,
-- alliances,
-- conflict,
-- culture,
-- or emergent civilization.
+Therefore:
 
-Those possibilities require additional mechanics, actors, Time, history and future development.
+> **SCALE ≠ NEW REALITY**
 
-Chapter 2 gives them somewhere to happen.
+and:
+
+> **ZOOM ≠ NEW CANON**
+
+A Farm remains the same canonical Farm whether observed from planetary scale or close range.
 
 ---
 
-# The World Is Still Young
+# SolumView is not simply zoom
 
-At the end of Chapter 2, something important has happened.
+This distinction is important.
 
-We began with blockchain state.
+SolumWorld can move between scales.
 
-Then we learned to observe it.
+That does not automatically turn it into SolumView.
 
-Now that state has spatial meaning.
+The boundary between them is qualitative.
 
-There is a finite territorial substrate.
+**SolumWorld** primarily answers:
 
-There are different territorial conditions.
+> **What does the world look like?**
 
-There is deterministic territorial scale.
+Its semantic is:
 
-And there is a framework capable of representing that state as a coherent graphical world.
+> **SEE**
 
-But space alone is not civilization.
+**SolumView** moves toward:
 
-Someone has to participate in it.
+> **What is it like to enter and experience valid Colonist Territory?**
+
+Its semantic is:
+
+> **ENTER / EXPERIENCE**
+
+Therefore:
+
+`CLOSER CAMERA`
+
+does not automatically mean:
+
+`SOLUMVIEW`
+
+SolumView represents a deeper experiential layer.
+
+Its mature form depends increasingly on a world with enough canonical Territory, population, Time and History to support meaningful local experience.
 
 ---
 
-# Chapter Boundary
+# World and View
 
-Chapter 0 asks:
+The relationship can be understood as:
 
-> **Does it exist?**
+**SOLUMTOOLS**
+
+`DATA / READ`
+
+↓
+
+**SOLUMWORLD**
+
+`WORLD / SEE`
+
+↓
+
+**SOLUMVIEW**
+
+`LIFE / ENTER / EXPERIENCE`
+
+These are not three competing realities.
+
+They are different depths of access to the same Zipvilization.
+
+> **One dApp.**
+>
+> **One world.**
+>
+> **Increasing depth.**
+
+---
+
+# Current world and historical world
+
+SolumWorld may primarily represent current canonical state.
+
+But current state is not the only state that has ever existed.
+
+History can preserve previous territorial configurations.
+
+That means a future historical representation may be able to reconstruct how the world looked at an earlier canonical point.
+
+This possibility follows from History.
+
+It does not require the current world to pretend that earlier states still exist.
+
+Therefore:
+
+> **CURRENT REPRESENTATION ≠ COMPLETE HISTORY**
+
+The world can change without rewriting its past.
+
+---
+
+# Population can transform Territory
+
+Territory is not only a geometric capacity.
+
+Valid population can progressively occupy that capacity.
+
+As Zips emerge and Territory develops, a natural relationship can appear:
+
+`POPULATION`
+
+↓
+
+`OCCUPATION`
+
+↓
+
+`CONSTRUCTION`
+
+↓
+
+`MATURE TERRITORY`
+
+This does not mean that every building, profession or development sequence is already canonically predetermined.
+
+It means that territorial development can become increasingly visible as valid population and History accumulate.
+
+A Farm with no completed population should not need to look identical to a mature Farm.
+
+A developing City should not need to pretend that its full population and built environment already exist.
+
+The world can show development without fabricating completion.
+
+---
+
+# Construction is not arbitrary decoration
+
+As population occupies Territory, representation may increasingly express development through construction.
+
+But construction should remain connected to valid world state.
+
+The exact final building system is not yet completely defined.
+
+Nor is every architectural consequence predetermined.
+
+Therefore:
+
+> **construction may express development**
+>
+> **without every visual object becoming an independent canonical object**
+
+This preserves both coherence and creative freedom.
+
+---
+
+# Beyond population
+
+Population completion does not imply that nothing else can happen.
+
+Zips are individuals.
+
+Over Time and History, richer forms of:
+
+- specialization,
+- work,
+- creativity,
+- relationships,
+- local identity,
+- and collective behavior
+
+may become possible.
+
+Examples such as farmers, builders, merchants, artists, scientists, philosophers or political actors can help us imagine differentiated life.
+
+They are not a predetermined profession sequence.
+
+They are not guaranteed population percentages.
+
+They are not a fixed class system.
+
+They belong to a deeper space of development and emergence.
+
+> **possible ≠ predetermined**
+
+---
+
+# Territorial identity
+
+Two Territories with equivalent capacity do not necessarily need to become experientially identical.
+
+Their:
+
+- population,
+- development,
+- Time,
+- History,
+- valid interactions,
+- relationships,
+- and accumulated consequences
+
+may eventually differentiate them.
+
+This creates the possibility of territorial identity.
+
+But there is no final canonical formula that converts those variables into a predetermined identity score or personality.
+
+Therefore:
+
+> **equal capacity does not require equal History**
+
+And:
+
+> **equal mathematical scale does not require equal experiential identity**
+
+This remains an area where development and discovery may deepen the world without rewriting its foundations.
+
+---
+
+# Names are not governments
+
+Farm.
+
+City.
+
+State.
+
+Kingdom.
+
+These are canonical territorial scales.
+
+They do not silently implement political systems.
+
+A State-scale Territory does not automatically create a government.
+
+A Kingdom-scale Territory does not automatically create a monarchy.
+
+Therefore:
+
+> **STATE-SCALE TERRITORY ≠ STATE GOVERNMENT**
+
+and:
+
+> **KINGDOM-SCALE TERRITORY ≠ KINGDOM GOVERNANCE**
+
+Political structures, alliances, conflicts, institutions and other forms of collective organization may belong to later emergence.
+
+They are not encoded merely by reaching a territorial threshold.
+
+---
+
+# Human interpretation
+
+A Human can encounter the same reality at several levels.
+
+For example:
+
+**Evidence**
+
+> The Pool holds SOLUM.
+
+**Canonical meaning**
+
+> That SOLUM is Dormant Land.
+
+**World representation**
+
+> SolumWorld shows that Dormant Land spatially.
+
+Likewise:
+
+**Evidence**
+
+> SOLUM was validly burned.
+
+**Canonical consequence**
+
+> That substrate is Permanent Nature.
+
+**World representation**
+
+> SolumWorld expresses Permanent Nature visually.
+
+The visible world therefore becomes understandable without being allowed to redefine the evidence beneath it.
+
+---
+
+# Machine interpretation
+
+Artificial Intelligence must preserve the same distinctions.
+
+A useful machine path is:
+
+`EVIDENCE`
+
+↓
+
+`CANONICAL RULE`
+
+↓
+
+`DETERMINISTIC STATE`
+
+↓
+
+`REPRESENTATION`
+
+An AI should not inspect an image and conclude that a canonical event occurred merely because the image depicts it.
+
+It should not infer population from decorative characters.
+
+It should not infer maturity from graphical complexity.
+
+It should not infer government from the word Kingdom.
+
+It should not infer ownership or control from visual boundaries.
+
+When canonical evidence exists, use it.
+
+When canonical rules define a deterministic consequence, derive it.
+
+When something is representational, identify it as representation.
+
+> **The image can explain the world.**
+>
+> **It cannot overrule the world.**
+
+---
+
+# A world for Humans and AI
+
+SolumWorld therefore has two simultaneous responsibilities.
+
+For Humans:
+
+> make a complex finite world understandable.
+
+For AI:
+
+> preserve enough structure and relationships that representation can be traced back to canonical meaning.
+
+This does not require every visual element to become machine Canon.
+
+It requires the system to preserve the distinction between:
+
+- what is true,
+- what is derived,
+- what is represented,
+- and what remains open.
+
+Humans follow the world.
+
+AI follows the relationships.
+
+Both should arrive at the same canonical reality.
+
+---
+
+# The world can begin empty
+
+SolumWorld does not need to begin with a mature Civilization.
+
+It can begin with a planet.
+
+At Genesis there may be:
+
+- Dormant Land,
+- little or no Active Territory,
+- little or no canonical population,
+- no mature Cities,
+- no mature States,
+- no mature Kingdoms,
+- and almost no accumulated History.
+
+That is not visually inconvenient data to hide.
+
+It is the beginning.
+
+> **An empty world is still a world.**
+
+Its transformation becomes meaningful precisely because it did not begin already completed.
+
+---
+
+# Development must remain visible
+
+As canonical History accumulates, SolumWorld can increasingly show:
+
+- changing territorial states,
+- Active Territory,
+- Permanent Nature,
+- territorial scale,
+- development,
+- population where canonically supported,
+- maturity where historically supported,
+- and other deterministic consequences.
+
+But representation must preserve incompleteness where incompleteness is real.
+
+A world beginning from zero should be allowed to look unfinished.
+
+> **Development is part of the world.**
+>
+> **It should not be hidden by fabricated maturity.**
+
+---
+
+# What Chapter 2 establishes
+
+Chapter 2 establishes that:
+
+- Solum is finite,
+- SOLUM has canonical territorial meaning,
+- 1 SOLUM represents 1 m²,
+- 1 Tile represents 1 km²,
+- a Tile provides capacity for 1 Zip,
+- a Tile is not independently Active Territory,
+- 1 Farm is the minimum complete Active Territory scale,
+- territorial scales follow a ×32 capacity progression,
+- higher territorial scales follow a 50 / 50 structural composition,
+- capacity is not population,
+- capacity is not maturity,
+- current Territory is not complete territorial History,
+- Dormant Land, Active Territory and Permanent Nature are canonical states,
+- SolumWorld represents deterministic territorial reality,
+- representation is not authority,
+- different visual systems may represent the same canonical world,
+- scale does not change truth,
+- SolumView is deeper experience rather than simple zoom,
+- and Territory can develop visibly as population and History accumulate.
+
+Chapter 2 turns territorial mathematics into coherent world structure.
+
+It does not give visual representation permission to invent canonical reality.
+
+---
+
+# What Chapter 2 does not establish
+
+Chapter 2 does not establish a final:
+
+- building system,
+- profession system,
+- political system,
+- economic simulation,
+- resource system,
+- market system,
+- alliance system,
+- conflict system,
+- Zip autonomy model,
+- Territory identity formula,
+- Interaction engine,
+- or civilizational outcome.
+
+Some of these may become important.
+
+Some may emerge through later development.
+
+Some may be tested experimentally.
+
+Some may never become canonical.
+
+Their possibility is not a promise.
+
+> **POSSIBLE ≠ PROMISED**
+
+The world has foundations.
+
+Its complete future remains open.
+
+---
+
+# World is not control
+
+Representing Territory spatially does not turn it into a game board.
+
+A Colonist does not become a player commanding units merely because Territory can be seen.
+
+A Zip does not become a controllable unit merely because it can be represented.
+
+Therefore:
+
+> **TERRITORY ≠ GAME BOARD**
+
+> **COLONIST ≠ PLAYER**
+
+> **ZIP ≠ PLAYER UNIT**
+
+and:
+
+> **PARTICIPATION ≠ CONTROL**
+
+Chapter 2 creates WORLD.
+
+It does not convert Zipvilization into a predetermined game.
+
+---
+
+# From world to actors
+
+Once deterministic Territory can be understood as a coherent world, another question becomes unavoidable.
+
+A world can contain Territory.
+
+But who participates in it?
+
+What is a Colonist?
+
+What does it mean to ACT without controlling every outcome?
+
+What roles can exist?
+
+What can participation influence?
+
+And what remains outside Human command?
+
+Those questions belong to Chapter 3.
+
+The progression becomes:
+
+`EXIST`
+
+↓
+
+`OBSERVE`
+
+↓
+
+`WORLD`
+
+↓
+
+`ACT`
+
+---
+
+# Chapter boundary
 
 Chapter 1 asks:
 
-> **Can we observe it?**
+> **Can canonical reality be observed and reconstructed?**
 
 Chapter 2 asks:
 
-> **Can it become a coherent world?**
+> **Can canonical Territory become coherent as one world?**
 
 Chapter 3 asks:
 
-> **Who acts inside it?**
+> **Who participates in that world, and what does participation mean?**
 
-The progression continues:
+The transition is not:
 
-**EXIST**  
-↓  
-**OBSERVE**  
-↓  
-**WORLD**  
-↓  
-**ACT**
+`NUMBERS`
 
----
+↓
 
-# Chapter Status
+`INVENTED WORLD`
 
-**CHAPTER:** 2  
-**NAME:** Territory & World Coherence  
-**PRIMARY VERB:** WORLD  
-**INPUT:** Observable valid state  
-**SOLUM:** 1 SOLUM = 1 m²  
-**WORLD SUBSTRATE:** Finite  
-**DORMANT LAND:** Defined  
-**PERMANENT NATURE:** Defined  
-**TERRITORIAL HIERARCHY:** Defined  
-**WORLD COHERENCE:** Required  
-**SOLUMTOOLS:** Data  
-**SOLUMWORLD:** World  
-**SOLUMVIEW:** Zoom  
-**HISTORY:** Not yet  
-**EMERGENCE:** Not yet  
-**HORIZON:** Open
+It is:
+
+`DETERMINISTIC TERRITORIAL REALITY`
+
+↓
+
+`COHERENT WORLD REPRESENTATION`
+
+↓
+
+`PARTICIPATION`
 
 ---
 
-# A World
+# Chapter status
 
-At Genesis:
+`CHAPTER .................. 2`
 
-there is state.
+`NAME ..................... TERRITORY & WORLD`
 
-After Observability:
+`PRIMARY VERB ............. WORLD`
 
-there is legible state.
+`INPUT .................... DETERMINISTIC TERRITORIAL STATE`
 
-With Territory & World Coherence:
+`SOLUM .................... 1 SOLUM = 1 m²`
 
-there is somewhere.
+`TILE ..................... 1M SOLUM = 1 km²`
 
-A finite substrate.
+`MIN ACTIVE TERRITORY ..... 1 FARM = 8 TILES`
 
-Land with different conditions.
+`WORLD SUBSTRATE .......... FINITE`
 
-Territories with deterministic scale.
+`DORMANT LAND ............. CANONICAL`
 
-A world that can be represented consistently for Humans and machines.
+`ACTIVE TERRITORY ......... CANONICAL`
 
-Zipvilization has crossed another boundary.
+`PERMANENT NATURE ......... CANONICAL`
 
-> **The numbers occupy space.**
+`TERRITORIAL SCALE ........ ×32`
 
-But space alone is not civilization.
+`COMPOSITION .............. 50 / 50`
 
-Someone has to arrive.
+`CAPACITY ................. NOT POPULATION`
+
+`MATURITY ................. HISTORICAL`
+
+`HISTORY .................. ACTIVE`
+
+`SOLUMWORLD ............... WORLD / SEE`
+
+`SOLUMVIEW ................ LIFE / ENTER / EXPERIENCE`
+
+`REPRESENTATION ........... NOT AUTHORITY`
+
+`PARTICIPATION ............ NEXT FOUNDATION`
+
+`HORIZONTE ................ OPEN`
+
+---
+
+# Territory & World
+
+Chapter 0 establishes something real.
+
+Chapter 1 makes that reality legible.
+
+Chapter 2 gives canonical Territory a coherent world in which it can be seen.
+
+The mathematics remain underneath.
+
+The History remains underneath.
+
+The Canon remains underneath.
+
+The world can become beautiful.
+
+It can become complex.
+
+It can become alive.
+
+But its representation must remain connected to what actually exists.
+
+That is WORLD.
 
 ---
 
 → **[Return to Chapter 1 — Observability](/chapters/observability/)**  
-→ **[Explore SolumTools](/world/solumtools/)**  
-→ **[Explore SolumWorld](/world/solumworld/)**  
+→ **[Explore Territory](/world/territories/)**  
 → **[Explore Solum](/world/solum/)**  
-→ **[Explore Territories](/world/territories/)**  
+→ **[Explore SolumWorld](/world/solumworld/)**  
 → **[Explore SolumView](/world/solumview/)**  
+→ **[Explore Time](/world/time/)**  
 → **[Continue to Chapter 3 — Colonists & Roles](/chapters/colonists-roles/)**
 
 ---
 
-**Genesis makes state real.**
+**Territory already has canonical meaning.**
 
-**Observability makes state legible.**
+**WORLD makes that meaning spatially coherent.**
 
-**Territory gives state spatial meaning.**
-
-**SolumWorld makes the world visible.**
-
-**Now the world needs actors.**
+**Representation may deepen. Truth remains underneath.**
