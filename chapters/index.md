@@ -3,71 +3,83 @@ layout: default
 title: Chapters
 nav_order: 7
 has_children: true
-description: "Chapters define the structural evolution of Zipvilization: from the deployment of Solum to an observable world capable of accumulating history and eventually producing emergent civilization."
+description: "Chapters define the foundational DNA of Zipvilization: EXIST, OBSERVE, WORLD, ACT, REMEMBER and EMERGE. They establish what must remain true while development, History and participation move toward an open Horizonte."
 permalink: /chapters/
 ---
 
 # Chapters
 
-Zipvilization does not appear all at once.
+Zipvilization does not need a script for everything it may become.
 
-It develops through:
+It needs foundations strong enough to allow something real to emerge.
+
+Those foundations are the:
 
 > **Chapters**
 
-A Chapter is not a release date.
+The Chapters are not release dates.
 
-It is not a marketing milestone.
+They are not marketing milestones.
 
-It is not a promise that a feature will exist at a particular moment.
+They are not a conventional roadmap.
 
-A Chapter represents a structural state of maturity.
+They do not promise that a particular feature will appear at a particular moment.
 
-> **A Chapter is entered, not launched.**
+And they do not attempt to predict the final form of Zipvilization.
 
-Its conditions must become true.
+> **The Chapters are the foundational DNA of Zipvilization.**
 
-Previous dependencies must remain valid.
-
-Only then does the next layer of Zipvilization become meaningful.
+They define what the project must never stop being, even as its technology, representation, participation and History become deeper.
 
 ---
 
 # Why Chapters exist
 
-Zipvilization contains several systems:
+Zipvilization contains many connected systems and concepts:
 
+- SOLUM,
 - Solum,
-- SolumTools,
-- SolumWorld,
-- SolumView,
-- Colonists,
 - Territory,
+- Farms,
+- Colonists,
+- Bloch,
 - Zips,
 - Time,
 - History,
+- SolumTools,
+- SolumWorld,
+- SolumView,
+- Interaction,
 - Artificial Intelligence,
-- Civilization.
+- and the possibility of Civilization.
 
-These systems should not be treated as if they all become meaningful simultaneously.
+These do not all perform the same function.
 
-There is an order.
+They do not have the same authority.
 
-Before a world can be interpreted, there must be state.
+And they should not be confused simply because they belong to the same project.
 
-Before state can be interpreted safely, it must be observable.
+The Chapters provide a structural language for the foundations beneath them.
 
-Before history can exist, something must be capable of changing through time.
+They answer questions such as:
 
-Before emergence can be observed, the underlying structure must be sufficiently stable.
+- What must exist?
+- What must be observable?
+- What makes this a world?
+- What does participation mean?
+- Why must the world remember?
+- What makes emergence possible?
+- And where must definition stop?
 
-Chapters preserve that order.
+The answer is not a roadmap.
+
+It is a sequence of foundational meanings.
 
 ---
 
-# The progression
+# The six foundations
 
-The six foundational Chapters describe a progression from infrastructure to emergence.
+The canonical Chapter sequence is:
 
 `CHAPTER 0`
 
@@ -87,23 +99,23 @@ The six foundational Chapters describe a progression from infrastructure to emer
 
 `CHAPTER 2`
 
-**TERRITORY & WORLD COHERENCE**
+**TERRITORY / WORLD**
 
-`BECOME A WORLD`
+`WORLD`
 
 ↓
 
 `CHAPTER 3`
 
-**COLONISTS & ROLES**
+**COLONISTS / ROLES**
 
-`HAVE ACTORS`
+`ACT`
 
 ↓
 
 `CHAPTER 4`
 
-**TIME, HISTORY & EVOLUTION**
+**TIME / HISTORY**
 
 `REMEMBER`
 
@@ -111,425 +123,1035 @@ The six foundational Chapters describe a progression from infrastructure to emer
 
 `CHAPTER 5`
 
-**EMERGENCE, COMMUNITY & OPEN HORIZON**
+**EMERGENCE**
 
 `EMERGE`
+
+↓
+
+`?`
+
+**HORIZONTE**
+
+`OPEN`
+
+These words are deliberately simple.
+
+Together they describe the foundational arc:
+
+> **EXIST → OBSERVE → WORLD → ACT → REMEMBER → EMERGE → ?**
+
+The question mark is not missing documentation.
+
+It is part of the architecture.
+
+---
+
+# Chapters are DNA, not roadmap
+
+This distinction is fundamental.
+
+A conventional roadmap says:
+
+> first we release this,  
+> then we build that,  
+> then we launch something else.
+
+The Chapters do something different.
+
+They define the foundations that give later development meaning.
+
+Chapter 0 does not stop mattering when Chapter 1 becomes relevant.
+
+Chapter 1 does not disappear when the world becomes visible.
+
+Territory does not replace observability.
+
+Participation does not replace Territory.
+
+History does not replace participation.
+
+Emergence does not replace History.
+
+The foundations accumulate conceptually.
+
+They remain part of the same world.
+
+A useful way to think about them is:
+
+**EXIST**
+
+must remain true.
+
+**OBSERVE**
+
+must remain possible.
+
+**WORLD**
+
+must remain coherent.
+
+**ACT**
+
+must remain meaningful.
+
+**REMEMBER**
+
+must preserve what happened.
+
+**EMERGE**
+
+must remain possible without being completely scripted.
+
+The Chapters therefore describe **what Zipvilization must continue to be**, not a sequence of products to release.
 
 ---
 
 # Chapter 0 — Genesis
 
-## Exist
+## EXIST
 
-Everything begins with executable state.
+Everything begins with canonical existence.
 
-Before Zipvilization can become a world, Solum must exist correctly on-chain.
+Before Genesis, Zipvilization can already contain substantial work.
 
-Genesis establishes the substrate from which everything else depends.
+The Smart Contract can be developed.
 
-At this stage the priority is not narrative.
+Canonical rules can be defined.
 
-It is not visualization.
+The Atlas can exist.
 
-It is not civilization.
+SolumTools can be developed and tested.
 
-It is:
+SolumWorld can be developed and tested.
 
-> **existence**
+Representations can be explored.
 
-The contract must exist.
+Test deployments can operate.
 
-Its rules must operate.
+Models can be simulated.
 
-Supply must be real.
+But none of that is canonical History.
 
-Balances must be real.
+Genesis creates the boundary.
 
-Transactions must be real.
+Before it:
 
-Burn must have real consequences.
+`DEVELOPMENT`
 
-State must survive contact with the blockchain.
+`TESTING`
 
-Only then is there something meaningful to observe.
+`MODELING`
 
-→ **[Enter Chapter 0 — Genesis](/chapters/genesis/)**
+`SIMULATION`
+
+`PREPARATION`
+
+After the official beginning:
+
+`CANONICAL HISTORY`
+
+Genesis therefore means more than software existing.
+
+It is the transition from a world whose conditions are being prepared to a world capable of accumulating its own canonical past.
+
+> **Genesis = EXIST**
+
+The substrate is real.
+
+The rules operate.
+
+Valid events can have canonical consequences.
+
+And History begins.
+
+Genesis does not create a mature civilization.
+
+It creates the beginning from which one may eventually emerge.
+
+→ **[Enter Chapter 0 — Genesis](/chapters/genesis/)**  
+→ **[Understand the public Genesis](/genesis/)**
 
 ---
 
 # Chapter 1 — Observability
 
-## Observe
+## OBSERVE
 
-Once state exists, it must become legible.
+Canonical reality must be observable.
 
-This is the domain in which SolumTools becomes meaningful.
+Blockchain state by itself is evidence.
 
-The system begins reading what already exists:
+But Zipvilization also has canonical rules that determine what that evidence means inside the system.
 
-- addresses,
+The relationship is:
+
+**CANONICAL EVIDENCE**
+
++
+
+**CANONICAL RULES**
+
+↓
+
+**DETERMINISTIC ZIPVILIZATION STATE**
+
+↓
+
+**OBSERVATION**
+
+This is where SolumTools becomes fundamental.
+
+SolumTools can read and translate:
+
 - balances,
 - Supply,
 - transactions,
 - Burn,
 - blocks,
 - contract state,
-- structural signals.
+- current territorial capacity,
+- historical territorial conditions,
+- Colonist state,
+- maturity,
+- population,
+- Permanent Nature,
+- Dormant Land,
+- and other deterministic relationships.
 
-Nothing needs to become a world yet.
+But SolumTools does not invent their meaning.
 
-The first requirement is simpler:
+> **Canonical rules define the meaning.**
+>
+> **SolumTools makes that meaning observable through deterministic data.**
 
-> **See the truth before interpreting it.**
+This distinction protects Zipvilization from becoming a narrative imposed on arbitrary numbers.
 
-Chapter 1 establishes observability before meaning.
+The data must correspond to something real.
 
-→ **[Enter Chapter 1 — Observability](/chapters/observability/)**
+> **OBSERVE does not mean invent.**
+
+→ **[Enter Chapter 1 — Observability](/chapters/observability/)**  
+→ **[Explore SolumTools](/world/solumtools/)**
 
 ---
 
-# Chapter 2 — Territory & World Coherence
+# Chapter 2 — Territory / World
 
-## Become a world
+## WORLD
 
-Observable numbers are not yet a world.
+Observable data is not yet an experience of a world.
 
-Chapter 2 introduces canonical world meaning.
+But the world does not receive its canonical meaning from its visualization.
 
-The foundational relationship:
+That meaning already exists in the rules.
+
+The foundational territorial relationship is:
 
 > **1 SOLUM = 1 m²**
 
-allows blockchain state to acquire territorial interpretation.
+From those rules, deterministic state can describe:
 
-Balances can become territorial capacity.
+- Dormant Land,
+- Active Territory,
+- Permanent Nature,
+- Farms,
+- Cities,
+- States,
+- Kingdoms,
+- territorial capacity,
+- maturity,
+- population,
+- and History.
 
-Pool-held SOLUM can become Dormant Land.
+SolumWorld does not create those truths.
 
-Burned SOLUM can become Permanent Nature.
+It represents them.
 
-Territorial structure becomes coherent.
+The authority boundary is:
 
-This is where SolumWorld becomes fundamental.
-
-> **State is no longer only read.**
+> **Canonical state determines what is true on Solum.**
 >
-> **It can now be interpreted as a world.**
+> **SolumWorld determines how that truth is represented at planetary scale.**
 
-→ **[Enter Chapter 2 — Territory & World Coherence](/chapters/territory-world/)**
+That distinction allows representation to become creative without allowing the data to become fictional.
 
----
+A Farm does not exist because a Farm appears on screen.
 
-# Chapter 3 — Colonists & Roles
+Permanent Nature does not exist because the map paints something differently.
 
-## Have actors
+A City does not become mature because an animation looks complete.
 
-A world without actors is still incomplete.
+The world representation follows canonical reality.
 
-Chapter 3 introduces the human participant into the world model.
+It does not create it.
 
-At blockchain level:
+> **WORLD means making canonical territorial reality understandable as a world.**
 
-> **address / Holder**
-
-Inside Zipvilization:
-
-> **Colonist**
-
-The underlying identity is not erased.
-
-It is interpreted.
-
-Behaviour can begin to matter.
-
-Participation can begin to acquire meaning.
-
-Roles can emerge from observable state without becoming arbitrary ranks.
-
-> **Behavior before intention.**
-
-Chapter 3 gives the world actors.
-
-It does not yet write their history.
-
-→ **[Enter Chapter 3 — Colonists & Roles](/chapters/colonists-roles/)**
+→ **[Enter Chapter 2 — Territory / World](/chapters/territory-world/)**  
+→ **[Explore Territory](/world/territories/)**  
+→ **[Explore SolumWorld](/world/solumworld/)**
 
 ---
 
-# Chapter 4 — Time, History & Evolution
+# Chapter 3 — Colonists / Roles
 
-## Remember
+## ACT
 
-Until this point, Zipvilization can still be understood largely as a state.
+A world becomes fundamentally different when independent Humans can participate in it.
 
-Chapter 4 changes that.
+But participation requires identity to be interpreted correctly.
 
-Time becomes structural.
+The canonical path begins:
 
-The world begins to accumulate:
+**ADDRESS**
 
-- development,
-- transitions,
-- territorial history,
-- Colonist history,
-- population history,
-- irreversible consequences.
+↓
 
-The system moves from:
+**HOLDER**
+
+↓
+
+**COMPLETE FARM THRESHOLD**
+
+`≥ 8,000,000 SOLUM`
+
+↓
+
+**COLONIST**
+
+↓
+
+**ACTIVE TERRITORY**
+
+A Holder is not automatically a Colonist.
+
+A wallet below the Farm threshold does not automatically have Active Territory.
+
+And territorial scale does not automatically create authority.
+
+Chapter 3 therefore does not simply rename blockchain addresses.
+
+It establishes the conditions under which a Human participant becomes meaningful inside Zipvilization.
+
+This is where:
+
+- participation can acquire History,
+- behavior can become observable,
+- relationships can develop,
+- roles may emerge,
+- and different Colonists can create different territorial histories.
+
+But:
+
+> **ACT does not mean CONTROL.**
+
+A Colonist is not a player receiving absolute command over a game board.
+
+Territory is not a game board.
+
+Zips are not player units.
+
+Roles are not arbitrary ranks assigned because a wallet is large.
+
+Participation matters because independent Humans introduce intention, decisions and unpredictability into a shared world.
+
+> **COLONIST = PARTICIPANT**
+>
+> **PARTICIPATION ≠ CONTROL**
+
+This distinction becomes increasingly important when Zipvilization eventually moves beyond observation toward deeper interaction.
+
+→ **[Enter Chapter 3 — Colonists / Roles](/chapters/colonists-roles/)**  
+→ **[Explore Colonists](/world/colonists/)**
+
+---
+
+# Chapter 4 — Time / History
+
+## REMEMBER
+
+Genesis begins canonical History.
+
+Chapter 4 does not create that beginning.
+
+It establishes something deeper:
+
+> **Zipvilization cannot be understood only from its current state.**
+
+A current balance can tell us something about the present.
+
+It cannot, by itself, tell us everything that happened before.
+
+A current Territory can have a past.
+
+A Colonist can have a history.
+
+A Farm can have accumulated valid biological Time.
+
+Zips can have emerged under conditions that no longer exist.
+
+Later transfers can change future capacity without erasing earlier valid events.
+
+The system therefore requires a distinction between:
+
+`STATE`
+
+and:
+
+`HISTORY`
+
+Or:
 
 `SNAPSHOT`
 
-to:
+and:
 
 `TIMELINE`
 
-This is where canonical time, Bloch, Zips and territorial maturity become especially important.
+This is where the relationship between Territory, Farms, Bloch, Time and Zips becomes especially important.
 
-A Farm is no longer merely a configuration.
+**Territory**
 
-It can have an age.
+provides capacity.
 
-A Territory can have a past.
+**Farms**
 
-A Zip can have a history.
+provide the primary population-generation rate.
 
-> **The world begins to remember.**
+**Bloch**
 
-And memory creates the conditions for civilization.
+provides the canonical digital-genetic emergence mechanism.
 
-→ **[Enter Chapter 4 — Time, History & Evolution](/chapters/time-history/)**
+**Time**
+
+provides the required block-based duration.
+
+**History**
+
+records what validly occurred.
+
+Together they allow development to mean something.
+
+A Farm is not mature merely because enough blocks currently exist somewhere on-chain.
+
+A City does not acquire a historical population retroactively because additional SOLUM arrives later.
+
+Current balance alone does not reconstruct historical maturity.
+
+> **Current state ≠ complete History**
+
+And:
+
+> **A transfer changes future state.**
+>
+> **It does not rewrite valid History.**
+
+REMEMBER therefore protects one of the most important properties of Zipvilization:
+
+the world can acquire a past that later participants cannot simply redefine.
+
+→ **[Enter Chapter 4 — Time / History](/chapters/time-history/)**  
+→ **[Explore Time](/world/time/)**  
+→ **[Explore Zips](/world/zips/)**
 
 ---
 
-# Chapter 5 — Emergence, Community & Open Horizon
+# Chapter 5 — Emergence
 
-## Emerge
+## EMERGE
 
-Chapter 5 is different.
-
-It is not simply another feature layer.
-
-It represents the point at which the structures established before it can begin producing outcomes that were not individually scripted at Genesis.
-
-Population exists.
+Emergence is where the foundations begin to matter together.
 
 Territory exists.
 
-Actors exist.
+Colonists participate.
 
-Time exists.
+Zips can emerge.
 
-History exists.
+Time accumulates.
 
-Interactions accumulate.
+History develops.
 
-Patterns can emerge.
+Territories can acquire different pasts.
 
-Community can matter structurally.
+Individuals can acquire different contexts.
 
-Artificial Intelligence can observe increasingly complex relationships.
+Human decisions can diverge.
 
-Larger forms of organization can become possible.
+Patterns can appear.
 
-And the founding Human can no longer pretend to know every future outcome.
+Relationships can become meaningful.
 
-> **Chapter 5 is not a feature.**
+And consequences can exist that were not individually written as a predetermined final outcome.
+
+This does not mean anything is allowed.
+
+Emergence still operates inside canonical constraints.
+
+Blockchain evidence remains evidence.
+
+Canonical rules remain authoritative.
+
+History cannot be rewritten.
+
+Representation cannot create truth.
+
+Participation does not become control.
+
+But within those boundaries:
+
+> **the same foundations do not require every Territory to acquire the same History.**
+
+Two Territories with equivalent capacity do not necessarily need equivalent identity.
+
+Two Colonists do not need to create equivalent histories.
+
+Zips do not need to become interchangeable units.
+
+The world can begin acquiring differentiation.
+
+That is the meaning of:
+
+> **EMERGE**
+
+Chapter 5 does not define the final civilization.
+
+It establishes that Zipvilization must remain capable of producing coherent consequences that were not individually scripted in advance.
+
+> **The foundations are designed.**
 >
-> **It is a condition.**
-
-This is where Horizonte becomes essential.
+> **The consequences are discovered.**
 
 → **[Enter Chapter 5 — Emergence](/chapters/emergence/)**
 
 ---
 
-# The layers behind the Chapters
+# After Chapter 5
 
-The Chapters do not replace the architecture of Zipvilization.
+There is no canonical:
 
-They describe when its layers become meaningful.
+`CHAPTER 6 — EVERYTHING ELSE`
 
-A useful reading is:
+There is:
 
-**Solum**
+# ?
 
-defines the executable substrate.
+# HORIZONTE
+
+`OPEN`
+
+This distinction is deliberate.
+
+The Chapters establish the foundational DNA.
+
+They do not enumerate every future system that may eventually exist.
+
+After the defined foundations, Zipvilization reaches a boundary where future possibilities become increasingly dependent on:
+
+- real Colonists,
+- real Territory,
+- real Zips,
+- real maturity,
+- real participation,
+- real interaction,
+- real History,
+- technological development,
+- experimentation,
+- and discoveries that have not happened yet.
+
+Horizonte exists precisely so that this future does not need to be falsified in advance.
+
+> **The foundation is defined.**
+>
+> **The possibilities are not.**
+
+→ **[Explore Horizonte](/trinomial/horizonte/)**
+
+---
+
+# Chapters and development are not the same thing
+
+This is one of the most important distinctions in the project.
+
+The Chapters describe foundational meaning.
+
+Development builds the systems through which that meaning becomes usable, observable and experienceable.
+
+Those two processes are related.
+
+They are not identical.
+
+For example:
+
+SolumTools can be developed before Genesis.
+
+SolumWorld can be developed before Genesis.
+
+SolumView can be prototyped before a mature living world exists.
+
+Interaction can be researched and tested before its final canonical form is known.
+
+None of those facts changes the meaning of the Chapters.
+
+Similarly, Genesis does not require every later interface to be complete before canonical History can begin.
+
+> **Chapter structure ≠ software release order**
+
+This allows the project to build ahead without pretending that testing is History or that a prototype is already canonical reality.
+
+---
+
+# The observation layer
+
+A large part of the development path is already understandable.
+
+Zipvilization first needs to make canonical reality accessible.
+
+That produces an experiential progression:
+
+**READ**
 
 ↓
 
-**SolumTools**
-
-makes state observable.
+**SEE**
 
 ↓
 
-**SolumWorld**
-
-gives state canonical world meaning.
+**ENTER**
 
 ↓
 
-**SolumView**
+**EXPERIENCE**
 
-makes valid world state visible.
+SolumTools, SolumWorld and SolumView approach the same world at different depths.
 
-↓
+## SolumTools — DATA / READ
 
-**Zipvilization**
+SolumTools is the principal deterministic observation layer.
 
-allows those layers to coexist as an observable civilization experiment.
+It reads evidence and applies canonical rules to expose meaningful Zipvilization data.
 
-↓
+It can begin with data even before a rich world exists.
 
-**Chapters**
+## SolumWorld — WORLD / SEE
 
-describe the structural conditions under which each level becomes meaningful.
+SolumWorld represents Solum at planetary scale.
+
+It can begin with a planet and become richer as canonical Territory, History, population and activity exist to represent.
+
+## SolumView — LIFE / ENTER / EXPERIENCE
+
+SolumView moves deeper.
+
+It enters individual Territory and turns valid state into an increasingly rich experience.
+
+But SolumView has a special dependency:
+
+> **SolumTools can begin with data.**
+>
+> **SolumWorld can begin with a planet.**
+>
+> **SolumView needs a living world.**
+
+Its deepest expression therefore depends on the world producing enough real state and History to experience.
+
+The progression is not:
+
+`fiction → reality`
+
+It is:
+
+`reality → increasingly deep access to reality`
+
+And throughout that progression:
+
+> **Visual life may be simulated.**
+>
+> **Canonical truth may not.**
 
 ---
 
 # SolumView is different
 
-SolumView is deliberately not forced into a Chapter simply because it is one of the major project layers.
+SolumView does not need its own Chapter.
 
-Visualization follows valid state.
+It is an experiential layer that can deepen across the foundational structure.
 
-As more of Zipvilization becomes meaningful, more of that state can become visible.
+Early SolumView may represent relatively simple Territory.
 
-SolumView therefore evolves across the Chapters.
+Later it may represent:
 
-It can begin with simple state representation.
+- developed Territory,
+- structures,
+- Zips,
+- activity,
+- maturity,
+- historical differences,
+- movement,
+- and increasingly rich local life.
 
-Later it can render Territory.
+Some of that life may be visually simulated.
 
-Later still it can render development, Zips, activity, history and increasingly complex civilization.
+That is acceptable as representation.
 
-> **SolumView does not decide what exists.**
+What matters is that simulation is not silently converted into canonical truth.
+
+A Zip walking toward a building on screen does not automatically create a canonical event.
+
+An animation does not rewrite History.
+
+A visual activity is not automatically a canonical interaction.
+
+> **SolumView is where Territory becomes an experience.**
 >
-> **It reveals what the valid state allows us to see.**
+> **It is not where canonical truth is invented.**
+
+→ **[Explore SolumView](/world/solumview/)**
 
 ---
 
-# Chapters are cumulative
+# What we can build
 
-Entering a new Chapter does not erase the previous one.
+Horizonte should not be confused with technological helplessness.
 
-Chapter 1 still depends on Genesis.
+The future is open, but the project does not begin from an empty technical idea.
 
-Chapter 2 still depends on observable state.
+The foundations already include substantial defined and developed work:
 
-Chapter 3 still depends on a coherent world.
+- the Smart Contract,
+- canonical territorial rules,
+- Territory,
+- Farms,
+- Time,
+- History,
+- Bloch,
+- population relationships,
+- maturity relationships,
+- deterministic state interpretation,
+- the architecture of the dApp,
+- and the observation model connecting data, world and experience.
 
-Chapter 4 still depends on actors and Territory.
+With the resources available to the project today, development can continue through substantial parts of the observation and experience stack.
 
-Chapter 5 still depends on accumulated history.
+That includes progressively developing:
 
-Therefore:
+**CANONICAL REALITY**
 
-`CHAPTER(n) REQUIRES CHAPTER(n-1)`
+↓
 
-Conceptually, the system accumulates capability.
+**SOLUMTOOLS**
 
-It does not repeatedly replace its foundation.
+`DATA / READ`
 
----
+↓
 
-# Chapters are not dates
+**SOLUMWORLD**
 
-No Chapter should be understood as:
+`WORLD / SEE`
 
-`Q3 2027`
+↓
 
-or:
+**SOLUMVIEW**
 
-`launch next month`
+`LIFE / ENTER / EXPERIENCE`
 
-unless a separate public schedule explicitly states that.
+How deep each layer can become will also depend on the amount of real world state available to represent.
 
-The Chapter structure answers:
+A world with little History cannot honestly display centuries of History.
 
-> **What must become true?**
+A Territory with no Zips cannot honestly be represented as densely populated canonical life.
 
-Not:
+Development capacity and world maturity are different constraints.
 
-> **What date do we promise?**
-
-This distinction protects the project from pretending that complex systems can be made real merely by assigning them deadlines.
-
----
-
-# Chapters are not feature drops
-
-A Chapter can contain technical development.
-
-But its meaning is larger than a list of features.
-
-For example:
-
-Chapter 1 is not simply:
-
-> “release SolumTools”
-
-It means:
-
-> **the system has become sufficiently observable for its state to be inspected reliably.**
-
-Likewise, Chapter 4 is not simply:
-
-> “add Zips”
-
-It means:
-
-> **the world has acquired canonical time, accumulated change and history.**
-
-The technology serves the structural transition.
-
-The transition defines the Chapter.
+Both matter.
 
 ---
 
-# Chapters are not guaranteed outcomes
+# Resources can change depth, not the foundations
 
-The architecture can define conditions.
+Zipvilization is not designed on the assumption that future Treasury resources must arrive before its foundations can exist.
 
-It cannot honestly guarantee the civilization those conditions will produce.
+The foundation is not conditional on future fundraising.
 
-This distinction becomes increasingly important as Zipvilization advances.
+Additional resources can matter.
 
-Early Chapters can be highly explicit.
+They may increase:
 
-Later Chapters necessarily encounter more:
+- development speed,
+- infrastructure capacity,
+- experimentation,
+- representational depth,
+- operational resilience,
+- research capacity,
+- and the number of coherent possibilities that can be explored.
 
-- interaction,
-- collective behaviour,
-- governance,
-- economic complexity,
-- social structure,
-- emergent patterns,
-- unknown outcomes.
+But resources do not redefine:
 
-Therefore certainty decreases as the system approaches Horizonte.
+- what SOLUM means,
+- what Territory means,
+- what History means,
+- what a Colonist is,
+- what canonical truth is,
+- or what the Chapters are.
+
+> **Resources can expand capacity.**
+>
+> **They do not replace Canon.**
+
+This distinction allows Zipvilization to grow without making its foundational legitimacy dependent on an unknown future Treasury.
+
+---
+
+# From observation to interaction
+
+Observation is not necessarily the final boundary of the dApp.
+
+As Zipvilization gains enough real Territory, Zips, maturity, activity and History, a deeper question becomes meaningful:
+
+> **What can a Colonist do inside this world?**
+
+That is the beginning of the Interaction boundary.
+
+The experiential progression can continue:
+
+**READ**
+
+↓
+
+**SEE**
+
+↓
+
+**ENTER**
+
+↓
+
+**EXPERIENCE**
+
+↓
+
+**INTERACT**
+
+↓
+
+**?**
+
+But `INTERACT` does not mean:
+
+`CLICK → COMMAND WORLD`
+
+And it does not mean:
+
+`COLONIST → CONTROLS ZIPS`
+
+The canonical relationship must remain stricter:
+
+**HUMAN INTENTION**
+
+↓
+
+**VALID INTERACTION**
+
+↓
+
+**DEFINED CANONICAL PATH**
+
++
+
+**WORLD CONDITIONS**
+
+↓
+
+**VALID CONSEQUENCE**
+
+A Human may introduce intention.
+
+The world may respond through valid rules.
+
+But intention alone does not manufacture canonical truth.
+
+> **Influence ≠ command**
+>
+> **Participation ≠ control**
+
+This is where the future becomes especially interesting.
+
+It is also where documentation must become especially disciplined.
+
+→ **[Explore Interaction](/dapp/interaction/)**
+
+---
+
+# Interaction is not Chapter 6
+
+Interaction may become one of the deepest future layers of the dApp.
+
+That does not make it a new canonical Chapter.
+
+The Chapters and the dApp describe different structures.
+
+The Chapters define foundational DNA:
+
+> **EXIST → OBSERVE → WORLD → ACT → REMEMBER → EMERGE**
+
+The dApp describes increasing access to the world:
+
+> **READ → SEE → ENTER → EXPERIENCE → INTERACT → ?**
+
+They intersect.
+
+They are not interchangeable.
+
+This distinction allows Interaction to evolve without forcing every future discovery into an artificial Chapter sequence.
+
+---
+
+# What Interaction may become
+
+This is deliberately not fully defined.
+
+Zipvilization does not currently have a final canonical:
+
+- Interaction engine,
+- Zip autonomy model,
+- Colonist control model,
+- social simulation,
+- economic simulation,
+- political simulation,
+- or complete Territory participation model.
+
+Some of these areas can be researched.
+
+Some can be prototyped.
+
+Some can be tested.
+
+Some may eventually become coherent parts of Zipvilization.
+
+Others may not.
+
+> **Experimental ≠ canonical**
+>
+> **Possible ≠ promised**
+
+The correct response to an undefined future mechanism is not to invent one.
+
+It is to explore it without pretending that exploration has already produced Canon.
+
+---
+
+# Discovery
+
+Not every important part of Zipvilization needs to have been predicted at the beginning.
+
+Development can reveal consequences that were not obvious from the original specification.
+
+The process can be understood as:
+
+**DEFINE**
+
+↓
+
+**BUILD**
+
+↓
+
+**TEST**
+
+↓
+
+**OBSERVE**
+
+↓
+
+**DISCOVER**
+
+↓
+
+**VALIDATE AGAINST CANON**
+
+↓
+
+**CONSOLIDATE IF COHERENT**
+
+This is controlled discovery.
+
+Not arbitrary improvisation.
+
+A discovery that contradicts canonical foundations is not automatically accepted because it is interesting.
+
+A visual experiment is not automatically Canon.
+
+A prototype is not automatically Canon.
+
+An unexpected consequence is not automatically invalid either.
+
+The important question is whether what has been discovered is coherent with what must remain true.
+
+GEN provides an established example.
+
+GEN was not originally specified as the central character that later emerged during visual development.
+
+The development process revealed a coherent possibility.
+
+That possibility was examined.
+
+Its meaning became deeper.
+
+And GEN became part of Zipvilization.
+
+> **GEN was not the execution of a roadmap.**
+>
+> **GEN was a discovery.**
+
+This does not mean every discovery becomes Canon.
+
+It demonstrates something more important:
+
+> **The foundations can remain stable while their consequences become deeper.**
 
 ---
 
 # Defined evolution and open evolution
 
-The early architecture of Zipvilization can be designed deliberately.
+Some parts of Zipvilization can be deliberately engineered.
 
-Contracts can be specified.
+Contracts can be written.
+
+Rules can be defined.
 
 Observation can be built.
 
-World rules can be defined.
+Representations can be developed.
 
-Visualization can be implemented.
+Canonical Time can be specified.
 
-Canonical time can be established.
+Historical reconstruction can be deterministic.
 
-But eventually the experiment reaches a boundary.
+Interfaces can improve.
 
-If every later political structure, economic outcome, alliance, conflict, social behaviour and historical event were predetermined by the founders...
+Interaction can be researched.
 
-there would be no civilization experiment.
+But eventually the project reaches questions that cannot honestly be answered before the world exists deeply enough to ask them.
+
+What relationships will matter between Zips?
+
+What identities will Territories develop?
+
+What patterns will Colonists create?
+
+What forms of cooperation or competition may become meaningful?
+
+What social structures could emerge?
+
+What new forms of interaction will prove coherent?
+
+What will Humans discover that was not anticipated?
+
+Those questions belong increasingly to Horizonte.
+
+If every later political structure, economic outcome, alliance, conflict, social behavior and historical event were predetermined by the founders, there would be no civilization experiment.
 
 There would be a script.
 
@@ -539,39 +1161,216 @@ Zipvilization deliberately rejects that destination.
 >
 > **History must be allowed to happen.**
 
+And:
+
+> **We know what must remain true.**
+>
+> **We do not know everything that truth will make possible.**
+
 ---
 
 # Beyond the foundational Chapters
 
-The six foundational Chapters establish the path from Genesis to emergence.
+Future Zipvilization may become substantially deeper than what exists today.
 
-That does not mean Zipvilization necessarily ends at Chapter 5.
+Possible directions can include:
 
-Later structural developments may become possible.
+- richer interaction,
+- relationships,
+- specialization,
+- social structures,
+- cooperation,
+- competition,
+- alliances,
+- conflicts,
+- politics,
+- resources,
+- markets,
+- cultural expression,
+- territorial identity,
+- institutions,
+- NFTs,
+- or systems that have not yet been imagined.
 
-Large territorial organization.
+These are examples of possibility.
 
-States.
+They are **not committed roadmap items**.
 
-Kingdoms.
+They should not be interpreted as promises.
 
-Cooperative structures.
+They should not be assigned artificial release dates.
 
-Governance.
+And they should not be treated as canonical simply because they are imaginable.
 
-Redistribution.
+Some things often associated with those possibilities already exist at a different level of Canon.
 
-Planetary coordination.
+For example:
 
-Potential evolution beyond the founding Human core.
+**State** and **Kingdom** are already canonical territorial scales.
 
-Some of these directions already exist in project research and internal development.
+That does not mean they already possess governments, political authority, diplomacy or social institutions.
 
-But they must not be presented as current implemented reality before their canonical conditions are defined.
+Territorial scale does not automatically create political structure.
 
-Chapter 5 therefore opens a boundary rather than closing the roadmap.
+This distinction is essential.
 
-> **Beyond emergence, Horizonte matters more than prediction.**
+> **A canonical substrate can exist before the civilization that may eventually use it.**
+
+---
+
+# Horizonte
+
+Horizonte is not a placeholder for unfinished documentation.
+
+It is not a hidden roadmap.
+
+It is not the name of a predetermined final phase.
+
+And it is not permission to ignore Canon.
+
+Horizonte is the canonical open boundary beyond the defined foundations.
+
+It protects the possibility that real participation, real History and real development may reveal coherent directions that cannot be known today.
+
+The Core preserves truth.
+
+The dApp makes that truth accessible and experienceable.
+
+The Chapters establish the DNA.
+
+Horizonte keeps the future open.
+
+> **The foundation is defined.**
+>
+> **The possibilities are not.**
+
+That is not uncertainty to be eliminated.
+
+It is a property to be preserved.
+
+→ **[Explore Horizonte](/trinomial/horizonte/)**  
+→ **[Explore the Trinomial](/trinomial/)**
+
+---
+
+# Chapters are cumulative
+
+The Chapters remain meaningful together.
+
+Not because Zipvilization must mechanically complete one software release before starting another.
+
+But because later meaning cannot invalidate earlier foundations.
+
+Emergence cannot invalidate History.
+
+History cannot invalidate participation.
+
+Participation cannot invalidate Territory.
+
+Representation cannot invalidate observable truth.
+
+Observation cannot invalidate canonical existence.
+
+New layers may expand Zipvilization.
+
+They may not retroactively rewrite its canonical state, valid History or foundational truth.
+
+> **Expansion can add possibility.**
+>
+> **It cannot erase the foundation that made that possibility meaningful.**
+
+---
+
+# Chapters are not dates
+
+No Chapter means:
+
+`Q3 2027`
+
+or:
+
+`LAUNCH NEXT MONTH`
+
+unless a separate dated source explicitly states such a schedule.
+
+Chapters do not answer:
+
+> **When do we promise this?**
+
+They answer:
+
+> **What must remain structurally meaningful?**
+
+Development schedules can change.
+
+Technical priorities can change.
+
+Resources can change.
+
+Representations can improve.
+
+The Chapter DNA should not need to change every time development does.
+
+---
+
+# Chapters are not feature drops
+
+Chapter 1 is not:
+
+> “release SolumTools.”
+
+Chapter 2 is not:
+
+> “release SolumWorld.”
+
+Chapter 4 is not:
+
+> “add Zips.”
+
+Chapter 5 is not:
+
+> “activate civilization.”
+
+Those systems and concepts relate to the Chapters, but they are not equivalent to them.
+
+Technology implements, exposes or experiences foundational meaning.
+
+It does not replace that meaning.
+
+---
+
+# Chapters are not guaranteed outcomes
+
+The Chapters define conditions.
+
+They do not guarantee what civilization those conditions will eventually produce.
+
+This distinction becomes more important as the world becomes deeper.
+
+Early technical relationships can be highly deterministic.
+
+For example:
+
+- supply can be known,
+- balances can be read,
+- territorial thresholds can be defined,
+- maturity rules can be calculated from valid History.
+
+But a future civilization is not reducible to one deterministic output.
+
+Human participation introduces intention and unpredictability.
+
+Zips introduce individuals.
+
+History introduces path dependence.
+
+Interaction may introduce new valid consequences.
+
+Horizonte preserves what remains open.
+
+> **We define the conditions.**
+>
+> **We do not define the outcome.**
 
 ---
 
@@ -579,160 +1378,312 @@ Chapter 5 therefore opens a boundary rather than closing the roadmap.
 
 For a Human:
 
-follow them in order.
+read the Chapters as the foundations of the experiment.
 
-They explain why each new layer becomes possible.
+They explain why Zipvilization can grow without requiring its final form to be predetermined.
 
 For a developer:
 
-treat them as dependency boundaries.
+treat them as semantic constraints.
 
-Do not implement a later semantic layer by silently inventing an earlier one.
+Do not implement a representation, interaction or future layer by silently redefining an earlier canonical foundation.
 
 For Artificial Intelligence:
 
-treat Chapter order as structural context.
+treat the Chapters as foundational context, not a predictive roadmap.
 
-A statement about a later Chapter must not be projected backward into Genesis.
+Do not:
 
-A future possibility must not be interpreted as current state.
+- project future possibilities backward into current state,
+- convert examples into promises,
+- infer a Chapter 6,
+- treat Interaction as a predetermined feature set,
+- convert Horizonte into an answer,
+- treat experimental systems as canonical,
+- or use later representations to override canonical truth.
 
-A historical document must not override current canon merely because it contains more detail.
+If a future mechanism is not defined, preserve that absence.
+
+> **OPEN ≠ MISSING**
 
 ---
 
 # Canonical discipline
 
-Every Chapter should distinguish between:
+The V2 status vocabulary matters here.
 
 `DEFINED`
 
-`IMPLEMENTED`
+The meaning or rule is established.
 
-`OBSERVABLE`
+`DEVELOPED`
 
-`PLANNED`
+A technical implementation exists.
 
-`CONCEPTUAL`
+`TESTED`
+
+That implementation has been exercised or validated in testing.
+
+`LIVE`
+
+It operates in the official canonical environment.
+
+`MATURE`
+
+It has reached the relevant mature state.
+
+`DATA_DEPENDENT`
+
+Its meaningful expression depends on real canonical data or History.
+
+`EXPERIMENTAL`
+
+It is being explored without automatic canonical status.
 
 `OPEN`
 
+Its final form is intentionally unresolved.
+
 These states are not interchangeable.
 
-Something can be conceptually important without being implemented.
-
-Something can be implemented without yet being visible.
-
-Something can be observable without having world meaning.
-
-Something can be possible without being canonical.
-
-> **Possibility is not implementation.**
+> **DEFINED ≠ DEVELOPED**
 >
-> **Documentation is not execution.**
+> **DEVELOPED ≠ TESTED**
 >
-> **Narrative is not state.**
+> **TESTED ≠ LIVE**
+>
+> **LIVE ≠ MATURE**
+>
+> **EXPERIMENTAL ≠ CANONICAL**
+>
+> **OPEN ≠ MISSING**
+>
+> **POSSIBLE ≠ PROMISED**
+
+This discipline matters increasingly as Zipvilization approaches Horizonte.
 
 ---
 
 # The complete arc
 
+The Chapters:
+
 `0 — EXIST`
 
-The substrate becomes real.
+**Genesis**
+
+Canonical History can begin.
 
 ↓
 
 `1 — OBSERVE`
 
-The state becomes legible.
+**Observability**
+
+Canonical reality becomes legible.
 
 ↓
 
 `2 — WORLD`
 
-The state acquires territorial meaning.
+**Territory / World**
+
+Canonical territorial reality can be understood as a world.
 
 ↓
 
-`3 — ACTORS`
+`3 — ACT`
 
-The world gains participants.
+**Colonists / Roles**
+
+Independent Human participation acquires meaning.
 
 ↓
 
 `4 — REMEMBER`
 
-Time turns state into history.
+**Time / History**
+
+The world preserves what validly happened.
 
 ↓
 
 `5 — EMERGE`
 
-History creates possibilities the founders cannot completely prescribe.
+**Emergence**
+
+The foundations can produce differentiated consequences without requiring a predetermined final civilization.
+
+↓
+
+`? — OPEN`
+
+# HORIZONTE
+
+The future remains capable of discovery.
+
+---
+
+# A second arc: access to the world
+
+The Chapters should not be confused with the experiential development of the dApp.
+
+That second arc is:
+
+`READ`
+
+↓
+
+`SEE`
+
+↓
+
+`ENTER`
+
+↓
+
+`EXPERIENCE`
+
+↓
+
+`INTERACT`
 
 ↓
 
 `?`
 
-**HORIZONTE**
+Or:
+
+**SolumTools**
+
+↓
+
+**SolumWorld**
+
+↓
+
+**SolumView**
+
+↓
+
+**Interaction**
+
+↓
+
+**Horizonte**
+
+One describes foundational DNA.
+
+The other describes increasing depth of access and participation.
+
+Together they explain how Zipvilization can have a stable foundation while its experience continues evolving.
 
 ---
 
 # The purpose
 
-The Chapters exist so that Zipvilization does not pretend to be something before it has earned the right to become it.
+The Chapters exist so that Zipvilization can grow without confusing growth with reinvention.
 
-First:
+They protect the foundations.
 
-> **exist**
+Development builds on them.
 
-Then:
+Genesis begins canonical History.
 
-> **observe**
+History records what actually happens.
 
-Then:
+Observation makes it understandable.
 
-> **interpret**
+Experience makes it accessible.
 
-Then:
+Interaction may allow Humans to participate more deeply.
 
-> **inhabit**
+Discovery may reveal consequences we did not originally anticipate.
 
-Then:
+And Horizonte prevents us from pretending that we already know the ending.
 
-> **remember**
+The relationship is:
 
-And only then:
+**FOUNDATIONS**
 
-> **allow something larger to emerge.**
+↓
+
+**DEVELOPMENT**
+
+↓
+
+**GENESIS**
+
+↓
+
+**HISTORY**
+
+↓
+
+**OBSERVATION**
+
+↓
+
+**EXPERIENCE**
+
+↓
+
+**INTERACTION**
+
+↓
+
+**DISCOVERY**
+
+↓
+
+**?**
+
+# HORIZONTE
 
 ---
 
-`CHAPTERS ................. 0 → 5`
+`CHAPTERS ................. FOUNDATIONAL DNA`
 
-`BEGINNING ................ GENESIS`
+`CHAPTER 0 ................ EXIST`
 
-`SUBSTRATE ................ SOLUM`
+`CHAPTER 1 ................ OBSERVE`
 
-`OBSERVABILITY ............ SOLUMTOOLS`
+`CHAPTER 2 ................ WORLD`
 
-`WORLD .................... SOLUMWORLD`
+`CHAPTER 3 ................ ACT`
 
-`VISUALIZATION ............ SOLUMVIEW`
+`CHAPTER 4 ................ REMEMBER`
 
-`HISTORY .................. ACCUMULATIVE`
+`CHAPTER 5 ................ EMERGE`
 
-`EMERGENCE ................ OPEN`
+`OBSERVATION .............. TOOLS → WORLD → VIEW`
+
+`INTERACTION .............. OPEN / EXPERIMENTAL`
+
+`CANONICAL HISTORY ........ BEGINS AT GENESIS`
+
+`FUTURE TREASURY .......... NOT REQUIRED FOR THE FOUNDATION`
+
+`FUTURE DEPTH ............. CAN EXPAND WITH RESOURCES + HISTORY`
 
 `FINAL SCRIPT ............. NONE`
 
-`HORIZON .................. OPEN`
+`HORIZONTE ................ OPEN`
+
+---
+
+> **The Chapters define what must remain true.**
+>
+> **Development determines what we can build.**
+>
+> **History determines what actually happens.**
+>
+> **Discovery reveals consequences.**
+>
+> **Horizonte preserves what we cannot yet know.**
 
 ---
 
 > **We define the conditions.**
 >
-> **The Chapters define when those conditions become meaningful.**
->
-> **History defines what happens next.**
+> **We do not define the outcome.**
