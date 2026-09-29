@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Aster — Requirements
 
 Aster coordinates environmental measurements collected by distributed field sensors.
