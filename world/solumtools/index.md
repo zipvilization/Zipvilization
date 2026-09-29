@@ -4,9 +4,9 @@ title: SolumTools
 parent: The World
 nav_order: 7
 description: >
-  SolumTools is the data translation layer of Zipvilization. It reads blockchain,
-  contract, Pool, and block progression data, applies canonical rules, and translates
-  technical state into deterministic Zipvilization state.
+  SolumTools is the deterministic data layer of Zipvilization. It reads blockchain
+  state and history, applies canonical rules, and translates technical evidence
+  into readable world state for Humans, AI, and the dApp.
 permalink: /world/solumtools/
 ---
 
@@ -16,11 +16,9 @@ Blockchain records what happens.
 
 SolumTools translates what that means inside Zipvilization.
 
-**SolumTools is the data translation and observation layer of Zipvilization.**
+**SolumTools is the deterministic data and translation layer of Zipvilization.**
 
-It reads relevant blockchain state, including contract and Pool data, incorporates block progression, applies explicit canonical rules, and exposes the result in the language of the world.
-
-It is the closest Zipvilization layer to raw blockchain data.
+It reads relevant blockchain state and history, applies explicit canonical rules, derives the corresponding world state, and exposes the result in a form that Humans, AI, and the dApp can understand.
 
 It does not create SOLUM.
 
@@ -32,7 +30,7 @@ It does not accelerate Time.
 
 It does not invent Territory.
 
-It does not create civilization.
+It does not create Civilization.
 
 It reads.
 
@@ -42,14 +40,14 @@ It translates.
 
 It exposes.
 
-> **SolumTools translates blockchain state into Zipvilization state.**
+> **SolumTools translates blockchain state and history into readable Zipvilization state.**
 
 → **[Explore The World](/world/)**  
 → **[Continue to SolumWorld](/world/solumworld/)**
 
 ---
 
-# The Basic Model
+# The Foundation
 
 At the technical layer, Zipvilization begins with measurable facts:
 
@@ -59,124 +57,129 @@ At the technical layer, Zipvilization begins with measurable facts:
 - supply,
 - contract state,
 - Pool state,
-- burn,
-- blocks,
-- contract events,
-- and transaction history.
+- Burn,
+- events,
+- block progression,
+- transaction history,
+- and historical state.
 
-Those facts are precise.
+Canonical Rules define what those facts mean inside Zipvilization.
 
-But they are not yet expressed in the language of Zipvilization.
+SolumTools applies those rules.
 
-Canonical rules provide the relationship between both languages.
+The fundamental direction is:
 
-SolumTools applies those rules and exposes the resulting state.
-
-**BLOCKCHAIN + CONTRACT + POOL + BLOCK PROGRESSION**  
+**BLOCKCHAIN STATE + HISTORY**  
 ↓  
 **CANONICAL RULES**  
 ↓  
-**SOLUMTOOLS** — Read → Derive → Translate → Expose  
+**SOLUMTOOLS**  
 ↓  
-**SOLUMWORLD** — World-scale graphical representation  
+**DETERMINISTIC ZIPVILIZATION DATA**  
 ↓  
-**SOLUMVIEW** — Detailed exploration inside Territory
+**REPRESENTATION / EXPERIENCE**
 
-In simple terms:
+This direction cannot be reversed.
 
-> **SolumTools = Data**
+A visual Farm does not create a Farm.
+
+A rendered Zip does not create population.
+
+An interface does not create History.
+
+Representation can interpret canonical state.
+
+It cannot become the source of that state.
+
+> **The blockchain records the facts.**
 >
-> **SolumWorld = World**
+> **Canonical Rules define their meaning.**
 >
-> **SolumView = Inside**
-
-The three layers are connected.
-
-They are not interchangeable.
+> **SolumTools makes that meaning readable.**
 
 ---
 
 # Read → Derive → Translate → Expose
 
-The function of SolumTools can be reduced to four operations.
+SolumTools can be understood through four connected operations.
 
-## Read
+## 1. Read
 
-Observe relevant blockchain information.
+SolumTools reads relevant technical evidence.
 
-Balances.
+That may include:
 
-Supply.
+- wallet balances,
+- token supply,
+- Pool balances,
+- Burn state,
+- transfers,
+- events,
+- block height,
+- elapsed blocks,
+- contract parameters,
+- transaction activity,
+- and historical state transitions.
 
-Transfers.
+This is the evidence layer.
 
-Blocks.
+## 2. Derive
 
-Contract state.
+Some Zipvilization states are not stored directly as a single blockchain variable.
 
-Pool state.
+They are derived from canonical relationships.
 
-Events.
+Examples include:
 
-Addresses.
+- territorial capacity,
+- territorial structure,
+- biological cycles,
+- population,
+- maturity,
+- Dormant Land,
+- Permanent Nature,
+- and historical development.
 
-Historical transactions.
+Derived state must remain deterministic.
 
-## Derive
+The same valid evidence under the same canonical rules must produce the same result.
 
-Apply explicit deterministic rules.
+## 3. Translate
 
-Territorial thresholds.
-
-Biological cycles.
-
-Zip population.
-
-Developmental progression.
-
-Maturity.
-
-Dormant Land.
-
-Permanent Nature.
-
-Other relationships already defined by the canonical system.
-
-## Translate
-
-Express technical state in the language of Zipvilization.
+Technical state is expressed in the language of Zipvilization.
 
 For example:
 
-**Holder → Colonist**
+**Holder + canonical threshold → Colonist**
 
-**SOLUM balance → Territory**
+**SOLUM balance → Territorial capacity**
 
 **Pool-held SOLUM → Dormant Land**
 
 **Burned SOLUM → Permanent Nature**
 
-**Block progression → Time**
+**Block progression → Biological Time**
 
-**Territory + Time → Developmental state**
+**Valid historical development → Maturity**
 
-## Expose
+Translation does not modify the evidence.
 
-Return those results in forms that can be consumed by:
+It gives it canonical world meaning.
+
+## 4. Expose
+
+The resulting state can be consumed by:
 
 - Humans,
-- interfaces,
+- Artificial Intelligence,
+- SolumTools interfaces,
 - SolumWorld,
 - SolumView,
-- Artificial Intelligence,
 - analytical systems,
-- and future public tools.
+- historical views,
+- and future compatible layers.
 
-> **Read → Derive → Translate → Expose**
-
-Not:
-
-> **Imagine → Interpret → Invent**
+SolumTools therefore bridges machine state and readable world state.
 
 ---
 
@@ -184,884 +187,1157 @@ Not:
 
 SolumTools does not create the state it reports.
 
-If SolumTools disappears, the blockchain does not disappear with it.
+A balance exists because the blockchain records it.
 
-If an interface fails, ownership does not change.
+A transfer exists because the blockchain records it.
 
-If a display is wrong, the canonical rules do not become wrong.
+A Burn exists because the contract and blockchain record it.
 
-Reading is not writing.
+Territorial capacity exists because canonical rules define how valid SOLUM state maps to Solum.
 
-Translation is not execution.
+Biological Time exists because canonical rules define how block progression maps to biological development.
 
-Observation is not governance.
+Maturity exists because valid historical conditions have actually been satisfied.
 
-Representation is not ownership.
+SolumTools reads and derives those relationships.
 
-SolumTools is useful precisely because its outputs can be traced back to measurable state and explicit rules.
+It does not become the source of truth merely because it displays them.
 
-> **Canonical rule before derived state.**
->
-> **Derived state before representation.**
->
-> **Representation before narrative.**
+> **SolumTools translates canonical state. It does not replace its authority.**
 
-Never the reverse.
+If an interface changes, canonical state does not change.
+
+If SolumWorld changes its representation, canonical state does not change.
+
+If SolumTools disappears, the underlying blockchain history remains.
+
+**Truth → derivation → representation**
+
+Never:
+
+**Representation → truth**
 
 ---
 
 # Deterministic Translation
 
-A SolumTools result should be reproducible.
+The core value of SolumTools is deterministic interpretation.
 
-If two independent systems read the same canonical inputs and apply the same canonical rules, they should reach the same deterministic result.
+For any valid state:
 
-A Farm threshold must not depend on visual design.
+**same technical evidence**  
++  
+**same canonical rules**  
+=  
+**same Zipvilization interpretation**
 
-Maturity must not depend on who asks.
+This makes the system reproducible and auditable.
 
-Dormant Land must follow actual Pool state.
+A derived state should be traceable back to:
 
-Permanent Nature must follow actual Burn.
+1. technical evidence,
+2. the canonical rule applied,
+3. and the resulting interpretation.
 
-Zip development must follow the canonical relationship between Territory and Time.
+A Human should not need to reconstruct Territory manually from raw blockchain data.
 
-This reproducibility makes Zipvilization inspectable.
+An AI should not need to guess whether a transfer changed capacity, maturity, population, or future development.
 
-It also gives Artificial Intelligence something stronger than prose to reason from:
-
-> **structured evidence**
+SolumTools provides the deterministic layer between those worlds.
 
 ---
 
 # Two Languages, One State
 
-SolumTools connects blockchain language with Zipvilization language without replacing either one.
+Zipvilization has a technical language and a world language.
+
+They describe the same underlying reality.
 
 | Blockchain / computation | Zipvilization |
 |:-------------------------|:--------------|
-| Address / Holder | Colonist |
+| Address holding SOLUM | Holder |
+| Holder + canonical threshold | Colonist |
 | SOLUM balance | Territorial capacity |
-| Total Supply | Finite territorial substrate |
 | Pool-held SOLUM | Dormant Land |
 | Burned SOLUM | Permanent Nature |
-| Block progression | Biological Time |
-| Territorial threshold | Farm / City / State / Kingdom |
-| Biological derivation | Zip population / development |
-| Contract activity | Observable world activity |
+| Blocks | Biological Time |
+| Historical valid state | Development history |
+| Territorial thresholds | Farms / Cities / States / Kingdoms |
+| Valid biological development | Zip population / maturity |
+| State transition | World activity |
 
-A technical user may need the left column.
+The translation must remain exact.
 
-A Colonist may prefer the right.
+A transfer is not automatically migration.
 
-Artificial Intelligence may need both.
+A balance threshold is not automatically historical maturity.
 
-> **The technical state is preserved.**
->
-> **The world meaning is added.**
+A graphical building is not automatically canonical construction.
+
+A visual Zip is not automatically a canonical Zip.
+
+> **One state. Two languages. No invented meaning.**
 
 ---
 
 # Holder → Colonist
 
-At blockchain level:
+Holding SOLUM makes an address a **Holder**.
 
-> **Holder**
+Colonist status begins when the canonical minimum active territorial structure exists.
 
-Inside Zipvilization:
+That threshold is one complete Farm.
 
-> **Colonist**
-
-The blockchain address remains an address.
-
-Its balance remains a balance.
-
-Its transaction history remains blockchain history.
-
-SolumTools exposes the corresponding Zipvilization interpretation when the canonical conditions are satisfied.
-
-**ADDRESS / HOLDER**  
+**HOLDER**  
 ↓  
-**SOLUM BALANCE**  
+**8,000,000 SOLUM**  
 ↓  
-**TERRITORIAL CAPACITY**  
+**8 Tiles / 8 km² / 1 complete Farm**  
 ↓  
-**COLONIST STATE**
+**COLONIST + ACTIVE TERRITORY**
+
+Below that threshold:
+
+- the address is a Holder,
+- no complete Farm exists,
+- no active Colonist Territory exists,
+- and Bloch does not activate.
+
+At the threshold:
+
+- one complete Farm can exist,
+- Colonist status begins,
+- active territorial development can begin,
+- and biological development becomes possible subject to Time and History.
+
+SolumTools must therefore distinguish ownership from active territorial state.
 
 → **[Discover Colonists](/world/colonists/)**
 
 ---
 
-# Balance → Territory
+# SOLUM → Territorial Capacity
 
-A raw SOLUM balance is a number.
+The foundational spatial relationship is:
 
-The territorial rules give that number spatial structure.
+> **1 SOLUM = 1 m² of Solum**
 
-The foundational relationship is:
+The territorial unit is:
 
-> **1 SOLUM = 1 m²**
+> **1 Tile = 1,000,000 SOLUM = 1,000,000 m² = 1 km²**
 
-And the canonical territorial thresholds are:
+Canonical territorial scales are:
 
-| Territory | SOLUM / m² |
-|:----------|-----------:|
-| Farm | 8 |
-| City | 256 |
-| State | 8,192 |
-| Kingdom | 262,144 |
+| Territory | Tiles | SOLUM | Area |
+|:----------|------:|------:|-----:|
+| Farm | 8 | 8,000,000 | 8 km² |
+| City | 256 | 256,000,000 | 256 km² |
+| State | 8,192 | 8,192,000,000 | 8,192 km² |
+| Kingdom | 262,144 | 262,144,000,000 | 262,144 km² |
 
-SolumTools can therefore derive which territorial scale a balance supports.
+SolumTools can derive the territorial capacity supported by valid SOLUM state.
 
-But several distinctions must remain explicit:
+But:
 
-> **Territorial scale is not maturity.**
+**Territorial capacity ≠ maturity**
 
-> **Territorial scale is not population.**
+**Territorial capacity ≠ population**
 
-> **Population is not power.**
+**Present capacity ≠ historical development**
 
-SolumTools does not merely expose numbers.
-
-It preserves what those numbers mean.
+Those distinctions are fundamental.
 
 → **[Explore Territories](/world/territories/)**
 
 ---
 
-# Territory and Maturity Are Different
+# Scale and Composition
 
-A Colonist may hold enough SOLUM for a City without having a Mature City.
+The territorial values grow mathematically by ×32:
 
-SolumTools must therefore expose territorial capacity and biological development separately.
+**8 → 256 → 8,192 → 262,144 Tiles**
 
-A valid result could conceptually be:
+That mathematical scale must not be confused with hierarchical composition.
 
-> **Territorial scale: City**
->
-> **Biological state: Developing**
+## City
 
-The first comes from territorial capacity.
+**16 complete Farms = 128 Tiles**  
++  
+**City Territory = 128 Tiles**  
+=  
+**256 Tiles**
 
-The second depends on actual canonical development.
+## State
 
-That may include:
+**16 complete Cities = 4,096 Tiles**  
++  
+**State Territory = 4,096 Tiles**  
+=  
+**8,192 Tiles**
 
-- block progression,
-- completed cycles,
-- lower-level dependencies,
-- Zip population,
-- and maturity requirements.
+## Kingdom
 
-SolumTools keeps those dimensions connected without collapsing them into one value.
+**16 complete States = 131,072 Tiles**  
++  
+**Kingdom Territory = 131,072 Tiles**  
+=  
+**262,144 Tiles**
 
-→ **[Discover Zips](/world/zips/)**  
-→ **[Understand Time](/world/time/)**
+Therefore:
+
+> **Mathematical scale ≠ hierarchical composition.**
+
+SolumTools must derive each structure according to its canonical composition rather than treating ×32 as a direct containment rule.
 
 ---
 
-# Time Enters the Translation
+# Current State ≠ Historical State
 
-Time is fundamental to SolumTools because blockchain state alone does not describe biological development without progression.
+A current blockchain snapshot describes the present.
 
-Blockchain provides:
+It does not describe everything that happened before it.
 
-> **blocks**
+A current balance may establish present territorial capacity.
 
-Zipvilization interprets defined block progression as:
+It does not prove:
 
-> **biological Time**
+- how long that capacity existed,
+- which biological cycles were valid,
+- how much population was generated,
+- or which maturity states were historically reached.
 
-The canonical biological cycle is:
+Therefore:
 
-> **1 cycle = 65,536 blocks**
+> **CURRENT BALANCE ≠ HISTORICAL MATURITY**
 
-SolumTools can combine relevant state with block progression to derive:
+> **CURRENT CAPACITY ≠ HISTORICAL POPULATION**
 
-- current biological cycle,
-- completed cycles,
-- remaining blocks,
-- developmental state,
+Historical derivation follows the state that actually existed through Time.
+
+**HISTORICAL BLOCKCHAIN STATE**  
+↓  
+**TERRITORIAL CAPACITY THROUGH TIME**  
+↓  
+**VALID FARMS THROUGH TIME**  
+↓  
+**BLOCH + BIOLOGICAL TIME**  
+↓  
+**ZIP GENERATION**  
+↓  
+**MATURITY + TERRITORIAL HISTORY**
+
+A later acquisition increases future capacity.
+
+It does not create retroactive biological development.
+
+A later transfer may alter future territorial conditions.
+
+It does not erase valid development that already occurred.
+
+> **A transfer changes future state. It does not rewrite history.**
+
+---
+
+# Territory and Maturity
+
+A Territory can exist mathematically before it is biologically mature.
+
+SolumTools must therefore distinguish at least:
+
+- territorial scale,
+- territorial capacity,
+- population,
+- historical development,
+- and maturity.
+
+A Farm may exist before becoming mature.
+
+City-scale capacity may exist before the underlying biological development required for maturity has occurred.
+
+The same principle continues through State and Kingdom.
+
+Maturity is not a decorative label.
+
+It is a derived historical state.
+
+It depends on valid:
+
+- territorial structure,
+- generating Farms,
+- Bloch processes,
+- biological Time,
+- available capacity,
+- population development,
+- and History.
+
+---
+
+# Time
+
+Blockchain provides measurable progression.
+
+Canonical Time gives that progression biological meaning.
+
+The foundational biological cycle is:
+
+> **1 cycle = 65,536 blockchain blocks**
+
+SolumTools combines block progression with historically valid territorial state to determine biological development.
+
+Elapsed blocks alone do not automatically create Zips.
+
+Territory, Farm, Bloch, capacity, Time, and History must be valid together.
+
+This means population cannot be calculated safely from a simplistic formula such as:
+
+**current block − activation block = population**
+
+without reconstructing the relevant historical conditions.
+
+SolumTools can use Time to derive:
+
+- completed biological cycles,
+- valid developmental progression,
+- population generation,
 - maturity,
-- Zip population,
-- next canonical milestone,
-- and approximate Human-readable duration.
+- and historical timing.
 
-The distinction must remain explicit:
-
-> **Blocks are canonical.**
->
-> **Clock-time estimates are translations.**
-
-If observed block timing changes, the Human estimate may change.
-
-The canonical block requirement does not.
-
-→ **[Understand Time](/world/time/)**
+→ **[Explore Time](/world/time/)**
 
 ---
 
-# Zips Become Measurable
+# Farm → Bloch → Zip
 
-Zips are the native population of Zipvilization.
+Farms are the primary territorial generators of population.
 
-Their canonical development follows deterministic relationships.
+The canonical relationship is:
 
-Population therefore does not need to be guessed from graphical representation.
+> **1 Farm = 1 Bloch**
 
-SolumTools can derive and expose signals such as:
+A Farm contains:
 
-- current Zip population,
-- biological capacity,
-- completed development,
-- remaining development,
-- biological maturity,
-- and related computational state.
+- 8 Tiles,
+- 8 km²,
+- 8,000,000 SOLUM,
+- 1 Bloch,
+- and capacity for 8 Zips.
 
-Because:
+Each Tile represents capacity for one Zip.
 
-> **1 Zip = 1 bit**
+The biological model can therefore be expressed as:
 
-and:
+**FARM**  
+↓  
+**BLOCH**  
+↓  
+**TIME**  
+↓  
+**ZIP**
 
-> **8 Zips = 1 byte**
+But each component has a different responsibility:
 
-the same underlying state can be expressed in biological and computational language.
+**Territory → capacity**
 
-SolumTools provides that translation before any Zip needs to be graphically represented.
+**Farm → population origin**
 
-→ **[Discover Zips](/world/zips/)**
+**Bloch → generation mechanism**
 
----
+**Time → biological progression**
 
-# Dormant Land
+**History → what validly occurred**
 
-SOLUM held by the Pool has a specific meaning inside Zipvilization:
+A Farm's Bloch can progressively generate the population required to occupy its 8 Tiles.
 
-> **Pool-held SOLUM → Dormant Land**
+Higher territorial levels do not introduce new population generators.
 
-SolumTools can read Pool state and expose:
+Cities, States, and Kingdoms provide additional capacity.
 
-- how much Territory remains dormant,
-- how much has moved into Colonist-controlled Territory,
-- and how that distribution changes through actual activity.
+Farms remain the source of population generation.
 
-This is more than a token statistic.
-
-It describes the territorial condition of the world.
-
-→ **[Discover Solum](/world/solum/)**  
-→ **[Explore the Pool](/smart-contract/pool/)**
+→ **[Meet the Zips](/world/zips/)**
 
 ---
 
-# Permanent Nature
+# Population Expands Through Territory
 
-Burn is irreversible at the technical layer.
+The Farm is the primary Territory and the origin of population.
 
-Inside Zipvilization:
+When higher territorial structures become valid, they provide additional capacity for the population generated by their Farms.
 
-> **Burned SOLUM → Permanent Nature**
+At City scale:
 
-SolumTools can expose:
+- 16 Farms provide 16 Bloch generators,
+- those Farms represent 128 Tiles,
+- City Territory provides another 128 Tiles,
+- and the existing Farm generators can continue producing population into that additional capacity.
 
-- total SOLUM burned,
-- percentage of supply removed,
-- territorial equivalent,
-- historical progression,
-- and resulting Permanent Nature.
+The City does not require a separate City population generator.
 
-The tool does not create permanence.
+The same principle continues upward.
 
-It translates the consequence of the underlying operation.
+States expand capacity.
 
-→ **[Understand Burn](/smart-contract/burn/)**
+Kingdoms expand capacity.
+
+Farms continue generating population.
+
+This keeps territorial and biological development inside one coherent architecture rather than introducing a different population mechanism at every level.
 
 ---
 
-# Contract Activity
+# Biological Maturity
 
-SolumTools can also observe relevant public contract activity where the necessary data exists.
+Population and territorial maturity grow through valid biological development.
 
-Potential signals include:
+The canonical progression is:
 
-- transfers,
-- tax flows,
-- burn,
-- liquidity-related state,
-- Treasury-related flows,
-- supply state,
-- Pool activity,
-- and historical transactions.
+| Territory | Generating Farms / Bloch | Existing population at entry | Additional capacity | Additional cycles | Maximum population |
+|:----------|--------------------------:|-----------------------------:|--------------------:|------------------:|-------------------:|
+| Farm | 1 | 0 | 8 | 8 | 8 |
+| City | 16 | 128 | 128 | 8 | 256 |
+| State | 256 | 4,096 | 4,096 | 16 | 8,192 |
+| Kingdom | 4,096 | 131,072 | 131,072 | 32 | 262,144 |
 
-The first question remains:
+The cumulative maturity sequence is:
 
-> **What actually happened?**
+**Farm → 8 cycles**
 
-Only after that should Zipvilization ask:
+**City → 16 cycles**
 
-> **What does that mean inside the world?**
+**State → 32 cycles**
 
-SolumTools connects those two questions.
+**Kingdom → 64 cycles**
 
-→ **[Explore the Smart Contract](/smart-contract/)**
+Equivalent cumulative block progression:
+
+| Territory | Cumulative cycles | Cumulative blocks |
+|:----------|------------------:|------------------:|
+| Farm | 8 | 524,288 |
+| City | 16 | 1,048,576 |
+| State | 32 | 2,097,152 |
+| Kingdom | 64 | 4,194,304 |
+
+These values describe biological maturity under valid historical conditions.
+
+They do not mean that elapsed blocks alone guarantee maturity.
+
+---
+
+# Three Fundamental Land States
+
+SolumTools must distinguish at least three canonical land states.
+
+## Dormant Land
+
+SOLUM held by the Pool corresponds to land outside active colonization.
+
+**POOL-HELD SOLUM → DORMANT LAND**
+
+Dormant Land remains part of Solum.
+
+It may later become active Territory.
+
+## Active Territory
+
+Land becomes Active Territory when the canonical Colonist and territorial conditions are satisfied.
+
+Active Territory can participate in biological development and History.
+
+## Permanent Nature
+
+SOLUM permanently removed through the canonical Burn mechanism corresponds to land permanently unavailable to Civilization.
+
+**SOLUM → BURN → PERMANENT NATURE**
+
+Permanent Nature remains conceptually part of Solum.
+
+But unlike Dormant Land, it cannot return to active territorial development.
+
+Therefore:
+
+> **Dormant Land ≠ Active Territory ≠ Permanent Nature**
+
+→ **[Explore Solum](/world/solum/)**
 
 ---
 
 # From Technical Event to World Event
 
-A blockchain transaction is not automatically a world story.
+A blockchain contains technical events.
 
-The translation should proceed in order.
+Zipvilization gives those events canonical meaning.
+
+The translation path is:
 
 **TECHNICAL EVENT**  
 ↓  
-**VALID BLOCKCHAIN STATE CHANGE**  
+**VALID STATE CHANGE**  
 ↓  
-**CANONICAL DERIVATION**  
+**CANONICAL INTERPRETATION**  
 ↓  
-**ZIPVILIZATION STATE CHANGE**  
-↓  
-**WORLD REPRESENTATION**
+**READABLE WORLD EVENT**
 
-For example, a change in Pool-held SOLUM may change Dormant Land.
+Possible deterministic events include:
 
-A Burn may increase Permanent Nature.
+- Pool state changes,
+- Burn increasing Permanent Nature,
+- a Holder reaching the Colonist threshold,
+- territorial capacity changing,
+- a Farm becoming valid,
+- valid biological cycles completing,
+- Zip generation,
+- maturity transitions,
+- and transfers affecting future territorial state.
 
-A balance change may alter territorial capacity.
+But SolumTools must never invent Human intention.
 
-Elapsed blocks may change developmental state.
+If a threshold is crossed, it may report the canonical state transition.
 
-Only after those relationships are valid should an interface describe what changed in world language.
+It should not automatically claim that a Human "founded a city" unless that action is canonically supported.
 
-> **Event first.**
->
-> **Meaning second.**
->
-> **Representation third.**
+> **Evidence before narrative.**
 
 ---
 
-# World Metrics Without a Leaderboard
+# Observable World
 
-Measurement creates a temptation to rank everything.
+SolumTools can expose global state without turning Zipvilization into a financial leaderboard.
 
-That is not the purpose of SolumTools.
-
-Some values may naturally be comparable, but the data layer should not redefine Zipvilization as a leaderboard.
-
-Important world signals may include:
+Useful world-level information may include:
 
 - Colonists,
-- controlled Territory,
-- Dormant Land,
-- Permanent Nature,
+- Active Territory,
 - Farms,
 - Cities,
 - States,
 - Kingdoms,
+- Dormant Land,
+- Permanent Nature,
 - Zip population,
+- biological Time,
 - maturity,
-- biological progression,
-- and recent world activity.
+- and historical activity.
 
-These describe what the experiment is becoming.
+The central question is:
 
-Not merely who is first.
+> **What is happening on Solum?**
 
-→ **[Explore Metrics](/metrics/)**
+Not:
 
----
+> **Who is winning financially?**
 
-# SolumTools and Metrics
+SolumTools may operate with the informational density and immediacy of advanced blockchain analytical tools.
 
-They are related, but not identical.
+But the object being observed is not primarily market speculation.
 
-**SolumTools**
-
-reads, derives, translates, and exposes deterministic state.
-
-**Metrics**
-
-organizes selected measurements for presentation and analysis.
-
-For example, SolumTools may derive the amount of Pool-held SOLUM.
-
-Metrics may present that result as:
-
-> **Dormant Land: X% of the world**
-
-The underlying state and its presentation are different layers.
+> **The object being observed is Zipvilization.**
 
 ---
 
-# SolumTools and SolumWorld
+# Recent World Activity
 
-SolumTools provides translated world data.
+The interface can expose deterministic activity and make the world feel active without fabricating narrative.
 
-SolumWorld uses that valid state to construct the broad graphical representation of Zipvilization.
+Every activity item should be traceable to:
 
-For example:
+- a real technical event,
+- a deterministic derived transition,
+- or a canonically valid historical state change.
 
-SolumTools may expose:
+This may include:
 
-> **Dormant Land decreased by X m².**
+- territorial changes,
+- Burn events,
+- Permanent Nature growth,
+- Pool changes,
+- new Colonists,
+- Farm activation,
+- valid Zip generation,
+- maturity events,
+- and transfers affecting future state.
 
-SolumWorld may make that territorial change visible across the world.
+The interface can evolve.
 
-SolumTools may expose:
+The evidence requirement cannot.
 
-> **A new City-scale territorial state exists.**
-
-SolumWorld may represent that structure geographically.
-
-SolumTools may expose:
-
-> **Permanent Nature increased.**
-
-SolumWorld may show the corresponding irreversible change to the world.
-
-The relationship is:
-
-> **SolumTools translates the data.**
+> **The UX can be Zipvilization.**
 >
-> **SolumWorld shows the world.**
-
-SolumWorld must not invent state that the underlying data and canonical rules do not support.
-
-→ **[Explore SolumWorld](/world/solumworld/)**
+> **The data cannot be fiction.**
 
 ---
 
-# SolumTools and SolumView
+# From Solum to a Colonist Territory
 
-SolumView operates at a deeper level.
+SolumTools can expose the same world at increasing informational depth.
 
-Where SolumWorld lets a Human explore Zipvilization broadly, SolumView allows that Human to enter a specific Colonist's Territory and progressively inspect what exists inside it.
+At the broadest level:
 
-Conceptually:
+**SOLUM**
 
-**WORLD**  
-↓  
-**COLONIST**  
-↓  
-**TERRITORY**  
-↓  
-**INTERNAL STRUCTURE**  
-↓  
-**FARMS**  
-↓  
-**ZIPS**
+The state of the world as a whole.
 
-SolumTools provides the deterministic data underneath that exploration.
+Then:
 
-A detailed Territory view may therefore use information such as:
+**WORLD STATE**
 
-- Colonist identity,
-- controlled Territory,
-- territorial scale,
+Dormant Land, Active Territory, Permanent Nature, Colonists, population, Time, and territorial structures.
+
+Then:
+
+**COLONISTS**
+
+Individual participants and their Territories.
+
+Then:
+
+**WALLET / TERRITORY**
+
+A Colonist-level view may expose:
+
+- wallet identity,
+- SOLUM balance,
+- territorial capacity,
+- territorial structure,
+- Farms,
+- Bloch generators,
+- population,
+- available capacity,
+- biological Time,
 - maturity,
-- completed cycles,
-- Zip population,
-- biological progression,
-- and relevant historical activity.
+- historical development,
+- transfers,
+- and deterministic activity.
 
-As SolumView develops, that observation can become increasingly detailed.
+This allows the Human to move naturally from:
 
-At its maximum development, a Human may be able to enter a Colonist's Territory and observe Farms and Zips as the underlying state changes.
+> **What is happening on Solum?**
 
-But the direction remains:
+to:
 
-> **SolumTools provides the state.**
->
-> **SolumView lets us enter and observe it.**
-
-→ **[Explore SolumView](/world/solumview/)**
-
----
-
-# Data → World → Inside
-
-The frontend architecture can therefore be summarized clearly.
-
-**SOLUMTOOLS — DATA**
-
-Reads blockchain, contract, Pool, and block progression data and translates it into deterministic Zipvilization state.
-
-↓
-
-**SOLUMWORLD — WORLD**
-
-Uses that state to represent Zipvilization graphically at broad world scale.
-
-↓
-
-**SOLUMVIEW — INSIDE**
-
-Uses that state to let Humans enter Colonists' Territories and observe increasingly detailed internal development.
-
-The same underlying reality flows through all three layers.
-
-The level of representation changes.
-
-The truth underneath it does not.
-
-> **SolumTools translates the data.**
->
-> **SolumWorld shows the world.**
->
-> **SolumView lets us enter it.**
-
----
-
-# A Public Window Into the Experiment
-
-Zipvilization should not require participants to trust a narrative about what is happening when the underlying state can be observed.
-
-Where technically possible, important facts should be independently inspectable.
-
-How much SOLUM exists?
-
-How much remains Dormant Land?
-
-How much has become Permanent Nature?
-
-How many Colonists exist?
-
-What territorial structures exist?
-
-How far has biological development progressed?
-
-How many Zips exist?
-
-What changed recently?
-
-SolumTools exists to make those questions answerable from evidence.
+> **What is happening in this Territory?**
 
 ---
 
 # Humans Need Translation
 
-Most Humans should not need to inspect raw events, contract storage, Pool balances, or block numbers to understand Zipvilization.
+Raw blockchain data is precise.
 
-A useful interface can translate:
+It is not always readable.
 
-> **Balance: 10,000 SOLUM**
+A Human should not need to inspect event logs, contract storage, block ranges, transfers, and historical balances to understand the world.
 
-into relevant world information without hiding the technical truth underneath it.
+SolumTools turns machine evidence into understandable questions:
 
-It can explain territorial capacity.
+- How much Territory exists?
+- How much of Solum is Dormant?
+- How much is Permanent Nature?
+- How many Colonists exist?
+- How many Zips exist?
+- How mature is this Territory?
+- What changed?
+- What happened historically?
 
-Development.
+The evidence remains technical.
 
-Population.
-
-Time.
-
-World state.
-
-The exact output must always follow actual data and canonical rules.
-
-> **A simple interface is not a reduction of rigor.**
->
-> **It is the result of rigor.**
+The language becomes usable.
 
 ---
 
 # Machines Need Structure
 
-Artificial Intelligence has a complementary need.
+AI has a different requirement.
 
-Humans benefit from explanation.
+Without explicit relationships, it can infer too much.
 
-Machines benefit from structure.
+SolumTools should therefore preserve structured relationships such as:
 
-An AI should not need to infer whether a Farm is mature from poetic prose or an image.
+**balance → capacity**
 
-SolumTools can expose explicit fields conceptually similar to:
+**historical balance → capacity through Time**
 
-- `colonist`
-- `territory`
-- `territorial_scale`
-- `zip_population`
-- `biological_capacity`
-- `maturity_state`
-- `completed_cycles`
-- `dormant_land`
-- `permanent_nature`
-- `world_activity`
+**Farm → Bloch**
 
-The exact schema belongs to implementation.
+**Bloch + Time + valid capacity → Zip generation**
 
-The architectural principle belongs here.
+**Pool state → Dormant Land**
 
-> **Human-readable does not mean machine-ambiguous.**
+**Burn → Permanent Nature**
 
----
+**valid historical development → maturity**
 
-# AI: Evidence Before Narrative
+An AI working with SolumTools should follow this order:
 
-SolumTools is especially important to the AI component of the Trinomial.
+1. What evidence exists?
+2. Which canonical rule applies?
+3. What can be deterministically derived?
+4. How should it be explained?
 
-AI can use:
+AI must not turn:
 
-**The Atlas**
-
-to understand meaning.
-
-**Canonical Rules**
-
-to understand relationships.
-
-**SolumTools**
-
-to understand current translated state.
-
-That reduces the need to infer missing facts.
-
-If a signal does not exist, AI should not manufacture it.
-
-If a value cannot be deterministically derived, it should not be presented as fact.
-
-If a mechanic belongs to a future Chapter, it should not be exposed as if it were already active.
-
-If a graphical representation conflicts with valid data, the data takes precedence.
+- missing data into world state,
+- representation into canonical evidence,
+- possibility into prediction,
+- current balance into historical maturity,
+- or transactions into unsupported Human intention.
 
 > **Evidence before narrative.**
 
-→ **[Explore Artificial Intelligence](/trinomial/artificial-intelligence/)**
+---
+
+# Backend First, Experience Derived
+
+The backend architecture is the foundation.
+
+Frontend and UX are derived expressions of that foundation.
+
+Conceptually:
+
+**MACHINE STATE + HISTORY**  
+↓  
+**CANONICAL RULES**  
+↓  
+**DETERMINISTIC STATE / DATA**  
+↓  
+**FRONTEND / UX / REPRESENTATION**
+
+The interface does not define Zipvilization.
+
+It makes Zipvilization understandable and experienceable.
+
+Navigation can change.
+
+Visual language can change.
+
+Representations can become richer.
+
+Zips can become more expressive.
+
+Territories can become more detailed.
+
+The world can become increasingly immersive.
+
+Those changes should not require the underlying truth to be reconstructed every time the interface evolves.
+
+> **The foundation is already in place.**
+>
+> **The experience can evolve without rewriting the underlying truth.**
+
+This principle applies to SolumTools, SolumWorld, SolumView, and the dApp as a whole.
 
 ---
 
-# SolumTools Grows With Zipvilization
+# Simple Surface, Deep Architecture
 
-Not every observable mechanic needs to exist at Genesis.
+Early Alpha and Beta versions do not need to expose every capability of the system.
 
-Early SolumTools can focus on foundational state:
+They can begin simple.
 
-- supply,
-- balances,
-- Colonists,
-- Territory,
-- Dormant Land,
-- Permanent Nature,
-- biological Time,
-- maturity,
-- Zip population,
-- and recent world activity.
+What matters is that the simplicity exists at the surface, not in the foundations.
 
-Later Chapters may introduce new mechanics.
+A strong architecture allows the dApp to begin with a broad and understandable view of Solum and progressively add:
 
-Those mechanics may create new deterministic relationships.
+- more data,
+- more History,
+- more territorial detail,
+- more visual depth,
+- more biological state,
+- more individual Colonist information,
+- and more immersive Territory experience.
 
-Those relationships may create new observable signals.
+The progression can move naturally from:
 
-SolumTools can therefore grow with Zipvilization.
+**SOLUM**  
+↓  
+**WORLD**  
+↓  
+**COLONISTS**  
+↓  
+**WALLET / TERRITORY**  
+↓  
+**LIFE**
 
-Its responsibility should remain stable:
+The visible product can grow without repeatedly rebuilding the rules underneath it.
 
-> **Read what happened.**
+> **Start simple at the surface.**
 >
-> **Derive what the rules allow.**
->
-> **Translate it into Zipvilization.**
->
-> **Expose it clearly.**
-
-→ **[Explore the Chapters](/chapters/)**
+> **Build for depth underneath.**
 
 ---
 
-# SolumTools Does Not Predict Civilization
+# One dApp
 
-Observation can describe the present.
+SolumTools, SolumWorld, and SolumView operate over the same underlying reality.
 
-Historical data can describe the past.
+They are not three competing sources of truth.
 
-Neither should be confused with deterministic prediction of civilization.
+Their roles can be summarized as:
 
-Increasing territorial concentration does not prove that a Kingdom will dominate.
+## SolumTools — DATA / READ
 
-Observable economic flows do not determine which political structures will emerge.
+Makes canonical state and History readable.
 
-Future alliances, conflicts, institutions, cultures, or centers of influence cannot be exposed as facts before the relevant mechanics and state exist.
+## SolumWorld — WORLD / SEE
 
-Civilization remains emergent.
+Makes the state of Solum visible from planetary scale toward increasingly detailed Territory.
 
-SolumTools gives us evidence with which to understand it.
+## SolumView — LIFE / ENTER
 
-It does not eliminate uncertainty.
+Makes an individual Territory increasingly dynamic and experienceable.
+
+Conceptually:
+
+**READ → SEE → ENTER → EXPERIENCE → INTERACT → ?**
+
+The final `?` remains open.
+
+It belongs to **Horizonte**.
+
+This sequence describes increasing experiential depth.
+
+It is not a mandatory release chronology.
+
+SolumTools and SolumWorld can develop in parallel inside the same dApp.
+
+SolumView deepens the experience as individual Territory becomes increasingly alive.
+
+> **The architecture is modular.**
+>
+> **The experience is unified.**
+>
+> **One dApp. One world. Increasing depth.**
+
+→ **[Explore SolumWorld](/world/solumworld/)**  
+→ **[Explore SolumView](/world/solumview/)**
+
+---
+
+# SolumWorld Does Not Determine Truth
+
+SolumWorld represents the world.
+
+It does not determine canonical world state.
+
+A colored region does not create Active Territory.
+
+A graphical Farm does not create a Farm.
+
+A rendered building does not create maturity.
+
+A visual Zip does not create population.
+
+The direction remains:
+
+**BLOCKCHAIN STATE + HISTORY**  
+↓  
+**CANONICAL RULES**  
+↓  
+**DETERMINISTIC STATE**  
+↓  
+**SOLUMTOOLS / SOLUMWORLD / SOLUMVIEW**
+
+Each layer can interpret the same state according to its purpose.
+
+None can overwrite the truth underneath it.
+
+> **Representation interprets the world. It does not create its truth.**
+
+---
+
+# SolumView and Living Territory
+
+SolumWorld can move from planetary scale toward an individual Colonist Territory.
+
+At that boundary, SolumView can make the Territory increasingly dynamic.
+
+That may include:
+
+- movement,
+- Zips,
+- buildings,
+- environmental detail,
+- visible development,
+- and other expressions of life.
+
+The important distinction is qualitative.
+
+SolumView is not merely another zoom level.
+
+It is the transition from observing Territory toward experiencing it.
+
+But its living representation must still remain grounded in canonical and derived state.
+
+Population comes from valid population.
+
+Maturity comes from valid maturity.
+
+History comes from actual History.
+
+The experience can become creative without making the underlying data fictional.
+
+---
+
+# Population, Construction, and Specialization
+
+Population growth can produce increasingly complex territorial development.
+
+As Zips populate higher Territory, the visible world can progressively express:
+
+**POPULATION**  
+↓  
+**HABITATION / CONSTRUCTION**  
+↓  
+**TERRITORIAL MATURITY**  
+↓  
+**SPECIALIZATION / CREATIVITY / INTERACTION**
+
+This creates a natural developmental logic.
+
+Zips may eventually express roles analogous to:
+
+- farmers,
+- builders,
+- merchants,
+- artists,
+- scientists,
+- philosophers,
+- politicians,
+- and many others.
+
+But those examples do not define a deterministic profession system.
+
+SolumTools must not fabricate one.
+
+Until explicit rules exist, it should expose the real underlying conditions from which increasing complexity can emerge.
+
+Maturity is therefore not the end of development.
+
+A mature Territory may continue evolving through its Zips, their activity, relationships, creativity, and History.
 
 → **[Explore Civilization](/world/civilization/)**
 
 ---
 
-# From Blockchain to World
+# Civilization Is Not a Metric
 
-The complete informational path is:
+SolumTools can measure conditions.
 
-**BLOCKCHAIN + CONTRACT + POOL + BLOCK PROGRESSION**  
-↓  
-**CANONICAL RULES**  
-↓  
-**SOLUMTOOLS** — Data / derivation / translation  
-↓  
-**SOLUMWORLD** — Broad graphical world  
-↓  
-**SOLUMVIEW** — Detailed exploration inside Territory
+It cannot determine the final outcome of Zipvilization.
 
-Additional interfaces such as Metrics may organize selected signals for specific analytical purposes.
+It may expose:
 
-Humans and Artificial Intelligence can then reason from the same underlying evidence at different levels of abstraction.
+- Territory,
+- population,
+- Time,
+- maturity,
+- History,
+- interactions when defined,
+- Roles when defined,
+- and other measurable state.
 
----
+But Civilization is not reducible to a dashboard number.
 
-# SolumTools at a Glance
+Cooperation may emerge.
 
-SolumTools exists to:
+Competition may emerge.
 
-**READ**
+Institutions may emerge.
 
-relevant blockchain, contract, Pool, and progression data.
+New roles may emerge.
 
-↓
+Unexpected structures may emerge.
 
-**DERIVE**
+Or development may take forms not currently defined.
 
-deterministic relationships using canonical rules.
+SolumTools can make those states observable when they become real and measurable.
 
-↓
+It must not predict them into existence.
 
-**TRANSLATE**
+> **The foundation is defined.**
+>
+> **The possibilities are not.**
 
-technical state into Zipvilization state.
-
-↓
-
-**EXPOSE**
-
-that state clearly.
-
-It can help answer:
-
-- How much SOLUM exists?
-- How much remains Dormant Land?
-- How much is Permanent Nature?
-- How many Colonists exist?
-- What Territory does a balance support?
-- How many Zips exist?
-- Is a Territory mature?
-- How many cycles have completed?
-- What changed?
-- What is the current measurable state of Zipvilization?
-
-It does not answer:
-
-- What should Colonists do?
-- Which Territory will become influential?
-- Which political system will emerge?
-- Which alliance will succeed?
-- What civilization will ultimately become?
-
-Those outcomes remain open.
+That boundary belongs to Horizonte.
 
 ---
 
-# Follow SolumTools Through the Atlas
+# Observation Is Not Control
 
-### What underlying asset does it observe?
+Making Zipvilization observable does not mean controlling its outcome.
 
-→ **[Solum](/world/solum/)**
+SolumTools increases visibility.
 
-### Whose blockchain state can become Colonist state?
+It does not decide what Humans do.
 
-→ **[Colonists](/world/colonists/)**
+It does not decide what Zips become.
 
-### What territorial classifications can it derive?
+It does not determine future interactions.
 
-→ **[Territories](/world/territories/)**
+It does not replace Horizonte.
 
-### What biological state can it expose?
+A system can be highly measurable while remaining open-ended.
 
-→ **[Zips](/world/zips/)**
-
-### What progression can it translate?
-
-→ **[Time](/world/time/)**
-
-### What should remain emergent rather than predicted?
-
-→ **[Civilization](/world/civilization/)**
-
-### Where does translated state become a graphical world?
-
-→ **[SolumWorld](/world/solumworld/)**
-
-### Where can we enter Colonists' Territories?
-
-→ **[SolumView](/world/solumview/)**
-
-### Where are selected measurements organized?
-
-→ **[Metrics](/metrics/)**
-
-### What technical mechanisms provide the underlying data?
-
-→ **[Smart Contract](/smart-contract/)**
-
-### How can new observable systems appear?
-
-→ **[Chapters](/chapters/)**
-
-### Where is deeper technical documentation maintained?
-
-→ **[Repository](/repository/)**
+The more accurately SolumTools exposes what has actually happened, the less need there is to invent what should happen next.
 
 ---
 
-# A World We Can Inspect
+# A Foundation That Can Grow
 
-Zipvilization is an experiment.
+The most difficult part of an evolving dApp is not deciding what every future screen will look like.
 
-That creates an obligation to distinguish what actually exists from what we imagine may eventually exist.
+It is establishing relationships that remain valid as the experience grows.
 
-Not only through promises.
+Zipvilization already has a foundation built around:
 
-Not only through images.
+- blockchain state,
+- contract mechanics,
+- Canonical Rules,
+- Territory,
+- Time,
+- History,
+- Farms,
+- Bloch,
+- population,
+- maturity,
+- and deterministic relationships between them.
 
-Not only through our own interpretation.
+That foundation allows the visible product to evolve.
 
-Through evidence.
+Interfaces can be redesigned.
 
-A Colonist should be able to inspect what their Territory is becoming.
+Navigation can improve.
 
-A visitor should be able to observe how the world is changing.
+SolumWorld can gain detail.
 
-Artificial Intelligence should be able to distinguish current fact from future possibility.
+SolumView can become more immersive.
 
-SolumWorld should be able to represent a world grounded in actual state.
+Zips and their environment can continue developing creatively.
 
-SolumView should eventually allow us to enter that world without inventing what exists inside it.
+New layers can be added.
 
-And the project itself should be able to confront what actually happens rather than what we expected to happen.
+The house can change.
 
-That begins with translation.
+The foundations do not need to be rebuilt every time it does.
 
-**The Smart Contract executes.**
-
-**The blockchain records.**
-
-**SolumTools translates.**
-
-**SolumWorld shows the world.**
-
-**SolumView lets us enter it.**
-
-And from there,
-
-**we can watch Zipvilization become whatever its history makes possible.**
+Early versions can therefore remain intentionally simple while later versions add complexity on top of the same underlying structure.
 
 ---
 
-→ **[Return to The World](/world/)**  
-→ **[Continue to SolumWorld](/world/solumworld/)**
+# SolumTools Grows With Zipvilization
+
+Early interfaces can focus on foundational information:
+
+- Colonists,
+- Territory,
+- Farms,
+- Cities,
+- States,
+- Kingdoms,
+- Dormant Land,
+- Permanent Nature,
+- Time,
+- population,
+- maturity,
+- and recent activity.
+
+As real History accumulates, SolumTools can expose greater depth.
+
+The interface may evolve from broad world observation toward increasingly detailed Colonist and Territory views.
+
+New mechanics can be incorporated when they become canonically defined and technically supported.
+
+But SolumTools' responsibility remains stable:
+
+> **Read what is true.**
+>
+> **Derive what follows deterministically.**
+>
+> **Translate it without changing it.**
+>
+> **Expose it clearly.**
+
+---
+
+# What SolumTools Must Never Do
+
+SolumTools must never:
+
+- invent canonical state,
+- replace blockchain History,
+- infer missing canonical rules,
+- treat current balance as historical maturity,
+- treat current capacity as historical population,
+- create Zips from visual representation,
+- create Territory through interface state,
+- make SolumWorld authoritative over canonical state,
+- fabricate Human intentions from transactions,
+- convert possibilities into deterministic facts,
+- predict Civilization into existence,
+- or resolve Horizonte.
+
+Its usefulness depends on those boundaries.
+
+---
+
+# One State, Multiple Experiences
+
+The same deterministic state can support:
+
+- a simple global overview,
+- detailed analytical views,
+- historical views,
+- Colonist information,
+- wallet-level Territory,
+- SolumWorld,
+- SolumView,
+- AI-readable structures,
+- and future compatible interfaces.
+
+The representations may differ.
+
+The underlying derivation should not.
+
+That allows Zipvilization to become more complex and immersive without fragmenting its truth.
+
+---
+
+# The Principle
+
+SolumTools exists because machine truth and Human experience need a reliable bridge.
+
+The machine side must remain:
+
+- deterministic,
+- traceable,
+- historical,
+- reproducible,
+- and canonical.
+
+The Human experience can become:
+
+- readable,
+- visual,
+- intuitive,
+- immersive,
+- and increasingly alive.
+
+The bridge between them is not fiction.
+
+It is translation.
+
+> **The blockchain records.**
+>
+> **Canonical Rules define meaning.**
+>
+> **SolumTools makes the state readable.**
+>
+> **SolumWorld makes Solum visible.**
+>
+> **SolumView makes Territory experienceable.**
+
+The foundation is solid.
+
+The experience can grow.
+
+And beyond what has been defined:
+
+**Horizonte remains open.**
