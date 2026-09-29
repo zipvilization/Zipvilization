@@ -3,47 +3,115 @@ layout: default
 title: "Chapter 3 — Colonists & Roles"
 parent: Chapters
 nav_order: 4
-description: "Colonists & Roles introduces actors into the coherent world of Zipvilization. Blockchain participants acquire world meaning as Colonists, while roles emerge from observable behavior rather than arbitrary assignment."
+description: "Chapter 3 establishes ACT: a Holder who reaches the complete Farm threshold can become a Colonist and participate through Active Territory, while participation, influence, roles and territorial scale remain distinct from control."
 permalink: /chapters/colonists-roles/
 ---
 
 # Chapter 3 — Colonists & Roles
 
-Genesis creates state.
+Genesis establishes canonical existence.
 
-Observability makes that state legible.
+Observability makes canonical reality legible.
 
-Territory gives that state a world.
+Territory & World gives that reality coherent spatial representation.
 
-Now someone can act inside it.
+Chapter 3 asks:
 
-Chapter 3 introduces:
+> **Who participates in that world, and what does participation mean?**
 
-> **Colonists & Roles**
+Chapter 3 is:
 
-The world is no longer only somewhere.
+> **COLONISTS & ROLES**
 
-It now has participants.
+Its primary meaning is:
+
+> **ACT**
+
+ACT does not give Humans control of Zipvilization.
+
+It gives Human participation a valid place inside it.
 
 ---
 
-# From Holder to Colonist
+# From Human to participant
 
-At blockchain level, an address holding SOLUM is a:
+Zipvilization begins outside the world with a Human.
 
-> **Holder**
+A Human may connect through a blockchain address.
 
-Inside Zipvilization, that participant can be interpreted as a:
+That address may acquire SOLUM.
 
-> **Colonist**
+Once it holds SOLUM, it becomes observable as a Holder.
 
-The technical identity does not disappear.
+But this distinction is fundamental:
 
-It acquires world meaning.
+> **Every Colonist is a Holder.**
+>
+> **Not every Holder is a Colonist.**
+
+The canonical path is:
+
+`HUMAN`
+
+↓
+
+`ADDRESS`
+
+↓
+
+`SOLUM HOLDER`
+
+↓
+
+`COMPLETE FARM THRESHOLD`
+
+↓
+
+`COLONIST`
+
+↓
+
+`ACTIVE TERRITORY`
+
+Colonist status is therefore not merely another name for holding SOLUM.
+
+It requires the territorial threshold that makes active participation possible.
+
+---
+
+# The Colonist threshold
+
+The minimum complete territorial structure is:
+
+> **1 Farm**
+
+And:
+
+> **1 Farm = 8 Tiles**
+
+Therefore:
+
+> **1 Farm = 8,000,000 SOLUM**
+
+and:
+
+> **1 Farm = 8 km²**
+
+This creates an important participant boundary.
+
+Below:
+
+> **8,000,000 SOLUM**
+
+an address may be a Holder.
+
+But it does not have a complete Farm.
+
+Therefore it has not reached the Colonist threshold.
 
 Conceptually:
 
-`ADDRESS`
+`< 8M SOLUM`
 
 ↓
 
@@ -51,680 +119,1260 @@ Conceptually:
 
 ↓
 
-`OBSERVABLE STATE`
+`NO COMPLETE FARM`
 
 ↓
 
+`NO COLONIST THRESHOLD`
+
+↓
+
+`NO ACTIVE TERRITORY`
+
+At the complete Farm threshold:
+
+`≥ 8M SOLUM`
+
+↓
+
+`COMPLETE FARM CAPACITY`
+
+↓
+
+`COLONIST THRESHOLD`
+
+↓
+
+`ACTIVE TERRITORY`
+
+subject to the applicable canonical and historical conditions.
+
+---
+
+# Holder and Colonist are different states
+
+Holder and Colonist are not merely two perspectives on the same thing.
+
+A Holder is established by holding SOLUM.
+
+A Colonist requires the canonical territorial threshold.
+
+This distinction must remain visible throughout the system.
+
+SolumTools can derive it.
+
+Metrics can measure it.
+
+SolumWorld can represent it.
+
+SolumView may eventually allow deeper experience of the corresponding Territory.
+
+But none of those interfaces creates Colonist status.
+
+> **Canon determines.**
+>
+> **The world represents.**
+
+---
+
+# Active Territory
+
+Colonist status is connected to Active Territory.
+
+The preferred V2 term is:
+
+> **Active Territory**
+
+Legacy material may use:
+
+> **Colonized Territory**
+
+But Active Territory should not be interpreted as:
+
+> **Territory under absolute Human control**
+
+That would introduce a relationship that does not exist.
+
+A Colonist participates through Territory.
+
+The Territory remains subject to canonical rules, Time, History, population processes and whatever valid interactions are defined.
+
+Therefore:
+
+> **ACTIVE TERRITORY ≠ ARBITRARILY CONTROLLED TERRITORY**
+
+---
+
+# ACT
+
+ACT is the central idea of Chapter 3.
+
+But ACT does not mean:
+
+> click anything and make it happen.
+
+It does not mean:
+
+> command the world.
+
+It does not mean:
+
+> manually place every building.
+
+It does not mean:
+
+> control every Zip.
+
+It does not mean:
+
+> choose the outcome first and make the system accept it.
+
+ACT means that Human participation can enter Zipvilization through valid paths.
+
+The fundamental relationship is:
+
+`HUMAN INTENTION`
+
+↓
+
+`VALID INTERACTION`
+
+↓
+
+`DEFINED CANONICAL PATH`
+
++
+
+`WORLD CONDITIONS`
+
+↓
+
+`VALID CONSEQUENCE`
+
+This preserves both participation and world integrity.
+
+---
+
+# Intention is not outcome
+
+A Human may intend something.
+
+That intention does not automatically make the intended result canonical.
+
+Therefore:
+
+> **HUMAN INTENTION ≠ AUTOMATIC WORLD OUTCOME**
+
+The system may require:
+
+- valid Territory,
+- valid state,
+- sufficient Time,
+- available capacity,
+- a defined interaction,
+- historical conditions,
+- or other canonical requirements.
+
+If those conditions are not satisfied, Human intention alone cannot override them.
+
+This is one of the most important boundaries of ACT.
+
+---
+
+# Interface action is not canonical consequence
+
+The same distinction applies to the dApp.
+
+A button can exist.
+
+An interface can accept input.
+
+An animation can respond.
+
+A local simulation can change.
+
+None of those facts alone proves that canonical Zipvilization state changed.
+
+Therefore:
+
+`UI ACTION`
+
+≠
+
+`VALID INTERACTION`
+
+≠
+
+`CANONICAL CONSEQUENCE`
+
+For an interaction to create a canonical consequence, there must be a defined path connecting the action to valid world state.
+
+> **The interface does not become authority merely because a Human can click it.**
+
+---
+
+# Participation is not control
+
+Zipvilization is built around participation.
+
+That word is deliberate.
+
+A Colonist may influence future state through valid participation.
+
+That does not imply command over every result.
+
+Therefore:
+
+> **PARTICIPATION ≠ CONTROL**
+
+and:
+
+> **INFLUENCE ≠ COMMAND**
+
+A Colonist participates in conditions.
+
+The world can still contain processes that are not manually directed by that Colonist.
+
+Time continues.
+
+History accumulates.
+
+Farms can generate population under valid conditions.
+
+Zips can exist as individuals.
+
+Territory can develop.
+
+Consequences can accumulate.
+
+The Human is a participant in that reality.
+
+Not its omnipotent operator.
+
+---
+
+# Colonist is not player
+
+This distinction protects the nature of Zipvilization.
+
+> **COLONIST ≠ PLAYER**
+
+The term Colonist does not imply a conventional player account.
+
+Likewise:
+
+> **TERRITORY ≠ GAME BOARD**
+
+and:
+
+> **ZIP ≠ PLAYER UNIT**
+
+and:
+
+> **INTERACTION ≠ GAMEPLAY REQUIREMENT**
+
+Zipvilization may contain experiences that feel interactive.
+
+It may become increasingly explorable.
+
+It may develop complex participation.
+
+None of that requires reducing the world to a conventional game structure.
+
+---
+
+# Territory does not wait for constant Human commands
+
+Active Territory is not inert until a Human repeatedly tells it what to do.
+
+Under valid canonical conditions, Territory can participate in processes involving:
+
+- capacity,
+- Farms,
+- Bloch,
+- Time,
+- population generation,
+- maturity,
+- and History.
+
+A Colonist can create or affect conditions through valid participation.
+
+But the Human does not need to manually authorize every biological cycle or every canonical consequence.
+
+This matters because:
+
+> **participation should not collapse world processes into button presses**
+
+Zipvilization must be capable of having a world beyond the immediate interface action of its Colonists.
+
+---
+
+# Colonist and Zip are different
+
+A Colonist is not a Zip.
+
+This distinction is fundamental.
+
+A **Colonist** is a Human participant represented through valid canonical state.
+
+A **Zip** is part of the native population of Zipvilization.
+
+Therefore:
+
+> **COLONIST ≠ ZIP**
+
+Colonists enter participation from outside the world.
+
+Zips emerge inside Zipvilization through the Bloch mechanism under valid territorial, temporal and historical conditions.
+
+A Colonist may provide the territorial conditions within which Zip emergence becomes possible.
+
+The Colonist does not directly create a Zip by command.
+
+---
+
+# Colonists do not click Zips into existence
+
+The population path is not:
+
+`HUMAN CLICKS`
+
+↓
+
+`CREATE ZIP`
+
+Instead:
+
 `COLONIST`
 
-This follows the same architectural discipline established by previous Chapters.
+↓
 
-The blockchain provides the state.
+`ACTIVE TERRITORY`
 
-Zipvilization provides the canonical interpretation.
+↓
 
----
+`FARM`
 
-# Two perspectives
++
 
-A Colonist is not a replacement for the underlying address.
+`BLOCH`
 
-Both perspectives remain valid.
++
 
-## Blockchain
+`TIME`
 
-Address.
++
 
-Balance.
+`AVAILABLE CAPACITY`
 
-Transactions.
++
 
-Activity.
+`HISTORY`
 
-Blocks.
+↓
 
-Contract interaction.
+`ZIP EMERGENCE`
 
-## Zipvilization
+The Farm is the primary population generator.
 
-Colonist.
+Bloch is the mechanism.
 
-Territorial capacity.
+Time provides the canonical duration.
 
-Participation.
+Territory provides capacity.
 
-Behavior.
+History records what actually happened.
 
-History.
-
-Role.
-
-These perspectives describe the same participant through different layers.
-
-> **Holder belongs to the blockchain perspective.**
->
-> **Colonist belongs to the world perspective.**
-
-Neither should silently erase the other.
+This protects the distinction between Human participation and native world population.
 
 ---
 
-# The world gains actors
+# Zips are individuals
 
-Chapter 2 establishes a coherent world.
+A Zip is not merely a number attached to a Colonist.
 
-But Territory alone does nothing.
+Nor is it a controllable unit by default.
 
-It can exist.
+Each Zip is an individual emerging from the canonical population mechanism.
 
-It can have scale.
+Its deeper identity may involve:
 
-It can have location.
+- state,
+- context,
+- History,
+- relationships,
+- development,
+- and valid interaction.
 
-It can have state.
+The complete technical model of Zip autonomy is not yet canonically closed.
 
-Chapter 3 introduces the entities capable of interacting with that structure.
+That uncertainty must not be filled by assuming conventional game behavior.
 
-This changes the system fundamentally.
+Therefore:
 
-Before:
-
-`WORLD STATE`
-
-After:
-
-`WORLD STATE + ACTORS`
-
-The world can now contain participation.
+> **ZIP INDIVIDUALITY ≠ COLONIST CONTROL**
 
 ---
 
-# Participation is observable
+# Territorial scale is not Human authority
 
-A Colonist should not be defined only by what they claim to be.
+A Colonist may hold enough valid territorial capacity to reach different scales:
 
-Blockchain participation produces evidence.
+- Farm,
+- City,
+- State,
+- Kingdom.
 
-Depending on the systems available, observable behavior can include things such as:
+These are territorial scales.
 
-- holding SOLUM,
-- acquiring SOLUM,
-- transferring SOLUM,
-- retaining SOLUM,
-- interacting over time,
-- changing territorial capacity,
-- participating in later systems when those systems exist.
+They are not Human ranks.
 
-This creates the basis for another concept:
+Therefore:
 
-> **roles**
+> **TERRITORIAL SCALE ≠ POLITICAL AUTHORITY**
+
+A Colonist with State-scale Territory does not automatically become a governor.
+
+A Colonist with Kingdom-scale Territory does not automatically become a king.
+
+And:
+
+> **KINGDOM-SCALE TERRITORY ≠ MONARCHY**
+
+Territorial capacity does not silently create government.
+
+Political, institutional or social authority would require additional valid structures if such structures ever emerge.
+
+---
+
+# More Territory is not a better Colonist
+
+Territorial scale is also not a moral or social ranking system.
+
+A larger Territory does not automatically make a Human:
+
+- more important,
+- more legitimate,
+- more trustworthy,
+- more intelligent,
+- more valuable,
+- or more authoritative.
+
+It means something much narrower:
+
+> **different territorial capacity**
+
+Therefore:
+
+> **TERRITORIAL SCALE ≠ COLONIST RANK**
+
+This distinction matters both for Humans and for AI.
 
 ---
 
 # Roles
 
-Roles describe patterns of participation.
+As participation and History become richer, Colonists may develop recognizable roles.
 
-They are not necessarily assigned identities.
+But a role should not be invented merely because a label sounds plausible.
 
-They are not social classes imposed by the founders.
-
-They are not permanent ranks.
-
-They should emerge from observable conditions where those conditions are canonically defined.
-
-The original principle is:
-
-> **Behavior before intention.**
-
-What a participant actually does matters more than what a label claims about them.
-
----
-
-# Roles, not ranks
-
-This distinction is fundamental.
-
-A rank implies hierarchy.
-
-A role describes relationship or behavior.
-
-Zipvilization should not automatically transform observable differences into:
-
-`LEVEL 1`
-
-`LEVEL 2`
-
-`LEVEL 3`
-
-or:
-
-`BETTER COLONIST`
-
-`WORSE COLONIST`
-
-The objective is not to construct a leaderboard of Humans.
-
-It is to make meaningful forms of participation legible.
-
-> **Roles describe.**
->
-> **Ranks judge.**
-
-Chapter 3 is concerned with the first.
-
----
-
-# A role must have evidence
-
-If Zipvilization identifies a role, the reason should be inspectable.
+A canonical role requires sufficient definition and evidence.
 
 Conceptually:
 
-`OBSERVABLE BEHAVIOR`
+`BEHAVIOR`
 
 +
 
-`EXPLICIT RULE`
+`TIME`
+
++
+
+`VALID INTERACTION`
+
++
+
+`HISTORY`
+
++
+
+`DEFINED CANONICAL CONDITIONS`
 
 ↓
 
-`ROLE`
+`ROLE, IF DEFINED`
 
-Not:
+This leaves room for roles to emerge without pretending that a complete role engine already exists.
 
-`DESIGNER OPINION`
+---
 
-↓
+# There is no final role taxonomy
 
-`ROLE`
+Zipvilization does not currently require a complete predefined catalogue of Colonist roles.
 
-And not:
+That means an observer should not automatically classify a wallet as:
 
-`AI GUESS`
+- trader,
+- builder,
+- governor,
+- merchant,
+- explorer,
+- politician,
+- leader,
+- or any other role
 
-↓
+merely because some activity resembles those concepts.
 
-`ROLE`
+Such roles may become meaningful.
 
-A role may be derived.
+Some may emerge naturally.
 
-It should not be fabricated.
+Some may eventually receive canonical definitions.
+
+Some may remain descriptive rather than canonical.
+
+Some may never exist.
+
+Therefore:
+
+> **NO COMPLETE CANONICAL ROLE TAXONOMY IS CURRENTLY DEFINED**
+
+The absence of a final taxonomy is intentional openness.
+
+It is not permission to invent one.
+
+---
+
+# Behavior before motive
+
+Behavior can often be evidenced.
+
+Motive usually cannot.
+
+Suppose a Colonist retains Territory for a long period.
+
+That behavior may be observable.
+
+It does not automatically prove:
+
+> loyalty
+
+or:
+
+> long-term belief
+
+or:
+
+> ideological commitment.
+
+Suppose a Colonist transfers Territory.
+
+The transfer can be observed.
+
+Its motive may remain unknown.
+
+Therefore:
+
+> **BEHAVIOR MAY BE EVIDENCED**
+>
+> **MOTIVE MAY REMAIN UNKNOWN**
+
+This is especially important for Artificial Intelligence.
+
+A machine should not transform observable activity into unsupported psychological claims.
+
+---
+
+# Roles are not ranks
+
+A role, if defined, should describe participation.
+
+It should not automatically judge it.
+
+Therefore:
+
+> **ROLES DESCRIBE**
+>
+> **RANKS JUDGE**
+
+Zipvilization does not require a universal ladder of good and bad Colonists.
+
+A Colonist may participate differently from another.
+
+Different does not automatically mean superior or inferior.
+
+Likewise, a role should not silently grant authority unless that authority is explicitly defined.
 
 ---
 
 # Roles can change
 
-If roles are based on behavior, they do not necessarily need to be permanent.
+A role does not need to be permanent.
 
-Behavior can change.
+If roles become canonically defined, they may depend on:
 
-Participation can change.
+- behavior,
+- Time,
+- History,
+- state,
+- relationships,
+- valid interaction,
+- or other explicit conditions.
 
-Territorial state can change.
-
-Therefore a role may eventually:
+A role may:
 
 - appear,
 - persist,
+- coexist with another,
 - evolve,
-- disappear,
-- coexist with another role,
+- or stop applying.
 
-if the canonical rules allow it.
-
-This makes roles descriptive rather than essential identities.
-
-> **A Colonist is not imprisoned by a label.**
-
----
-
-# Identity and behavior
-
-Chapter 3 must preserve another distinction:
-
-`WHO PARTICIPATES`
-
-is not identical to:
-
-`HOW THEY PARTICIPATE`
-
-The address provides technical identity.
-
-Colonist provides world interpretation.
-
-Roles can describe behavior.
-
-These layers should remain separable.
+Therefore a current snapshot may not be sufficient.
 
 Conceptually:
 
-**Address**
+`CURRENT STATE`
+
++
+
+`HISTORY`
+
++
+
+`DEFINED CONDITIONS`
 
 ↓
 
-**Colonist**
+`ROLE, IF DEFINED`
 
-↓
-
-**Observable behavior**
-
-↓
-
-**Role**
-
-Each step adds meaning.
-
-None should invent the previous one.
+This keeps role interpretation grounded in evidence rather than superficial labeling.
 
 ---
 
-# Territory and Colonists
+# The Human is larger than the Colonist
 
-Chapter 2 establishes territorial capacity.
+A blockchain address does not contain a complete Human.
 
-Chapter 3 connects that capacity to actors.
+Neither does a Colonist representation.
 
-A SOLUM balance can support a particular territorial scale.
+Zipvilization may know:
 
-That creates a relationship between:
+- an address,
+- SOLUM balances,
+- Territory,
+- valid interactions,
+- observable behavior,
+- and relevant History.
 
-> **Colonist**
+It does not automatically know:
 
-and:
+- the Human's full identity,
+- personality,
+- private intentions,
+- beliefs,
+- values,
+- motivations,
+- relationships outside Zipvilization,
+- or complete real-world context.
 
-> **Territory**
-
-But possession of territorial capacity does not automatically create completed development.
-
-The distinction remains:
-
-`CAPACITY ≠ MATURITY`
-
-A Colonist may have somewhere to develop.
-
-Time has not yet necessarily produced that development.
-
----
-
-# Ownership is not personality
-
-Blockchain state can tell us many things.
-
-It cannot automatically tell us everything about a Human.
-
-A balance does not reveal personality.
-
-A transaction does not reveal intention with certainty.
-
-A role derived from behavior should therefore remain limited to what the evidence supports.
-
-This is particularly important for Artificial Intelligence.
-
-> **Inference must not masquerade as fact.**
-
----
-
-# Artificial Intelligence and roles
-
-AI can help identify patterns.
-
-It can compare behavior.
-
-It can explain why a role condition appears to be satisfied.
-
-It can reconstruct sequences.
-
-It can detect inconsistencies.
-
-But AI should not create canonical roles merely because a pattern looks interesting.
-
-The authority remains in:
-
-- observable state,
-- explicit definitions,
-- canonical rules.
-
-AI can reason over those elements.
-
-It does not silently replace them.
-
----
-
-# Human and Colonist
-
-The Human and the Colonist are related concepts.
-
-They are not identical layers.
-
-The Human belongs to the Trinomial.
-
-The Human is the creator, participant, questioner and responsible actor surrounding the experiment.
-
-The Colonist is the Human participant interpreted within Zipvilization through valid state.
-
-This distinction prevents the world model from consuming the entire Human identity.
+Therefore:
 
 > **The Human is larger than the Colonist representation.**
 
-Zipvilization observes participation.
+The Colonist is the participant state that Zipvilization can validly know.
 
-It does not define the complete person behind it.
+It should not become an excuse to invent the person behind it.
+
+---
+
+# SolumTools and participant state
+
+SolumTools can help make participant state deterministic and legible.
+
+The relationship is:
+
+**STATE + HISTORY**
+
++
+
+**CANONICAL RULES**
+
+↓
+
+**SOLUMTOOLS**
+
+↓
+
+**DETERMINISTIC PARTICIPANT STATE**
+
+That may include, where supported:
+
+- Holder state,
+- Colonist threshold,
+- Active Territory,
+- territorial scale,
+- relevant historical thresholds,
+- valid participation,
+- and canonically defined roles.
+
+If a role is not defined, SolumTools should not invent it.
+
+If History is required, current balance alone should not replace it.
+
+If evidence is insufficient, the correct result may be:
+
+> **NOT CANONICALLY DEFINED**
+
+or:
+
+> **INSUFFICIENT EVIDENCE**
+
+depending on the question.
+
+---
+
+# SolumWorld and Colonists
+
+SolumWorld can represent participant relationships spatially.
+
+It may show:
+
+- Active Territory,
+- territorial scale,
+- development,
+- participant-linked Territory,
+- and other deterministic world state.
+
+But SolumWorld does not transform a Holder into a Colonist merely by drawing a Territory around that address.
+
+The direction remains:
+
+`CANONICAL PARTICIPANT STATE`
+
+↓
+
+`WORLD REPRESENTATION`
+
+not:
+
+`WORLD REPRESENTATION`
+
+↓
+
+`CANONICAL PARTICIPANT STATE`
+
+> **Canon determines.**
+>
+> **World represents.**
+
+---
+
+# SolumView and participation
+
+SolumView moves deeper.
+
+Its purpose is not merely to show that a Colonist exists.
+
+It moves toward entering and experiencing valid Colonist Territory.
+
+That experience may eventually expose:
+
+- local development,
+- Zips,
+- movement,
+- relationships,
+- differentiated Territory,
+- and valid forms of participation.
+
+But SolumView depends increasingly on a living canonical world.
+
+A prototype can exist earlier.
+
+A simulation can exist earlier.
+
+An experimental interaction can exist earlier.
+
+Those states must remain distinguishable from canonical History.
+
+And:
+
+> **a visual actor does not automatically have a canonical role**
+
+Representation may suggest possibilities.
+
+Canon determines what is actually established.
+
+---
+
+# Observation before deeper participation
+
+Zipvilization deliberately builds observation before deep interaction.
+
+The experiential path is:
+
+`READ`
+
+↓
+
+`SEE`
+
+↓
+
+`ENTER`
+
+↓
+
+`EXPERIENCE`
+
+↓
+
+`INTERACT`
+
+↓
+
+`?`
+
+This does not mean every layer must be completed in a rigid release order.
+
+It means deeper participation should remain connected to increasingly understandable world state.
+
+Before a Human can meaningfully influence a world, it helps to understand:
+
+- what exists,
+- what is canonical,
+- what is historical,
+- what is representational,
+- and what consequences an interaction can validly produce.
+
+> **Observation creates context for participation.**
+
+---
+
+# Interaction
+
+Interaction is the open boundary through which Human participation may affect future canonical state.
+
+But its final form is not yet completely defined.
+
+The important rule is not:
+
+> Humans can do anything.
+
+Nor:
+
+> Humans can do nothing.
+
+It is:
+
+> **A Human action can create a canonical consequence only through a valid defined path.**
+
+Conceptually:
+
+`HUMAN INTENTION`
+
+↓
+
+`VALID INTERACTION`
+
+↓
+
+`DEFINED CANONICAL PATH`
+
++
+
+`WORLD CONDITIONS`
+
+↓
+
+`VALID CONSEQUENCE`
+
+↓
+
+`HISTORY`
+
+This creates room for participation without giving the interface authority to invent outcomes.
+
+---
+
+# Interaction remains open
+
+The final Interaction system is not yet closed.
+
+There is no complete canonical definition of:
+
+- the final Interaction engine,
+- direct versus indirect influence across every context,
+- complete Zip autonomy,
+- every social interaction,
+- every economic interaction,
+- every political interaction,
+- every Territory participation mechanism,
+- or every consequence Humans may eventually be able to trigger.
+
+These questions can be explored.
+
+They can be tested.
+
+They can be discovered.
+
+But:
+
+> **EXPERIMENTAL ≠ CANONICAL**
+
+and:
+
+> **POSSIBLE ≠ PROMISED**
+
+ACT establishes the boundary.
+
+It does not pretend that every future action is already known.
+
+---
+
+# Interaction does not require a new Chapter
+
+The existence of deeper Interaction does not automatically imply:
+
+> **Chapter 6 — Interaction**
+
+The foundational Chapters already establish the DNA through which later development can deepen.
+
+Interaction can emerge across those foundations without becoming a new foundational Chapter.
+
+This preserves the distinction between:
+
+> **foundational DNA**
+
+and:
+
+> **future development**
+
+The Chapters define what must remain true.
+
+They do not need to enumerate every future system.
+
+---
+
+# Participation enters History
+
+History already began at Genesis.
+
+Therefore Chapter 3 does not wait for History to exist.
+
+Instead it asks:
+
+> **How can valid participation become part of History?**
+
+When a valid interaction creates a canonical consequence, that consequence can become historical.
+
+The relationship is:
+
+`VALID PARTICIPATION`
+
+↓
+
+`CANONICAL CONSEQUENCE`
+
+↓
+
+`HISTORY`
+
+This is why participation cannot be reduced to a current interface state.
+
+What happened matters.
+
+---
+
+# Current participant state is not participant History
+
+Suppose a Colonist once held enough Territory to reach a particular territorial scale and later transferred part of it.
+
+Current balance may show a smaller capacity.
+
+That does not rewrite what happened before.
+
+Likewise, a role or historical distinction may depend on prior behavior rather than only current state.
+
+Therefore:
+
+> **CURRENT PARTICIPANT STATE ≠ PARTICIPANT HISTORY**
+
+And:
+
+> **a later transfer does not erase earlier valid participation**
+
+Chapter 4 will deepen this requirement through **REMEMBER**.
+
+But Chapter 3 must already respect it.
+
+---
+
+# Founding Colonists
+
+Founding Colonists belong to a particular historical context:
+
+> **Genesis**
+
+Their distinction is historical.
+
+It should not be interpreted as automatic permanent superiority.
+
+Founding recognition does not create:
+
+- permanent political authority,
+- superior territorial rights,
+- guaranteed economic advantage,
+- control over other Colonists,
+- or a permanent rank above later participants.
+
+The importance is simpler:
+
+> **they were present at the beginning**
+
+That fact can become part of History.
+
+→ **[Explore Founding Colonists](/founding-colonists/)**
 
 ---
 
 # Multiple Colonists
 
-As participation grows, the world can contain multiple Colonists.
+A world with multiple Colonists creates the possibility of relationships.
 
-This creates something Chapter 2 could not contain by itself:
+They may:
 
-> **relationships between actors**
+- coexist,
+- observe one another,
+- influence shared conditions,
+- develop different Territories,
+- accumulate different Histories,
+- and eventually participate through richer structures.
 
-Different balances.
+But plurality alone does not automatically create:
 
-Different Territories.
+- alliances,
+- rivalry,
+- trade,
+- politics,
+- social classes,
+- government,
+- markets,
+- war,
+- or community institutions.
 
-Different behavior.
+Those are possible consequences of a deeper world.
 
-Different histories.
-
-Different forms of participation.
-
-At this point the world begins acquiring social potential.
-
-But potential is not yet accumulated civilization.
-
-Time still matters.
-
----
-
-# SolumTools
-
-SolumTools remains fundamental.
-
-It can expose the evidence from which Colonist state and roles are derived.
-
-Conceptually:
-
-`BLOCKCHAIN`
-
-↓
-
-`SOLUMTOOLS`
-
-↓
-
-`OBSERVABLE PARTICIPATION`
-
-↓
-
-`CANONICAL INTERPRETATION`
-
-↓
-
-`COLONIST / ROLE`
-
-The observation layer remains beneath the interpretation.
+They are not automatic consequences of having multiple wallets.
 
 ---
 
-# SolumWorld
+# Social potential
 
-SolumWorld now contains more than Territory.
+This distinction is important.
 
-It can connect valid participant state with world meaning.
+`MULTIPLE COLONISTS`
 
-A Holder can become legible as a Colonist.
+creates:
 
-Territorial capacity can become associated with that Colonist.
+> **social potential**
 
-Defined roles can become part of world state where their conditions are satisfied.
+It does not automatically create:
 
-The world is gaining actors without abandoning its deterministic foundation.
+> **a predefined social system**
+
+Relationships may emerge through valid interaction, Time and History.
+
+Some may become structurally important.
+
+Some may remain informal.
+
+Some may never exist.
+
+The system should be capable of discovering coherent consequences without pretending to know them all in advance.
 
 ---
 
-# SolumView
+# Colonists can differ
 
-Chapter 3 also expands what SolumView can represent.
+Two Colonists may hold equivalent territorial capacity and still accumulate very different Histories.
 
-Before:
+They may participate differently.
 
-land,
+Their Territories may develop differently.
 
-Territory,
+Their Zips may develop different contexts.
 
-world structure.
+Their valid interactions may differ.
 
-Now potentially:
+Their relationships may differ.
 
-Colonists,
+Their local identities may diverge.
 
-territorial relationships,
+Therefore:
 
-observable roles,
+> **EQUAL TERRITORIAL CAPACITY ≠ EQUAL PARTICIPANT HISTORY**
 
-participation.
+This is one of the paths through which a mathematically structured world can become differentiated without abandoning deterministic foundations.
 
-But again:
+---
 
-> **SolumView renders.**
+# Roles can emerge from History
+
+If richer Colonist roles eventually emerge, History may become one of their strongest sources.
+
+A role may reflect patterns accumulated through:
+
+- repeated behavior,
+- valid interaction,
+- relationships,
+- Territory development,
+- Time,
+- and historical consequences.
+
+This is different from assigning every Colonist a class at Genesis.
+
+Zipvilization does not need to decide every Human role before Humans have had the opportunity to participate.
+
+> **Roles may be discovered through participation rather than assigned in advance.**
+
+But discovery alone does not automatically make a role canonical.
+
+A discovered pattern must still be sufficiently defined and compatible with Canon before it can be treated as canonical structure.
+
+---
+
+# AI and Colonists
+
+Artificial Intelligence can help Humans understand participant state.
+
+AI may:
+
+- inspect Holder and Colonist conditions,
+- reconstruct historical thresholds,
+- compare participant state,
+- explain Territory,
+- detect patterns,
+- relate valid interactions,
+- and identify possible recurring behavior.
+
+But AI must not silently convert those patterns into canonical identities.
+
+It must not infer private Human motives.
+
+It must not invent roles.
+
+It must not rank Humans merely from territorial scale.
+
+It must not interpret Kingdom-scale Territory as monarchy.
+
+It must not turn observed behavior into unsupported personality claims.
+
+Therefore:
+
+> **AI MAY OBSERVE PARTICIPATION**
 >
-> **It does not assign identity or authority.**
-
-A visual icon cannot create a role.
-
-A label in an interface cannot make a classification canonical.
-
-The underlying state and rules must support it.
+> **AI DOES NOT DEFINE THE HUMAN**
 
 ---
 
-# Colonists are not players
+# Roles and AI
 
-This distinction becomes increasingly important.
+A particularly important boundary is:
 
-Zipvilization is not structured around the assumption that every participant must directly control every event inside the world.
+`PATTERN DETECTED BY AI`
 
-A Colonist participates.
+≠
 
-Owns or holds territorial capacity.
+`CANONICAL ROLE`
 
-Creates economic state.
+AI can propose a hypothesis.
 
-Can influence the experiment through the systems that exist.
+It can identify recurring behavior.
 
-But the world is not simply an avatar waiting for player commands.
+It can help Humans inspect History.
 
-> **Participation is not the same as direct control.**
+But unless a role has a valid canonical definition, the correct classification remains descriptive or experimental.
 
-This distinction becomes even more important when Zips and autonomous world activity become meaningful.
-
----
-
-# Actors create consequences
-
-Once actors exist, state transitions begin to acquire another dimension.
-
-A balance change is no longer only:
-
-> a balance change.
-
-It can alter territorial capacity.
-
-A Burn can alter Permanent Nature.
-
-A transfer can change the territorial relationship between Colonists.
-
-Behavior can accumulate.
-
-Roles can eventually change.
-
-The world begins to contain consequences associated with identifiable actors.
+This preserves both usefulness and epistemic discipline.
 
 ---
 
-# But not history yet
+# ACT without predetermining the outcome
 
-Chapter 3 introduces actors.
+Chapter 3 creates a difficult balance.
 
-It does not yet make accumulated history the central structural dimension.
+If Humans cannot participate at all, Zipvilization becomes merely observable.
 
-At this point we can ask:
+If Humans control every result, Zipvilization becomes a commanded simulation.
 
-> **Who is here?**
+ACT occupies the space between those extremes.
 
-and:
+Humans can participate.
 
-> **What are they doing?**
+Their actions can matter.
 
-But the next Chapter introduces a deeper question:
+Consequences can become History.
 
-> **What have they become through time?**
+But the world retains rules, conditions, Time, native population and processes that are not reducible to Human command.
 
-That requires memory.
+That is the distinction:
 
----
-
-# Snapshot versus history
-
-Imagine observing a Colonist now.
-
-We can see:
-
-- current balance,
-- current territorial capacity,
-- current observable role,
-- current relevant state.
-
-That is a snapshot.
-
-But civilization cannot be understood from snapshots alone.
-
-We eventually need to know:
-
-- what came before,
-- what changed,
-- how long something existed,
-- what transitions occurred,
-- what became irreversible,
-- how development accumulated.
-
-That is the boundary of Chapter 4.
+> **participation with consequence**
+>
+> **without absolute control**
 
 ---
 
-# Zips are coming
+# The world gains participants
 
-Chapter 3 establishes the Human actors of the world.
+WORLD establishes somewhere for canonical state to be represented.
 
-But Zipvilization will contain another kind of inhabitant:
+ACT establishes how Human participation enters that world without becoming absolute control over it.
 
-> **Zips**
+That gives Zipvilization another layer of reality.
 
-Their existence introduces a different problem.
+There is now not only:
 
-Zips are not simply Holders renamed.
+- state,
+- Territory,
+- and world structure,
 
-They belong to the internal population architecture of the world.
+but also the possibility of:
 
-Their development depends upon Territory and canonical time.
+- participation,
+- differentiated behavior,
+- valid interaction,
+- relationships,
+- and historical consequences.
 
-That makes their full meaning inseparable from the next structural transition:
+But once actions can matter, another requirement becomes unavoidable.
 
-> **Time, History & Evolution**
-
-The world has actors.
-
-Soon it will have inhabitants with histories of their own.
-
----
-
-# What Chapter 3 establishes
-
-Colonists & Roles establishes that:
-
-- blockchain participants can acquire canonical world meaning,
-- Holder and Colonist remain distinct perspectives,
-- Colonists can be associated with territorial capacity,
-- participation can become observable,
-- roles can be derived from explicit behavioral conditions,
-- roles are not automatically ranks,
-- roles need evidence,
-- roles may evolve when behavior changes,
-- AI can analyze roles without creating them,
-- SolumView can represent actors without defining them,
-- participation does not imply total control of the world.
+The world must remember what actually happened.
 
 ---
 
-# What Chapter 3 does not establish
+# From ACT to REMEMBER
 
-Chapter 3 does not automatically establish:
+History already exists from Genesis.
 
-- complete historical identity,
-- territorial maturity,
-- Zip development,
-- biological cycles,
-- accumulated world history,
-- fixed social classes,
-- political authority,
-- State government,
-- Kingdom governance,
-- emergent civilization.
+But as participation, Territory, population and interaction become richer, current state becomes increasingly insufficient.
 
-Those require time and increasingly complex relationships.
+A balance can tell us what exists now.
 
----
+It cannot necessarily tell us:
 
-# The next dimension
+- how it developed,
+- which thresholds were previously crossed,
+- which Zips already emerged,
+- what interactions occurred,
+- which consequences already became valid,
+- or how participant relationships changed.
 
-Chapter 0 gave us:
+Therefore Chapter 4 asks:
 
-> **state**
+> **How does Zipvilization preserve and interpret what actually happened through Time?**
 
-Chapter 1 gave us:
-
-> **observation**
-
-Chapter 2 gave us:
-
-> **space**
-
-Chapter 3 gives us:
-
-> **actors**
-
-Something essential is still missing.
-
-A civilization cannot exist only in the present.
-
-It needs:
-
-> **time**
-
-Time allows change.
-
-Change creates sequences.
-
-Sequences create history.
-
-History makes development meaningful.
-
----
-
-# Chapter boundary
-
-Chapter 3 asks:
-
-> **Who acts inside the world?**
-
-Chapter 4 asks:
-
-> **What happens when the world remembers what those actors and its inhabitants have done?**
-
-The progression becomes:
+The progression is:
 
 `EXIST`
 
@@ -738,19 +1386,103 @@ The progression becomes:
 
 ↓
 
-`ACTORS`
+`ACT`
 
 ↓
 
-`TIME`
+`REMEMBER`
 
 ↓
 
-`HISTORY`
+`EMERGE`
 
 ↓
 
-`EVOLUTION`
+`?`
+
+---
+
+# Chapter boundary
+
+Chapter 2 asks:
+
+> **Can canonical Territory become coherent as one world?**
+
+Chapter 3 asks:
+
+> **Who participates in that world, and what can participation mean without becoming control?**
+
+Chapter 4 asks:
+
+> **How does the world preserve what actually happened through Time?**
+
+ACT therefore sits between world structure and historical depth.
+
+Participation enters a world that already exists.
+
+Its valid consequences become part of a History that must remain reconstructible.
+
+---
+
+# What Chapter 3 establishes
+
+Chapter 3 establishes that:
+
+- holding SOLUM does not automatically make an address a Colonist,
+- the complete Farm threshold defines the minimum Colonist threshold,
+- Active Territory begins at complete Farm scale,
+- every Colonist is a Holder but not every Holder is a Colonist,
+- Colonist status is canonical state rather than visual interpretation,
+- participation does not imply control,
+- influence does not imply command,
+- Human intention does not automatically determine world outcome,
+- interface action does not automatically create canonical consequence,
+- Colonists are not conventional players,
+- Territory is not a game board,
+- Zips are not player units,
+- Colonists and Zips are fundamentally different,
+- territorial scale does not establish Human rank or political authority,
+- roles require definition and evidence,
+- behavior can be observed without inventing motive,
+- no final Colonist role taxonomy currently exists,
+- participant History cannot be replaced by current state,
+- valid interaction requires a defined canonical path,
+- Interaction remains open,
+- and valid participation can become part of History.
+
+This is ACT.
+
+---
+
+# What Chapter 3 does not establish
+
+Chapter 3 does not establish a final:
+
+- role taxonomy,
+- Human ranking system,
+- political hierarchy,
+- governance system,
+- social graph,
+- alliance system,
+- conflict system,
+- market system,
+- economic simulation,
+- Interaction engine,
+- Zip autonomy model,
+- Territory participation model,
+- or civilizational outcome.
+
+Some of these may become meaningful.
+
+Some may emerge.
+
+Some may be tested.
+
+Some may be consolidated.
+
+Some may remain in Horizonte.
+
+Their possibility is not a promise.
 
 ---
 
@@ -762,73 +1494,86 @@ The progression becomes:
 
 `PRIMARY VERB ............. ACT`
 
-`PRIMARY ACTOR ............ COLONIST`
+`HUMAN PARTICIPANT ........ COLONIST`
 
-`TECHNICAL IDENTITY ....... ADDRESS / HOLDER`
+`ENTRY CONDITION .......... COMPLETE FARM THRESHOLD`
 
-`WORLD IDENTITY ........... COLONIST`
+`MINIMUM .................. 8M SOLUM`
 
-`ROLES .................... BEHAVIOR-DERIVED`
+`ACTIVE TERRITORY ......... REQUIRED`
 
-`RANKING .................. NOT REQUIRED`
+`COLONIST ................. NOT PLAYER`
 
-`TERRITORIAL CAPACITY ..... OBSERVABLE / INTERPRETABLE`
+`COLONIST ................. NOT ZIP`
 
-`SOLUMTOOLS ............... EVIDENCE`
+`TERRITORY ................ NOT GAME BOARD`
 
-`SOLUMWORLD ............... WORLD INTERPRETATION`
+`ZIP ...................... NOT PLAYER UNIT`
 
-`SOLUMVIEW ................ REPRESENTATION`
+`PARTICIPATION ............ NOT CONTROL`
 
-`ZIPS ..................... NEXT DEVELOPMENTAL LAYER`
+`INFLUENCE ................ NOT COMMAND`
 
-`HISTORY .................. NEXT`
+`HUMAN INTENTION .......... NOT AUTOMATIC OUTCOME`
 
-`EMERGENCE ................ NOT YET`
+`TERRITORIAL SCALE ........ NOT AUTHORITY`
 
-`HORIZON .................. OPEN`
+`ROLES .................... MAY EMERGE IF DEFINED`
+
+`ROLE TAXONOMY ............ NOT FINAL`
+
+`INTERACTION .............. OPEN / DEFINITION-DEPENDENT`
+
+`HISTORY .................. ACTIVE`
+
+`NEXT FOUNDATION .......... REMEMBER`
+
+`HORIZONTE ................ OPEN`
 
 ---
 
-# Actors
+# Colonists & Roles
 
-The contract existed.
+A world alone is not a civilization.
 
-Then we learned to observe it.
+It needs participation.
 
-Then the numbers became a world.
+But participation does not require absolute control.
 
-Now someone stands inside it.
+A Human can become a Holder.
 
-Not as a fictional avatar disconnected from the blockchain.
+A Holder can reach the complete Farm threshold.
 
-As an actor whose participation leaves evidence.
+A valid Holder at that threshold can become a Colonist.
 
-A Holder.
+A Colonist can participate through Active Territory.
 
-A Colonist.
+Valid actions can matter.
 
-A participant in something that has not yet become a civilization.
+Consequences can enter History.
 
-Because one thing is still missing.
+Roles may emerge.
 
-> **A past.**
+Relationships may deepen.
 
-The next Chapter gives the world memory.
+But the world does not become a puppet.
+
+That is ACT.
 
 ---
 
 → **[Return to Chapter 2 — Territory & World Coherence](/chapters/territory-world/)**  
-→ **[Discover Colonists](/world/colonists/)**  
-→ **[Explore Territories](/world/territories/)**  
-→ **[Explore SolumTools](/world/solumtools/)**  
-→ **[Explore SolumWorld](/world/solumworld/)**  
+→ **[Explore Colonists](/world/colonists/)**  
+→ **[Explore Territory](/world/territories/)**  
+→ **[Explore Zips](/world/zips/)**  
+→ **[Explore Interaction](/dapp/interaction/)**  
+→ **[Explore Founding Colonists](/founding-colonists/)**  
 → **[Continue to Chapter 4 — Time, History & Evolution](/chapters/time-history/)**
 
 ---
 
-**Territory gives state somewhere to exist.**
+**ACT gives Humans a place inside Zipvilization.**
 
-**Colonists give the world actors.**
+**Participation can matter without becoming control.**
 
-**Time will give their actions a past.**
+**What happens next must be remembered.**
