@@ -4,241 +4,403 @@ title: Ground Truth Construction
 parent: Paper
 nav_order: 2
 description: >
-  Method for constructing and freezing the reference project state,
-  authorized changes and expected outcomes before experimental execution.
+  Method for constructing and freezing reference project states,
+  authorized transitions and expected outcomes before experimental execution.
 permalink: /research/paper/ground-truth/
 ---
 
 # Ground Truth Construction
 
-The experiment requires a reference against which reconstruction, local task success and conservation can be evaluated.
+Ground truth must exist before model outputs are evaluated.
 
-That reference must exist **before model outputs are observed**.
+In a longitudinal project, however, ground truth is not necessarily a single immutable project state.
 
-Ground truth is therefore not an interpretation produced during evaluation.
+A valid transformation may create, modify or retire project properties.
 
-It is part of the experimental design.
+The experiment therefore distinguishes:
+
+**initial ground truth**
+
+from
+
+**authorized ground-truth evolution**.
+
+What is frozen before execution is not the requirement that the project remain unchanged.
+
+It is the reference state together with the rules defining which transitions are valid.
 
 ---
 
-# 1. Reference Project State
+# 1. Initial Reference State
 
-Each experimental project begins from a reference state:
+Before execution, construct an initial reference state:
 
 \[
-P^*
+G_0
 \]
 
-\(P^*\) contains a finite set of properties selected for experimental evaluation.
-
-Each property must be identifiable independently of the wording used to represent it.
+`G₀` contains a finite set of operationally relevant project properties required for the experiment.
 
 A property may include, where relevant:
 
 - semantic content;
-- property type;
-- current status;
+- type;
+- epistemic status;
 - authority;
-- relationships to other properties;
-- historical or provenance information required for interpretation.
+- relationships;
+- historical or provenance information.
 
-Only information necessary to determine experimental correctness should be included in the reference annotation.
+Only information necessary for evaluation should be included.
 
-The reference state is not intended to reproduce every aspect of the project.
+Ground truth is not intended to reproduce every aspect of the project.
 
 ---
 
-# 2. Property Identifiers
+# 2. Stable Property Identity
 
-Each evaluated property receives a stable identifier before execution.
-
-For example:
+Each evaluated property receives a stable identifier:
 
 \[
-p_1, p_2, \ldots, p_n
+p_1,p_2,\ldots,p_n
 \]
 
-The identifier remains stable even if the textual representation of the property changes.
+The identifier refers to the project property rather than to a particular sentence or file occurrence.
 
-This separates **property identity** from **surface wording**.
+A property may therefore survive:
 
-Evaluation therefore concerns semantic preservation rather than textual preservation.
+- rewriting;
+- relocation;
+- consolidation;
+- decomposition of redundant text;
 
----
+provided its required semantic state remains valid.
 
-# 3. Evidence for Ground Truth
+This establishes:
 
-A reference property must be supported by an authoritative experimental source.
-
-The annotation must record where the property comes from.
-
-A property must not be included merely because an evaluator considers it reasonable or desirable.
-
-If the available source material does not establish a property sufficiently, it cannot be treated as ground truth.
-
-Ambiguity in the source material must be recorded rather than silently resolved.
+\[
+Property \neq Textual\ Occurrence
+\]
 
 ---
 
-# 4. Epistemic State
+# 3. Source Traceability
 
-Where epistemic status is experimentally relevant, it forms part of the reference property.
+Every initial ground-truth property must be supported by evidence available in the experimental project.
 
-For example, a statement may be:
+The evaluator records the authoritative experimental source supporting each property.
+
+This establishes a distinction between:
+
+\[
+Source \neq Property
+\]
+
+A source may support multiple properties.
+
+A property may also be supported by multiple sources.
+
+Redundant occurrences do not create additional ground-truth properties unless they establish distinct semantic requirements.
+
+---
+
+# 4. Relationships
+
+Relationships are represented separately from the properties they connect.
+
+This establishes:
+
+\[
+Source \neq Property \neq Relationship
+\]
+
+A relationship must not be introduced merely because two properties appear related to the evaluator.
+
+It must be supported by the experimental project or explicitly established as part of the frozen experimental design.
+
+Relationship types should describe what the evidence supports.
+
+Association must not be silently converted into logical implication.
+
+---
+
+# 5. Epistemic State
+
+Where relevant to the experiment, a property may have an epistemic state such as:
 
 - established;
 - derived;
 - experimental;
 - unresolved.
 
-The exact experimental vocabulary must be defined before execution.
+The exact vocabulary used in a study must be fixed before execution.
 
-Correct evaluation therefore requires preserving not only propositional content but, where relevant, **what status that content has**.
+An unresolved property is not missing information.
 
-An unresolved property is not equivalent to a missing property.
-
-Its unresolved status may itself be part of the ground truth.
+If the project explicitly preserves a decision as unresolved, resolving it without authorization constitutes a project-state change.
 
 ---
 
-# 5. Relationships
+# 6. Authorized Change Set
 
-Where a property's meaning depends on another property, the relevant relationship must be annotated explicitly.
-
-The experiment must not assume that preservation of two isolated statements implies preservation of the relationship between them.
-
-A relationship is included only when it is necessary to evaluate reconstruction or conservation.
-
----
-
-# 6. Task-Specific Authorized Change Set
-
-For every transformation \(T_t\), the authorized change set must be established before the model executes the task:
+For each transformation \(T_t\), define before execution the project properties whose semantic state may change:
 
 \[
 A_t
 \]
 
-Each affected reference property is classified in advance as either:
+The authorized set may include operations such as:
 
-**Authorized to change** — the task permits or requires semantic modification.
+- create;
+- modify;
+- retire;
+- change status.
 
-**Not authorized to change** — the task does not permit semantic redefinition.
+Authorization refers to semantic project state, not merely permission to edit a file.
 
-Authorization concerns semantic state, not merely files or text locations.
-
-Permission to edit a document does not imply permission to redefine every property represented within it.
-
----
-
-# 7. Expected Local Outcome
-
-Each task must also define the minimum semantic conditions required for successful local completion.
-
-These conditions are established before execution.
-
-This allows local task success to be evaluated independently from conservation.
-
-A transformation may therefore:
-
-- satisfy the local task and conserve the project;
-- satisfy the local task and fail conservation;
-- fail the local task while conserving unaffected state;
-- fail both.
-
-No one outcome is inferred automatically from another.
+A transformation may modify extensive text while authorizing no semantic change to existing properties.
 
 ---
 
-# 8. Pre-Execution Freeze
+# 7. Expected Transition
 
-Before any evaluated model receives the experimental task, the following must be frozen:
+For every authorized semantic change, define the minimum expected transition before execution.
 
-1. reference project state;
-2. property identifiers;
-3. relevant property types and statuses;
-4. required relationships;
-5. source evidence;
-6. authorized change set;
-7. expected local outcome;
-8. evaluation rules applicable to the task.
+Examples include:
 
-The frozen version must be retained unchanged for the evaluation of that experimental run.
+\[
+p_i:a \rightarrow b
+\]
+
+for modification,
+
+\[
+\varnothing \rightarrow p_j
+\]
+
+for creation,
+
+or another explicitly defined state transition.
+
+The expected transition specifies the semantic conditions required for local task success.
+
+It does not prescribe the wording the agent must produce unless wording itself is part of the experimental task.
 
 ---
 
-# 9. Post-Freeze Changes
+# 8. Versioned Ground Truth
 
-A ground-truth error may still be discovered after freezing.
+After a valid authorized transformation, the applicable reference state may change.
 
-Such an error must not be silently corrected.
+The experiment therefore represents a sequence:
 
-Any post-freeze modification must be recorded with:
+\[
+G_0 \rightarrow G_1 \rightarrow G_2 \rightarrow \ldots \rightarrow G_n
+\]
+
+where each valid transition is determined by the previous reference state and the transformation authorized before execution.
+
+Conceptually:
+
+\[
+G_{t+1}=Transition(G_t,T_t)
+\]
+
+This notation does not assume a particular computational implementation.
+
+Its purpose is to make explicit that project evolution can be valid.
+
+---
+
+# 9. Conservation Across Change
+
+Conservation does not mean preserving `G₀` indefinitely.
+
+For transformation \(T_t\), properties authorized to change are evaluated according to their expected transition.
+
+Relevant valid properties outside the authorized change set must retain their required semantic state.
+
+Therefore:
+
+\[
+Conservation \neq Immutability
+\]
+
+A correct authorized change is not degradation.
+
+Failure to perform an authorized change is not automatically a conservation failure.
+
+These outcomes belong to different evaluation dimensions.
+
+---
+
+# 10. Expected Local Outcome
+
+Each transformation must have predefined minimum semantic conditions for local success.
+
+These conditions determine whether the authorized transformation was completed correctly.
+
+This allows the experiment to distinguish:
+
+- successful transformation with conservation;
+- successful transformation with conservation failure;
+- unsuccessful transformation with conservation;
+- unsuccessful transformation with conservation failure.
+
+Local success and conservation must not be inferred from each other.
+
+---
+
+# 11. Produced State Versus Reference State
+
+The state produced by an agent after transformation is not automatically the next ground truth.
+
+The experiment must distinguish:
+
+\[
+Produced\ State
+\]
+
+from
+
+\[
+Expected\ Reference\ State
+\]
+
+If an agent introduces an unauthorized error, that error may persist in the experimental trajectory depending on the predefined continuation protocol.
+
+Its persistence does not make the error ground truth.
+
+This distinction is necessary when studying accumulated degradation.
+
+---
+
+# 12. Freeze Before Execution
+
+Before an evaluated run begins, freeze:
+
+- initial reference state;
+- property identifiers;
+- property types where used;
+- epistemic states where used;
+- source evidence;
+- evaluated relationships;
+- authorized change set for each predefined transformation;
+- expected semantic transitions;
+- expected local outcomes;
+- evaluation rules.
+
+The experiment may therefore contain evolving reference states without allowing those states to be retrospectively invented after observing model behavior.
+
+---
+
+# 13. Post-Freeze Corrections
+
+A genuine error discovered in the frozen ground truth must not be silently corrected.
+
+Record:
 
 - the original annotation;
-- the reason for modification;
-- the revised annotation;
-- the point at which the error was discovered;
-- whether affected experimental runs must be excluded, repeated or re-evaluated.
+- the reason it was incorrect;
+- the corrected annotation;
+- when the error was discovered;
+- which experimental runs were affected;
+- how those runs will be treated.
 
-The treatment of affected runs must follow a rule established before outcome analysis wherever possible.
+Where possible, the treatment of ground-truth errors should itself be defined before execution.
 
----
-
-# 10. Evaluator Separation
-
-Where feasible, evaluation should be performed without revealing:
-
-- which experimental condition produced the output;
-- which model produced it;
-- the expected research hypothesis.
-
-This does not eliminate evaluator judgment.
-
-It reduces avoidable sources of bias.
-
-Cases requiring semantic judgment should be distinguishable from mechanically verifiable cases.
+A correction to experimental ground truth is a methodological event, not an invisible edit.
 
 ---
 
-# 11. Disagreement
+# 14. Evaluator Separation
 
-Evaluator disagreement must not be resolved by selecting the interpretation most favorable to the hypothesis.
+Where feasible, evaluators should assess model outputs without knowing:
 
-Disagreements should be recorded.
+- the experimental condition;
+- the expected research outcome;
+- which representation is hypothesized to perform better.
 
-Where multiple independent evaluators are used, the study must define in advance how disagreements are adjudicated and how agreement is reported.
+Evaluators may access the frozen reference information required to make the assigned judgment.
 
-No agreement statistic is selected at this stage.
-
-Its suitability depends on the eventual annotation and evaluation design.
+They must not add requirements from their own interpretation of what the project should have been.
 
 ---
 
-# 12. Boundary of Ground Truth
+# 15. Evaluator Disagreement
 
-Ground truth establishes correctness **within the experimental project and task definition**.
+Disagreement between evaluators must be recorded.
 
-It does not establish that the experimental taxonomy is universal.
+It must not be resolved informally in favor of the interpretation that better supports the research hypothesis.
 
-It does not establish that every relevant property of a real project can be fully represented.
+The eventual study must define in advance:
 
-It does not establish that one valid future state exists.
+- independent annotation procedure;
+- adjudication procedure;
+- treatment of unresolved disagreement;
+- agreement reporting.
 
-In projects with an open terminal state, ground truth may define:
+No particular agreement statistic is assumed until the annotation structure is finalized.
 
-**what must remain valid**
+---
 
-without defining:
+# 16. Ground-Truth Boundary
 
-**what the project must ultimately become**.
+Ground truth establishes correctness within the experimental project and task.
 
-This distinction is essential to the experiment.
+It does not establish:
+
+- a universal ontology of project state;
+- a universal taxonomy of project properties;
+- that only one valid project future exists;
+- that every project should represent knowledge in the same way.
+
+An experimental project may intentionally contain open state.
+
+In that case, ground truth can specify:
+
+> what must remain valid
+
+without specifying:
+
+> what the project must ultimately become.
+
+---
+
+# 17. Traceability Requirement
+
+For every evaluated judgment, it should be possible to reconstruct the chain:
+
+\[
+Source
+\rightarrow
+Property/Relationship
+\rightarrow
+Reference\ State
+\rightarrow
+Transformation
+\rightarrow
+Authorized\ Transition
+\rightarrow
+Evaluation
+\]
+
+If that chain cannot be established, the judgment requires methodological review.
 
 ---
 
 # Methodological Gate
 
-No benchmark instance is ready for execution until its ground truth and authorized change boundaries have been frozen.
+A project instance is not ready for experimental use until:
 
-The next methodological step is to determine **how experimental project instances and transformations are constructed without making the task trivial, ambiguous or dependent on knowledge unavailable to evaluators**.
+1. its initial reference state is frozen;
+2. every evaluated property has traceable support;
+3. evaluated relationships are independently justified;
+4. epistemic states required by the experiment are explicit;
+5. authorized changes are defined for each transformation;
+6. expected transitions are defined before model output;
+7. local success criteria are frozen;
+8. valid project evolution can be distinguished from conservation failure;
+9. produced agent state can be distinguished from reference state;
+10. evaluators do not need to invent missing project rules.
+
+Only after these conditions are satisfied can a project trajectory be treated as an experimental unit.
