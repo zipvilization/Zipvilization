@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Status
-nav_order: 8
+nav_order: 11
 description: >
   Current status of Zipvilization: what is defined, developed, tested,
   live, data-dependent, experimental or still open.
