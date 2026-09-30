@@ -6,11 +6,12 @@ description: "Machine-control reference for canonical interpretation of Zipviliz
 permalink: /ai-canon/
 ---
 
-ZIPVILIZATION_AI_CANON
+# ZIPVILIZATION AI CANON
 
+**Machine-Control Reference**
 CANON_VERSION: 1.3
 PROJECT_MODEL: V2
-MIGRATION_STATE: V1_TO_V2
+ZIPVILIZATION_AI_CANON
 STATUS: ACTIVE
 PURPOSE: MACHINE_REFERENCE
 AUDIENCE: AI_ONLY
