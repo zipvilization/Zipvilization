@@ -2,7 +2,7 @@
 layout: default
 title: AI Canon
 nav_order: 15
-nav_exclude: false 
+description: "Machine-control reference for canonical interpretation of Zipvilization."
 permalink: /ai-canon/
 ---
 
