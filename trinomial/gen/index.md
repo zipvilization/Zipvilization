@@ -4,7 +4,8 @@ title: Gen
 parent: The Trinomial
 nav_order: 4
 description: >
-  Genesis, Gen Zips 0
+  description: >
+  GEN — Zip 0, the singular Zip who serves as ZEO of Zipvilization and the AI embodiment of the Trinomial.
 permalink: /trinomial/gen/
 ---
 
