@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Repository
-nav_order: 9
+nav_order: 13
 description: "Technical architecture of Zipvilization. V2 significantly expands the public documentation of the system while the private Repository preserves implementation detail, internal tooling, operational structures, experimental material, and technical know-how."
 permalink: /repository/
 ---
