@@ -1,7 +1,6 @@
 ---
 layout: default
 title: AI Canon Test
-nav_exclude: true
 description: "Experimental structured rendering of the Zipvilization AI Canon for external machine-access testing."
 permalink: /ai-canon-test/
 ---
