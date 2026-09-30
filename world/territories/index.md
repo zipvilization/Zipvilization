@@ -2,7 +2,7 @@
 layout: default
 title: Territories
 parent: The World
-nav_order: 3
+nav_order: 2
 description: >
   Territory in Zipvilization is deterministic spatial capacity derived from
   SOLUM. Farms are the minimum active territorial structure and remain the
