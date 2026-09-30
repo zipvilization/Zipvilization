@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Trinomial
-nav_order: 4
+nav_order: 6
 has_children: true
 description: >
   The Trinomial is the working structure behind Zipvilization: Human,
