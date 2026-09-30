@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Smart Contract
-nav_order: 8
+nav_order: 9
 has_children: true
 description: >
   The Smart Contract defines and executes the blockchain mechanics of Solum:
