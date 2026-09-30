@@ -2,7 +2,7 @@
 layout: default
 title: Colonists
 parent: The World
-nav_order: 2
+nav_order: 3
 description: >
   Colonists are the human participants of Zipvilization who reach at least one
   complete Farm of territorial capacity. A Holder becomes a Colonist at the
