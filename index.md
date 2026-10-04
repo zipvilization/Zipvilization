@@ -5,6 +5,20 @@ nav_order: 1
 description: "Zipvilization is an experimental digital civilization built on blockchain. SOLUM provides Territory, blockchain blocks provide Time, Zips emerge through valid development, Colonists participate, History accumulates, and the final civilizational outcome remains open."
 permalink: /
 ---
+> **⚠ IMPORTANT NOTICE — OFFICIAL X ACCOUNT**
+>
+> Our official X account, ***@zipvilization***, is currently suspended.
+>
+> We are actively trying to recover it. Until the situation is resolved, ***@gen_zip0 is the official voice of Zipvilization on X***.
+>
+> A large number of **Founding Colonists** had already registered through the original participation form. ***Those submissions are preserved.*** The original form has been closed while we adapt the participation process.
+>
+> **Zipvilization continues as normal.**
+>
+> ***We are still here. We are still building.***
+
+{: .warning }
+
 
 # ZIPVILIZATION
 
