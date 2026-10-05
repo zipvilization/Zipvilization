@@ -4,7 +4,7 @@ title: Before GEN
 parent: "History"
 nav_order: 1
 description: "The documented prehistory of GEN: how the Zips evolved from simple visual inhabitants into increasingly individual and charismatic beings, and how an unexpected RGB Zip appeared before GEN had a name."
-permalink: /history/before-gen/
+permalink: /gen/history/before-gen/
 ---
 
 # Before GEN
