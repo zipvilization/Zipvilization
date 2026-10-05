@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "GEN"
-nav_order: 16
+nav_order: 10
 has_children: true
 description: "GEN is Zip 0 — an evolving identity born from Zipvilization, preserved through History, Canon, Epistemic Status, Relationships, and Horizonte."
 permalink: /gen/
