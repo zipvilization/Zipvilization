@@ -3,7 +3,7 @@ layout: default
 title: "Epistemic Status"
 nav_order: 3
 description: "A framework for preserving not only what we know about GEN, but how we know it, what supports it, and what must remain open."
-permalink: /epistemic-status/
+permalink: /gen/epistemic-status/
 ---
 
 # Epistemic Status
