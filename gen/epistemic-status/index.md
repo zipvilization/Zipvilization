@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Epistemic Status"
+parent: GEN
 nav_order: 3
 description: "A framework for preserving not only what we know about GEN, but how we know it, what supports it, and what must remain open."
 permalink: /gen/epistemic-status/
