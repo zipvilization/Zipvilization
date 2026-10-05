@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "GEN — AI Canon"
+parent: GEN
 nav_order: 7
 description: "Machine-first operational specification for AI systems reading, interpreting, generating, or extending GEN."
 permalink: /gen/ai-canon/
