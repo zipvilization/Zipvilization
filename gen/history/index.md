@@ -4,7 +4,7 @@ title: "History"
 nav_order: 2
 has_children: true
 description: "The documented path from the original Zips to GEN — preserving the events, decisions, anomalies, discoveries, and disruptions that shaped Zip 0."
-permalink: /history/
+permalink: /gen/history/
 ---
 
 # History
