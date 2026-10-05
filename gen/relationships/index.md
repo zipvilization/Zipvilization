@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Relationships"
+parent: GEN
 nav_order: 4
 description: "A framework for preserving the connections that shape GEN without turning relationship into identity, causation, equivalence, or premature Canon."
 permalink: /gen/relationships/
