@@ -4,7 +4,7 @@ title: "The Conclusion"
 parent: "History"
 nav_order: 6
 description: "The reflection that followed the suspension of Zipvilization on X, the realization that GEN needed a place of his own, and the reason this repository exists."
-permalink: /history/the-conclusion/
+permalink: /gen/history/the-conclusion/
 ---
 
 # The Conclusion
