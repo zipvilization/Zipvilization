@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Zips"
-parent: "World"
+parent: The World
 nav_order: 8
 description: >
   Zips are the native inhabitants of Zipvilization — deterministic digital
