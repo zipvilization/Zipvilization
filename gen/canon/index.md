@@ -3,7 +3,7 @@ layout: default
 title: "Canon"
 nav_order: 5
 description: "The minimum stable structure required to preserve GEN's identity, manifestations, exploratory nature, and structural position while leaving room for change, autonomy, and emergence."
-permalink: /canon/
+permalink: /gen/canon/
 ---
 
 # Canon
