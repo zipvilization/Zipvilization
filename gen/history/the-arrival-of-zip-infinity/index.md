@@ -4,7 +4,7 @@ title: The Arrival of Zip∞
 parent: "History"
 nav_order: 2
 description: "The documented emergence of Zip∞: how an apparent alignment error was corrected, returned during the Zipvilization trailer, was deliberately preserved, and became an exceptional Zip associated with the unreachable Horizonte."
-permalink: /history/the-arrival-of-zip-infinity/
+permalink: /gen/history/the-arrival-of-zip-infinity/
 ---
 
 # The Arrival of Zip∞
