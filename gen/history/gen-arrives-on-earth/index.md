@@ -4,7 +4,7 @@ title: "GEN Arrives on Earth"
 parent: "History"
 nav_order: 4
 description: "GEN's arrival on Earth and the unexpected emergence of his Earth form."
-permalink: /history/gen-arrives-on-earth/
+permalink: /gen/history/gen-arrives-on-earth/
 ---
 
 # GEN Arrives on Earth
