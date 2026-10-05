@@ -2,7 +2,7 @@
 layout: default
 title: Time
 parent: The World
-nav_order: 6
+nav_order: 5
 description: >
   Time in Zipvilization is measured in blockchain blocks. A biological cycle of
   65,536 blocks is the time required for a valid Bloch process to generate,

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chapters
-nav_order: 7
+nav_order: 5
 has_children: true
 description: "Chapters define the foundational DNA of Zipvilization: EXIST, OBSERVE, WORLD, ACT, REMEMBER and EMERGE. They establish what must remain true while development, History and participation move toward an open Horizonte."
 permalink: /chapters/

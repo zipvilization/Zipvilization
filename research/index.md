@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-nav_order: 5
+nav_order: 12
 has_children: true
 description: >
   Research is where Zipvilization turns years of Human–AI collaboration into

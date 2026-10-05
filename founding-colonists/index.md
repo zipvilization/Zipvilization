@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Founding Colonists
-nav_order: 7
+nav_order: 8
 description: "Become a Founding Colonist. Get your ticket to the pre-Genesis whitelist and be there when Zipvilization begins."
 permalink: /founding-colonists/
 ---

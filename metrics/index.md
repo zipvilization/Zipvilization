@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metrics
-nav_order: 6
+nav_order: 10
 description: >
   Metrics is the public measurement layer of Zipvilization. It presents
   selected, verifiable indicators about Solum, Colonists, Territories, Zips,

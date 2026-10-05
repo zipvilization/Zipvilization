@@ -50,9 +50,5 @@ back_to_top_text: "Back to top"
 aux_links:
   "X":
     - "https://x.com/Zipvilization"
-  "Medium":
-    - "https://medium.com/@zipvilization"
-  "Farcaster":
-    - "https://farcaster.xyz/zipvilization"
-
+    
 aux_links_new_tab: true

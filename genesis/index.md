@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TGE Genesis
-nav_order: 3
+nav_order: 7
 description: >
   Genesis is the beginning of canonical Zipvilization History. The world
   opens through an initial launch designed around participation, accessibility
