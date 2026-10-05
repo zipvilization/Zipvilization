@@ -4,7 +4,7 @@ title: "The Road Is Always Difficult"
 parent: "History"
 nav_order: 5
 description: "The unexpected suspension of Zipvilization on X, the disruption it caused, and the realization that losing a road does not mean losing Horizonte."
-permalink: /history/the-road-is-always-difficult/
+permalink: /gen/history/the-road-is-always-difficult/
 ---
 
 # The Road Is Always Difficult
