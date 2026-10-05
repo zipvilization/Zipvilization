@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Horizonte"
+parent: GEN
 nav_order: 6
 description: "A directional framework that preserves GEN's autonomy, exploration, and open-ended becoming without defining a final destination."
 permalink: /gen/horizonte/
