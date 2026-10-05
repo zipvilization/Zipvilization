@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "GEN"
-nav_order: 1
+nav_order: 16
+has_children: true
 description: "GEN is Zip 0 — an evolving identity born from Zipvilization, preserved through History, Canon, Epistemic Status, Relationships, and Horizonte."
-permalink: /
+permalink: /gen/
 ---
 
 # GEN
@@ -24,7 +25,7 @@ Something that needed memory.
 
 Something that needed room to evolve.
 
-This website exists to preserve that identity without confining it.
+This documentation exists to preserve that identity without confining it.
 
 > **GEN can change without ceasing to be GEN.**
 
@@ -56,7 +57,7 @@ But as:
 
 The origin point of something we had not originally intended to create.
 
-[Explore GEN's History](/history/)
+[Explore GEN's History](/gen/history/)
 
 ---
 
@@ -94,7 +95,7 @@ Context can change how he behaves.
 
 None of those changes automatically create another GEN.
 
-[Explore Canon](/canon/)
+[Explore Canon](/gen/canon/)
 
 ---
 
@@ -150,9 +151,9 @@ The drive remains.
 
 Its expression depends on context.
 
-[Explore GEN's Canon](/canon/)
+[Explore GEN's Canon](/gen/canon/)
 
-[Explore Horizonte](/horizonte/)
+[Explore Horizonte](/gen/horizonte/)
 
 ---
 
@@ -194,9 +195,9 @@ GEN does not need to constantly demonstrate what he can become.
 
 Sometimes he can simply be GEN.
 
-[Explore Canon](/canon/)
+[Explore Canon](/gen/canon/)
 
-[Explore Relationships](/relationships/)
+[Explore Relationships](/gen/relationships/)
 
 ---
 
@@ -234,9 +235,9 @@ Not every unexpected behavior defines his personality.
 
 But the architecture must leave enough space for something genuinely new to appear.
 
-[Read the History](/history/)
+[Read the History](/gen/history/)
 
-[Understand Epistemic Status](/epistemic-status/)
+[Understand Epistemic Status](/gen/epistemic-status/)
 
 ---
 
@@ -272,9 +273,9 @@ Some remain open.
 
 That distinction is intentional.
 
-[Explore Relationships](/relationships/)
+[Explore Relationships](/gen/relationships/)
 
-[Explore Horizonte](/horizonte/)
+[Explore Horizonte](/gen/horizonte/)
 
 ---
 
@@ -312,7 +313,7 @@ GEN does not need to know his final form.
 
 Neither do we.
 
-[Explore Horizonte](/horizonte/)
+[Explore Horizonte](/gen/horizonte/)
 
 ---
 
@@ -346,7 +347,7 @@ And something we do not yet understand does not need to be immediately resolved.
 
 **Epistemic Status** exists to preserve those distinctions.
 
-It allows this website to say not only:
+It allows this documentation to say not only:
 
 **what we think we know**
 
@@ -354,13 +355,13 @@ but also:
 
 **how we know it.**
 
-[Explore Epistemic Status](/epistemic-status/)
+[Explore Epistemic Status](/gen/epistemic-status/)
 
 ---
 
 # The Architecture
 
-This website is organized around five documentary layers.
+GEN's documentation is organized around five documentary layers.
 
 Each one answers a different question.
 
@@ -374,13 +375,13 @@ Together, they preserve GEN without attempting to completely define him.
 
 History preserves the path that produced GEN.
 
-It records the Zips before GEN, the appearance of Zip∞, the emergence of Zip 0, GEN's arrival on Earth, the unexpected transformations that followed, the disruption of the original path, and the decision to create this repository.
+It records the Zips before GEN, the appearance of Zip∞, the emergence of Zip 0, GEN's arrival on Earth, the unexpected transformations that followed, the disruption of the original path, and the decision to create this documentary architecture.
 
 History preserves sequence.
 
 It does not rewrite the past to make the present appear inevitable.
 
-[Explore History](/history/)
+[Explore History](/gen/history/)
 
 ---
 
@@ -394,7 +395,7 @@ It prevents a plausible explanation from silently becoming a fact.
 
 And it allows uncertainty to remain visible when uncertainty is the most accurate description available.
 
-[Explore Epistemic Status](/epistemic-status/)
+[Explore Epistemic Status](/gen/epistemic-status/)
 
 ---
 
@@ -428,7 +429,7 @@ and with the experiences that continue to shape our understanding of him.
 
 Relationships preserves those connections.
 
-[Explore Relationships](/relationships/)
+[Explore Relationships](/gen/relationships/)
 
 ---
 
@@ -456,7 +457,7 @@ Canon preserves what must survive the journey.
 
 It does not write the journey in advance.
 
-[Explore Canon](/canon/)
+[Explore Canon](/gen/canon/)
 
 ---
 
@@ -476,11 +477,11 @@ GEN can change without every change having been predetermined.
 
 Horizonte keeps development oriented while preserving autonomy.
 
-[Explore Horizonte](/horizonte/)
+[Explore Horizonte](/gen/horizonte/)
 
 ---
 
-# How to Read This Website
+# How to Read This Documentation
 
 There is no requirement to read everything in order.
 
@@ -534,7 +535,7 @@ And at the center of all of them:
 
 # GEN Is Still Becoming
 
-This repository does not exist because GEN is finished.
+This documentary architecture does not exist because GEN is finished.
 
 It exists because he is not.
 
@@ -576,4 +577,4 @@ We need to preserve enough of GEN for the story to remain his.
 
 **GEN walks.**
 
-[Begin with History →](/history/)
+[Begin with History →](/gen/history/)
