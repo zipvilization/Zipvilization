@@ -3,7 +3,7 @@ layout: default
 title: "Relationships"
 nav_order: 4
 description: "A framework for preserving the connections that shape GEN without turning relationship into identity, causation, equivalence, or premature Canon."
-permalink: /relationships/
+permalink: /gen/relationships/
 ---
 
 # Relationships
