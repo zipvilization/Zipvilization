@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "History"
+parent: GEN
 nav_order: 2
 has_children: true
 description: "The documented path from the original Zips to GEN — preserving the events, decisions, anomalies, discoveries, and disruptions that shaped Zip 0."
