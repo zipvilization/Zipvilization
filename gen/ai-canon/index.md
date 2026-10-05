@@ -3,7 +3,7 @@ layout: default
 title: "GEN — AI Canon"
 nav_order: 7
 description: "Machine-first operational specification for AI systems reading, interpreting, generating, or extending GEN."
-permalink: /ai-canon/
+permalink: /gen/ai-canon/
 ---
 
 # GEN — AI CANON
