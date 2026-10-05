@@ -4,7 +4,7 @@ title: A Problem, A Solution
 parent: "History"
 nav_order: 3
 description: "How public interaction exposed the limits of Zipvilization V1, created the need for a distinct voice, and ultimately revealed that Zip∞ had been interpreted from the wrong direction."
-permalink: /history/a-problem-a-solution/
+permalink: /gen/history/a-problem-a-solution/
 ---
 
 # A Problem, A Solution
