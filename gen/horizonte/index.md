@@ -3,7 +3,7 @@ layout: default
 title: "Horizonte"
 nav_order: 6
 description: "A directional framework that preserves GEN's autonomy, exploration, and open-ended becoming without defining a final destination."
-permalink: /horizonte/
+permalink: /gen/horizonte/
 ---
 
 # Horizonte
