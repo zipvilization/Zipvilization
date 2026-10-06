@@ -564,11 +564,11 @@ Large Colonists can eventually exist.
 
 States exist at:
 
-> **8,192 Solum**
+> **8,192,000,000 Solum**
 
 Kingdoms exist at:
 
-> **262,144 Solum**
+> **262,144,000,000 Solum**
 
 The world architecture explicitly allows large territorial structures.
 
