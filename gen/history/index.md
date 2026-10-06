@@ -462,7 +462,7 @@ History provides evidence.
 
 Canon determines what has been deliberately consolidated from that evidence.
 
-[Explore Canon →](/canon/)
+[Explore Canon →](/gen/canon/)
 
 ---
 
@@ -486,11 +486,11 @@ Therefore:
 
 For questions about what kind of knowledge a claim represents:
 
-[Explore Epistemic Status →](/epistemic-status/)
+[Explore Epistemic Status →](/gen/epistemic-status/)
 
 For questions about how different parts of GEN remain connected:
 
-[Explore Relationships →](/relationships/)
+[Explore Relationships →](/gen/relationships/)
 
 ---
 
@@ -522,7 +522,7 @@ Horizonte does not require those events to repeat.
 
 It preserves enough openness for the future to contain possibilities we cannot yet describe.
 
-[Explore Horizonte →](/horizonte/)
+[Explore Horizonte →](/gen/horizonte/)
 
 ---
 
@@ -557,16 +557,16 @@ History explains how we arrived here.
 The rest of the architecture answers different questions.
 
 **What kind of knowledge do we actually have?**  
-[Epistemic Status →](/epistemic-status/)
+[Epistemic Status →](/gen/epistemic-status/)
 
 **What must remain connected?**  
-[Relationships →](/relationships/)
+[Relationships →](/gen/relationships/)
 
 **What must remain true?**  
-[Canon →](/canon/)
+[Canon →](/gen/canon/)
 
 **Where should development remain oriented without defining its destination?**  
-[Horizonte →](/horizonte/)
+[Horizonte →](/gen/horizonte/)
 
 History gives GEN a past.
 
