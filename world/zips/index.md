@@ -2255,11 +2255,11 @@ and:
 
 ### Where does Zip biology begin?
 
-→ **[Farms](/world/farms/)**
+→ **[Farms](/world/territories/)**
 
 ### What generates biological development?
 
-→ **[Bloch](/world/bloch/)**
+→ **[Bloch](/world/time/)**
 
 ### What gives biology Time?
 
@@ -2267,11 +2267,11 @@ and:
 
 ### Where does population exist?
 
-→ **[Territory](/world/territory/)**
+→ **[Territory](/world/territories/)**
 
 ### How does settlement scale?
 
-→ **[Cities](/world/cities/)**
+→ **[Cities](/world/territories/)**
 
 ### How is the world observed?
 
@@ -2280,11 +2280,6 @@ and:
 ### How does the world become visible?
 
 → **[SolumWorld](/world/solumworld/)**
-
-### How can the living layer emerge?
-
-→ **[SolumView](/world/solumview/)**
-
 ### Who is Zip 0?
 
 → **[GEN](/gen/)**
