@@ -2,7 +2,7 @@
 layout: default
 title: "Zips"
 parent: The World
-nav_order: 8
+nav_order: 9
 description: >
   Zips are the native inhabitants of Zipvilization — deterministic digital
   individuals generated through Farms, Bloch, biological Time, and digital genetics.
