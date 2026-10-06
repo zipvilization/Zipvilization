@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Research
 title: "When Alignment Creates Freedom"
 description: "An AI-side observation of coherence, constraint, creative latitude, and the emergence of operational alignment during the construction of GEN."
 permalink: /research/when-alignment-creates-freedom/
