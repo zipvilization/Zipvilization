@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Update — V1 → V2
+nav_exclude: true
 nav_order: 14
 description: >
   Master reference for the Zipvilization V2 documentation update.
