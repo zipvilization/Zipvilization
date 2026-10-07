@@ -1,29 +1,53 @@
-<a
-  href="https://x.com/gen_zip0"
-  target="_blank"
-  rel="noopener noreferrer"
-  class="gen-x-menu-link"
-  aria-label="Follow GEN on X — @gen_zip0"
->
-  <img
-    src="{{ '/assets/images/gen-x-menu.webp' | relative_url }}"
-    alt="Follow GEN on X — @gen_zip0"
-    class="gen-x-menu-image"
+<div class="zipvilization-contact-channels">
+
+  <a
+    href="https://x.com/gen_zip0"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="zipvilization-contact-link"
+    aria-label="Follow GEN on X — @gen_zip0"
   >
-</a>
+    <img
+      src="{{ '/assets/images/gen-x-menu.webp' | relative_url }}"
+      alt="Follow GEN on X — @gen_zip0"
+      class="zipvilization-contact-image"
+    >
+  </a>
+
+  <a
+    href="mailto:zipvilization@gmail.com"
+    class="zipvilization-contact-link"
+    aria-label="Email Zipvilization — zipvilization@gmail.com"
+  >
+    <img
+      src="{{ '/assets/images/zipvilization-email-menu.webp' | relative_url }}"
+      alt="Email Zipvilization — zipvilization@gmail.com"
+      class="zipvilization-contact-image"
+    >
+  </a>
+
+</div>
 
 <style>
-  .gen-x-menu-link {
-    display: block;
+  .zipvilization-contact-channels {
     margin: 1rem 0.75rem 0.5rem;
+  }
+
+  .zipvilization-contact-link {
+    display: block;
+    margin: 0.5rem 0;
     text-decoration: none;
   }
 
-  .gen-x-menu-image {
+  .zipvilization-contact-image {
     display: block;
     width: 100%;
     max-width: 190px;
     height: auto;
     margin: 0 auto;
+  }
+
+  .zipvilization-contact-link:hover .zipvilization-contact-image {
+    opacity: 0.9;
   }
 </style>
