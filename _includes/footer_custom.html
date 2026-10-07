@@ -1,0 +1,76 @@
+<div class="zipvilization-footer-contact" aria-label="Official Zipvilization communication channels">
+
+  <div class="zipvilization-footer-contact-images">
+
+    <a
+      href="https://x.com/gen_zip0"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="zipvilization-footer-contact-link"
+      aria-label="Follow GEN on X — @gen_zip0"
+    >
+      <img
+        src="{{ '/assets/images/gen-x-menu.webp' | relative_url }}"
+        alt="Follow GEN on X — @gen_zip0"
+        class="zipvilization-footer-contact-image"
+      >
+    </a>
+
+    <a
+      href="mailto:zipvilization@gmail.com"
+      class="zipvilization-footer-contact-link"
+      aria-label="Email Zipvilization — zipvilization@gmail.com"
+    >
+      <img
+        src="{{ '/assets/images/zipvilization-email-menu.webp' | relative_url }}"
+        alt="Email Zipvilization — zipvilization@gmail.com"
+        class="zipvilization-footer-contact-image"
+      >
+    </a>
+
+  </div>
+
+</div>
+
+<style>
+  .zipvilization-footer-contact {
+    width: 100%;
+    margin-top: 1.5rem;
+  }
+
+  .zipvilization-footer-contact-images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .zipvilization-footer-contact-link {
+    display: block;
+    text-decoration: none;
+  }
+
+  .zipvilization-footer-contact-image {
+    display: block;
+    width: auto;
+    max-width: 190px;
+    height: auto;
+  }
+
+  .zipvilization-footer-contact-link:hover .zipvilization-footer-contact-image {
+    opacity: 0.9;
+  }
+
+  @media (max-width: 799px) {
+    .zipvilization-footer-contact-images {
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .zipvilization-footer-contact-image {
+      width: 100%;
+      max-width: 220px;
+    }
+  }
+</style>
