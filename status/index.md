@@ -28,7 +28,7 @@ For canonical definitions and machine interpretation:
 
 # Current Snapshot
 
-**Last reviewed:** September 29, 2026
+The **AI Canon V1.4** is the current machine-control reference for V2 interpretation.
 
 **Project phase:** `PRE-GENESIS`
 
