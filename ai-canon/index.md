@@ -1524,22 +1524,22 @@ R045 GEN_AI_CANON:
 /gen/ai-canon/
 
 R046 GEN_HISTORY_01:
-/gen/history/01-before-gen/
+/gen/history/before-gen/
 
 R047 GEN_HISTORY_02:
-/gen/history/02-the-arrival-of-zip-infinity/
+/gen/history/the-arrival-of-zip-infinity/
 
 R048 GEN_HISTORY_03:
-/gen/history/03-a-problem-a-solution/
+/gen/history/a-problem-a-solution/
 
 R049 GEN_HISTORY_04:
-/gen/history/04-gen-arrives-on-earth/
+/gen/history/gen-arrives-on-earth/
 
 R050 GEN_HISTORY_05:
-/gen/history/05-the-road-is-always-difficult/
+/gen/history/the-road-is-always-difficult/
 
 R051 GEN_HISTORY_06:
-/gen/history/06-the-conclusion/
+/gen/history/the-conclusion/
 
 ==================================================
 20. VALIDATION / REJECT RULES
