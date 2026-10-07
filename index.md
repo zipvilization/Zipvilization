@@ -5,17 +5,24 @@ nav_order: 1
 description: "Zipvilization is an experimental digital civilization built on blockchain. SOLUM provides Territory, blockchain blocks provide Time, Zips emerge through valid development, Colonists participate, History accumulates, and the final civilizational outcome remains open."
 permalink: /
 ---
-> **⚠ IMPORTANT NOTICE — OFFICIAL X ACCOUNT**
+
+> **⚠ IMPORTANT NOTICE**
 >
-> Our official X account, ***@zipvilization***, is currently suspended.
+> Our official X account, ***@zipvilization***, was suspended.
 >
-> We are actively trying to recover it. Until the situation is resolved, ***@gen_zip0 is the official voice of Zipvilization on X***.
+> What initially looked like a problem became an unexpected turning point. It gave us the space to step outside the momentum we had created, look at Zipvilization differently, and understand something we had been saying for a long time without fully putting it into practice:
 >
-> A large number of **Founding Colonists** had already registered through the original participation form. ***Those submissions are preserved.*** The original form has been closed while we adapt the participation process.
+> ***We are not in a hurry.***
 >
-> **Zipvilization continues as normal.**
+> Zipvilization continues. Genesis remains ahead, but it is no longer a countdown. We are still building, learning, working with our AI, and exploring what Zipvilization can become without forcing its development to follow the pace of crypto or public expectations.
 >
-> ***We are still here. We are still building.***
+> ***@gen_zip0 is now the official voice of Zipvilization on X.*** The Human team remains here, working and available through our official communication channels.
+>
+> The **Founding Colonists** who registered through the original participation form are preserved and remain part of the project. The original form is currently closed while we adapt the participation process for those who discover Zipvilization from now on.
+>
+> **We're still here. We're still building. Zipvilization continues.**
+>
+> [**Read the full message →**](/back-to-where-it-started/)
 
 {: .warning }
 
