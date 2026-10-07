@@ -540,7 +540,7 @@ The biological system scales without changing its fundamental unit.
 
 # The ×32 Territorial Rule
 
-The territorial hierarchy follows the canonical ×32 relationship.
+The territorial hierarchy follows the canonical ×32 relationship in total capacity.
 
     FARM
     =
@@ -550,21 +550,47 @@ The territorial hierarchy follows the canonical ×32 relationship.
     =
     256 TILES
     =
-    32 FARMS
+    32 FARM-EQUIVALENTS OF CAPACITY
 
     STATE
     =
     8,192 TILES
     =
-    32 CITIES
+    32 CITY-EQUIVALENTS OF CAPACITY
 
     KINGDOM
     =
     262,144 TILES
     =
-    32 STATES
+    32 STATE-EQUIVALENTS OF CAPACITY
 
-This same hierarchy also determines maximum biological capacity.
+These are **capacity equivalences**, not structural composition rules.
+
+Canonical structural composition remains:
+
+    CITY
+    =
+    16 COMPLETE FARMS
+    +
+    128 CITY-LEVEL TILES
+
+    STATE
+    =
+    16 COMPLETE CITIES
+    +
+    4,096 STATE-LEVEL TILES
+
+    KINGDOM
+    =
+    16 COMPLETE STATES
+    +
+    131,072 KINGDOM-LEVEL TILES
+
+Therefore:
+
+> **CAPACITY EQUIVALENCE ≠ STRUCTURAL COMPOSITION**
+
+The ×32 relationship determines total territorial scale and maximum biological capacity.
 
 Therefore:
 
@@ -572,7 +598,7 @@ Therefore:
     =
     BIOLOGICAL CAPACITY SCALE
 
-The population architecture is embedded directly into the territorial architecture.
+The population architecture is embedded directly into the territorial architecture without changing the canonical composition of each territorial level.
 
 ---
 
