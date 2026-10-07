@@ -172,7 +172,7 @@ This includes the canonical relationships between:
 - the dApp,
 - and the authority boundaries between canonical state and representation.
 
-The **AI Canon V1.3** is the current machine-control reference for V2 interpretation.
+The **AI Canon V1.4** is the current machine-control reference for V2 interpretation.
 
 **[AI Canon →](/ai-canon/)**
 
